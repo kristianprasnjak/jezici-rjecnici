@@ -1,0 +1,1245 @@
+razina	tema	la	en	vrsta
+L0	Sounds & Familiar Words	aqua	water	im
+L0	Sounds & Familiar Words	via	road; way	im
+L0	Sounds & Familiar Words	vīta	life	im
+L0	Sounds & Familiar Words	porta	gate	im
+L0	Sounds & Familiar Words	terra	earth; land	im
+L0	Sounds & Familiar Words	fōrma	shape; beauty	im
+L0	Sounds & Familiar Words	nātūra	nature	im
+L0	Sounds & Familiar Words	memoria	memory	im
+L0	Sounds & Familiar Words	victōria	victory	im
+L0	Sounds & Familiar Words	patria	homeland	im
+L0	Sounds & Familiar Words	familia	family; household	im
+L0	Sounds & Familiar Words	schola	school	im
+L0	Sounds & Familiar Words	fābula	story; fable	im
+L0	Sounds & Familiar Words	cēna	dinner	im
+L0	Sounds & Familiar Words	rosa	rose	im
+L0	Sounds & Familiar Words	mūsica	music	im
+L0	Sounds & Familiar Words	animal	animal	im
+L0	Sounds & Familiar Words	lūx	light	im
+L0	Sounds & Familiar Words	pāx	peace	im
+L0	Sounds & Familiar Words	lēx	law	im
+L0	Sounds & Familiar Words	rēx	king	im
+L0	Sounds & Familiar Words	corpus	body	im
+L0	Sounds & Familiar Words	tempus	time	im
+L0	Sounds & Familiar Words	nōmen	name	im
+L0	Sounds & Familiar Words	mare	sea	im
+L0	Sounds & Familiar Words	forum	forum; market place	im
+L0	Sounds & Familiar Words	templum	temple	im
+L0	Sounds & Familiar Words	vīnum	wine	im
+L0	Sounds & Familiar Words	oleum	oil	im
+L0	Sounds & Familiar Words	mūrus	wall	im
+L0	Sounds & Familiar Words	campus	field; plain	im
+L0	Sounds & Familiar Words	circus	circus; racecourse	im
+L0	Sounds & Familiar Words	senātus	senate	im
+L0	Sounds & Familiar Words	exemplum	example	im
+L0	Sounds & Familiar Words	data	given things	izraz
+L0	Sounds & Familiar Words	agenda	things to be done	izraz
+L0	Sounds & Familiar Words	et cētera	and the rest	izraz
+L0	Sounds & Familiar Words	per	through; by	prij
+L0	Sounds & Familiar Words	ego	I	zam
+L0	Sounds & Familiar Words	nōn	not	čest
+L1	Greetings & Places	salvē	hello (to one)	izraz
+L1	Greetings & Places	salvēte	hello (to many)	izraz
+L1	Greetings & Places	valē	goodbye (to one)	izraz
+L1	Greetings & Places	valēte	goodbye (to many)	izraz
+L1	Greetings & Places	quid agis?	how are you?	izraz
+L1	Greetings & Places	bene	well	pril
+L1	Greetings & Places	male	badly	pril
+L1	Greetings & Places	est	is	gl
+L1	Greetings & Places	sunt	are	gl
+L1	Greetings & Places	ubi	where	pril
+L1	Greetings & Places	hīc	here	pril
+L1	Greetings & Places	ibi	there	pril
+L1	Greetings & Places	et	and	vez
+L1	Greetings & Places	sed	but	vez
+L1	Greetings & Places	quoque	also	pril
+L1	Greetings & Places	-ne	(question particle)	čest
+L1	Greetings & Places	ita	yes; so	pril
+L1	Greetings & Places	minimē	no; not at all	pril
+L1	Greetings & Places	Rōma	Rome	im
+L1	Greetings & Places	Ostia	Ostia	im
+L1	Greetings & Places	Ītalia	Italy	im
+L1	Greetings & Places	Graecia	Greece	im
+L1	Greetings & Places	īnsula	island; block of flats	im
+L1	Greetings & Places	oppidum	town	im
+L1	Greetings & Places	urbs	city	im
+L1	Greetings & Places	vīlla	country house	im
+L1	Greetings & Places	portus	harbour	im
+L1	Greetings & Places	fluvius	river	im
+L1	Greetings & Places	Tiberis	the Tiber	im
+L1	Greetings & Places	puella	girl	im
+L1	Greetings & Places	puer	boy	im
+L1	Greetings & Places	vir	man	im
+L1	Greetings & Places	fēmina	woman	im
+L1	Greetings & Places	magnus	big; great	pr
+L1	Greetings & Places	parvus	small	pr
+L1	Greetings & Places	bonus	good	pr
+L1	Greetings & Places	malus	bad	pr
+L1	Greetings & Places	novus	new	pr
+L1	Greetings & Places	antīquus	old; ancient	pr
+L1	Greetings & Places	pulcher	beautiful	pr
+L1	Greetings & Places	laetus	happy	pr
+L2	Family & House	pater	father	im
+L2	Family & House	māter	mother	im
+L2	Family & House	fīlius	son	im
+L2	Family & House	fīlia	daughter	im
+L2	Family & House	frāter	brother	im
+L2	Family & House	soror	sister	im
+L2	Family & House	līberī	children	im
+L2	Family & House	avus	grandfather	im
+L2	Family & House	avia	grandmother	im
+L2	Family & House	marītus	husband	im
+L2	Family & House	uxor	wife	im
+L2	Family & House	servus	slave	im
+L2	Family & House	ancilla	slave woman	im
+L2	Family & House	lībertus	freedman	im
+L2	Family & House	dominus	master	im
+L2	Family & House	domina	mistress	im
+L2	Family & House	magister	teacher	im
+L2	Family & House	amīcus	friend	im
+L2	Family & House	amīca	friend (f)	im
+L2	Family & House	canis	dog	im
+L2	Family & House	fēlēs	cat	im
+L2	Family & House	domus	house; home	im
+L2	Family & House	ātrium	hall	im
+L2	Family & House	cubiculum	bedroom	im
+L2	Family & House	culīna	kitchen	im
+L2	Family & House	hortus	garden	im
+L2	Family & House	iānua	door	im
+L2	Family & House	fenestra	window	im
+L2	Family & House	mēnsa	table	im
+L2	Family & House	sella	chair	im
+L2	Family & House	lectus	bed; couch	im
+L2	Family & House	lucerna	lamp	im
+L2	Family & House	amō	to love	gl
+L2	Family & House	habeō	to have	gl
+L2	Family & House	videō	to see	gl
+L2	Family & House	vocō	to call	gl
+L2	Family & House	laudō	to praise	gl
+L2	Family & House	cūrō	to look after	gl
+L2	Family & House	dūcō	to lead	gl
+L2	Family & House	capiō	to take	gl
+L2	Family & House	audiō	to hear	gl
+L2	Family & House	dormiō	to sleep	gl
+L2	Family & House	nunc	now	pril
+L2	Family & House	semper	always	pril
+L2	Family & House	saepe	often	pril
+L2	Family & House	cārus	dear	pr
+L3	The Street & the Market	angiportus	alley	im
+L3	The Street & the Market	mercātus	market	im
+L3	The Street & the Market	taberna	shop; inn	im
+L3	The Street & the Market	mercātor	merchant	im
+L3	The Street & the Market	merx	goods	im
+L3	The Street & the Market	pecūnia	money	im
+L3	The Street & the Market	pretium	price	im
+L3	The Street & the Market	nummus	coin	im
+L3	The Street & the Market	emō	to buy	gl
+L3	The Street & the Market	vēndō	to sell	gl
+L3	The Street & the Market	ambulō	to walk	gl
+L3	The Street & the Market	currō	to run	gl
+L3	The Street & the Market	stō	to stand	gl
+L3	The Street & the Market	sedeō	to sit	gl
+L3	The Street & the Market	veniō	to come	gl
+L3	The Street & the Market	discēdō	to leave	gl
+L3	The Street & the Market	intrō	to enter	gl
+L3	The Street & the Market	exspectō	to wait (for)	gl
+L3	The Street & the Market	quaerō	to look for; to ask	gl
+L3	The Street & the Market	portō	to carry	gl
+L3	The Street & the Market	in	in; on (+ abl.); into (+ acc.)	prij
+L3	The Street & the Market	ex, ē	out of; from	prij
+L3	The Street & the Market	ā, ab	from; by	prij
+L3	The Street & the Market	cum	with	prij
+L3	The Street & the Market	sine	without	prij
+L3	The Street & the Market	dē	down from; about	prij
+L3	The Street & the Market	ad	to; towards	prij
+L3	The Street & the Market	prope	near	prij
+L3	The Street & the Market	quō	where to	pril
+L3	The Street & the Market	unde	from where	pril
+L3	The Street & the Market	domī	at home	pril
+L3	The Street & the Market	domum	home(wards)	pril
+L3	The Street & the Market	Rōmae	at Rome	izraz
+L3	The Street & the Market	turba	crowd	im
+L3	The Street & the Market	clāmor	shout; noise	im
+L3	The Street & the Market	plaustrum	cart	im
+L3	The Street & the Market	saccus	sack	im
+L3	The Street & the Market	amphora	amphora; jar	im
+L3	The Street & the Market	nauta	sailor	im
+L3	The Street & the Market	nāvis	ship	im
+L3	The Street & the Market	lītus	shore	im
+L3	The Street & the Market	aedificium	building	im
+L3	The Street & the Market	mōns	mountain	im
+L3	The Street & the Market	caupō	innkeeper	im
+L3	The Street & the Market	caupōna	inn	im
+L3	The Street & the Market	tabernārius	shopkeeper	im
+L3	The Street & the Market	plēnus	full	pr
+L3	The Street & the Market	vacuus	empty	pr
+L3	The Street & the Market	multus	much; many	pr
+L3	The Street & the Market	paucī	few	pr
+L3	The Street & the Market	longus	long	pr
+L3	The Street & the Market	celer	quick	pr
+L4	Food & Gifts	cibus	food	im
+L4	Food & Gifts	pānis	bread	im
+L4	Food & Gifts	cāseus	cheese	im
+L4	Food & Gifts	lac	milk	im
+L4	Food & Gifts	ōvum	egg	im
+L4	Food & Gifts	carō	meat	im
+L4	Food & Gifts	piscis	fish	im
+L4	Food & Gifts	pōmum	fruit	im
+L4	Food & Gifts	ūva	grape	im
+L4	Food & Gifts	mālum	apple	im
+L4	Food & Gifts	ficus	fig	im
+L4	Food & Gifts	olīva	olive	im
+L4	Food & Gifts	mel	honey	im
+L4	Food & Gifts	sāl	salt	im
+L4	Food & Gifts	pulmentum	stew	im
+L4	Food & Gifts	prandium	lunch	im
+L4	Food & Gifts	ientāculum	breakfast	im
+L4	Food & Gifts	pōculum	cup	im
+L4	Food & Gifts	pōtiō	drink	im
+L4	Food & Gifts	mēnsa secunda	dessert	izraz
+L4	Food & Gifts	dōnum	gift	im
+L4	Food & Gifts	mūnus	gift; duty	im
+L4	Food & Gifts	ānulus	ring	im
+L4	Food & Gifts	corōna	crown; garland	im
+L4	Food & Gifts	flōs	flower	im
+L4	Food & Gifts	mōnīle	necklace	im
+L4	Food & Gifts	dō	to give	gl
+L4	Food & Gifts	dōnō	to give as a gift	gl
+L4	Food & Gifts	edō	to eat	gl
+L4	Food & Gifts	bibō	to drink	gl
+L4	Food & Gifts	parō	to prepare	gl
+L4	Food & Gifts	coquō	to cook	gl
+L4	Food & Gifts	gustō	to taste	gl
+L4	Food & Gifts	grātiās agō	to thank	izraz
+L4	Food & Gifts	grātia	thanks; favour	im
+L4	Food & Gifts	convīva	guest	im
+L4	Food & Gifts	hospes	guest; host	im
+L4	Food & Gifts	nātālis	birthday	im
+L4	Food & Gifts	fēstus	festive	pr
+L4	Food & Gifts	dulcis	sweet	pr
+L4	Food & Gifts	amārus	bitter	pr
+L4	Food & Gifts	calidus	hot	pr
+L4	Food & Gifts	frīgidus	cold	pr
+L4	Food & Gifts	cuius	whose	zam
+L4	Food & Gifts	cui	to whom	zam
+L4	Food & Gifts	-que	and	vez
+L4	Food & Gifts	satis	enough	pril
+L4	Food & Gifts	nimis	too much	pril
+L4	Food & Gifts	avidus	greedy	pr
+L4	Food & Gifts	ēsuriō	to be hungry	gl
+L4	Food & Gifts	sitiō	to be thirsty	gl
+L4	Food & Gifts	sitis	thirst	im
+L4	Food & Gifts	famēs	hunger	im
+L4	Food & Gifts	nux	nut	im
+L4	Food & Gifts	mālum Pūnicum	pomegranate	izraz
+L5	School & Learning	discipulus	pupil	im
+L5	School & Learning	discipula	pupil (f)	im
+L5	School & Learning	lūdus	school; game	im
+L5	School & Learning	liber	book	im
+L5	School & Learning	tabula	writing tablet	im
+L5	School & Learning	stilus	stylus	im
+L5	School & Learning	littera	letter (of alphabet)	im
+L5	School & Learning	litterae	letter; literature	im
+L5	School & Learning	verbum	word	im
+L5	School & Learning	lingua	tongue; language	im
+L5	School & Learning	sententia	sentence; opinion	im
+L5	School & Learning	pēnsum	task; homework	im
+L5	School & Learning	legō	to read	gl
+L5	School & Learning	scrībō	to write	gl
+L5	School & Learning	discō	to learn	gl
+L5	School & Learning	doceō	to teach	gl
+L5	School & Learning	respondeō	to answer	gl
+L5	School & Learning	interrogō	to ask	gl
+L5	School & Learning	intellegō	to understand	gl
+L5	School & Learning	sciō	to know	gl
+L5	School & Learning	nesciō	not to know	gl
+L5	School & Learning	cōgitō	to think	gl
+L5	School & Learning	labōrō	to work	gl
+L5	School & Learning	mōnstrō	to show	gl
+L5	School & Learning	repetō	to repeat	gl
+L5	School & Learning	dīcō	to say	gl
+L5	School & Learning	faciō	to do; to make	gl
+L5	School & Learning	sum	to be	gl
+L5	School & Learning	tū	you	zam
+L5	School & Learning	nōs	we	zam
+L5	School & Learning	vōs	you (pl.)	zam
+L5	School & Learning	meus	my	zam
+L5	School & Learning	tuus	your	zam
+L5	School & Learning	noster	our	zam
+L5	School & Learning	vester	your (pl.)	zam
+L5	School & Learning	quid?	what?	zam
+L5	School & Learning	quis?	who?	zam
+L5	School & Learning	cūr	why	pril
+L5	School & Learning	quandō	when	pril
+L5	School & Learning	quōmodo	how	pril
+L5	School & Learning	quia	because	vez
+L5	School & Learning	nam	for	vez
+L5	School & Learning	iam	already; now	pril
+L5	School & Learning	nōndum	not yet	pril
+L5	School & Learning	tandem	at last	pril
+L5	School & Learning	statim	immediately	pril
+L5	School & Learning	iterum	again	pril
+L5	School & Learning	diligēns	careful; diligent	pr
+L5	School & Learning	piger	lazy	pr
+L5	School & Learning	doctus	learned	pr
+L5	School & Learning	rēctus	correct	pr
+L5	School & Learning	errō	to make a mistake; to wander	gl
+L5	School & Learning	error	mistake	im
+L5	School & Learning	Graecus	Greek	pr
+L5	School & Learning	Latīnus	Latin	pr
+L6	People, Animals & Ships	homō	human being	im
+L6	People, Animals & Ships	populus	people	im
+L6	People, Animals & Ships	cīvis	citizen	im
+L6	People, Animals & Ships	senex	old man	im
+L6	People, Animals & Ships	iuvenis	young man	im
+L6	People, Animals & Ships	īnfāns	infant	im
+L6	People, Animals & Ships	mīles	soldier	im
+L6	People, Animals & Ships	dux	leader	im
+L6	People, Animals & Ships	pāstor	shepherd	im
+L6	People, Animals & Ships	agricola	farmer	im
+L6	People, Animals & Ships	rēmex	rower	im
+L6	People, Animals & Ships	gubernātor	helmsman	im
+L6	People, Animals & Ships	equus	horse	im
+L6	People, Animals & Ships	bōs	ox; cow	im
+L6	People, Animals & Ships	ovis	sheep	im
+L6	People, Animals & Ships	lupus	wolf	im
+L6	People, Animals & Ships	agnus	lamb	im
+L6	People, Animals & Ships	leō	lion	im
+L6	People, Animals & Ships	vulpēs	fox	im
+L6	People, Animals & Ships	avis	bird	im
+L6	People, Animals & Ships	corvus	raven	im
+L6	People, Animals & Ships	serpēns	snake	im
+L6	People, Animals & Ships	mūs	mouse	im
+L6	People, Animals & Ships	asinus	donkey	im
+L6	People, Animals & Ships	caper	goat	im
+L6	People, Animals & Ships	pullus	chick	im
+L6	People, Animals & Ships	āla	wing	im
+L6	People, Animals & Ships	cauda	tail	im
+L6	People, Animals & Ships	caput	head	im
+L6	People, Animals & Ships	pēs	foot	im
+L6	People, Animals & Ships	manus	hand	im
+L6	People, Animals & Ships	ōs	mouth	im
+L6	People, Animals & Ships	oculus	eye	im
+L6	People, Animals & Ships	auris	ear	im
+L6	People, Animals & Ships	vōx	voice	im
+L6	People, Animals & Ships	nāvigō	to sail	gl
+L6	People, Animals & Ships	rēmus	oar	im
+L6	People, Animals & Ships	vēlum	sail	im
+L6	People, Animals & Ships	ventus	wind	im
+L6	People, Animals & Ships	unda	wave	im
+L6	People, Animals & Ships	tempestās	storm; weather	im
+L6	People, Animals & Ships	fluctus	wave	im
+L6	People, Animals & Ships	ingēns	huge	pr
+L6	People, Animals & Ships	fortis	strong; brave	pr
+L6	People, Animals & Ships	ferus	wild	pr
+L6	People, Animals & Ships	mītis	gentle	pr
+L6	People, Animals & Ships	niger	black	pr
+L6	People, Animals & Ships	albus	white	pr
+L6	People, Animals & Ships	ruber	red	pr
+L6	People, Animals & Ships	timeō	to fear	gl
+L6	People, Animals & Ships	fugiō	to flee	gl
+L6	People, Animals & Ships	custōdiō	to guard	gl
+L6	People, Animals & Ships	pāscō	to feed; to graze	gl
+L6	People, Animals & Ships	mordeō	to bite	gl
+L6	People, Animals & Ships	clāmō	to shout	gl
+L6	People, Animals & Ships	latrō	to bark	gl
+L6	People, Animals & Ships	taurus	bull	im
+L6	People, Animals & Ships	aper	wild boar	im
+L6	People, Animals & Ships	cervus	deer	im
+L6	People, Animals & Ships	ursus	bear	im
+L7	Stories & Gods	deus	god	im
+L7	Stories & Gods	dea	goddess	im
+L7	Stories & Gods	Iuppiter	Jupiter	im
+L7	Stories & Gods	Iūnō	Juno	im
+L7	Stories & Gods	Mars	Mars	im
+L7	Stories & Gods	Venus	Venus	im
+L7	Stories & Gods	Neptūnus	Neptune	im
+L7	Stories & Gods	Mercurius	Mercury	im
+L7	Stories & Gods	Minerva	Minerva	im
+L7	Stories & Gods	hērōs	hero	im
+L7	Stories & Gods	mōnstrum	monster	im
+L7	Stories & Gods	ōrāculum	oracle	im
+L7	Stories & Gods	sacerdōs	priest	im
+L7	Stories & Gods	āra	altar	im
+L7	Stories & Gods	sacrificium	sacrifice	im
+L7	Stories & Gods	caelum	sky; heaven	im
+L7	Stories & Gods	īnferī	the underworld	im
+L7	Stories & Gods	umbra	shadow; ghost	im
+L7	Stories & Gods	ōlim	once upon a time	pril
+L7	Stories & Gods	erat	(he/she/it) was	gl
+L7	Stories & Gods	erant	(they) were	gl
+L7	Stories & Gods	narrō	to tell	gl
+L7	Stories & Gods	nārrātiō	narration	im
+L7	Stories & Gods	Herculēs	Hercules	im
+L7	Stories & Gods	mīrābilis	wonderful	pr
+L7	Stories & Gods	omnis	all; every	pr
+L7	Stories & Gods	nōbilis	noble	pr
+L7	Stories & Gods	fēlīx	lucky; happy	pr
+L7	Stories & Gods	īnfēlīx	unlucky; unhappy	pr
+L7	Stories & Gods	trīstis	sad	pr
+L7	Stories & Gods	gravis	heavy; serious	pr
+L7	Stories & Gods	levis	light	pr
+L7	Stories & Gods	facilis	easy	pr
+L7	Stories & Gods	difficilis	difficult	pr
+L7	Stories & Gods	immortālis	immortal	pr
+L7	Stories & Gods	mortālis	mortal	pr
+L7	Stories & Gods	crūdēlis	cruel	pr
+L7	Stories & Gods	saevus	savage	pr
+L7	Stories & Gods	īrātus	angry	pr
+L7	Stories & Gods	īra	anger	im
+L7	Stories & Gods	fātum	fate	im
+L7	Stories & Gods	fortūna	fortune	im
+L7	Stories & Gods	somnium	dream	im
+L7	Stories & Gods	mors	death	im
+L7	Stories & Gods	vīvō	to live	gl
+L7	Stories & Gods	pūgnō	to fight	gl
+L7	Stories & Gods	vincō	to conquer	gl
+L7	Stories & Gods	regō	to rule	gl
+L7	Stories & Gods	mittō	to send	gl
+L7	Stories & Gods	iaciō	to throw	gl
+L7	Stories & Gods	cadō	to fall	gl
+L7	Stories & Gods	canō	to sing	gl
+L7	Stories & Gods	carmen	song; poem	im
+L7	Stories & Gods	pius	dutiful	pr
+L7	Stories & Gods	sacer	sacred	pr
+L7	Stories & Gods	Apollō	Apollo	im
+L7	Stories & Gods	Diāna	Diana	im
+L7	Stories & Gods	precor	to pray	gl
+L7	Stories & Gods	iterum atque iterum	again and again	izraz
+L7	Stories & Gods	inter	between; among	prij
+L8	Travel & Roads	iter	journey; route	im
+L8	Travel & Roads	via Ōstiēnsis	the road from Ostia to Rome	izraz
+L8	Travel & Roads	mīlle passūs	a (Roman) mile	izraz
+L8	Travel & Roads	mīliārium	milestone	im
+L8	Travel & Roads	raeda	carriage; coach	im
+L8	Travel & Roads	equitō	to ride	gl
+L8	Travel & Roads	eō	to go	gl
+L8	Travel & Roads	redeō	to go back	gl
+L8	Travel & Roads	abeō	to go away	gl
+L8	Travel & Roads	exeō	to go out	gl
+L8	Travel & Roads	ineō	to go in	gl
+L8	Travel & Roads	possum	can; to be able	gl
+L8	Travel & Roads	dēbeō	must; to owe	gl
+L8	Travel & Roads	properō	to hurry	gl
+L8	Travel & Roads	cōnstituō	to decide	gl
+L8	Travel & Roads	proficīscor	to set out	gl
+L8	Travel & Roads	perveniō	to arrive	gl
+L8	Travel & Roads	maneō	to stay	gl
+L8	Travel & Roads	crās	tomorrow	pril
+L8	Travel & Roads	mox	soon	pril
+L8	Travel & Roads	deinde	then	pril
+L8	Travel & Roads	posteā	afterwards	pril
+L8	Travel & Roads	prīmum	first	pril
+L8	Travel & Roads	tum	then	pril
+L8	Travel & Roads	dum	while	vez
+L8	Travel & Roads	moenia	city walls	im
+L8	Travel & Roads	pōns	bridge	im
+L8	Travel & Roads	silva	forest	im
+L8	Travel & Roads	ager	field	im
+L8	Travel & Roads	collis	hill	im
+L8	Travel & Roads	vallis	valley	im
+L8	Travel & Roads	lapis	stone	im
+L8	Travel & Roads	saxum	rock	im
+L8	Travel & Roads	sepulcrum	tomb	im
+L8	Travel & Roads	praedō	robber; pirate	im
+L8	Travel & Roads	viātor	traveller	im
+L8	Travel & Roads	comes	companion	im
+L8	Travel & Roads	sarcina	luggage	im
+L8	Travel & Roads	lūna	moon	im
+L8	Travel & Roads	stēlla	star	im
+L8	Travel & Roads	sōl	sun	im
+L8	Travel & Roads	nox	night	im
+L8	Travel & Roads	diēs	day	im
+L8	Travel & Roads	aurōra	dawn	im
+L8	Travel & Roads	vesper	evening	im
+L8	Travel & Roads	fessus	tired	pr
+L8	Travel & Roads	tūtus	safe	pr
+L8	Travel & Roads	perīculum	danger	im
+L8	Travel & Roads	perīculōsus	dangerous	pr
+L8	Travel & Roads	lātus	wide	pr
+L8	Travel & Roads	angustus	narrow	pr
+L8	Travel & Roads	altus	high; deep	pr
+L8	Travel & Roads	procul	far away	pril
+L8	Travel & Roads	ante	before; in front of	prij
+L8	Travel & Roads	post	after; behind	prij
+L8	Travel & Roads	ultrā	beyond	prij
+L8	Travel & Roads	trāns	across	prij
+L8	Travel & Roads	circum	around	prij
+L8	Travel & Roads	mūlus	mule	im
+L8	Travel & Roads	hospitium	lodging; hospitality	im
+L9	Events & Deeds	fuī	I was; I have been	gl
+L9	Events & Deeds	potuī	I could; I have been able	gl
+L9	Events & Deeds	iī	I went; I have gone	gl
+L9	Events & Deeds	factum	deed; fact	im
+L9	Events & Deeds	rēs gestae	achievements; deeds	izraz
+L9	Events & Deeds	victor	victor	im
+L9	Events & Deeds	virtūs	courage; virtue	im
+L9	Events & Deeds	glōria	glory	im
+L9	Events & Deeds	fāma	fame; rumour	im
+L9	Events & Deeds	honor	honour; office	im
+L9	Events & Deeds	imperium	power; empire	im
+L9	Events & Deeds	cōnsul	consul	im
+L9	Events & Deeds	imperātor	general; emperor	im
+L9	Events & Deeds	senātor	senator	im
+L9	Events & Deeds	lēgātus	envoy	im
+L9	Events & Deeds	nūntius	messenger; news	im
+L9	Events & Deeds	epistula	letter	im
+L9	Events & Deeds	cōnsilium	plan; advice	im
+L9	Events & Deeds	auxilium	help	im
+L9	Events & Deeds	iuvō	to help	gl
+L9	Events & Deeds	servō	to save; to keep	gl
+L9	Events & Deeds	līberō	to free	gl
+L9	Events & Deeds	occīdō	to kill	gl
+L9	Events & Deeds	occupō	to seize	gl
+L9	Events & Deeds	relinquō	to leave behind	gl
+L9	Events & Deeds	inveniō	to find	gl
+L9	Events & Deeds	accipiō	to receive	gl
+L9	Events & Deeds	pōnō	to put	gl
+L9	Events & Deeds	moveō	to move	gl
+L9	Events & Deeds	agō	to do; to drive	gl
+L9	Events & Deeds	gerō	to carry on; to wage	gl
+L9	Events & Deeds	condō	to found	gl
+L9	Events & Deeds	aedificō	to build	gl
+L9	Events & Deeds	cōnspiciō	to catch sight of	gl
+L9	Events & Deeds	perterreō	to frighten	gl
+L9	Events & Deeds	superō	to overcome	gl
+L9	Events & Deeds	appropinquō	to approach	gl
+L9	Events & Deeds	subitō	suddenly	pril
+L9	Events & Deeds	herī	yesterday	pril
+L9	Events & Deeds	nūper	recently	pril
+L9	Events & Deeds	diū	for a long time	pril
+L9	Events & Deeds	celeriter	quickly	pril
+L9	Events & Deeds	fortiter	bravely	pril
+L9	Events & Deeds	audāx	bold	pr
+L9	Events & Deeds	clārus	famous; clear	pr
+L9	Events & Deeds	ignōtus	unknown	pr
+L9	Events & Deeds	vērus	true	pr
+L9	Events & Deeds	falsus	false	pr
+L9	Events & Deeds	tōtus	whole	pr
+L9	Events & Deeds	ūllus	any	pr
+L9	Events & Deeds	nūllus	no; none	pr
+L9	Events & Deeds	sōlus	alone; only	pr
+L9	Events & Deeds	alius	other	pr
+L9	Events & Deeds	cēterī	the rest	pr
+L9	Events & Deeds	initium	beginning	im
+L9	Events & Deeds	fīnis	end; border	im
+L9	Events & Deeds	ōrdō	order; rank	im
+L9	Events & Deeds	causa	cause; reason	im
+L9	Events & Deeds	modus	way; manner	im
+L9	Events & Deeds	numerus	number	im
+L9	Events & Deeds	locus	place	im
+L9	Events & Deeds	vestīgium	footprint; trace	im
+L9	Events & Deeds	prōdō	to betray	gl
+L9	Events & Deeds	dēleō	to destroy	gl
+L9	Events & Deeds	coniūrātiō	conspiracy	im
+L10	The City of Rome	rēs	thing; matter	im
+L10	The City of Rome	rēs pūblica	the state; republic	izraz
+L10	The City of Rome	rēgia	palace	im
+L10	The City of Rome	Palātium	the Palatine	im
+L10	The City of Rome	Capitōlium	the Capitol	im
+L10	The City of Rome	Forum Rōmānum	the Roman Forum	izraz
+L10	The City of Rome	Colossēum	the Colosseum	im
+L10	The City of Rome	amphitheātrum	amphitheatre	im
+L10	The City of Rome	theātrum	theatre	im
+L10	The City of Rome	basilica	basilica; hall	im
+L10	The City of Rome	thermae	baths	im
+L10	The City of Rome	aquaeductus	aqueduct	im
+L10	The City of Rome	arcus	arch; bow	im
+L10	The City of Rome	statua	statue	im
+L10	The City of Rome	columna	column	im
+L10	The City of Rome	porticus	colonnade	im
+L10	The City of Rome	fōns	fountain; spring	im
+L10	The City of Rome	cloāca	sewer	im
+L10	The City of Rome	vīcus	street; quarter	im
+L10	The City of Rome	cīvitās	state; citizenship	im
+L10	The City of Rome	plēbs	common people	im
+L10	The City of Rome	patricius	patrician	im
+L10	The City of Rome	spectāculum	show	im
+L10	The City of Rome	gladiātor	gladiator	im
+L10	The City of Rome	mūnera	games; shows	izraz
+L10	The City of Rome	annus	year	im
+L10	The City of Rome	mēnsis	month	im
+L10	The City of Rome	hōra	hour	im
+L10	The City of Rome	hiems	winter	im
+L10	The City of Rome	aestās	summer	im
+L10	The City of Rome	vēr	spring	im
+L10	The City of Rome	autumnus	autumn	im
+L10	The City of Rome	hodiē	today	pril
+L10	The City of Rome	quotannīs	every year	pril
+L10	The City of Rome	ūnus	one	broj
+L10	The City of Rome	duo	two	broj
+L10	The City of Rome	trēs	three	broj
+L10	The City of Rome	quattuor	four	broj
+L10	The City of Rome	quīnque	five	broj
+L10	The City of Rome	sex	six	broj
+L10	The City of Rome	septem	seven	broj
+L10	The City of Rome	octō	eight	broj
+L10	The City of Rome	novem	nine	broj
+L10	The City of Rome	decem	ten	broj
+L10	The City of Rome	vīgintī	twenty	broj
+L10	The City of Rome	centum	hundred	broj
+L10	The City of Rome	mīlle	thousand	broj
+L10	The City of Rome	prīmus	first	broj
+L10	The City of Rome	secundus	second	broj
+L10	The City of Rome	tertius	third	broj
+L10	The City of Rome	Kalendae	the Kalends (1st day of month)	im
+L10	The City of Rome	Īdūs	the Ides	im
+L10	The City of Rome	Nōnae	the Nones	im
+L10	The City of Rome	nātus	born; aged	pr
+L10	The City of Rome	spectō	to watch	gl
+L10	The City of Rome	admīror	to admire	gl
+L10	The City of Rome	habitō	to live; to dwell	gl
+L10	The City of Rome	Rōmānus	Roman	pr
+L10	The City of Rome	pūblicus	public	pr
+L10	The City of Rome	prīvātus	private	pr
+L10	The City of Rome	celeber	crowded; famous	pr
+L10	The City of Rome	mīror	to wonder	gl
+L10	The City of Rome	quam	how; than	pril
+L10	The City of Rome	mīliārium aureum	the Golden Milestone	izraz
+L10	The City of Rome	Circus Maximus	the Circus Maximus	izraz
+L11	Shops & Crafts	hic, haec, hoc	this	zam
+L11	Shops & Crafts	ille, illa, illud	that	zam
+L11	Shops & Crafts	is, ea, id	he, she, it; that	zam
+L11	Shops & Crafts	iste, ista, istud	that (of yours)	zam
+L11	Shops & Crafts	ipse, ipsa, ipsum	-self; very	zam
+L11	Shops & Crafts	īdem, eadem, idem	the same	zam
+L11	Shops & Crafts	suus	his own; her own; their own	zam
+L11	Shops & Crafts	eius	his; her; its	zam
+L11	Shops & Crafts	sē	himself; herself; themselves	zam
+L11	Shops & Crafts	faber	craftsman; smith	im
+L11	Shops & Crafts	pistor	baker	im
+L11	Shops & Crafts	lanius	butcher	im
+L11	Shops & Crafts	sūtor	shoemaker	im
+L11	Shops & Crafts	tōnsor	barber	im
+L11	Shops & Crafts	fullō	fuller; launderer	im
+L11	Shops & Crafts	textor	weaver	im
+L11	Shops & Crafts	figulus	potter	im
+L11	Shops & Crafts	officīna	workshop	im
+L11	Shops & Crafts	īnstrūmentum	tool	im
+L11	Shops & Crafts	malleus	hammer	im
+L11	Shops & Crafts	ferrum	iron; sword	im
+L11	Shops & Crafts	aurum	gold	im
+L11	Shops & Crafts	argentum	silver	im
+L11	Shops & Crafts	aes	bronze; copper	im
+L11	Shops & Crafts	lāna	wool	im
+L11	Shops & Crafts	vestis	clothing	im
+L11	Shops & Crafts	toga	toga	im
+L11	Shops & Crafts	tunica	tunic	im
+L11	Shops & Crafts	calceus	shoe	im
+L11	Shops & Crafts	pallium	cloak	im
+L11	Shops & Crafts	gemma	gem	im
+L11	Shops & Crafts	vās	vessel	im
+L11	Shops & Crafts	lignum	wood	im
+L11	Shops & Crafts	pellis	skin; hide	im
+L11	Shops & Crafts	ars	skill; art	im
+L11	Shops & Crafts	opus	work	im
+L11	Shops & Crafts	opera	effort; work	im
+L11	Shops & Crafts	fabricō	to make; to forge	gl
+L11	Shops & Crafts	texō	to weave	gl
+L11	Shops & Crafts	secō	to cut	gl
+L11	Shops & Crafts	frangō	to break	gl
+L11	Shops & Crafts	reficiō	to repair	gl
+L11	Shops & Crafts	ostendō	to show	gl
+L11	Shops & Crafts	cōnstat	it costs	gl
+L11	Shops & Crafts	vīlis	cheap	pr
+L11	Shops & Crafts	aestimō	to value	gl
+L11	Shops & Crafts	pretiōsus	precious	pr
+L11	Shops & Crafts	aureus	golden	pr
+L11	Shops & Crafts	ferreus	made of iron	pr
+L11	Shops & Crafts	ūtilis	useful	pr
+L11	Shops & Crafts	perītus	skilled	pr
+L11	Shops & Crafts	novissimus	latest	pr
+L11	Shops & Crafts	emptor	buyer	im
+L11	Shops & Crafts	venditor	seller	im
+L11	Shops & Crafts	mercēs	wages; fee	im
+L11	Shops & Crafts	lucrum	profit	im
+L11	Shops & Crafts	damnum	loss	im
+L11	Shops & Crafts	quantī?	at what price?	izraz
+L11	Shops & Crafts	tantum	so much; only	pril
+L11	Shops & Crafts	nisi	unless; except	vez
+L12	Friends & Feelings	quī, quae, quod	who; which (relative)	zam
+L12	Friends & Feelings	quis, quid	who; what (interrogative)	zam
+L12	Friends & Feelings	quālis	what kind of	zam
+L12	Friends & Feelings	uter	which of two	zam
+L12	Friends & Feelings	amīcitia	friendship	im
+L12	Friends & Feelings	amor	love	im
+L12	Friends & Feelings	odium	hatred	im
+L12	Friends & Feelings	gaudium	joy	im
+L12	Friends & Feelings	dolor	pain; grief	im
+L12	Friends & Feelings	lacrima	tear	im
+L12	Friends & Feelings	metus	fear	im
+L12	Friends & Feelings	timor	fear	im
+L12	Friends & Feelings	spēs	hope	im
+L12	Friends & Feelings	fidēs	trust; loyalty	im
+L12	Friends & Feelings	cūra	care; worry	im
+L12	Friends & Feelings	animus	mind; spirit	im
+L12	Friends & Feelings	cor	heart	im
+L12	Friends & Feelings	mēns	mind	im
+L12	Friends & Feelings	sēnsus	feeling; sense	im
+L12	Friends & Feelings	lūctus	grief; mourning	im
+L12	Friends & Feelings	rīsus	laughter	im
+L12	Friends & Feelings	gaudeō	to rejoice	gl
+L12	Friends & Feelings	doleō	to grieve	gl
+L12	Friends & Feelings	fleō	to weep	gl
+L12	Friends & Feelings	rīdeō	to laugh	gl
+L12	Friends & Feelings	lacrimō	to cry	gl
+L12	Friends & Feelings	cupiō	to desire	gl
+L12	Friends & Feelings	crēdō	to believe; to trust	gl
+L12	Friends & Feelings	spērō	to hope	gl
+L12	Friends & Feelings	dēspērō	to despair	gl
+L12	Friends & Feelings	metuō	to fear	gl
+L12	Friends & Feelings	īrāscor	to be angry	gl
+L12	Friends & Feelings	cōnsōlor	to comfort	gl
+L12	Friends & Feelings	salūtō	to greet	gl
+L12	Friends & Feelings	ōsculor	to kiss	gl
+L12	Friends & Feelings	amplector	to embrace	gl
+L12	Friends & Feelings	dīligō	to love; to value	gl
+L12	Friends & Feelings	fīdus	faithful	pr
+L12	Friends & Feelings	fidēlis	loyal	pr
+L12	Friends & Feelings	iūcundus	pleasant	pr
+L12	Friends & Feelings	molestus	annoying	pr
+L12	Friends & Feelings	superbus	proud	pr
+L12	Friends & Feelings	modestus	modest	pr
+L12	Friends & Feelings	benignus	kind	pr
+L12	Friends & Feelings	invidus	envious	pr
+L12	Friends & Feelings	miser	wretched	pr
+L12	Friends & Feelings	beātus	blessed; happy	pr
+L12	Friends & Feelings	sollicitus	worried	pr
+L12	Friends & Feelings	quiētus	calm	pr
+L12	Friends & Feelings	sodālis	companion	im
+L12	Friends & Feelings	familiāris	close friend	im
+L12	Friends & Feelings	inimīcus	enemy (personal)	im
+L12	Friends & Feelings	cārissimus	dearest	pr
+L12	Friends & Feelings	ō	oh	usk
+L12	Friends & Feelings	heu	alas	usk
+L12	Friends & Feelings	ecce	look!	usk
+L12	Friends & Feelings	euge	well done!	usk
+L12	Friends & Feelings	mehercule	by Hercules!	usk
+L12	Friends & Feelings	quaesō	please	izraz
+L12	Friends & Feelings	amābō tē	please (lit. I will love you)	izraz
+L13	Buildings & Leisure	maior	bigger; greater	pr
+L13	Buildings & Leisure	minor	smaller	pr
+L13	Buildings & Leisure	melior	better	pr
+L13	Buildings & Leisure	peior	worse	pr
+L13	Buildings & Leisure	plūs	more	pril
+L13	Buildings & Leisure	optimus	best	pr
+L13	Buildings & Leisure	pessimus	worst	pr
+L13	Buildings & Leisure	maximus	greatest	pr
+L13	Buildings & Leisure	minimus	smallest	pr
+L13	Buildings & Leisure	plūrimī	most	pr
+L13	Buildings & Leisure	magis	more (adv.)	pril
+L13	Buildings & Leisure	maximē	most; especially	pril
+L13	Buildings & Leisure	minus	less	pril
+L13	Buildings & Leisure	praestō	to excel; to surpass	gl
+L13	Buildings & Leisure	sacellum	shrine	im
+L13	Buildings & Leisure	aedēs	temple; (pl.) house	im
+L13	Buildings & Leisure	palaestra	exercise ground	im
+L13	Buildings & Leisure	balneum	bath	im
+L13	Buildings & Leisure	piscīna	pool	im
+L13	Buildings & Leisure	hortī	park; gardens	im
+L13	Buildings & Leisure	ambulātiō	walk; promenade	im
+L13	Buildings & Leisure	lūdī	games	im
+L13	Buildings & Leisure	pila	ball	im
+L13	Buildings & Leisure	tālus	knucklebone (game)	im
+L13	Buildings & Leisure	tessera	die; token	im
+L13	Buildings & Leisure	āleā lūdō	to play dice	izraz
+L13	Buildings & Leisure	lūdō	to play	gl
+L13	Buildings & Leisure	nātō	to swim	gl
+L13	Buildings & Leisure	lavō	to wash	gl
+L13	Buildings & Leisure	exerceō	to exercise; to train	gl
+L13	Buildings & Leisure	quiēscō	to rest	gl
+L13	Buildings & Leisure	dēlectō	to delight	gl
+L13	Buildings & Leisure	otium	leisure	im
+L13	Buildings & Leisure	negōtium	business	im
+L13	Buildings & Leisure	voluptās	pleasure	im
+L13	Buildings & Leisure	cantus	singing	im
+L13	Buildings & Leisure	saltō	to dance	gl
+L13	Buildings & Leisure	tībia	flute	im
+L13	Buildings & Leisure	lyra	lyre	im
+L13	Buildings & Leisure	pictūra	painting	im
+L13	Buildings & Leisure	cella	room; storeroom	im
+L13	Buildings & Leisure	turris	tower	im
+L13	Buildings & Leisure	tēctum	roof	im
+L13	Buildings & Leisure	pariēs	wall (of a house)	im
+L13	Buildings & Leisure	gradus	step	im
+L13	Buildings & Leisure	scāla	staircase	im
+L13	Buildings & Leisure	pavīmentum	floor	im
+L13	Buildings & Leisure	lapideus	made of stone	pr
+L13	Buildings & Leisure	marmor	marble	im
+L13	Buildings & Leisure	marmoreus	marble	pr
+L13	Buildings & Leisure	amplus	spacious	pr
+L13	Buildings & Leisure	splendidus	splendid	pr
+L13	Buildings & Leisure	ōrnātus	decorated	pr
+L13	Buildings & Leisure	commodus	convenient	pr
+L13	Buildings & Leisure	celerius	faster	pril
+L13	Buildings & Leisure	facilius	more easily	pril
+L13	Buildings & Leisure	saepius	more often	pril
+L13	Buildings & Leisure	dīligentius	more carefully	pril
+L13	Buildings & Leisure	optimē	very well; best	pril
+L13	Buildings & Leisure	quam celerrimē	as fast as possible	izraz
+L13	Buildings & Leisure	cubō	to lie down	gl
+L13	Buildings & Leisure	convīvor	to feast	gl
+L13	Buildings & Leisure	convīvium	banquet	im
+L13	Buildings & Leisure	scaena	stage	im
+L13	Buildings & Leisure	mīmus	mime; actor	im
+L14	Time & Seasons	ferō	to carry; to bear	gl
+L14	Time & Seasons	volō	to want	gl
+L14	Time & Seasons	nōlō	to be unwilling	gl
+L14	Time & Seasons	mālō	to prefer	gl
+L14	Time & Seasons	tempus annī	season	izraz
+L14	Time & Seasons	hōra prīma	first hour	izraz
+L14	Time & Seasons	māne	in the morning	pril
+L14	Time & Seasons	vesperī	in the evening	pril
+L14	Time & Seasons	noctū	at night	pril
+L14	Time & Seasons	interdiū	by day	pril
+L14	Time & Seasons	prīdiē	the day before	pril
+L14	Time & Seasons	postrīdiē	the next day	pril
+L14	Time & Seasons	quotīdiē	every day	pril
+L14	Time & Seasons	aliquandō	sometimes; once	pril
+L14	Time & Seasons	numquam	never	pril
+L14	Time & Seasons	umquam	ever	pril
+L14	Time & Seasons	iamdūdum	long since	pril
+L14	Time & Seasons	anteā	before; previously	pril
+L14	Time & Seasons	modo	just now; only	pril
+L14	Time & Seasons	priusquam	before (conj.)	vez
+L14	Time & Seasons	postquam	after (conj.)	vez
+L14	Time & Seasons	simul ac	as soon as	izraz
+L14	Time & Seasons	dōnec	until	vez
+L14	Time & Seasons	quotiēns	how often; whenever	pril
+L14	Time & Seasons	saeculum	century; age	im
+L14	Time & Seasons	aetās	age; time of life	im
+L14	Time & Seasons	pueritia	childhood	im
+L14	Time & Seasons	senectūs	old age	im
+L14	Time & Seasons	iuventūs	youth	im
+L14	Time & Seasons	hōrologium	clock; sundial	im
+L14	Time & Seasons	calendārium	calendar	im
+L14	Time & Seasons	fēriae	holidays	im
+L14	Time & Seasons	Sāturnālia	the Saturnalia	im
+L14	Time & Seasons	nix	snow	im
+L14	Time & Seasons	pluvia	rain	im
+L14	Time & Seasons	imber	shower; rain	im
+L14	Time & Seasons	nūbēs	cloud	im
+L14	Time & Seasons	gelū	frost	im
+L14	Time & Seasons	calor	heat	im
+L14	Time & Seasons	frīgus	cold	im
+L14	Time & Seasons	aura	breeze	im
+L14	Time & Seasons	flōreō	to bloom	gl
+L14	Time & Seasons	crēscō	to grow	gl
+L14	Time & Seasons	ningit	it snows	gl
+L14	Time & Seasons	pluit	it rains	gl
+L14	Time & Seasons	lūcet	it is light	gl
+L14	Time & Seasons	advesperāscit	evening comes	gl
+L14	Time & Seasons	ōrior	to rise	gl
+L14	Time & Seasons	occidō	to fall; to set	gl
+L14	Time & Seasons	mūtō	to change	gl
+L14	Time & Seasons	redūcō	to bring back	gl
+L14	Time & Seasons	afferō	to bring	gl
+L14	Time & Seasons	auferō	to carry away	gl
+L14	Time & Seasons	referō	to bring back; to report	gl
+L14	Time & Seasons	fīniō	to finish	gl
+L14	Time & Seasons	incipiō	to begin	gl
+L14	Time & Seasons	dēsinō	to stop	gl
+L14	Time & Seasons	mātūrus	ripe; early	pr
+L14	Time & Seasons	sērus	late	pr
+L14	Time & Seasons	recēns	fresh; recent	pr
+L14	Time & Seasons	vetus	old	pr
+L14	Time & Seasons	aeternus	eternal	pr
+L14	Time & Seasons	brevis	short	pr
+L14	Time & Seasons	diēs fēstus	holiday	izraz
+L14	Time & Seasons	lūstrum	five-year period	im
+L15	Work & Trade	loquor	to speak	gl
+L15	Work & Trade	sequor	to follow	gl
+L15	Work & Trade	morior	to die	gl
+L15	Work & Trade	ūtor	to use	gl
+L15	Work & Trade	fruor	to enjoy	gl
+L15	Work & Trade	cōnor	to try	gl
+L15	Work & Trade	hortor	to encourage	gl
+L15	Work & Trade	mercor	to trade	gl
+L15	Work & Trade	operor	to work	gl
+L15	Work & Trade	patior	to suffer; to allow	gl
+L15	Work & Trade	fit, fīunt	becomes; is done	gl
+L15	Work & Trade	fīō	to become	gl
+L15	Work & Trade	mercātūra	trade	im
+L15	Work & Trade	negōtiātor	businessman	im
+L15	Work & Trade	argentārius	banker	im
+L15	Work & Trade	nummulārius	money-changer	im
+L15	Work & Trade	faenus	interest (money)	im
+L15	Work & Trade	dēbitum	debt	im
+L15	Work & Trade	cēnsus	wealth; census	im
+L15	Work & Trade	dīvitiae	riches	im
+L15	Work & Trade	pauper	poor	pr
+L15	Work & Trade	dīves	rich	pr
+L15	Work & Trade	avārus	greedy	pr
+L15	Work & Trade	hōrreum	warehouse; granary	im
+L15	Work & Trade	frūmentum	grain	im
+L15	Work & Trade	annōna	corn supply	im
+L15	Work & Trade	portōrium	customs duty	im
+L15	Work & Trade	vectīgal	tax	im
+L15	Work & Trade	pondus	weight	im
+L15	Work & Trade	mēnsūra	measure	im
+L15	Work & Trade	modius	peck (measure)	im
+L15	Work & Trade	lībra	pound; scales	im
+L15	Work & Trade	nāvis onerāria	cargo ship	izraz
+L15	Work & Trade	onus	load	im
+L15	Work & Trade	vehō	to carry; to convey	gl
+L15	Work & Trade	nāviculārius	shipowner	im
+L15	Work & Trade	comparō	to acquire; to compare	gl
+L15	Work & Trade	cōnstruō	to build	gl
+L15	Work & Trade	cōnficiō	to complete	gl
+L15	Work & Trade	administrō	to manage	gl
+L15	Work & Trade	numerō	to count	gl
+L15	Work & Trade	solvō	to pay; to loosen	gl
+L15	Work & Trade	mūtuor	to borrow	gl
+L15	Work & Trade	commodum	advantage	im
+L15	Work & Trade	labor	work; toil	im
+L15	Work & Trade	operārius	labourer	im
+L15	Work & Trade	opifex	craftsman	im
+L15	Work & Trade	vīlicus	farm manager	im
+L15	Work & Trade	colōnus	tenant farmer	im
+L15	Work & Trade	arō	to plough	gl
+L15	Work & Trade	serō	to sow	gl
+L15	Work & Trade	metō	to reap	gl
+L15	Work & Trade	vīnea	vineyard	im
+L15	Work & Trade	industrius	hard-working	pr
+L15	Work & Trade	iners	idle	pr
+L15	Work & Trade	prūdēns	sensible	pr
+L15	Work & Trade	callidus	clever; cunning	pr
+L15	Work & Trade	honestus	honourable	pr
+L15	Work & Trade	quaestus	profit; trade	im
+L15	Work & Trade	ratiō	reason; account	im
+L15	Work & Trade	rationēs	accounts	izraz
+L15	Work & Trade	contractus	contract	im
+L15	Work & Trade	pactum	agreement	im
+L15	Work & Trade	dēnārius	denarius (coin)	im
+L15	Work & Trade	pecus	cattle	im
+L15	Work & Trade	grex	flock	im
+L15	Work & Trade	pāscuum	pasture	im
+L15	Work & Trade	vīnārius	wine merchant	im
+L15	Work & Trade	ūtilitās	usefulness	im
+L15	Work & Trade	lūxuria	luxury	im
+L16	War & Peace	bellum	war	im
+L16	War & Peace	pāx Rōmāna	the Roman peace	izraz
+L16	War & Peace	exercitus	army	im
+L16	War & Peace	legiō	legion	im
+L16	War & Peace	castra	camp	im
+L16	War & Peace	proelium	battle	im
+L16	War & Peace	hostis	enemy	im
+L16	War & Peace	arma	weapons	im
+L16	War & Peace	gladius	sword	im
+L16	War & Peace	scūtum	shield	im
+L16	War & Peace	hasta	spear	im
+L16	War & Peace	pīlum	javelin	im
+L16	War & Peace	galea	helmet	im
+L16	War & Peace	lōrīca	breastplate	im
+L16	War & Peace	sagitta	arrow	im
+L16	War & Peace	vulnus	wound	im
+L16	War & Peace	caedēs	slaughter	im
+L16	War & Peace	fuga	flight	im
+L16	War & Peace	captīvus	prisoner	im
+L16	War & Peace	centuriō	centurion	im
+L16	War & Peace	signum	sign; standard	im
+L16	War & Peace	tuba	trumpet	im
+L16	War & Peace	mūnītiō	fortification	im
+L16	War & Peace	obsideō	to besiege	gl
+L16	War & Peace	oppugnō	to attack	gl
+L16	War & Peace	dēfendō	to defend	gl
+L16	War & Peace	expugnō	to storm	gl
+L16	War & Peace	vulnerō	to wound	gl
+L16	War & Peace	interficiō	to kill	gl
+L16	War & Peace	cēdō	to yield; to go	gl
+L16	War & Peace	resistō	to resist	gl
+L16	War & Peace	trādō	to hand over	gl
+L16	War & Peace	redimō	to buy back	gl
+L16	War & Peace	foedus	treaty	im
+L16	War & Peace	indūtiae	truce	im
+L16	War & Peace	lēgātiō	embassy	im
+L16	War & Peace	socius	ally	im
+L16	War & Peace	victus	defeated	pr
+L16	War & Peace	īnfestus	hostile	pr
+L16	War & Peace	pācātus	peaceful	pr
+L16	War & Peace	armātus	armed	pr
+L16	War & Peace	ācer	fierce; keen	pr
+L16	War & Peace	validus	strong	pr
+L16	War & Peace	Gallia	Gaul	im
+L16	War & Peace	Germānī	the Germans	im
+L16	War & Peace	Carthāgō	Carthage	im
+L16	War & Peace	Caesar	Caesar	im
+L16	War & Peace	vēnī, vīdī, vīcī	I came, I saw, I conquered	izraz
+L16	War & Peace	paene	almost	pril
+L16	War & Peace	undique	from all sides	pril
+L16	War & Peace	ācriter	fiercely	pril
+L16	War & Peace	frūstrā	in vain	pril
+L16	War & Peace	clādēs	defeat; disaster	im
+L16	War & Peace	pugna	fight	im
+L16	War & Peace	eques	horseman	im
+L16	War & Peace	pedes	foot soldier	im
+L16	War & Peace	nāvis longa	warship	izraz
+L16	War & Peace	classis	fleet	im
+L16	War & Peace	triumphus	triumph	im
+L16	War & Peace	mīlitō	to serve as a soldier	gl
+L16	War & Peace	fūnda	sling	im
+L16	War & Peace	vāllum	rampart	im
+L16	War & Peace	ignis	fire	im
+L16	War & Peace	incendium	fire; blaze	im
+L16	War & Peace	dēditiō	surrender	im
+L17	Speaking & Thinking	ōrō	to beg; to speak	gl
+L17	Speaking & Thinking	ōrātiō	speech	im
+L17	Speaking & Thinking	ōrātor	speaker	im
+L17	Speaking & Thinking	āiō	to say	gl
+L17	Speaking & Thinking	inquit	(he/she) says	gl
+L17	Speaking & Thinking	explicō	to explain	gl
+L17	Speaking & Thinking	negō	to deny; to say … not	gl
+L17	Speaking & Thinking	nūntiō	to announce	gl
+L17	Speaking & Thinking	prōmittō	to promise	gl
+L17	Speaking & Thinking	iūrō	to swear	gl
+L17	Speaking & Thinking	putō	to think	gl
+L17	Speaking & Thinking	arbitror	to judge; to think	gl
+L17	Speaking & Thinking	exīstimō	to think; to judge	gl
+L17	Speaking & Thinking	sentiō	to feel; to think	gl
+L17	Speaking & Thinking	meminī	to remember	gl
+L17	Speaking & Thinking	oblīvīscor	to forget	gl
+L17	Speaking & Thinking	cognōscō	to get to know	gl
+L17	Speaking & Thinking	ignōrō	not to know	gl
+L17	Speaking & Thinking	dubitō	to doubt	gl
+L17	Speaking & Thinking	cēnseō	to think; to propose	gl
+L17	Speaking & Thinking	persuādeō	to persuade	gl
+L17	Speaking & Thinking	moneō	to warn; to advise	gl
+L17	Speaking & Thinking	iubeō	to order	gl
+L17	Speaking & Thinking	vetō	to forbid	gl
+L17	Speaking & Thinking	audeō	to dare	gl
+L17	Speaking & Thinking	videor	to seem	gl
+L17	Speaking & Thinking	appellō	to name; to address	gl
+L17	Speaking & Thinking	ventūrus	about to come	pr
+L17	Speaking & Thinking	futūrus	future	pr
+L17	Speaking & Thinking	vērum	the truth	im
+L17	Speaking & Thinking	mendācium	lie	im
+L17	Speaking & Thinking	cōnfiteor	to admit	gl
+L17	Speaking & Thinking	rūmor	rumour	im
+L17	Speaking & Thinking	quaestiō	question; inquiry	im
+L17	Speaking & Thinking	respōnsum	answer	im
+L17	Speaking & Thinking	disputātiō	debate	im
+L17	Speaking & Thinking	philosophus	philosopher	im
+L17	Speaking & Thinking	philosophia	philosophy	im
+L17	Speaking & Thinking	sapiēns	wise man; wise	pr
+L17	Speaking & Thinking	stultus	foolish	pr
+L17	Speaking & Thinking	ingenium	talent; nature	im
+L17	Speaking & Thinking	memor	mindful	pr
+L17	Speaking & Thinking	immemor	forgetful	pr
+L17	Speaking & Thinking	certus	certain	pr
+L17	Speaking & Thinking	incertus	uncertain	pr
+L17	Speaking & Thinking	manifestus	obvious	pr
+L17	Speaking & Thinking	apertus	open	pr
+L17	Speaking & Thinking	clam	secretly	pril
+L17	Speaking & Thinking	palam	openly	pril
+L17	Speaking & Thinking	fortasse	perhaps	pril
+L17	Speaking & Thinking	certē	certainly	pril
+L17	Speaking & Thinking	nēmō	no one	zam
+L17	Speaking & Thinking	nihil	nothing	zam
+L17	Speaking & Thinking	aliquis	someone	zam
+L17	Speaking & Thinking	aliquid	something	zam
+L17	Speaking & Thinking	quisque	each	zam
+L17	Speaking & Thinking	quīdam	a certain	zam
+L17	Speaking & Thinking	uterque	each of two	zam
+L17	Speaking & Thinking	neuter	neither	zam
+L17	Speaking & Thinking	inter sē	among themselves	izraz
+L17	Speaking & Thinking	ut ait	as he says	izraz
+L17	Speaking & Thinking	sīc	thus; so	pril
+L17	Speaking & Thinking	enim	for; indeed	vez
+L17	Speaking & Thinking	igitur	therefore	vez
+L17	Speaking & Thinking	ergō	therefore	vez
+L17	Speaking & Thinking	autem	however; but	vez
+L17	Speaking & Thinking	tamen	nevertheless	vez
+L17	Speaking & Thinking	fateor	to confess	gl
+L17	Speaking & Thinking	dēclārō	to declare	gl
+L17	Speaking & Thinking	rogō	to ask	gl
+L18	Plans & Wishes	ut	so that; as	vez
+L18	Plans & Wishes	nē	so that not; lest	vez
+L18	Plans & Wishes	cum	when; since; although	vez
+L18	Plans & Wishes	sī	if	vez
+L18	Plans & Wishes	sīn	but if	vez
+L18	Plans & Wishes	quamquam	although	vez
+L18	Plans & Wishes	etsī	even if	vez
+L18	Plans & Wishes	quasi	as if	vez
+L18	Plans & Wishes	dummodo	provided that	vez
+L18	Plans & Wishes	prōpositum	plan; purpose	im
+L18	Plans & Wishes	cōnsilium capere	to form a plan	izraz
+L18	Plans & Wishes	optō	to wish	gl
+L18	Plans & Wishes	dēsīderō	to long for	gl
+L18	Plans & Wishes	expetō	to seek	gl
+L18	Plans & Wishes	studeō	to be eager; to study	gl
+L18	Plans & Wishes	studium	eagerness; study	im
+L18	Plans & Wishes	cupiditās	desire	im
+L18	Plans & Wishes	voluntās	will; wish	im
+L18	Plans & Wishes	vōtum	vow; wish	im
+L18	Plans & Wishes	utinam	if only	čest
+L18	Plans & Wishes	cūrō ut	to take care that	izraz
+L18	Plans & Wishes	efficiō	to bring about	gl
+L18	Plans & Wishes	impediō	to hinder	gl
+L18	Plans & Wishes	permittō	to allow	gl
+L18	Plans & Wishes	licet	it is allowed	gl
+L18	Plans & Wishes	oportet	it is right; one must	gl
+L18	Plans & Wishes	necesse est	it is necessary	izraz
+L18	Plans & Wishes	opus est	there is need	izraz
+L18	Plans & Wishes	nūptiae	wedding	im
+L18	Plans & Wishes	nūbō	to marry (of a woman)	gl
+L18	Plans & Wishes	dūcō in mātrimōnium	to marry (of a man)	izraz
+L18	Plans & Wishes	spōnsa	bride; fiancée	im
+L18	Plans & Wishes	hērēs	heir	im
+L18	Plans & Wishes	testāmentum	will	im
+L18	Plans & Wishes	futūra	the future	im
+L18	Plans & Wishes	fēlīcitās	good fortune	im
+L18	Plans & Wishes	auspicium	omen	im
+L18	Plans & Wishes	ōmen	omen	im
+L18	Plans & Wishes	praemium	reward	im
+L18	Plans & Wishes	poena	punishment	im
+L18	Plans & Wishes	officium	duty	im
+L18	Plans & Wishes	lībertās	freedom	im
+L18	Plans & Wishes	dignitās	dignity; rank	im
+L18	Plans & Wishes	salūs	health; safety	im
+L18	Plans & Wishes	valētūdō	health	im
+L18	Plans & Wishes	medicus	doctor	im
+L18	Plans & Wishes	medicīna	medicine	im
+L18	Plans & Wishes	aeger	sick	pr
+L18	Plans & Wishes	sānus	healthy	pr
+L18	Plans & Wishes	cupidus	eager	pr
+L18	Plans & Wishes	contentus	satisfied	pr
+L18	Plans & Wishes	parātus	ready	pr
+L18	Plans & Wishes	optātus	longed for	pr
+L18	Plans & Wishes	dignus	worthy	pr
+L18	Plans & Wishes	indignus	unworthy	pr
+L18	Plans & Wishes	quō (+ comp.)	in order that	izraz
+L18	Plans & Wishes	nē quidem	not even	izraz
+L18	Plans & Wishes	mōs	custom	im
+L18	Plans & Wishes	mōrēs	character; morals	izraz
+L18	Plans & Wishes	lēgem ferre	to pass a law	izraz
+L18	Plans & Wishes	populāris	popular	pr
+L18	Plans & Wishes	cōnsultō	deliberately	pril
+L18	Plans & Wishes	dēlīberō	to consider	gl
+L18	Plans & Wishes	sperātus	hoped for	pr
+L18	Plans & Wishes	fortūnātus	fortunate	pr
+L18	Plans & Wishes	dēstinō	to intend	gl
+L18	Plans & Wishes	iter facere	to travel	izraz
+L18	Plans & Wishes	meditor	to plan; to reflect	gl
+L18	Plans & Wishes	sors	lot; destiny	im
+L18	Plans & Wishes	fīdūcia	confidence	im
+L19	Nature & Sea	oceanus	ocean	im
+L19	Nature & Sea	sinus	bay; fold	im
+L19	Nature & Sea	harēna	sand	im
+L19	Nature & Sea	scopulus	rock; cliff	im
+L19	Nature & Sea	statiō	anchorage; post	im
+L19	Nature & Sea	nāvigātiō	voyage	im
+L19	Nature & Sea	naufragium	shipwreck	im
+L19	Nature & Sea	ōra	coast	im
+L19	Nature & Sea	flūmen	river	im
+L19	Nature & Sea	rīpa	bank	im
+L19	Nature & Sea	lacus	lake	im
+L19	Nature & Sea	palūs	marsh	im
+L19	Nature & Sea	rōs	dew	im
+L19	Nature & Sea	arbor	tree	im
+L19	Nature & Sea	folium	leaf	im
+L19	Nature & Sea	rādīx	root	im
+L19	Nature & Sea	herba	grass	im
+L19	Nature & Sea	grāmen	grass; turf	im
+L19	Nature & Sea	prātum	meadow	im
+L19	Nature & Sea	nemus	grove	im
+L19	Nature & Sea	spēlunca	cave	im
+L19	Nature & Sea	nebula	mist	im
+L19	Nature & Sea	fulgur	lightning	im
+L19	Nature & Sea	tonitrus	thunder	im
+L19	Nature & Sea	aethēr	upper air; sky	im
+L19	Nature & Sea	sīdus	star; constellation	im
+L19	Nature & Sea	orbis terrārum	the world	izraz
+L19	Nature & Sea	mundus	world; universe	im
+L19	Nature & Sea	occidēns	west; setting (sun)	im
+L19	Nature & Sea	oriēns	east; rising (sun)	im
+L19	Nature & Sea	septentriōnēs	north	im
+L19	Nature & Sea	merīdiēs	midday; south	im
+L19	Nature & Sea	occāsus sōlis	sunset	izraz
+L19	Nature & Sea	ortus sōlis	sunrise	izraz
+L19	Nature & Sea	ardēns	burning	pr
+L19	Nature & Sea	lūcēns	shining	pr
+L19	Nature & Sea	fluēns	flowing	pr
+L19	Nature & Sea	fluō	to flow	gl
+L19	Nature & Sea	lūceō	to shine	gl
+L19	Nature & Sea	ardeō	to burn	gl
+L19	Nature & Sea	spīrō	to breathe; to blow	gl
+L19	Nature & Sea	tegō	to cover	gl
+L19	Nature & Sea	mergō	to sink	gl
+L19	Nature & Sea	nō	to swim	gl
+L19	Nature & Sea	pereō	to perish	gl
+L19	Nature & Sea	appāreō	to appear	gl
+L19	Nature & Sea	lateō	to lie hidden	gl
+L19	Nature & Sea	quiēs	rest	im
+L19	Nature & Sea	silentium	silence	im
+L19	Nature & Sea	sonitus	sound	im
+L19	Nature & Sea	murmur	murmur	im
+L19	Nature & Sea	odor	smell	im
+L19	Nature & Sea	color	colour	im
+L19	Nature & Sea	viridis	green	pr
+L19	Nature & Sea	caeruleus	blue	pr
+L19	Nature & Sea	flāvus	golden; yellow	pr
+L19	Nature & Sea	āter	dark; black	pr
+L19	Nature & Sea	serēnus	clear; calm	pr
+L19	Nature & Sea	placidus	calm	pr
+L19	Nature & Sea	turbidus	stormy	pr
+L19	Nature & Sea	sōle occidente	as the sun was setting	izraz
+L19	Nature & Sea	vīsus	sight	im
+L19	Nature & Sea	piscātor	fisherman	im
+L19	Nature & Sea	rēte	net	im
+L19	Nature & Sea	āmnis	river	im
+L19	Nature & Sea	gurges	whirlpool; flood	im
+L19	Nature & Sea	fertilis	fertile	pr
+L19	Nature & Sea	asper	rough	pr
+L19	Nature & Sea	aequor	sea surface	im
+L19	Nature & Sea	delphīnus	dolphin	im
+L20	Memories & Wisdom	recordor	to remember	gl
+L20	Memories & Wisdom	monumentum	monument; memorial	im
+L20	Memories & Wisdom	sapientia	wisdom	im
+L20	Memories & Wisdom	prūdentia	prudence	im
+L20	Memories & Wisdom	iūstitia	justice	im
+L20	Memories & Wisdom	iūstus	just	pr
+L20	Memories & Wisdom	iniūria	injustice; wrong	im
+L20	Memories & Wisdom	innocēns	innocent	pr
+L20	Memories & Wisdom	nocēns	guilty	pr
+L20	Memories & Wisdom	noceō	to harm	gl
+L20	Memories & Wisdom	fābula Phaedrī	a fable of Phaedrus	izraz
+L20	Memories & Wisdom	Phaedrus	Phaedrus	im
+L20	Memories & Wisdom	rīvus	stream	im
+L20	Memories & Wisdom	superior	higher	pr
+L20	Memories & Wisdom	inferior	lower	pr
+L20	Memories & Wisdom	turbō	to disturb; to muddy	gl
+L20	Memories & Wisdom	ovīle	sheepfold	im
+L20	Memories & Wisdom	faucēs	throat; jaws	im
+L20	Memories & Wisdom	iurgium	quarrel	im
+L20	Memories & Wisdom	iūdex	judge	im
+L20	Memories & Wisdom	querēla	complaint	im
+L20	Memories & Wisdom	maledīcō	to insult	gl
+L20	Memories & Wisdom	ante hōs sex mēnsēs	six months ago	izraz
+L20	Memories & Wisdom	corripiō	to seize	gl
+L20	Memories & Wisdom	lacerō	to tear apart	gl
+L20	Memories & Wisdom	iniūstus	unjust	pr
+L20	Memories & Wisdom	fictus	made up	pr
+L20	Memories & Wisdom	fictīs causīs	with invented reasons	izraz
+L20	Memories & Wisdom	opprimō	to overwhelm	gl
+L20	Memories & Wisdom	haec propter illōs scrīpta est	this was written because of those	izraz
+L20	Memories & Wisdom	morālis	moral	pr
+L20	Memories & Wisdom	doctrīna	teaching	im
+L20	Memories & Wisdom	lectiō	reading	im
+L20	Memories & Wisdom	lēctor	reader	im
+L20	Memories & Wisdom	auctor	author	im
+L20	Memories & Wisdom	poēta	poet	im
+L20	Memories & Wisdom	versus	verse	im
+L20	Memories & Wisdom	fābella	little story	im
+L20	Memories & Wisdom	extrēmus	last	pr
+L20	Memories & Wisdom	reditus	return	im
+L20	Memories & Wisdom	revertor	to return	gl
+L20	Memories & Wisdom	discessus	departure	im
+L20	Memories & Wisdom	memorābilis	memorable	pr
+L20	Memories & Wisdom	grātus	grateful; pleasing	pr
+L20	Memories & Wisdom	vīvus	alive	pr
+L20	Memories & Wisdom	mēta	turning point; goal	im
+L20	Memories & Wisdom	dēnique	finally	pril
+L20	Memories & Wisdom	posteritās	posterity	im
+L20	Memories & Wisdom	mortālitās	mortality	im
+L20	Memories & Wisdom	exemplar	model; pattern	im
