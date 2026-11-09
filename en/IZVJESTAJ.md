@@ -44,3 +44,11 @@ Riječi: **1494** · greške: **0** · upozorenja: **0**
 | veznik | 9 |
 | čestica | 2 |
 | član | 2 |
+
+## Faza B — oblici
+
+| Vrsta | Stupci | Popunjeno |
+|---|---|---:|
+| imenica | mnozina | 770 / 770 |
+| pridjev | komparativ, superlativ | 155 / 155 |
+| glagol | preterit, particip | 185 / 185 |
