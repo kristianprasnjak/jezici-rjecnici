@@ -44,3 +44,11 @@ Riječi: **1244** · greške: **0** · upozorenja: **0**
 | prijedlog | 15 |
 | uzvik | 5 |
 | čestica | 3 |
+
+## Faza B — oblici
+
+| Vrsta | Stupci | Popunjeno |
+|---|---|---:|
+| imenica | rod, genitiv, deklinacija | 585 / 585 |
+| pridjev | deklinacija, oblici_pr | 173 / 173 |
+| glagol | konjugacija, glavni_oblici | 258 / 258 |

@@ -80,8 +80,9 @@ def provjeri_oblike(jezik, i, r, greske):
             f = r['prezent'].split(' · ')
             if len(f) != lica or not all(x.strip() for x in f):
                 greske.append(f'redak {i}: prezent mora imati {lica} oblika odvojenih „ · “ ({len(f)})')
-        if r.get('glavni_oblici') and len(r['glavni_oblici'].split(', ')) not in (2, 3):
-            greske.append(f'redak {i}: glavni_oblici „{r["glavni_oblici"]}“ (infinitiv, perfekt[, supin])')
+        go = r.get('glavni_oblici')
+        if go and go != NEMA and not 1 <= len(go.split(', ')) <= 3:
+            greske.append(f'redak {i}: glavni_oblici „{go}“ (infinitiv[, perfekt[, supin]])')
 
 
 def kljuc(rijec):
