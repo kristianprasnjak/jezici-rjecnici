@@ -22,7 +22,7 @@ Njemački rječnik je u Crolandu (`deutsch/rjecnik/`).
 ## Faze
 
 1. **A — popis riječi + engleski** (sada): riječ, prijevod, vrsta riječi, razina i tema.
-2. **B — oblici**: množina, rod, ključni glagolski oblici. Gotovo: **fr**. Sljedeći: it, es, pt.
+2. **B — oblici**: množina, rod, ključni glagolski oblici. Gotovo: **fr**, **it**. Sljedeći: es, pt.
 3. **C — hrvatski prijevod i ključevi slika** (po potrebi primjeri).
 
 ## Datoteke u mapi jezika
@@ -81,13 +81,28 @@ Pravila:
   značenje u stupcu `en` (`monter` „to go up“ → `être`; `passer` „to spend (time)“ → `avoir`).
 
 `provjeri.py` provjerava: stupac postoji → popunjen za svoju vrstu i prazan za ostale; `rod` je
-`m`/`f`/`m,f`; dvorodna riječ ima `m,f` i jednak broj oblika množine; `mnozina_pr` je `m / ž`;
+`m`/`f`/`m,f`; dvorodna riječ ima `m,f` i jednak broj oblika množine (`(m/f)`: jedan ili dva); `mnozina_pr` je `m / ž`;
 `gl_skupina` je 1–3; `pomocni` iz popisa jezika (`POMOCNI` u skripti); `prezent` ima 6 oblika.
 Jezici bez tih stupaca prolaze kao i prije.
 
-**Za it / es / pt** isti obrazac, s prilagodbom: `pomocni` je `avere`/`essere` (it), za es i pt
-izostaje (uvijek haber / ter); `gl_skupina` po infinitivu (-are/-ere/-ire, -ar/-er/-ir);
-dodati odgovarajuće vrijednosti u `POMOCNI` i, ako treba, nove stupce u `OBLICI`.
+### Talijanski — razlike od francuskog
+
+Isti stupci, s ovim razlikama:
+
+- `mnozina` se piše **s članom** (`i libri`, `gli zii`, `le case`) jer je član u množini
+  dio onoga što se uči (i/gli/le), a pokazuje i promjenu roda: `il braccio` → `le braccia`,
+  `l'uovo (m)` → `le uova` (`rod` uvijek vrijedi za jedninu). Riječi bez člana također dobivaju
+  član u množini (`lunedì` → `i lunedì`).
+- `(m/f)` s istim oblikom: `gli / le ospiti`; ako se množina razlikuje po rodu, dva oblika:
+  `l'artista (m/f)` → `gli artisti, le artiste`.
+- `gl_skupina` prema završetku infinitiva: `1` -are, `2` -ere, `3` -ire (i `essere`/`avere` = 2,
+  `fare`/`andare`/`stare`/`dare` = 1, `dire` = 3, skraćeni `bere`, `proporre` = 2). Glagoli
+  na -isc- vide se u prezentu (`capisco · capisci …`).
+- `pomocni`: `avere` / `essere`; povratni i bezlični glagoli (`piovere`, `nevicare`) = `essere`.
+- `prezent`: io · tu · lui · noi · voi · loro; povratni sa zamjenicom (`mi alzo · ti alzi …`).
+
+**Za es i pt** isti obrazac; `pomocni` se izostavlja (uvijek haber / ter), `gl_skupina` po
+infinitivu (-ar/-er/-ir). Za novi pomoćni dodati vrijednosti u `POMOCNI`; nove stupce u `OBLICI`.
 
 ## Alati
 

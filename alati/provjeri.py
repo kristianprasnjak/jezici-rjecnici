@@ -52,7 +52,8 @@ def provjeri_oblike(jezik, i, r, greske):
         if n == 2 and r['rod'] != 'm,f':
             greske.append(f'redak {i}: „{rijec}“ ima dva oblika, rod mora biti m,f')
         mn = r.get('mnozina') or ''
-        if mn and mn != NEMA and len(mn.split(',')) != n:
+        dopusteno = {n, 2} if r['rod'] == 'm,f' else {n}   # (m/f): jedan zajednički oblik ili m, ž
+        if mn and mn != NEMA and len(mn.split(',')) not in dopusteno:
             greske.append(f'redak {i}: množina „{mn}“ mora imati {n} oblik(a) kao „{rijec}“')
     if vrsta == 'pr' and r.get('mnozina_pr'):
         if len(r['mnozina_pr'].split(' / ')) != 2:
