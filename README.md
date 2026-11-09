@@ -36,8 +36,11 @@ Njemački rječnik je u Crolandu (`deutsch/rjecnik/`).
 
 Stupci TSV-a: `razina | tema | XX | en | vrsta` (za engleski tečaj `razina | tema | en | hr | vrsta`).
 
-- **Riječ** je osnovni oblik. Imenice u romanskim jezicima i engleskom pišu se s članom zbog roda
+- **Riječ** je osnovni oblik. Imenice u romanskim jezicima pišu se s članom zbog roda
   (`le livre`, `la maison`, `l'ami (m)`); kod `l'` i istog oblika za oba roda rod je u zagradi.
+  Engleski: imenica bez člana, glagol u osnovnom obliku (`book`, `go`); ista riječ kao imenica i
+  glagol dva je retka s različitom vrstom.
+- Napomena u zagradi razlikuje značenja (`la muñeca (juguete)`); za provjeru duplikata se zanemaruje.
   Latinski: lema s makronima (`rosa`, `amō`); esperanto: lema; interslavenski: školski standard
   (odluke ISV1/ISV2 u `croland/jezici-koncept/ODLUKE-VLASNIKA.md`).
 - **Vrsta**: `im` imenica, `gl` glagol, `pr` pridjev, `pril` prilog, `zam` zamjenica, `prij` prijedlog,

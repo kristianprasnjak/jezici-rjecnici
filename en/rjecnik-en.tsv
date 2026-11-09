@@ -1,0 +1,1495 @@
+razina	tema	en	hr	vrsta
+L0	Sounds & Familiar Words	hotel	hotel	im
+L0	Sounds & Familiar Words	taxi	taksi	im
+L0	Sounds & Familiar Words	bus	autobus	im
+L0	Sounds & Familiar Words	pizza	pizza	im
+L0	Sounds & Familiar Words	banana	banana	im
+L0	Sounds & Familiar Words	chocolate	čokolada	im
+L0	Sounds & Familiar Words	coffee	kava	im
+L0	Sounds & Familiar Words	tea	čaj	im
+L0	Sounds & Familiar Words	music	glazba	im
+L0	Sounds & Familiar Words	football	nogomet	im
+L0	Sounds & Familiar Words	tennis	tenis	im
+L0	Sounds & Familiar Words	cinema	kino	im
+L0	Sounds & Familiar Words	theatre	kazalište	im
+L0	Sounds & Familiar Words	film	film	im
+L0	Sounds & Familiar Words	radio	radio	im
+L0	Sounds & Familiar Words	television	televizija	im
+L0	Sounds & Familiar Words	telephone	telefon	im
+L0	Sounds & Familiar Words	photo	fotografija	im
+L0	Sounds & Familiar Words	park	park	im
+L0	Sounds & Familiar Words	restaurant	restoran	im
+L0	Sounds & Familiar Words	bank	banka	im
+L0	Sounds & Familiar Words	doctor	liječnik, liječnica	im
+L0	Sounds & Familiar Words	police	policija	im
+L0	Sounds & Familiar Words	sport	sport	im
+L0	Sounds & Familiar Words	menu	jelovnik	im
+L0	Sounds & Familiar Words	moment	trenutak	im
+L0	Sounds & Familiar Words	family	obitelj	im
+L0	Sounds & Familiar Words	computer	računalo	im
+L0	Sounds & Familiar Words	problem	problem	im
+L0	Sounds & Familiar Words	salad	salata	im
+L0	Sounds & Familiar Words	sandwich	sendvič	im
+L0	Sounds & Familiar Words	weekend	vikend	im
+L0	Sounds & Familiar Words	internet	internet	im
+L0	Sounds & Familiar Words	email	e-pošta	im
+L0	Sounds & Familiar Words	OK	u redu	izraz
+L0	Sounds & Familiar Words	hello	bok; zdravo	izraz
+L1	Greetings & Countries	hi	bok	izraz
+L1	Greetings & Countries	good morning	dobro jutro	izraz
+L1	Greetings & Countries	good afternoon	dobar dan (poslijepodne)	izraz
+L1	Greetings & Countries	good evening	dobra večer	izraz
+L1	Greetings & Countries	good night	laku noć	izraz
+L1	Greetings & Countries	goodbye	doviđenja	izraz
+L1	Greetings & Countries	bye	bok (na rastanku)	izraz
+L1	Greetings & Countries	see you	vidimo se	izraz
+L1	Greetings & Countries	thank you	hvala	izraz
+L1	Greetings & Countries	thanks	hvala (razg.)	izraz
+L1	Greetings & Countries	please	molim	izraz
+L1	Greetings & Countries	sorry	oprosti; žao mi je	izraz
+L1	Greetings & Countries	excuse me	oprostite	izraz
+L1	Greetings & Countries	yes	da	čest
+L1	Greetings & Countries	no	ne	čest
+L1	Greetings & Countries	Mr	gospodin	im
+L1	Greetings & Countries	Mrs	gospođa (udana)	im
+L1	Greetings & Countries	Ms	gospođa	im
+L1	Greetings & Countries	how are you?	kako si?	izraz
+L1	Greetings & Countries	fine	dobro	pr
+L1	Greetings & Countries	nice to meet you	drago mi je	izraz
+L1	Greetings & Countries	my name is	zovem se	izraz
+L1	Greetings & Countries	name	ime	im
+L1	Greetings & Countries	be	biti	gl
+L1	Greetings & Countries	I	ja	zam
+L1	Greetings & Countries	you	ti; vi	zam
+L1	Greetings & Countries	he	on	zam
+L1	Greetings & Countries	she	ona	zam
+L1	Greetings & Countries	it	ono; to	zam
+L1	Greetings & Countries	we	mi	zam
+L1	Greetings & Countries	they	oni, one, ona	zam
+L1	Greetings & Countries	my	moj	zam
+L1	Greetings & Countries	your	tvoj; vaš	zam
+L1	Greetings & Countries	his	njegov	zam
+L1	Greetings & Countries	her	njezin	zam
+L1	Greetings & Countries	where	gdje	pril
+L1	Greetings & Countries	from	iz; od	prij
+L1	Greetings & Countries	country	zemlja, država	im
+L1	Greetings & Countries	Croatia	Hrvatska	im
+L1	Greetings & Countries	England	Engleska	im
+L1	Greetings & Countries	Britain	Britanija	im
+L1	Greetings & Countries	Brazil	Brazil	im
+L1	Greetings & Countries	Croatian	hrvatski; Hrvat, Hrvatica	pr
+L1	Greetings & Countries	English	engleski	pr
+L1	Greetings & Countries	British	britanski	pr
+L1	Greetings & Countries	Brazilian	brazilski	pr
+L1	Greetings & Countries	German	njemački	pr
+L1	Greetings & Countries	Italian	talijanski	pr
+L1	Greetings & Countries	French	francuski	pr
+L1	Greetings & Countries	Spanish	španjolski	pr
+L1	Greetings & Countries	city	grad	im
+L1	Greetings & Countries	London	London	im
+L1	Greetings & Countries	and	i	vez
+L1	Greetings & Countries	what	što; koji	zam
+L1	Greetings & Countries	nationality	državljanstvo, nacionalnost	im
+L2	The Flat & Colours	flat	stan	im
+L2	The Flat & Colours	house	kuća	im
+L2	The Flat & Colours	room	soba	im
+L2	The Flat & Colours	bedroom	spavaća soba	im
+L2	The Flat & Colours	kitchen	kuhinja	im
+L2	The Flat & Colours	bathroom	kupaonica	im
+L2	The Flat & Colours	living room	dnevni boravak	im
+L2	The Flat & Colours	door	vrata	im
+L2	The Flat & Colours	window	prozor	im
+L2	The Flat & Colours	wall	zid	im
+L2	The Flat & Colours	bed	krevet	im
+L2	The Flat & Colours	chair	stolica	im
+L2	The Flat & Colours	table	stol	im
+L2	The Flat & Colours	sofa	kauč	im
+L2	The Flat & Colours	wardrobe	ormar	im
+L2	The Flat & Colours	lamp	svjetiljka	im
+L2	The Flat & Colours	book	knjiga	im
+L2	The Flat & Colours	pen	kemijska olovka	im
+L2	The Flat & Colours	pencil	olovka	im
+L2	The Flat & Colours	bag	torba	im
+L2	The Flat & Colours	key	ključ	im
+L2	The Flat & Colours	mirror	ogledalo	im
+L2	The Flat & Colours	rug	tepih	im
+L2	The Flat & Colours	flower	cvijet	im
+L2	The Flat & Colours	plant	biljka	im
+L2	The Flat & Colours	box	kutija	im
+L2	The Flat & Colours	notebook	bilježnica	im
+L2	The Flat & Colours	cup	šalica	im
+L2	The Flat & Colours	glass	čaša; staklo	im
+L2	The Flat & Colours	a, an	neki, jedan (neodređeni član)	čl
+L2	The Flat & Colours	the	određeni član	čl
+L2	The Flat & Colours	there is	ima, postoji (jd.)	izraz
+L2	The Flat & Colours	there are	ima, postoje (mn.)	izraz
+L2	The Flat & Colours	this	ovo; ovaj	zam
+L2	The Flat & Colours	that	to; taj, onaj	zam
+L2	The Flat & Colours	these	ovi	zam
+L2	The Flat & Colours	those	oni, ti	zam
+L2	The Flat & Colours	colour	boja	im
+L2	The Flat & Colours	white	bijel	pr
+L2	The Flat & Colours	black	crn	pr
+L2	The Flat & Colours	red	crven	pr
+L2	The Flat & Colours	blue	plav	pr
+L2	The Flat & Colours	green	zelen	pr
+L2	The Flat & Colours	yellow	žut	pr
+L2	The Flat & Colours	grey	siv	pr
+L2	The Flat & Colours	brown	smeđ	pr
+L2	The Flat & Colours	pink	ružičast	pr
+L2	The Flat & Colours	orange	narančast	pr
+L2	The Flat & Colours	small	malen	pr
+L2	The Flat & Colours	big	velik	pr
+L2	The Flat & Colours	new	nov	pr
+L2	The Flat & Colours	old	star	pr
+L2	The Flat & Colours	nice	lijep; ugodan	pr
+L2	The Flat & Colours	one	jedan	broj
+L2	The Flat & Colours	two	dva	broj
+L2	The Flat & Colours	three	tri	broj
+L2	The Flat & Colours	four	četiri	broj
+L2	The Flat & Colours	five	pet	broj
+L2	The Flat & Colours	six	šest	broj
+L2	The Flat & Colours	seven	sedam	broj
+L2	The Flat & Colours	eight	osam	broj
+L2	The Flat & Colours	nine	devet	broj
+L2	The Flat & Colours	ten	deset	broj
+L2	The Flat & Colours	eleven	jedanaest	broj
+L2	The Flat & Colours	twelve	dvanaest	broj
+L2	The Flat & Colours	twenty	dvadeset	broj
+L3	Everyday Verbs & the Week	work	raditi	gl
+L3	Everyday Verbs & the Week	live	živjeti; stanovati	gl
+L3	Everyday Verbs & the Week	speak	govoriti	gl
+L3	Everyday Verbs & the Week	study	učiti; studirati	gl
+L3	Everyday Verbs & the Week	eat	jesti	gl
+L3	Everyday Verbs & the Week	drink	piti	gl
+L3	Everyday Verbs & the Week	watch	gledati	gl
+L3	Everyday Verbs & the Week	listen	slušati	gl
+L3	Everyday Verbs & the Week	cook	kuhati	gl
+L3	Everyday Verbs & the Week	play	igrati; svirati	gl
+L3	Everyday Verbs & the Week	sing	pjevati	gl
+L3	Everyday Verbs & the Week	dance	plesati	gl
+L3	Everyday Verbs & the Week	walk	hodati	gl
+L3	Everyday Verbs & the Week	read	čitati	gl
+L3	Everyday Verbs & the Week	write	pisati	gl
+L3	Everyday Verbs & the Week	learn	učiti (nešto novo)	gl
+L3	Everyday Verbs & the Week	know	znati	gl
+L3	Everyday Verbs & the Week	go	ići	gl
+L3	Everyday Verbs & the Week	get up	ustati	gl
+L3	Everyday Verbs & the Week	start	početi	gl
+L3	Everyday Verbs & the Week	finish	završiti	gl
+L3	Everyday Verbs & the Week	do	raditi, činiti	gl
+L3	Everyday Verbs & the Week	make	napraviti	gl
+L3	Everyday Verbs & the Week	like	voljeti, sviđati se	gl
+L3	Everyday Verbs & the Week	want	htjeti	gl
+L3	Everyday Verbs & the Week	day	dan	im
+L3	Everyday Verbs & the Week	week	tjedan	im
+L3	Everyday Verbs & the Week	Monday	ponedjeljak	im
+L3	Everyday Verbs & the Week	Tuesday	utorak	im
+L3	Everyday Verbs & the Week	Wednesday	srijeda	im
+L3	Everyday Verbs & the Week	Thursday	četvrtak	im
+L3	Everyday Verbs & the Week	Friday	petak	im
+L3	Everyday Verbs & the Week	Saturday	subota	im
+L3	Everyday Verbs & the Week	Sunday	nedjelja	im
+L3	Everyday Verbs & the Week	morning	jutro	im
+L3	Everyday Verbs & the Week	afternoon	poslijepodne	im
+L3	Everyday Verbs & the Week	evening	večer	im
+L3	Everyday Verbs & the Week	night	noć	im
+L3	Everyday Verbs & the Week	today	danas	pril
+L3	Everyday Verbs & the Week	at weekends	vikendom	izraz
+L3	Everyday Verbs & the Week	on Mondays	ponedjeljkom	izraz
+L3	Everyday Verbs & the Week	job	posao	im
+L3	Everyday Verbs & the Week	office	ured	im
+L3	Everyday Verbs & the Week	café	kafić	im
+L3	Everyday Verbs & the Week	school	škola	im
+L3	Everyday Verbs & the Week	university	sveučilište	im
+L3	Everyday Verbs & the Week	course	tečaj	im
+L3	Everyday Verbs & the Week	design	dizajn	im
+L3	Everyday Verbs & the Week	language	jezik	im
+L3	Everyday Verbs & the Week	when	kada	pril
+L3	Everyday Verbs & the Week	who	tko	zam
+L3	Everyday Verbs & the Week	why	zašto	pril
+L3	Everyday Verbs & the Week	how	kako	pril
+L3	Everyday Verbs & the Week	because	jer	vez
+L3	Everyday Verbs & the Week	but	ali	vez
+L3	Everyday Verbs & the Week	or	ili	vez
+L3	Everyday Verbs & the Week	every day	svaki dan	izraz
+L3	Everyday Verbs & the Week	at	u, na (mjesto, vrijeme)	prij
+L3	Everyday Verbs & the Week	in	u	prij
+L3	Everyday Verbs & the Week	on	na	prij
+L3	Everyday Verbs & the Week	with	s, sa	prij
+L3	Everyday Verbs & the Week	very	vrlo	pril
+L3	Everyday Verbs & the Week	wash	prati	gl
+L3	Everyday Verbs & the Week	come home	doći kući	izraz
+L4	Family & Age	mother	majka	im
+L4	Family & Age	mum	mama	im
+L4	Family & Age	father	otac	im
+L4	Family & Age	dad	tata	im
+L4	Family & Age	parents	roditelji	im
+L4	Family & Age	brother	brat	im
+L4	Family & Age	sister	sestra	im
+L4	Family & Age	son	sin	im
+L4	Family & Age	daughter	kći	im
+L4	Family & Age	child	dijete	im
+L4	Family & Age	children	djeca	im
+L4	Family & Age	baby	beba	im
+L4	Family & Age	husband	muž	im
+L4	Family & Age	wife	žena, supruga	im
+L4	Family & Age	man	muškarac	im
+L4	Family & Age	woman	žena	im
+L4	Family & Age	boy	dječak	im
+L4	Family & Age	girl	djevojčica; djevojka	im
+L4	Family & Age	grandfather	djed	im
+L4	Family & Age	grandmother	baka	im
+L4	Family & Age	grandparents	djed i baka	im
+L4	Family & Age	uncle	ujak, stric, tetak	im
+L4	Family & Age	aunt	teta, ujna, strina	im
+L4	Family & Age	cousin	bratić, sestrična	im
+L4	Family & Age	nephew	nećak	im
+L4	Family & Age	niece	nećakinja	im
+L4	Family & Age	grandson	unuk	im
+L4	Family & Age	granddaughter	unuka	im
+L4	Family & Age	friend	prijatelj, prijateljica	im
+L4	Family & Age	boyfriend	dečko	im
+L4	Family & Age	girlfriend	djevojka	im
+L4	Family & Age	neighbour	susjed, susjeda	im
+L4	Family & Age	dog	pas	im
+L4	Family & Age	cat	mačka	im
+L4	Family & Age	pet	kućni ljubimac	im
+L4	Family & Age	have got	imati	izraz
+L4	Family & Age	have	imati	gl
+L4	Family & Age	age	dob	im
+L4	Family & Age	year	godina	im
+L4	Family & Age	birthday	rođendan	im
+L4	Family & Age	young	mlad	pr
+L4	Family & Age	married	oženjen, udana	pr
+L4	Family & Age	single	neoženjen, neudana	pr
+L4	Family & Age	our	naš	zam
+L4	Family & Age	their	njihov	zam
+L4	Family & Age	its	njegov (za stvari)	zam
+L4	Family & Age	tall	visok	pr
+L4	Family & Age	short	nizak; kratak	pr
+L4	Family & Age	kind	ljubazan	pr
+L4	Family & Age	friendly	prijateljski raspoložen	pr
+L4	Family & Age	thirty	trideset	broj
+L4	Family & Age	forty	četrdeset	broj
+L4	Family & Age	fifty	pedeset	broj
+L4	Family & Age	sixty	šezdeset	broj
+L4	Family & Age	seventy	sedamdeset	broj
+L4	Family & Age	eighty	osamdeset	broj
+L4	Family & Age	ninety	devedeset	broj
+L4	Family & Age	hundred	sto	broj
+L4	Family & Age	thirteen	trinaest	broj
+L4	Family & Age	fifteen	petnaest	broj
+L4	Family & Age	how old are you?	koliko imaš godina?	izraz
+L4	Family & Age	surname	prezime	im
+L4	Family & Age	only child	jedinac, jedinica	izraz
+L4	Family & Age	grandchildren	unuci	im
+L4	Family & Age	elderly	star, postariji	pr
+L5	Food & Quantities	market	tržnica	im
+L5	Food & Quantities	bread	kruh	im
+L5	Food & Quantities	cheese	sir	im
+L5	Food & Quantities	butter	maslac	im
+L5	Food & Quantities	milk	mlijeko	im
+L5	Food & Quantities	egg	jaje	im
+L5	Food & Quantities	meat	meso	im
+L5	Food & Quantities	chicken	piletina; kokoš	im
+L5	Food & Quantities	fish	riba	im
+L5	Food & Quantities	ham	šunka	im
+L5	Food & Quantities	apple	jabuka	im
+L5	Food & Quantities	pear	kruška	im
+L5	Food & Quantities	orange	naranča	im
+L5	Food & Quantities	strawberry	jagoda	im
+L5	Food & Quantities	grapes	grožđe	im
+L5	Food & Quantities	lemon	limun	im
+L5	Food & Quantities	tomato	rajčica	im
+L5	Food & Quantities	potato	krumpir	im
+L5	Food & Quantities	carrot	mrkva	im
+L5	Food & Quantities	onion	luk	im
+L5	Food & Quantities	lettuce	zelena salata	im
+L5	Food & Quantities	rice	riža	im
+L5	Food & Quantities	pasta	tjestenina	im
+L5	Food & Quantities	sugar	šećer	im
+L5	Food & Quantities	salt	sol	im
+L5	Food & Quantities	oil	ulje	im
+L5	Food & Quantities	water	voda	im
+L5	Food & Quantities	juice	sok	im
+L5	Food & Quantities	wine	vino	im
+L5	Food & Quantities	beer	pivo	im
+L5	Food & Quantities	cake	kolač, torta	im
+L5	Food & Quantities	biscuit	keks	im
+L5	Food & Quantities	crisps	čips	im
+L5	Food & Quantities	fruit	voće	im
+L5	Food & Quantities	vegetables	povrće	im
+L5	Food & Quantities	kilo	kilogram	im
+L5	Food & Quantities	gram	gram	im
+L5	Food & Quantities	litre	litra	im
+L5	Food & Quantities	bottle	boca	im
+L5	Food & Quantities	packet	paket, vrećica	im
+L5	Food & Quantities	tin	limenka, konzerva	im
+L5	Food & Quantities	loaf	štruca	im
+L5	Food & Quantities	piece	komad	im
+L5	Food & Quantities	some	malo, nekoliko	zam
+L5	Food & Quantities	any	ikakav, imalo	zam
+L5	Food & Quantities	much	mnogo (nebrojivo)	zam
+L5	Food & Quantities	many	mnogo (brojivo)	zam
+L5	Food & Quantities	a lot of	puno	izraz
+L5	Food & Quantities	how much?	koliko (košta)?	izraz
+L5	Food & Quantities	how many?	koliko (komada)?	izraz
+L5	Food & Quantities	I'd like	želio bih, htio bih	izraz
+L5	Food & Quantities	would you like …?	želite li …?	izraz
+L5	Food & Quantities	buy	kupiti	gl
+L5	Food & Quantities	cost	koštati	gl
+L5	Food & Quantities	pay	platiti	gl
+L5	Food & Quantities	pound	funta	im
+L5	Food & Quantities	penny	peni	im
+L5	Food & Quantities	price	cijena	im
+L5	Food & Quantities	expensive	skup	pr
+L5	Food & Quantities	cheap	jeftin	pr
+L5	Food & Quantities	fresh	svjež	pr
+L5	Food & Quantities	good	dobar	pr
+L5	Food & Quantities	shop	trgovina	im
+L5	Food & Quantities	supermarket	supermarket	im
+L5	Food & Quantities	customer	kupac	im
+L5	Food & Quantities	anything else?	još nešto?	izraz
+L5	Food & Quantities	here you are	izvolite	izraz
+L5	Food & Quantities	honey	med	im
+L5	Food & Quantities	jam	džem	im
+L5	Food & Quantities	yoghurt	jogurt	im
+L6	City & Directions	street	ulica	im
+L6	City & Directions	road	cesta	im
+L6	City & Directions	square	trg	im
+L6	City & Directions	centre	središte	im
+L6	City & Directions	station	kolodvor, stanica	im
+L6	City & Directions	bus stop	autobusna stanica	im
+L6	City & Directions	museum	muzej	im
+L6	City & Directions	church	crkva	im
+L6	City & Directions	hospital	bolnica	im
+L6	City & Directions	post office	pošta	im
+L6	City & Directions	library	knjižnica	im
+L6	City & Directions	bridge	most	im
+L6	City & Directions	traffic lights	semafor	im
+L6	City & Directions	corner	ugao	im
+L6	City & Directions	map	karta, plan grada	im
+L6	City & Directions	bakery	pekarnica	im
+L6	City & Directions	chemist's	ljekarna	im
+L6	City & Directions	underground	podzemna željeznica	im
+L6	City & Directions	tube	londonska podzemna	im
+L6	City & Directions	building	zgrada	im
+L6	City & Directions	car park	parkiralište	im
+L6	City & Directions	cathedral	katedrala	im
+L6	City & Directions	river	rijeka	im
+L6	City & Directions	entrance	ulaz	im
+L6	City & Directions	turn	skrenuti	gl
+L6	City & Directions	cross	prijeći	gl
+L6	City & Directions	go straight on	ići ravno	izraz
+L6	City & Directions	take	uzeti; povesti	gl
+L6	City & Directions	find	naći	gl
+L6	City & Directions	look for	tražiti	izraz
+L6	City & Directions	come	doći	gl
+L6	City & Directions	let's	hajdemo	izraz
+L6	City & Directions	left	lijevo	pril
+L6	City & Directions	right	desno	pril
+L6	City & Directions	straight	ravno	pril
+L6	City & Directions	next to	pokraj	prij
+L6	City & Directions	near	blizu	prij
+L6	City & Directions	far from	daleko od	izraz
+L6	City & Directions	opposite	nasuprot	prij
+L6	City & Directions	between	između	prij
+L6	City & Directions	behind	iza	prij
+L6	City & Directions	in front of	ispred	izraz
+L6	City & Directions	under	ispod	prij
+L6	City & Directions	above	iznad	prij
+L6	City & Directions	on the corner	na uglu	izraz
+L6	City & Directions	here	ovdje	pril
+L6	City & Directions	there	ondje, tamo	pril
+L6	City & Directions	then	onda	pril
+L6	City & Directions	first	prvi; prvo	broj
+L6	City & Directions	second	drugi	broj
+L6	City & Directions	third	treći	broj
+L6	City & Directions	on foot	pješice	izraz
+L6	City & Directions	by bus	autobusom	izraz
+L6	City & Directions	lost	izgubljen	pr
+L6	City & Directions	where is …?	gdje je …?	izraz
+L6	City & Directions	is it far?	je li daleko?	izraz
+L6	City & Directions	tourist	turist, turistica	im
+L6	City & Directions	guide	vodič	im
+L6	City & Directions	far	daleko	pril
+L6	City & Directions	close	blizu	pril
+L6	City & Directions	until	do	prij
+L6	City & Directions	along	duž	prij
+L6	City & Directions	past	pokraj, mimo	prij
+L6	City & Directions	roundabout	kružni tok	im
+L6	City & Directions	crossroads	raskrižje	im
+L6	City & Directions	pavement	pločnik	im
+L6	City & Directions	shopping centre	trgovački centar	im
+L6	City & Directions	sign	znak	im
+L6	City & Directions	petrol station	benzinska postaja	im
+L7	Hobbies & Sport	free time	slobodno vrijeme	izraz
+L7	Hobbies & Sport	hobby	hobi	im
+L7	Hobbies & Sport	love	voljeti, obožavati	gl
+L7	Hobbies & Sport	hate	mrziti	gl
+L7	Hobbies & Sport	enjoy	uživati	gl
+L7	Hobbies & Sport	need	trebati	gl
+L7	Hobbies & Sport	swim	plivati	gl
+L7	Hobbies & Sport	run	trčati	gl
+L7	Hobbies & Sport	ride	voziti (bicikl, konja)	gl
+L7	Hobbies & Sport	travel	putovati	gl
+L7	Hobbies & Sport	draw	crtati	gl
+L7	Hobbies & Sport	paint	slikati	gl
+L7	Hobbies & Sport	class	sat; razred	im
+L7	Hobbies & Sport	go out	izaći	izraz
+L7	Hobbies & Sport	meet	sresti; naći se	gl
+L7	Hobbies & Sport	always	uvijek	pril
+L7	Hobbies & Sport	usually	obično	pril
+L7	Hobbies & Sport	often	često	pril
+L7	Hobbies & Sport	sometimes	ponekad	pril
+L7	Hobbies & Sport	rarely	rijetko	pril
+L7	Hobbies & Sport	never	nikad	pril
+L7	Hobbies & Sport	once a week	jednom tjedno	izraz
+L7	Hobbies & Sport	twice	dvaput	pril
+L7	Hobbies & Sport	me	mene, me	zam
+L7	Hobbies & Sport	him	njega, ga	zam
+L7	Hobbies & Sport	them	njih, ih	zam
+L7	Hobbies & Sport	us	nas	zam
+L7	Hobbies & Sport	bike	bicikl	im
+L7	Hobbies & Sport	swimming	plivanje	im
+L7	Hobbies & Sport	gym	teretana	im
+L7	Hobbies & Sport	yoga	joga	im
+L7	Hobbies & Sport	running	trčanje	im
+L7	Hobbies & Sport	basketball	košarka	im
+L7	Hobbies & Sport	volleyball	odbojka	im
+L7	Hobbies & Sport	match	utakmica	im
+L7	Hobbies & Sport	team	momčad, tim	im
+L7	Hobbies & Sport	ball	lopta	im
+L7	Hobbies & Sport	guitar	gitara	im
+L7	Hobbies & Sport	piano	klavir	im
+L7	Hobbies & Sport	game	igra	im
+L7	Hobbies & Sport	video game	videoigra	im
+L7	Hobbies & Sport	concert	koncert	im
+L7	Hobbies & Sport	exhibition	izložba	im
+L7	Hobbies & Sport	swimming pool	bazen	im
+L7	Hobbies & Sport	stadium	stadion	im
+L7	Hobbies & Sport	song	pjesma	im
+L7	Hobbies & Sport	photography	fotografija (hobi)	im
+L7	Hobbies & Sport	comic	strip	im
+L7	Hobbies & Sport	novel	roman	im
+L7	Hobbies & Sport	series	serija	im
+L7	Hobbies & Sport	walk	šetnja	im
+L7	Hobbies & Sport	fan	navijač; obožavatelj	im
+L7	Hobbies & Sport	chess	šah	im
+L7	Hobbies & Sport	gallery	galerija	im
+L7	Hobbies & Sport	favourite	omiljen	pr
+L7	Hobbies & Sport	boring	dosadan	pr
+L7	Hobbies & Sport	fun	zabavan	pr
+L7	Hobbies & Sport	interesting	zanimljiv	pr
+L7	Hobbies & Sport	tired	umoran	pr
+L7	Hobbies & Sport	together	zajedno	pril
+L7	Hobbies & Sport	alone	sam	pril
+L7	Hobbies & Sport	also	također	pril
+L7	Hobbies & Sport	too	također; previše	pril
+L7	Hobbies & Sport	win	pobijediti	gl
+L7	Hobbies & Sport	lose	izgubiti	gl
+L7	Hobbies & Sport	hiking	planinarenje	im
+L7	Hobbies & Sport	skiing	skijanje	im
+L7	Hobbies & Sport	cycling	biciklizam	im
+L7	Hobbies & Sport	climbing	penjanje	im
+L7	Hobbies & Sport	practise	vježbati	gl
+L8	Routine, Time & Dates	wake up	probuditi se	izraz
+L8	Routine, Time & Dates	have a shower	istuširati se	izraz
+L8	Routine, Time & Dates	have a bath	okupati se	izraz
+L8	Routine, Time & Dates	get dressed	obući se	izraz
+L8	Routine, Time & Dates	brush your teeth	oprati zube	izraz
+L8	Routine, Time & Dates	have breakfast	doručkovati	izraz
+L8	Routine, Time & Dates	have lunch	ručati	izraz
+L8	Routine, Time & Dates	have dinner	večerati	izraz
+L8	Routine, Time & Dates	go to bed	ići na spavanje	izraz
+L8	Routine, Time & Dates	go to work	ići na posao	izraz
+L8	Routine, Time & Dates	leave	otići; napustiti	gl
+L8	Routine, Time & Dates	arrive	stići	gl
+L8	Routine, Time & Dates	get home	doći kući	izraz
+L8	Routine, Time & Dates	sleep	spavati	gl
+L8	Routine, Time & Dates	rest	odmarati se	gl
+L8	Routine, Time & Dates	hurry	žuriti	gl
+L8	Routine, Time & Dates	can	moći, znati	gl
+L8	Routine, Time & Dates	can't	ne moći	izraz
+L8	Routine, Time & Dates	breakfast	doručak	im
+L8	Routine, Time & Dates	lunch	ručak	im
+L8	Routine, Time & Dates	dinner	večera	im
+L8	Routine, Time & Dates	time	vrijeme; sat	im
+L8	Routine, Time & Dates	hour	sat (60 min)	im
+L8	Routine, Time & Dates	minute	minuta	im
+L8	Routine, Time & Dates	second	sekunda	im
+L8	Routine, Time & Dates	o'clock	sati (točno)	izraz
+L8	Routine, Time & Dates	half past	i pol	izraz
+L8	Routine, Time & Dates	quarter past	i četvrt	izraz
+L8	Routine, Time & Dates	quarter to	četvrt do	izraz
+L8	Routine, Time & Dates	midday	podne	im
+L8	Routine, Time & Dates	midnight	ponoć	im
+L8	Routine, Time & Dates	what time is it?	koliko je sati?	izraz
+L8	Routine, Time & Dates	clock	sat (zidni)	im
+L8	Routine, Time & Dates	watch	ručni sat	im
+L8	Routine, Time & Dates	alarm clock	budilica	im
+L8	Routine, Time & Dates	shower	tuš	im
+L8	Routine, Time & Dates	soap	sapun	im
+L8	Routine, Time & Dates	toothbrush	četkica za zube	im
+L8	Routine, Time & Dates	towel	ručnik	im
+L8	Routine, Time & Dates	early	rano	pril
+L8	Routine, Time & Dates	late	kasno	pril
+L8	Routine, Time & Dates	on time	na vrijeme	izraz
+L8	Routine, Time & Dates	month	mjesec	im
+L8	Routine, Time & Dates	January	siječanj	im
+L8	Routine, Time & Dates	February	veljača	im
+L8	Routine, Time & Dates	March	ožujak	im
+L8	Routine, Time & Dates	April	travanj	im
+L8	Routine, Time & Dates	May	svibanj	im
+L8	Routine, Time & Dates	June	lipanj	im
+L8	Routine, Time & Dates	July	srpanj	im
+L8	Routine, Time & Dates	August	kolovoz	im
+L8	Routine, Time & Dates	September	rujan	im
+L8	Routine, Time & Dates	October	listopad	im
+L8	Routine, Time & Dates	November	studeni	im
+L8	Routine, Time & Dates	December	prosinac	im
+L8	Routine, Time & Dates	date	datum	im
+L8	Routine, Time & Dates	fourth	četvrti	broj
+L8	Routine, Time & Dates	fifth	peti	broj
+L8	Routine, Time & Dates	tenth	deseti	broj
+L8	Routine, Time & Dates	twentieth	dvadeseti	broj
+L8	Routine, Time & Dates	thirty-first	trideset i prvi	broj
+L8	Routine, Time & Dates	before	prije	prij
+L8	Routine, Time & Dates	after	poslije, nakon	prij
+L8	Routine, Time & Dates	during	tijekom	prij
+L8	Routine, Time & Dates	routine	rutina	im
+L8	Routine, Time & Dates	colleague	kolega, kolegica	im
+L8	Routine, Time & Dates	nap	drijemež	im
+L8	Routine, Time & Dates	almost	gotovo	pril
+L8	Routine, Time & Dates	mobile phone	mobitel	im
+L8	Routine, Time & Dates	calendar	kalendar	im
+L9	Weather & Seasons	now	sada	pril
+L9	Weather & Seasons	right now	upravo sada	izraz
+L9	Weather & Seasons	at the moment	trenutačno	izraz
+L9	Weather & Seasons	weather	vrijeme (meteorološko)	im
+L9	Weather & Seasons	sun	sunce	im
+L9	Weather & Seasons	rain	kiša	im
+L9	Weather & Seasons	snow	snijeg	im
+L9	Weather & Seasons	wind	vjetar	im
+L9	Weather & Seasons	cloud	oblak	im
+L9	Weather & Seasons	storm	oluja	im
+L9	Weather & Seasons	fog	magla	im
+L9	Weather & Seasons	sunny	sunčan	pr
+L9	Weather & Seasons	rainy	kišovit	pr
+L9	Weather & Seasons	cloudy	oblačan	pr
+L9	Weather & Seasons	windy	vjetrovit	pr
+L9	Weather & Seasons	foggy	maglovit	pr
+L9	Weather & Seasons	hot	vruć	pr
+L9	Weather & Seasons	warm	topao	pr
+L9	Weather & Seasons	cold	hladan	pr
+L9	Weather & Seasons	cool	svjež, prohladan	pr
+L9	Weather & Seasons	wet	mokar	pr
+L9	Weather & Seasons	dry	suh	pr
+L9	Weather & Seasons	it's raining	pada kiša	izraz
+L9	Weather & Seasons	it's snowing	pada snijeg	izraz
+L9	Weather & Seasons	forecast	prognoza	im
+L9	Weather & Seasons	degree	stupanj	im
+L9	Weather & Seasons	temperature	temperatura	im
+L9	Weather & Seasons	season	godišnje doba	im
+L9	Weather & Seasons	spring	proljeće	im
+L9	Weather & Seasons	summer	ljeto	im
+L9	Weather & Seasons	autumn	jesen	im
+L9	Weather & Seasons	winter	zima	im
+L9	Weather & Seasons	umbrella	kišobran	im
+L9	Weather & Seasons	raincoat	kabanica	im
+L9	Weather & Seasons	wear	nositi (odjeću)	gl
+L9	Weather & Seasons	wait	čekati	gl
+L9	Weather & Seasons	look	gledati; izgledati	gl
+L9	Weather & Seasons	talk	razgovarati	gl
+L9	Weather & Seasons	call	nazvati	gl
+L9	Weather & Seasons	help	pomoći	gl
+L9	Weather & Seasons	sit	sjediti	gl
+L9	Weather & Seasons	stand	stajati	gl
+L9	Weather & Seasons	smile	smiješiti se	gl
+L9	Weather & Seasons	carry	nositi	gl
+L9	Weather & Seasons	slowly	polako	pril
+L9	Weather & Seasons	quickly	brzo	pril
+L9	Weather & Seasons	well	dobro	pril
+L9	Weather & Seasons	badly	loše	pril
+L9	Weather & Seasons	quietly	tiho	pril
+L9	Weather & Seasons	loudly	glasno	pril
+L9	Weather & Seasons	carefully	pažljivo	pril
+L9	Weather & Seasons	happily	sretno	pril
+L9	Weather & Seasons	still	još uvijek	pril
+L9	Weather & Seasons	humid	vlažan, sparan	pr
+L9	Weather & Seasons	outside	vani	pril
+L9	Weather & Seasons	inside	unutra	pril
+L9	Weather & Seasons	sky	nebo	im
+L9	Weather & Seasons	lightning	munja	im
+L9	Weather & Seasons	thunder	grmljavina	im
+L9	Weather & Seasons	ice	led	im
+L9	Weather & Seasons	sea	more	im
+L9	Weather & Seasons	beach	plaža	im
+L9	Weather & Seasons	mountain	planina	im
+L9	Weather & Seasons	lake	jezero	im
+L9	Weather & Seasons	bench	klupa	im
+L9	Weather & Seasons	rainbow	duga	im
+L9	Weather & Seasons	busy	zauzet	pr
+L9	Weather & Seasons	heatwave	toplinski val	im
+L9	Weather & Seasons	frost	mraz	im
+L9	Weather & Seasons	shine	sjati	gl
+L10	Weekend & Past Time	was, were	bio, bila, bili	izraz
+L10	Weekend & Past Time	yesterday	jučer	pril
+L10	Weekend & Past Time	last	prošli	pr
+L10	Weekend & Past Time	last night	sinoć	izraz
+L10	Weekend & Past Time	last weekend	prošli vikend	izraz
+L10	Weekend & Past Time	ago	prije (vremenski)	pril
+L10	Weekend & Past Time	the day before yesterday	prekjučer	izraz
+L10	Weekend & Past Time	barbecue	roštilj	im
+L10	Weekend & Past Time	visit	posjetiti	gl
+L10	Weekend & Past Time	clean	čistiti	gl
+L10	Weekend & Past Time	tidy	pospremiti	gl
+L10	Weekend & Past Time	do the shopping	kupovati namirnice	izraz
+L10	Weekend & Past Time	stay	ostati	gl
+L10	Weekend & Past Time	relax	opustiti se	gl
+L10	Weekend & Past Time	watch TV	gledati televiziju	izraz
+L10	Weekend & Past Time	open	otvoriti	gl
+L10	Weekend & Past Time	shut	zatvoriti	gl
+L10	Weekend & Past Time	answer	odgovoriti	gl
+L10	Weekend & Past Time	ask	pitati	gl
+L10	Weekend & Past Time	show	pokazati	gl
+L10	Weekend & Past Time	laugh	smijati se	gl
+L10	Weekend & Past Time	cry	plakati	gl
+L10	Weekend & Past Time	try	pokušati	gl
+L10	Weekend & Past Time	stop	zaustaviti; prestati	gl
+L10	Weekend & Past Time	plan	planirati; plan	gl
+L10	Weekend & Past Time	move	pomaknuti; preseliti se	gl
+L10	Weekend & Past Time	went	otišao (prošlo od go)	gl
+L10	Weekend & Past Time	had	imao (prošlo od have)	gl
+L10	Weekend & Past Time	saw	vidio (prošlo od see)	gl
+L10	Weekend & Past Time	got	dobio; postao (prošlo od get)	gl
+L10	Weekend & Past Time	did	učinio (prošlo od do)	gl
+L10	Weekend & Past Time	made	napravio (prošlo od make)	gl
+L10	Weekend & Past Time	came	došao (prošlo od come)	gl
+L10	Weekend & Past Time	ate	jeo (prošlo od eat)	gl
+L10	Weekend & Past Time	bought	kupio (prošlo od buy)	gl
+L10	Weekend & Past Time	met	sreo (prošlo od meet)	gl
+L10	Weekend & Past Time	see	vidjeti	gl
+L10	Weekend & Past Time	get	dobiti; postati	gl
+L10	Weekend & Past Time	party	zabava	im
+L10	Weekend & Past Time	newspaper	novine	im
+L10	Weekend & Past Time	magazine	časopis	im
+L10	Weekend & Past Time	letter	pismo	im
+L10	Weekend & Past Time	message	poruka	im
+L10	Weekend & Past Time	news	vijesti	im
+L10	Weekend & Past Time	trip	izlet; putovanje	im
+L10	Weekend & Past Time	picnic	piknik	im
+L10	Weekend & Past Time	countryside	selo, priroda izvan grada	im
+L10	Weekend & Past Time	memory	sjećanje	im
+L10	Weekend & Past Time	once	jednom	pril
+L10	Weekend & Past Time	great	odličan	pr
+L10	Weekend & Past Time	amazing	nevjerojatan	pr
+L10	Weekend & Past Time	terrible	užasan	pr
+L10	Weekend & Past Time	awful	grozan	pr
+L10	Weekend & Past Time	not bad	nije loše	izraz
+L10	Weekend & Past Time	lovely	divan	pr
+L10	Weekend & Past Time	finally	napokon	pril
+L10	Weekend & Past Time	suddenly	iznenada	pril
+L10	Weekend & Past Time	for a long time	dugo	izraz
+L10	Weekend & Past Time	waiter	konobar	im
+L10	Weekend & Past Time	waitress	konobarica	im
+L10	Weekend & Past Time	bill	račun	im
+L10	Weekend & Past Time	tip	napojnica	im
+L10	Weekend & Past Time	dish	jelo; posuda	im
+L10	Weekend & Past Time	dessert	desert	im
+L10	Weekend & Past Time	pub	pub, krčma	im
+L10	Weekend & Past Time	meal	obrok	im
+L10	Weekend & Past Time	birthday party	rođendanska zabava	izraz
+L10	Weekend & Past Time	popcorn	kokice	im
+L10	Weekend & Past Time	bored	kojemu je dosadno	pr
+L10	Weekend & Past Time	roast dinner	nedjeljni ručak s pečenjem	izraz
+L10	Weekend & Past Time	fish and chips	riba i pomfrit	izraz
+L10	Weekend & Past Time	walk the dog	prošetati psa	izraz
+L10	Weekend & Past Time	go for a walk	prošetati se	izraz
+L10	Weekend & Past Time	bonfire	lomača, vatra na otvorenom	im
+L10	Weekend & Past Time	camping	kampiranje	im
+L11	Trains & Trips	car	automobil	im
+L11	Trains & Trips	plane	zrakoplov	im
+L11	Trains & Trips	boat	brod, čamac	im
+L11	Trains & Trips	ferry	trajekt	im
+L11	Trains & Trips	coach	autobus (međugradski)	im
+L11	Trains & Trips	train	vlak	im
+L11	Trains & Trips	ticket	karta, ulaznica	im
+L11	Trains & Trips	return ticket	povratna karta	izraz
+L11	Trains & Trips	single ticket	karta u jednom smjeru	izraz
+L11	Trains & Trips	platform	peron	im
+L11	Trains & Trips	ticket office	blagajna	im
+L11	Trains & Trips	departure	polazak	im
+L11	Trains & Trips	arrival	dolazak	im
+L11	Trains & Trips	timetable	vozni red	im
+L11	Trains & Trips	delay	kašnjenje	im
+L11	Trains & Trips	suitcase	kovčeg	im
+L11	Trains & Trips	backpack	ruksak	im
+L11	Trains & Trips	passport	putovnica	im
+L11	Trains & Trips	ID card	osobna iskaznica	im
+L11	Trains & Trips	airport	zračna luka	im
+L11	Trains & Trips	flight	let	im
+L11	Trains & Trips	passenger	putnik, putnica	im
+L11	Trains & Trips	booking	rezervacija	im
+L11	Trains & Trips	reception	recepcija	im
+L11	Trains & Trips	double room	dvokrevetna soba	izraz
+L11	Trains & Trips	castle	dvorac	im
+L11	Trains & Trips	view	pogled	im
+L11	Trains & Trips	holiday	odmor, praznik	im
+L11	Trains & Trips	journey	putovanje	im
+L11	Trains & Trips	border	granica	im
+L11	Trains & Trips	postcard	razglednica	im
+L11	Trains & Trips	mile	milja	im
+L11	Trains & Trips	kilometre	kilometar	im
+L11	Trains & Trips	north	sjever	im
+L11	Trains & Trips	south	jug	im
+L11	Trains & Trips	east	istok	im
+L11	Trains & Trips	west	zapad	im
+L11	Trains & Trips	get on	ući (u vozilo)	izraz
+L11	Trains & Trips	get off	izaći (iz vozila)	izraz
+L11	Trains & Trips	fly	letjeti	gl
+L11	Trains & Trips	drive	voziti	gl
+L11	Trains & Trips	catch	uhvatiti	gl
+L11	Trains & Trips	miss	propustiti; nedostajati	gl
+L11	Trains & Trips	book	rezervirati	gl
+L11	Trains & Trips	hire	unajmiti	gl
+L11	Trains & Trips	pack	spakirati	gl
+L11	Trains & Trips	check in	prijaviti se (u hotel, na let)	izraz
+L11	Trains & Trips	could	mogao	gl
+L11	Trains & Trips	couldn't	nije mogao	izraz
+L11	Trains & Trips	something	nešto	zam
+L11	Trains & Trips	anything	išta; bilo što	zam
+L11	Trains & Trips	nothing	ništa	zam
+L11	Trains & Trips	somebody	netko	zam
+L11	Trains & Trips	anybody	itko; bilo tko	zam
+L11	Trains & Trips	nobody	nitko	zam
+L11	Trains & Trips	by car	automobilom	izraz
+L11	Trains & Trips	by train	vlakom	izraz
+L11	Trains & Trips	by plane	zrakoplovom	izraz
+L11	Trains & Trips	direct	izravan	pr
+L11	Trains & Trips	full	pun	pr
+L11	Trains & Trips	free	slobodan; besplatan	pr
+L11	Trains & Trips	abroad	u inozemstvu	pril
+L11	Trains & Trips	seaside	morska obala	im
+L11	Trains & Trips	guidebook	turistički vodič (knjiga)	im
+L11	Trains & Trips	sightseeing	razgledavanje	im
+L11	Trains & Trips	souvenir	suvenir	im
+L11	Trains & Trips	hostel	hostel	im
+L11	Trains & Trips	B&B	pansion s doručkom	im
+L11	Trains & Trips	tour	obilazak	im
+L11	Trains & Trips	luggage	prtljaga	im
+L11	Trains & Trips	weekend away	vikend izvan grada	izraz
+L11	Trains & Trips	seat	sjedalo	im
+L11	Trains & Trips	luggage rack	polica za prtljagu	im
+L11	Trains & Trips	map app	aplikacija s kartom	izraz
+L11	Trains & Trips	travel	putovanje	im
+L12	Clothes & Shops	clothes	odjeća	im
+L12	Clothes & Shops	shirt	košulja	im
+L12	Clothes & Shops	T-shirt	majica	im
+L12	Clothes & Shops	jumper	džemper	im
+L12	Clothes & Shops	trousers	hlače	im
+L12	Clothes & Shops	jeans	traperice	im
+L12	Clothes & Shops	skirt	suknja	im
+L12	Clothes & Shops	dress	haljina	im
+L12	Clothes & Shops	jacket	jakna	im
+L12	Clothes & Shops	coat	kaput	im
+L12	Clothes & Shops	suit	odijelo	im
+L12	Clothes & Shops	tie	kravata	im
+L12	Clothes & Shops	shoes	cipele	im
+L12	Clothes & Shops	trainers	tenisice	im
+L12	Clothes & Shops	boots	čizme	im
+L12	Clothes & Shops	socks	čarape	im
+L12	Clothes & Shops	hat	šešir	im
+L12	Clothes & Shops	scarf	šal	im
+L12	Clothes & Shops	glasses	naočale	im
+L12	Clothes & Shops	belt	remen	im
+L12	Clothes & Shops	size	veličina	im
+L12	Clothes & Shops	changing room	kabina za presvlačenje	im
+L12	Clothes & Shops	shop assistant	prodavač, prodavačica	im
+L12	Clothes & Shops	till	blagajna	im
+L12	Clothes & Shops	sale	rasprodaja	im
+L12	Clothes & Shops	discount	popust	im
+L12	Clothes & Shops	card	kartica	im
+L12	Clothes & Shops	receipt	račun (potvrda)	im
+L12	Clothes & Shops	cash	gotovina	im
+L12	Clothes & Shops	try on	isprobati	izraz
+L12	Clothes & Shops	put on	obući	izraz
+L12	Clothes & Shops	take off	skinuti	izraz
+L12	Clothes & Shops	fit	pristajati (veličinom)	gl
+L12	Clothes & Shops	suit	pristajati (stilom)	gl
+L12	Clothes & Shops	long	dug	pr
+L12	Clothes & Shops	loose	širok, labav	pr
+L12	Clothes & Shops	tight	uzak, tijesan	pr
+L12	Clothes & Shops	thin	mršav; tanak	pr
+L12	Clothes & Shops	fair	plav (kosa); pravedan	pr
+L12	Clothes & Shops	dark	taman	pr
+L12	Clothes & Shops	light	svijetao; lagan	pr
+L12	Clothes & Shops	hair	kosa	im
+L12	Clothes & Shops	eyes	oči	im
+L12	Clothes & Shops	beard	brada	im
+L12	Clothes & Shops	smart	elegantan; pametan	pr
+L12	Clothes & Shops	casual	ležeran	pr
+L12	Clothes & Shops	fashionable	moderan	pr
+L12	Clothes & Shops	style	stil	im
+L12	Clothes & Shops	interview	intervju	im
+L12	Clothes & Shops	cotton	pamuk	im
+L12	Clothes & Shops	wool	vuna	im
+L12	Clothes & Shops	leather	koža (materijal)	im
+L12	Clothes & Shops	bigger	veći	pr
+L12	Clothes & Shops	smaller	manji	pr
+L12	Clothes & Shops	better	bolji	pr
+L12	Clothes & Shops	worse	gori	pr
+L12	Clothes & Shops	than	nego, od	vez
+L12	Clothes & Shops	mine	moj (samostalno)	zam
+L12	Clothes & Shops	yours	tvoj (samostalno)	zam
+L12	Clothes & Shops	hers	njezin (samostalno)	zam
+L12	Clothes & Shops	ours	naš (samostalno)	zam
+L12	Clothes & Shops	theirs	njihov (samostalno)	zam
+L12	Clothes & Shops	whose	čiji	zam
+L12	Clothes & Shops	enough	dovoljno	pril
+L12	Clothes & Shops	more	više	pril
+L12	Clothes & Shops	less	manje	pril
+L12	Clothes & Shops	pocket	džep	im
+L12	Clothes & Shops	button	gumb	im
+L12	Clothes & Shops	zip	patentni zatvarač	im
+L12	Clothes & Shops	online shopping	internetska kupnja	izraz
+L12	Clothes & Shops	return	vratiti (se)	gl
+L12	Clothes & Shops	refund	povrat novca	im
+L12	Clothes & Shops	pretty	lijep, zgodan; prilično	pr
+L12	Clothes & Shops	department store	robna kuća	im
+L12	Clothes & Shops	customer service	služba za korisnike	im
+L13	The Body & the Doctor	body	tijelo	im
+L13	The Body & the Doctor	head	glava	im
+L13	The Body & the Doctor	face	lice	im
+L13	The Body & the Doctor	eye	oko	im
+L13	The Body & the Doctor	nose	nos	im
+L13	The Body & the Doctor	mouth	usta	im
+L13	The Body & the Doctor	ear	uho	im
+L13	The Body & the Doctor	tooth	zub	im
+L13	The Body & the Doctor	neck	vrat	im
+L13	The Body & the Doctor	throat	grlo	im
+L13	The Body & the Doctor	shoulder	rame	im
+L13	The Body & the Doctor	arm	ruka (od ramena)	im
+L13	The Body & the Doctor	hand	šaka, ruka	im
+L13	The Body & the Doctor	finger	prst	im
+L13	The Body & the Doctor	back	leđa	im
+L13	The Body & the Doctor	stomach	trbuh, želudac	im
+L13	The Body & the Doctor	heart	srce	im
+L13	The Body & the Doctor	leg	noga	im
+L13	The Body & the Doctor	knee	koljeno	im
+L13	The Body & the Doctor	foot	stopalo	im
+L13	The Body & the Doctor	ankle	gležanj	im
+L13	The Body & the Doctor	skin	koža	im
+L13	The Body & the Doctor	blood	krv	im
+L13	The Body & the Doctor	nurse	medicinska sestra, medicinski tehničar	im
+L13	The Body & the Doctor	dentist	zubar, zubarica	im
+L13	The Body & the Doctor	GP	liječnik opće prakse	im
+L13	The Body & the Doctor	surgery	ordinacija; operacija	im
+L13	The Body & the Doctor	appointment	termin, dogovoreni sastanak	im
+L13	The Body & the Doctor	patient	pacijent, pacijentica	im
+L13	The Body & the Doctor	illness	bolest	im
+L13	The Body & the Doctor	ill	bolestan	pr
+L13	The Body & the Doctor	sick	bolestan; mučno	pr
+L13	The Body & the Doctor	flu	gripa	im
+L13	The Body & the Doctor	cold	prehlada	im
+L13	The Body & the Doctor	fever	groznica, temperatura	im
+L13	The Body & the Doctor	cough	kašalj	im
+L13	The Body & the Doctor	pain	bol	im
+L13	The Body & the Doctor	ache	bol (tupa)	im
+L13	The Body & the Doctor	headache	glavobolja	im
+L13	The Body & the Doctor	toothache	zubobolja	im
+L13	The Body & the Doctor	stomach ache	bol u trbuhu	im
+L13	The Body & the Doctor	hurt	boljeti; ozlijediti	gl
+L13	The Body & the Doctor	injury	ozljeda	im
+L13	The Body & the Doctor	medicine	lijek	im
+L13	The Body & the Doctor	tablet	tableta	im
+L13	The Body & the Doctor	prescription	recept	im
+L13	The Body & the Doctor	health	zdravlje	im
+L13	The Body & the Doctor	emergency	hitni slučaj	im
+L13	The Body & the Doctor	ambulance	hitna pomoć (vozilo)	im
+L13	The Body & the Doctor	A&E	hitni prijem	im
+L13	The Body & the Doctor	symptom	simptom	im
+L13	The Body & the Doctor	break	slomiti	gl
+L13	The Body & the Doctor	feel	osjećati (se)	gl
+L13	The Body & the Doctor	get better	oporaviti se	izraz
+L13	The Body & the Doctor	breathe	disati	gl
+L13	The Body & the Doctor	should	trebao bi	gl
+L13	The Body & the Doctor	shouldn't	ne bi trebao	izraz
+L13	The Body & the Doctor	have to	morati	izraz
+L13	The Body & the Doctor	must	morati	gl
+L13	The Body & the Doctor	mustn't	ne smjeti	izraz
+L13	The Body & the Doctor	might	možda (će)	gl
+L13	The Body & the Doctor	serious	ozbiljan	pr
+L13	The Body & the Doctor	healthy	zdrav	pr
+L13	The Body & the Doctor	of course	naravno	izraz
+L13	The Body & the Doctor	don't worry	ne brini	izraz
+L13	The Body & the Doctor	get well soon	brzo ozdravi	izraz
+L13	The Body & the Doctor	bless you	nazdravlje (kod kihanja)	izraz
+L13	The Body & the Doctor	stress	stres	im
+L13	The Body & the Doctor	allergy	alergija	im
+L13	The Body & the Doctor	plaster	flaster	im
+L13	The Body & the Doctor	chemist	ljekarnik, ljekarnica	im
+L13	The Body & the Doctor	strong	jak	pr
+L13	The Body & the Doctor	weak	slab	pr
+L13	The Body & the Doctor	heavy	težak	pr
+L13	The Body & the Doctor	dizzy	ošamućen	pr
+L13	The Body & the Doctor	thermometer	toplomjer	im
+L13	The Body & the Doctor	exercise	tjelovježba	im
+L13	The Body & the Doctor	diet	prehrana	im
+L13	The Body & the Doctor	temperature (fever)	povišena temperatura	izraz
+L13	The Body & the Doctor	sneeze	kihati	gl
+L14	Plans & Celebrations	going to	namjeravati (buduće)	izraz
+L14	Plans & Celebrations	will	budući pomoćni glagol (ću, ćeš…)	gl
+L14	Plans & Celebrations	won't	neću, nećeš…	izraz
+L14	Plans & Celebrations	tomorrow	sutra	pril
+L14	Plans & Celebrations	next	sljedeći	pr
+L14	Plans & Celebrations	tonight	večeras	pril
+L14	Plans & Celebrations	soon	uskoro	pril
+L14	Plans & Celebrations	later	kasnije	pril
+L14	Plans & Celebrations	the day after tomorrow	prekosutra	izraz
+L14	Plans & Celebrations	plan	plan	im
+L14	Plans & Celebrations	celebration	proslava	im
+L14	Plans & Celebrations	present	poklon	im
+L14	Plans & Celebrations	give	dati	gl
+L14	Plans & Celebrations	send	poslati	gl
+L14	Plans & Celebrations	wrap	zamotati	gl
+L14	Plans & Celebrations	thank	zahvaliti	gl
+L14	Plans & Celebrations	wish	željeti; želja	gl
+L14	Plans & Celebrations	organise	organizirati	gl
+L14	Plans & Celebrations	decorate	ukrasiti	gl
+L14	Plans & Celebrations	prepare	pripremiti	gl
+L14	Plans & Celebrations	celebrate	slaviti	gl
+L14	Plans & Celebrations	invite	pozvati	gl
+L14	Plans & Celebrations	bring	donijeti	gl
+L14	Plans & Celebrations	happy birthday	sretan rođendan	izraz
+L14	Plans & Celebrations	congratulations	čestitam	izraz
+L14	Plans & Celebrations	merry Christmas	sretan Božić	izraz
+L14	Plans & Celebrations	happy New Year	sretna Nova godina	izraz
+L14	Plans & Celebrations	cheers	živjeli; hvala (razg.)	izraz
+L14	Plans & Celebrations	Christmas	Božić	im
+L14	Plans & Celebrations	New Year's Eve	Silvestrovo, Stara godina	im
+L14	Plans & Celebrations	Easter	Uskrs	im
+L14	Plans & Celebrations	bank holiday	državni praznik	im
+L14	Plans & Celebrations	wedding	vjenčanje	im
+L14	Plans & Celebrations	anniversary	godišnjica	im
+L14	Plans & Celebrations	candle	svijeća	im
+L14	Plans & Celebrations	balloon	balon	im
+L14	Plans & Celebrations	guest	gost, gošća	im
+L14	Plans & Celebrations	host	domaćin, domaćica	im
+L14	Plans & Celebrations	invitation	pozivnica	im
+L14	Plans & Celebrations	surprise	iznenađenje	im
+L14	Plans & Celebrations	flowers	cvijeće	im
+L14	Plans & Celebrations	perfume	parfem	im
+L14	Plans & Celebrations	jewellery	nakit	im
+L14	Plans & Celebrations	toy	igračka	im
+L14	Plans & Celebrations	board game	društvena igra	im
+L14	Plans & Celebrations	wrapping paper	ukrasni papir	im
+L14	Plans & Celebrations	ribbon	vrpca	im
+L14	Plans & Celebrations	tradition	tradicija	im
+L14	Plans & Celebrations	fireworks	vatromet	im
+L14	Plans & Celebrations	Bonfire Night	Noć vatri (5. studenoga)	im
+L14	Plans & Celebrations	Mother's Day	Majčin dan	im
+L14	Plans & Celebrations	greetings card	čestitka	im
+L14	Plans & Celebrations	happy	sretan	pr
+L14	Plans & Celebrations	pleased	zadovoljan	pr
+L14	Plans & Celebrations	surprised	iznenađen	pr
+L14	Plans & Celebrations	sad	tužan	pr
+L14	Plans & Celebrations	disappointed	razočaran	pr
+L14	Plans & Celebrations	proud	ponosan	pr
+L14	Plans & Celebrations	excited	uzbuđen	pr
+L14	Plans & Celebrations	useful	koristan	pr
+L14	Plans & Celebrations	probably	vjerojatno	pril
+L14	Plans & Celebrations	definitely	sigurno	pril
+L14	Plans & Celebrations	maybe	možda	pril
+L14	Plans & Celebrations	perhaps	možda	pril
+L14	Plans & Celebrations	I think	mislim	izraz
+L14	Plans & Celebrations	I hope	nadam se	izraz
+L14	Plans & Celebrations	predict	predvidjeti	gl
+L14	Plans & Celebrations	promise	obećati	gl
+L14	Plans & Celebrations	decide	odlučiti	gl
+L14	Plans & Celebrations	arrange	dogovoriti	gl
+L14	Plans & Celebrations	rehearse	probati, uvježbavati	gl
+L14	Plans & Celebrations	the future	budućnost	im
+L14	Plans & Celebrations	festival	festival	im
+L14	Plans & Celebrations	crowd	gužva, mnoštvo	im
+L14	Plans & Celebrations	ceremony	ceremonija	im
+L14	Plans & Celebrations	speech	govor	im
+L14	Plans & Celebrations	dress up	dotjerati se; maskirati se	izraz
+L14	Plans & Celebrations	turkey	puretina	im
+L14	Plans & Celebrations	Christmas tree	božićno drvce	im
+L14	Plans & Celebrations	mince pie	božićna pita	im
+L15	Experiences & Travel	experience	iskustvo	im
+L15	Experiences & Travel	ever	ikad	pril
+L15	Experiences & Travel	just	upravo, tek	pril
+L15	Experiences & Travel	already	već	pril
+L15	Experiences & Travel	yet	još (u pitanju i nijekanju)	pril
+L15	Experiences & Travel	been	bio (particip od be)	gl
+L15	Experiences & Travel	gone	otišao (particip od go)	gl
+L15	Experiences & Travel	seen	vidio (particip od see)	gl
+L15	Experiences & Travel	done	učinio (particip od do)	gl
+L15	Experiences & Travel	eaten	jeo (particip od eat)	gl
+L15	Experiences & Travel	tried	probao	gl
+L15	Experiences & Travel	visited	posjetio	gl
+L15	Experiences & Travel	travelled	putovao	gl
+L15	Experiences & Travel	flown	letio (particip od fly)	gl
+L15	Experiences & Travel	written	napisao (particip od write)	gl
+L15	Experiences & Travel	climb	penjati se	gl
+L15	Experiences & Travel	jump	skočiti	gl
+L15	Experiences & Travel	taste	kušati	gl
+L15	Experiences & Travel	explore	istraživati	gl
+L15	Experiences & Travel	discover	otkriti	gl
+L15	Experiences & Travel	forget	zaboraviti	gl
+L15	Experiences & Travel	remember	sjetiti se, pamtiti	gl
+L15	Experiences & Travel	drop	ispustiti	gl
+L15	Experiences & Travel	break a record	oboriti rekord	izraz
+L15	Experiences & Travel	in my life	u životu	izraz
+L15	Experiences & Travel	adventure	pustolovina	im
+L15	Experiences & Travel	island	otok	im
+L15	Experiences & Travel	desert	pustinja	im
+L15	Experiences & Travel	jungle	džungla	im
+L15	Experiences & Travel	volcano	vulkan	im
+L15	Experiences & Travel	waterfall	slap	im
+L15	Experiences & Travel	cave	špilja	im
+L15	Experiences & Travel	ocean	ocean	im
+L15	Experiences & Travel	world	svijet	im
+L15	Experiences & Travel	tourist attraction	turistička znamenitost	im
+L15	Experiences & Travel	culture	kultura	im
+L15	Experiences & Travel	foreign	strani	pr
+L15	Experiences & Travel	tent	šator	im
+L15	Experiences & Travel	skydiving	padobranstvo	im
+L15	Experiences & Travel	bungee jump	bungee skok	im
+L15	Experiences & Travel	horse	konj	im
+L15	Experiences & Travel	camel	deva	im
+L15	Experiences & Travel	elephant	slon	im
+L15	Experiences & Travel	street food	ulična hrana	im
+L15	Experiences & Travel	spicy	ljut, začinjen	pr
+L15	Experiences & Travel	delicious	ukusan	pr
+L15	Experiences & Travel	disgusting	odvratan	pr
+L15	Experiences & Travel	brave	hrabar	pr
+L15	Experiences & Travel	scared	uplašen	pr
+L15	Experiences & Travel	dangerous	opasan	pr
+L15	Experiences & Travel	exciting	uzbudljiv	pr
+L15	Experiences & Travel	unusual	neobičan	pr
+L15	Experiences & Travel	famous	slavan	pr
+L15	Experiences & Travel	once in a lifetime	jednom u životu	izraz
+L15	Experiences & Travel	bucket list	popis želja za život	izraz
+L15	Experiences & Travel	photo album	album s fotografijama	izraz
+L15	Experiences & Travel	selfie	selfie	im
+L15	Experiences & Travel	visa	viza	im
+L15	Experiences & Travel	language course	tečaj jezika	izraz
+L15	Experiences & Travel	exchange	razmjena	im
+L15	Experiences & Travel	volunteer	volonter, volonterka	im
+L15	Experiences & Travel	snorkelling	ronjenje s maskom	im
+L15	Experiences & Travel	see the sights	razgledati znamenitosti	izraz
+L15	Experiences & Travel	how many times?	koliko puta?	izraz
+L15	Experiences & Travel	three times	triput	izraz
+L15	Experiences & Travel	several	nekoliko	pr
+L15	Experiences & Travel	recently	nedavno	pril
+L15	Experiences & Travel	so far	dosad	izraz
+L15	Experiences & Travel	previous	prethodni	pr
+L15	Experiences & Travel	lately	u posljednje vrijeme	pril
+L15	Experiences & Travel	monument	spomenik	im
+L15	Experiences & Travel	tower	toranj	im
+L15	Experiences & Travel	palace	palača	im
+L15	Experiences & Travel	museum guide	vodič u muzeju	izraz
+L15	Experiences & Travel	sunrise	izlazak sunca	im
+L15	Experiences & Travel	sunset	zalazak sunca	im
+L15	Experiences & Travel	rainforest	prašuma	im
+L15	Experiences & Travel	mountain hut	planinarska kuća	im
+L15	Experiences & Travel	canoe	kanu	im
+L15	Experiences & Travel	hot-air balloon	balon na vrući zrak	im
+L16	The Home & Furniture	for	za; već (trajanje)	prij
+L16	The Home & Furniture	since	od (vremenski)	prij
+L16	The Home & Furniture	how long?	koliko dugo?	izraz
+L16	The Home & Furniture	change	promjena	im
+L16	The Home & Furniture	move house	preseliti se	izraz
+L16	The Home & Furniture	removal van	kombi za selidbu	izraz
+L16	The Home & Furniture	rent	najamnina	im
+L16	The Home & Furniture	landlord	stanodavac	im
+L16	The Home & Furniture	tenant	stanar, podstanar	im
+L16	The Home & Furniture	block of flats	stambena zgrada	im
+L16	The Home & Furniture	floor	kat; pod	im
+L16	The Home & Furniture	ground floor	prizemlje	im
+L16	The Home & Furniture	lift	dizalo	im
+L16	The Home & Furniture	stairs	stube	im
+L16	The Home & Furniture	balcony	balkon	im
+L16	The Home & Furniture	garden	vrt	im
+L16	The Home & Furniture	garage	garaža	im
+L16	The Home & Furniture	basement	podrum	im
+L16	The Home & Furniture	hall	hodnik, predsoblje	im
+L16	The Home & Furniture	dining room	blagovaonica	im
+L16	The Home & Furniture	furniture	namještaj	im
+L16	The Home & Furniture	armchair	naslonjač	im
+L16	The Home & Furniture	shelf	polica	im
+L16	The Home & Furniture	bookcase	polica za knjige	im
+L16	The Home & Furniture	drawer	ladica	im
+L16	The Home & Furniture	desk	radni stol	im
+L16	The Home & Furniture	cushion	jastučić	im
+L16	The Home & Furniture	pillow	jastuk	im
+L16	The Home & Furniture	curtains	zavjese	im
+L16	The Home & Furniture	sheet	plahta	im
+L16	The Home & Furniture	blanket	deka, pokrivač	im
+L16	The Home & Furniture	fridge	hladnjak	im
+L16	The Home & Furniture	oven	pećnica	im
+L16	The Home & Furniture	cooker	štednjak	im
+L16	The Home & Furniture	microwave	mikrovalna pećnica	im
+L16	The Home & Furniture	washing machine	perilica rublja	im
+L16	The Home & Furniture	dishwasher	perilica posuđa	im
+L16	The Home & Furniture	sink	sudoper	im
+L16	The Home & Furniture	bath	kada	im
+L16	The Home & Furniture	heating	grijanje	im
+L16	The Home & Furniture	light	svjetlo	im
+L16	The Home & Furniture	socket	utičnica	im
+L16	The Home & Furniture	ceiling	strop	im
+L16	The Home & Furniture	roof	krov	im
+L16	The Home & Furniture	freezer	zamrzivač	im
+L16	The Home & Furniture	housework	kućanski poslovi	im
+L16	The Home & Furniture	do the washing-up	oprati posuđe	izraz
+L16	The Home & Furniture	hoover	usisavati; usisavač	gl
+L16	The Home & Furniture	iron	glačati; glačalo	gl
+L16	The Home & Furniture	make the bed	namjestiti krevet	izraz
+L16	The Home & Furniture	take out the rubbish	iznijeti smeće	izraz
+L16	The Home & Furniture	rubbish	smeće	im
+L16	The Home & Furniture	cardboard	karton	im
+L16	The Home & Furniture	fix	popraviti	gl
+L16	The Home & Furniture	build	graditi	gl
+L16	The Home & Furniture	grow	rasti; uzgajati	gl
+L16	The Home & Furniture	improve	poboljšati	gl
+L16	The Home & Furniture	become	postati	gl
+L16	The Home & Furniture	spacious	prostran	pr
+L16	The Home & Furniture	quiet	tih, miran	pr
+L16	The Home & Furniture	noisy	bučan	pr
+L16	The Home & Furniture	clean	čist	pr
+L16	The Home & Furniture	dirty	prljav	pr
+L16	The Home & Furniture	comfortable	udoban	pr
+L16	The Home & Furniture	cosy	ugodan, topao	pr
+L16	The Home & Furniture	modern	moderan	pr
+L16	The Home & Furniture	upstairs	gore (na katu)	pril
+L16	The Home & Furniture	downstairs	dolje (u prizemlju)	pril
+L16	The Home & Furniture	neighbourhood	susjedstvo	im
+L16	The Home & Furniture	decade	desetljeće	im
+L16	The Home & Furniture	since then	otada	izraz
+L16	The Home & Furniture	all my life	cijeli život	izraz
+L16	The Home & Furniture	doormat	otirač	im
+L16	The Home & Furniture	doorbell	zvono na vratima	im
+L16	The Home & Furniture	lamp shade	sjenilo	im
+L16	The Home & Furniture	carpet	tepih (preko cijelog poda)	im
+L16	The Home & Furniture	toilet	zahod	im
+L16	The Home & Furniture	tap	slavina	im
+L16	The Home & Furniture	plug	utikač	im
+L16	The Home & Furniture	paint (n.)	boja (za zidove)	izraz
+L17	Town, Village & Nature	village	selo	im
+L17	Town, Village & Nature	town	gradić	im
+L17	Town, Village & Nature	farm	farma	im
+L17	Town, Village & Nature	field	polje	im
+L17	Town, Village & Nature	forest	šuma	im
+L17	Town, Village & Nature	wood	šumarak; drvo (materijal)	im
+L17	Town, Village & Nature	tree	stablo	im
+L17	Town, Village & Nature	hill	brdo	im
+L17	Town, Village & Nature	valley	dolina	im
+L17	Town, Village & Nature	path	staza	im
+L17	Town, Village & Nature	meadow	livada	im
+L17	Town, Village & Nature	landscape	krajolik	im
+L17	Town, Village & Nature	nature	priroda	im
+L17	Town, Village & Nature	grass	trava	im
+L17	Town, Village & Nature	leaf	list	im
+L17	Town, Village & Nature	stone	kamen	im
+L17	Town, Village & Nature	star	zvijezda	im
+L17	Town, Village & Nature	moon	mjesec (nebesko tijelo)	im
+L17	Town, Village & Nature	air	zrak	im
+L17	Town, Village & Nature	animal	životinja	im
+L17	Town, Village & Nature	cow	krava	im
+L17	Town, Village & Nature	sheep	ovca	im
+L17	Town, Village & Nature	pig	svinja	im
+L17	Town, Village & Nature	bird	ptica	im
+L17	Town, Village & Nature	rabbit	zec	im
+L17	Town, Village & Nature	insect	kukac	im
+L17	Town, Village & Nature	farmer	poljoprivrednik, poljoprivrednica	im
+L17	Town, Village & Nature	noise	buka	im
+L17	Town, Village & Nature	traffic	promet	im
+L17	Town, Village & Nature	pollution	onečišćenje	im
+L17	Town, Village & Nature	traffic jam	prometna gužva	im
+L17	Town, Village & Nature	public transport	javni prijevoz	im
+L17	Town, Village & Nature	skyscraper	neboder	im
+L17	Town, Village & Nature	suburbs	predgrađe	im
+L17	Town, Village & Nature	resident	stanovnik, stanovnica	im
+L17	Town, Village & Nature	life	život	im
+L17	Town, Village & Nature	region	regija	im
+L17	Town, Village & Nature	environment	okoliš	im
+L17	Town, Village & Nature	recycling	recikliranje	im
+L17	Town, Village & Nature	bin	kanta za smeće	im
+L17	Town, Village & Nature	compare	usporediti	gl
+L17	Town, Village & Nature	protect	zaštititi	gl
+L17	Town, Village & Nature	recycle	reciklirati	gl
+L17	Town, Village & Nature	the best	najbolji	izraz
+L17	Town, Village & Nature	the worst	najgori	izraz
+L17	Town, Village & Nature	the most	najviše; naj-	izraz
+L17	Town, Village & Nature	the least	najmanje	izraz
+L17	Town, Village & Nature	as … as	jednako … kao	izraz
+L17	Town, Village & Nature	if	ako	vez
+L17	Town, Village & Nature	unless	osim ako	vez
+L17	Town, Village & Nature	peaceful	miran	pr
+L17	Town, Village & Nature	lively	živahan	pr
+L17	Town, Village & Nature	crowded	prepun ljudi	pr
+L17	Town, Village & Nature	polluted	onečišćen	pr
+L17	Town, Village & Nature	wild	divlji	pr
+L17	Town, Village & Nature	isolated	izoliran	pr
+L17	Town, Village & Nature	beautiful	prekrasan	pr
+L17	Town, Village & Nature	safe	siguran	pr
+L17	Town, Village & Nature	typical	tipičan	pr
+L17	Town, Village & Nature	green (eco)	zelen, ekološki	izraz
+L17	Town, Village & Nature	everywhere	posvuda	pril
+L17	Town, Village & Nature	somewhere	negdje	pril
+L17	Town, Village & Nature	nowhere	nigdje	pril
+L17	Town, Village & Nature	around	oko, okolo	prij
+L17	Town, Village & Nature	in the middle of	usred	izraz
+L17	Town, Village & Nature	coast	obala	im
+L17	Town, Village & Nature	footpath	pješačka staza	im
+L17	Town, Village & Nature	cottage	kućica na selu	im
+L17	Town, Village & Nature	pond	ribnjak, jezerce	im
+L17	Town, Village & Nature	fence	ograda	im
+L17	Town, Village & Nature	gate	vrata (dvorišna), kapija	im
+L17	Town, Village & Nature	local	lokalni, mjesni	pr
+L17	Town, Village & Nature	rural	seoski	pr
+L17	Town, Village & Nature	urban	gradski	pr
+L17	Town, Village & Nature	community	zajednica	im
+L17	Town, Village & Nature	population	stanovništvo	im
+L17	Town, Village & Nature	river bank	obala rijeke	im
+L17	Town, Village & Nature	church tower	crkveni toranj	im
+L18	Childhood & School	childhood	djetinjstvo	im
+L18	Childhood & School	used to	nekada (je radio)	izraz
+L18	Childhood & School	when I was a child	kad sam bio dijete	izraz
+L18	Childhood & School	primary school	osnovna škola	im
+L18	Childhood & School	secondary school	srednja škola	im
+L18	Childhood & School	nursery	vrtić	im
+L18	Childhood & School	classroom	učionica	im
+L18	Childhood & School	teacher	učitelj, učiteljica	im
+L18	Childhood & School	pupil	učenik, učenica	im
+L18	Childhood & School	student	student, studentica	im
+L18	Childhood & School	lesson	sat, lekcija	im
+L18	Childhood & School	homework	domaća zadaća	im
+L18	Childhood & School	exam	ispit	im
+L18	Childhood & School	mark	ocjena	im
+L18	Childhood & School	break time	odmor (u školi)	im
+L18	Childhood & School	playground	igralište	im
+L18	Childhood & School	board	ploča	im
+L18	Childhood & School	ruler	ravnalo	im
+L18	Childhood & School	rubber	gumica	im
+L18	Childhood & School	pencil case	pernica	im
+L18	Childhood & School	uniform	uniforma	im
+L18	Childhood & School	maths	matematika	im
+L18	Childhood & School	history	povijest	im
+L18	Childhood & School	geography	zemljopis	im
+L18	Childhood & School	science	prirodne znanosti	im
+L18	Childhood & School	subject	predmet	im
+L18	Childhood & School	biology	biologija	im
+L18	Childhood & School	chemistry	kemija	im
+L18	Childhood & School	physics	fizika	im
+L18	Childhood & School	PE	tjelesni odgoj	im
+L18	Childhood & School	art	likovni; umjetnost	im
+L18	Childhood & School	classmate	kolega iz razreda	im
+L18	Childhood & School	hide-and-seek	skrivača	im
+L18	Childhood & School	swing	ljuljačka	im
+L18	Childhood & School	cartoon	crtić	im
+L18	Childhood & School	summer camp	ljetni kamp	im
+L18	Childhood & School	attic	tavan	im
+L18	Childhood & School	teddy bear	medvjedić	im
+L18	Childhood & School	kite	zmaj (igračka)	im
+L18	Childhood & School	was doing	radio je (u tom trenutku)	izraz
+L18	Childhood & School	while	dok	vez
+L18	Childhood & School	as a child	kao dijete	izraz
+L18	Childhood & School	in those days	u ono vrijeme	izraz
+L18	Childhood & School	grow up	odrasti	izraz
+L18	Childhood & School	teach	poučavati	gl
+L18	Childhood & School	repeat	ponoviti	gl
+L18	Childhood & School	explain	objasniti	gl
+L18	Childhood & School	revise	ponavljati gradivo	gl
+L18	Childhood & School	punish	kazniti	gl
+L18	Childhood & School	pass	položiti; proći	gl
+L18	Childhood & School	fail	pasti (ispit)	gl
+L18	Childhood & School	be good at	biti dobar u	izraz
+L18	Childhood & School	naughty	nestašan	pr
+L18	Childhood & School	shy	sramežljiv	pr
+L18	Childhood & School	curious	znatiželjan	pr
+L18	Childhood & School	talkative	pričljiv	pr
+L18	Childhood & School	strict	strog	pr
+L18	Childhood & School	easy	lagan	pr
+L18	Childhood & School	difficult	težak	pr
+L18	Childhood & School	thousand	tisuća	broj
+L18	Childhood & School	century	stoljeće	im
+L18	Childhood & School	diary	dnevnik	im
+L18	Childhood & School	report	izvješće; svjedodžba	im
+L18	Childhood & School	story	priča	im
+L18	Childhood & School	fairy tale	bajka	im
+L18	Childhood & School	grandad	djed (razg.)	im
+L18	Childhood & School	granny	baka (razg.)	im
+L18	Childhood & School	school trip	školski izlet	im
+L18	Childhood & School	lunchbox	kutija za užinu	im
+L18	Childhood & School	headteacher	ravnatelj, ravnateljica	im
+L18	Childhood & School	blackboard	školska ploča	im
+L18	Childhood & School	timetable (school)	raspored sati	izraz
+L18	Childhood & School	textbook	udžbenik	im
+L18	Childhood & School	dictionary	rječnik	im
+L18	Childhood & School	school bag	školska torba	im
+L18	Childhood & School	canteen	menza	im
+L18	Childhood & School	term	polugodište	im
+L18	Childhood & School	holidays (school)	školski praznici	izraz
+L18	Childhood & School	babysitter	dadilja	im
+L18	Childhood & School	marbles	klikeri	im
+L19	Wishes & Advice	dream	san	im
+L19	Wishes & Advice	wish	želja	im
+L19	Wishes & Advice	advice	savjet	im
+L19	Wishes & Advice	advise	savjetovati	gl
+L19	Wishes & Advice	suggest	predložiti	gl
+L19	Wishes & Advice	recommend	preporučiti	gl
+L19	Wishes & Advice	imagine	zamisliti	gl
+L19	Wishes & Advice	would	bi (kondicional)	gl
+L19	Wishes & Advice	wouldn't	ne bi	izraz
+L19	Wishes & Advice	if I were you	da sam na tvom mjestu	izraz
+L19	Wishes & Advice	I'd rather	radije bih	izraz
+L19	Wishes & Advice	feel like	imati volje za	izraz
+L19	Wishes & Advice	be afraid of	bojati se	izraz
+L19	Wishes & Advice	be right	biti u pravu	izraz
+L19	Wishes & Advice	be wrong	biti u krivu	izraz
+L19	Wishes & Advice	lottery	lutrija	im
+L19	Wishes & Advice	win the lottery	dobiti na lutriji	izraz
+L19	Wishes & Advice	million	milijun	broj
+L19	Wishes & Advice	rich	bogat	pr
+L19	Wishes & Advice	poor	siromašan	pr
+L19	Wishes & Advice	money	novac	im
+L19	Wishes & Advice	spend	potrošiti; provesti	gl
+L19	Wishes & Advice	save	uštedjeti; spasiti	gl
+L19	Wishes & Advice	lend	posuditi (nekome)	gl
+L19	Wishes & Advice	borrow	posuditi (od nekoga)	gl
+L19	Wishes & Advice	around the world	oko svijeta	izraz
+L19	Wishes & Advice	sailing boat	jedrilica	im
+L19	Wishes & Advice	luxury	luksuz	im
+L19	Wishes & Advice	cruise	krstarenje	im
+L19	Wishes & Advice	freedom	sloboda	im
+L19	Wishes & Advice	happiness	sreća	im
+L19	Wishes & Advice	luck	sreća (slučaj)	im
+L19	Wishes & Advice	chance	prilika; šansa	im
+L19	Wishes & Advice	choice	izbor	im
+L19	Wishes & Advice	decision	odluka	im
+L19	Wishes & Advice	choose	izabrati	gl
+L19	Wishes & Advice	stop doing	prestati raditi	izraz
+L19	Wishes & Advice	keep doing	nastaviti raditi	izraz
+L19	Wishes & Advice	it would be better	bilo bi bolje	izraz
+L19	Wishes & Advice	I'd love to	rado bih	izraz
+L19	Wishes & Advice	really	stvarno	pril
+L19	Wishes & Advice	absolutely	apsolutno	pril
+L19	Wishes & Advice	certainly	sigurno	pril
+L19	Wishes & Advice	otherwise	inače	pril
+L19	Wishes & Advice	however	međutim	pril
+L19	Wishes & Advice	even	čak	pril
+L19	Wishes & Advice	solution	rješenje	im
+L19	Wishes & Advice	idea	ideja	im
+L19	Wishes & Advice	goal	cilj	im
+L19	Wishes & Advice	courage	hrabrost	im
+L19	Wishes & Advice	patience	strpljenje	im
+L19	Wishes & Advice	truth	istina	im
+L19	Wishes & Advice	hope	nada	im
+L19	Wishes & Advice	budget	proračun	im
+L19	Wishes & Advice	generous	velikodušan	pr
+L19	Wishes & Advice	selfish	sebičan	pr
+L19	Wishes & Advice	careful	oprezan	pr
+L19	Wishes & Advice	possible	moguć	pr
+L19	Wishes & Advice	impossible	nemoguć	pr
+L19	Wishes & Advice	ideal	idealan	pr
+L19	Wishes & Advice	perfect	savršen	pr
+L19	Wishes & Advice	important	važan	pr
+L19	Wishes & Advice	necessary	potreban	pr
+L19	Wishes & Advice	doubt	sumnja	im
+L19	Wishes & Advice	opportunity	prilika	im
+L19	Wishes & Advice	volunteering	volontiranje	im
+L19	Wishes & Advice	donate	donirati	gl
+L19	Wishes & Advice	charity	dobrotvorna organizacija	im
+L19	Wishes & Advice	own	posjedovati	gl
+L19	Wishes & Advice	quit	dati otkaz; prestati	gl
+L19	Wishes & Advice	career	karijera	im
+L19	Wishes & Advice	salary	plaća	im
+L19	Wishes & Advice	boss	šef, šefica	im
+L19	Wishes & Advice	company	tvrtka	im
+L19	Wishes & Advice	designer	dizajner, dizajnerica	im
+L19	Wishes & Advice	dream job	posao iz snova	izraz
+L19	Wishes & Advice	promotion	promaknuće	im
+L19	Wishes & Advice	win	pobjeda	im
+L19	Wishes & Advice	retire	umiroviti se	gl
+L20	Memories & the Future	whom	koga, kojem (službeno)	zam
+L20	Memories & the Future	which	koji (za stvari)	zam
+L20	Memories & the Future	phrasal verb	frazni glagol	im
+L20	Memories & the Future	wherever	gdje god	pril
+L20	Memories & the Future	find out	saznati	izraz
+L20	Memories & the Future	give up	odustati	izraz
+L20	Memories & the Future	look after	brinuti se o	izraz
+L20	Memories & the Future	look forward to	veseliti se	izraz
+L20	Memories & the Future	pick up	pokupiti	izraz
+L20	Memories & the Future	put off	odgoditi	izraz
+L20	Memories & the Future	set up	osnovati, postaviti	izraz
+L20	Memories & the Future	turn up	pojaviti se	izraz
+L20	Memories & the Future	carry on	nastaviti	izraz
+L20	Memories & the Future	get on with	slagati se s	izraz
+L20	Memories & the Future	move on	krenuti dalje	izraz
+L20	Memories & the Future	keep in touch	ostati u kontaktu	izraz
+L20	Memories & the Future	come back	vratiti se	izraz
+L20	Memories & the Future	say goodbye	oprostiti se	izraz
+L20	Memories & the Future	I miss you	nedostaješ mi	izraz
+L20	Memories & the Future	feel at home	osjećati se kao kod kuće	izraz
+L20	Memories & the Future	unforgettable	nezaboravan	pr
+L20	Memories & the Future	friendship	prijateljstvo	im
+L20	Memories & the Future	love	ljubav	im
+L20	Memories & the Future	feeling	osjećaj	im
+L20	Memories & the Future	joy	radost	im
+L20	Memories & the Future	sadness	tuga	im
+L20	Memories & the Future	emotion	emocija	im
+L20	Memories & the Future	end	kraj	im
+L20	Memories & the Future	beginning	početak	im
+L20	Memories & the Future	progress	napredak	im
+L20	Memories & the Future	level	razina	im
+L20	Memories & the Future	certificate	potvrda, certifikat	im
+L20	Memories & the Future	success	uspjeh	im
+L20	Memories & the Future	chapter	poglavlje	im
+L20	Memories & the Future	stage	faza; pozornica	im
+L20	Memories & the Future	next year	sljedeće godine	izraz
+L20	Memories & the Future	a year ago	prije godinu dana	izraz
+L20	Memories & the Future	in a year	za godinu dana	izraz
+L20	Memories & the Future	forever	zauvijek	pril
+L20	Memories & the Future	again	ponovno	pril
+L20	Memories & the Future	think	misliti	gl
+L20	Memories & the Future	believe	vjerovati	gl
+L20	Memories & the Future	share	dijeliti	gl
+L20	Memories & the Future	keep	zadržati; čuvati	gl
+L20	Memories & the Future	thanks to	zahvaljujući	izraz
+L20	Memories & the Future	despite	unatoč	prij
+L20	Memories & the Future	because of	zbog	izraz
+L20	Memories & the Future	so	pa, dakle; tako	vez
+L20	Memories & the Future	as soon as	čim	izraz
+L20	Memories & the Future	everyone	svi	zam
+L20	Memories & the Future	someone	netko	zam
+L20	Memories & the Future	each	svaki	zam
+L20	Memories & the Future	everything	sve	zam
+L20	Memories & the Future	same	isti	pr
+L20	Memories & the Future	different	različit	pr
+L20	Memories & the Future	other	drugi	pr
+L20	Memories & the Future	dear	dragi	pr
+L20	Memories & the Future	loyal	odan	pr
+L20	Memories & the Future	grateful	zahvalan	pr
+L20	Memories & the Future	moving	dirljiv	pr
+L20	Memories & the Future	thing	stvar	im
+L20	Memories & the Future	fate	sudbina	im
+L20	Memories & the Future	wisdom	mudrost	im
+L20	Memories & the Future	farewell	oproštaj	im
+L20	Memories & the Future	proud of	ponosan na	izraz
+L20	Memories & the Future	graduation	diploma (svečanost)	im
+L20	Memories & the Future	reunion	ponovni susret	im
+L20	Memories & the Future	achieve	postići	gl
+L20	Memories & the Future	gratitude	zahvalnost	im
+L20	Memories & the Future	memories	uspomene	im
+L20	Memories & the Future	toast	zdravica	im
+L20	Memories & the Future	hug	zagrljaj	im
+L20	Memories & the Future	skyline	obris grada	im
+L20	Memories & the Future	milestone	prekretnica	im
+L20	Memories & the Future	look back	osvrnuti se	izraz
+L20	Memories & the Future	look back on	sjećati se, osvrnuti se na	izraz
+L20	Memories & the Future	achievement	postignuće	im
