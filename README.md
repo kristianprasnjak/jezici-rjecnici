@@ -40,9 +40,9 @@ Stupci TSV-a: `razina | tema | XX | en | vrsta` (za engleski tečaj `razina | te
   (`le livre`, `la maison`, `l'ami (m)`); kod `l'` i istog oblika za oba roda rod je u zagradi.
   Engleski: imenica bez člana, glagol u osnovnom obliku (`book`, `go`); ista riječ kao imenica i
   glagol dva je retka s različitom vrstom.
-- Napomena u zagradi razlikuje značenja (`la muñeca (juguete)`); za provjeru duplikata se zanemaruje.
   Latinski: lema s makronima (`rosa`, `amō`); esperanto: lema; interslavenski: školski standard
   (odluke ISV1/ISV2 u `croland/jezici-koncept/ODLUKE-VLASNIKA.md`).
+- Napomena u zagradi razlikuje značenja (`la muñeca (juguete)`); za provjeru duplikata se zanemaruje.
 - **Vrsta**: `im` imenica, `gl` glagol, `pr` pridjev, `pril` prilog, `zam` zamjenica, `prij` prijedlog,
   `vez` veznik, `broj`, `izraz` (više riječi / fraza), `usk` uzvik, `čest` čestica, `čl` član,
   `afiks` (tvorba riječi, esperanto).
