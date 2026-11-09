@@ -44,3 +44,11 @@ Riječi: **1347** · greške: **0** · upozorenja: **0**
 | veznik | 12 |
 | čestica | 6 |
 | član | 6 |
+
+## Faza B — oblici
+
+| Vrsta | Stupci | Popunjeno |
+|---|---|---:|
+| imenica | rod, mnozina | 683 / 683 |
+| pridjev | zenski, mnozina_pr | 141 / 141 |
+| glagol | gl_skupina, pomocni, particip, prezent | 182 / 182 |

@@ -3,6 +3,8 @@
 
 Pokretanje iz korijena repoa:  python3 alati/gradi.py fr   (ili bez argumenta = svi jezici)
 TSV je izvor istine; JSONL se uvijek gradi iz njega i ne uređuje se ručno.
+Prenose se svi stupci, i oni iz faze B (rod, mnozina, zenski, mnozina_pr, gl_skupina,
+pomocni, particip, prezent); prazna polja se izostavljaju, „—“ (oblik ne postoji) se prenosi.
 """
 import csv, json, os, sys
 

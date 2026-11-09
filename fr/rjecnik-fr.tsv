@@ -1,1348 +1,1348 @@
-razina	tema	fr	en	vrsta
-L0	Sounds & Familiar Words	le café	coffee; café	im
-L0	Sounds & Familiar Words	le restaurant	restaurant	im
-L0	Sounds & Familiar Words	l'hôtel (m)	hotel	im
-L0	Sounds & Familiar Words	le taxi	taxi	im
-L0	Sounds & Familiar Words	le bus	bus	im
-L0	Sounds & Familiar Words	le train	train	im
-L0	Sounds & Familiar Words	le chocolat	chocolate	im
-L0	Sounds & Familiar Words	la banane	banana	im
-L0	Sounds & Familiar Words	la pizza	pizza	im
-L0	Sounds & Familiar Words	la salade	salad	im
-L0	Sounds & Familiar Words	la soupe	soup	im
-L0	Sounds & Familiar Words	le thé	tea	im
-L0	Sounds & Familiar Words	la musique	music	im
-L0	Sounds & Familiar Words	le football	football	im
-L0	Sounds & Familiar Words	le tennis	tennis	im
-L0	Sounds & Familiar Words	le cinéma	cinema	im
-L0	Sounds & Familiar Words	le théâtre	theatre	im
-L0	Sounds & Familiar Words	le film	film	im
-L0	Sounds & Familiar Words	la radio	radio	im
-L0	Sounds & Familiar Words	la télévision	television	im
-L0	Sounds & Familiar Words	le téléphone	telephone	im
-L0	Sounds & Familiar Words	la photo	photo	im
-L0	Sounds & Familiar Words	le parc	park	im
-L0	Sounds & Familiar Words	la place	square; place; seat	im
-L0	Sounds & Familiar Words	la question	question	im
-L0	Sounds & Familiar Words	la nature	nature	im
-L0	Sounds & Familiar Words	le moment	moment	im
-L0	Sounds & Familiar Words	la famille	family	im
-L0	Sounds & Familiar Words	le docteur	doctor	im
-L0	Sounds & Familiar Words	la police	police	im
-L0	Sounds & Familiar Words	le sport	sport	im
-L0	Sounds & Familiar Words	le menu	menu	im
-L0	Sounds & Familiar Words	la table	table	im
-L0	Sounds & Familiar Words	la date	date	im
-L0	Sounds & Familiar Words	la minute	minute	im
-L0	Sounds & Familiar Words	le weekend	weekend	im
-L1	Greetings & Countries	bonjour	hello; good morning	izraz
-L1	Greetings & Countries	bonsoir	good evening	izraz
-L1	Greetings & Countries	salut	hi; bye (informal)	izraz
-L1	Greetings & Countries	au revoir	goodbye	izraz
-L1	Greetings & Countries	à bientôt	see you soon	izraz
-L1	Greetings & Countries	merci	thank you	izraz
-L1	Greetings & Countries	s'il vous plaît	please (formal)	izraz
-L1	Greetings & Countries	s'il te plaît	please (informal)	izraz
-L1	Greetings & Countries	pardon	sorry; excuse me	izraz
-L1	Greetings & Countries	excusez-moi	excuse me	izraz
-L1	Greetings & Countries	oui	yes	čest
-L1	Greetings & Countries	non	no	čest
-L1	Greetings & Countries	madame	madam; Mrs	im
-L1	Greetings & Countries	monsieur	sir; Mr	im
-L1	Greetings & Countries	mademoiselle	miss	im
-L1	Greetings & Countries	comment ça va ?	how are you?	izraz
-L1	Greetings & Countries	ça va	fine; it's OK	izraz
-L1	Greetings & Countries	bien	well; fine	pril
-L1	Greetings & Countries	très	very	pril
-L1	Greetings & Countries	et	and	vez
-L1	Greetings & Countries	je m'appelle	my name is	izraz
-L1	Greetings & Countries	enchanté	pleased to meet you	izraz
-L1	Greetings & Countries	être	to be	gl
-L1	Greetings & Countries	je	I	zam
-L1	Greetings & Countries	tu	you (informal)	zam
-L1	Greetings & Countries	il	he; it	zam
-L1	Greetings & Countries	elle	she; it	zam
-L1	Greetings & Countries	nous	we	zam
-L1	Greetings & Countries	vous	you (formal; plural)	zam
-L1	Greetings & Countries	ils	they (m)	zam
-L1	Greetings & Countries	elles	they (f)	zam
-L1	Greetings & Countries	le pays	country	im
-L1	Greetings & Countries	la France	France	im
-L1	Greetings & Countries	le Canada	Canada	im
-L1	Greetings & Countries	l'Angleterre (f)	England	im
-L1	Greetings & Countries	l'Allemagne (f)	Germany	im
-L1	Greetings & Countries	l'Italie (f)	Italy	im
-L1	Greetings & Countries	l'Espagne (f)	Spain	im
-L1	Greetings & Countries	la Croatie	Croatia	im
-L1	Greetings & Countries	français	French	pr
-L1	Greetings & Countries	canadien	Canadian	pr
-L1	Greetings & Countries	anglais	English	pr
-L1	Greetings & Countries	allemand	German	pr
-L1	Greetings & Countries	italien	Italian	pr
-L1	Greetings & Countries	espagnol	Spanish	pr
-L1	Greetings & Countries	croate	Croatian	pr
-L1	Greetings & Countries	d'où	where from	pril
-L1	Greetings & Countries	de	from; of	prij
-L1	Greetings & Countries	en	in; to (countries)	prij
-L1	Greetings & Countries	la ville	town; city	im
-L2	The Flat & Colours	l'appartement (m)	flat	im
-L2	The Flat & Colours	la chambre	bedroom; room	im
-L2	The Flat & Colours	la pièce	room	im
-L2	The Flat & Colours	la cuisine	kitchen	im
-L2	The Flat & Colours	la salle de bains	bathroom	im
-L2	The Flat & Colours	le salon	living room	im
-L2	The Flat & Colours	la porte	door	im
-L2	The Flat & Colours	la fenêtre	window	im
-L2	The Flat & Colours	le mur	wall	im
-L2	The Flat & Colours	le lit	bed	im
-L2	The Flat & Colours	la chaise	chair	im
-L2	The Flat & Colours	le canapé	sofa	im
-L2	The Flat & Colours	l'armoire (f)	wardrobe	im
-L2	The Flat & Colours	la lampe	lamp	im
-L2	The Flat & Colours	le livre	book	im
-L2	The Flat & Colours	le stylo	pen	im
-L2	The Flat & Colours	le crayon	pencil	im
-L2	The Flat & Colours	le sac	bag	im
-L2	The Flat & Colours	la clé	key	im
-L2	The Flat & Colours	l'ordinateur (m)	computer	im
-L2	The Flat & Colours	le tapis	rug	im
-L2	The Flat & Colours	le miroir	mirror	im
-L2	The Flat & Colours	la fleur	flower	im
-L2	The Flat & Colours	la plante	plant	im
-L2	The Flat & Colours	la boîte	box	im
-L2	The Flat & Colours	le cahier	notebook	im
-L2	The Flat & Colours	la tasse	cup	im
-L2	The Flat & Colours	le verre	glass	im
-L2	The Flat & Colours	le, la, l'	the	čl
-L2	The Flat & Colours	les	the (plural)	čl
-L2	The Flat & Colours	un	a; one (m)	čl
-L2	The Flat & Colours	une	a; one (f)	čl
-L2	The Flat & Colours	des	some (plural)	čl
-L2	The Flat & Colours	c'est	it is; this is	izraz
-L2	The Flat & Colours	il y a	there is; there are	izraz
-L2	The Flat & Colours	ne … pas	not	čest
-L2	The Flat & Colours	dans	in	prij
-L2	The Flat & Colours	sur	on	prij
-L2	The Flat & Colours	sous	under	prij
-L2	The Flat & Colours	devant	in front of	prij
-L2	The Flat & Colours	derrière	behind	prij
-L2	The Flat & Colours	la couleur	colour	im
-L2	The Flat & Colours	blanc	white	pr
-L2	The Flat & Colours	noir	black	pr
-L2	The Flat & Colours	rouge	red	pr
-L2	The Flat & Colours	bleu	blue	pr
-L2	The Flat & Colours	vert	green	pr
-L2	The Flat & Colours	jaune	yellow	pr
-L2	The Flat & Colours	gris	grey	pr
-L2	The Flat & Colours	marron	brown	pr
-L2	The Flat & Colours	rose	pink	pr
-L2	The Flat & Colours	petit	small	pr
-L2	The Flat & Colours	grand	big; tall	pr
-L2	The Flat & Colours	joli	pretty	pr
-L2	The Flat & Colours	mais	but	vez
-L3	Everyday Verbs, the Week & Numbers 0–69	parler	to speak	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	travailler	to work	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	habiter	to live (somewhere)	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	aimer	to like; to love	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	adorer	to love; to adore	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	détester	to hate	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	regarder	to watch; to look at	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	écouter	to listen to	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	manger	to eat	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	étudier	to study	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	chanter	to sing	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	danser	to dance	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	cuisiner	to cook	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	jouer	to play	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	marcher	to walk	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	téléphoner	to phone	gl
-L3	Everyday Verbs, the Week & Numbers 0–69	le jour	day	im
-L3	Everyday Verbs, the Week & Numbers 0–69	la semaine	week	im
-L3	Everyday Verbs, the Week & Numbers 0–69	lundi	Monday	im
-L3	Everyday Verbs, the Week & Numbers 0–69	mardi	Tuesday	im
-L3	Everyday Verbs, the Week & Numbers 0–69	mercredi	Wednesday	im
-L3	Everyday Verbs, the Week & Numbers 0–69	jeudi	Thursday	im
-L3	Everyday Verbs, the Week & Numbers 0–69	vendredi	Friday	im
-L3	Everyday Verbs, the Week & Numbers 0–69	samedi	Saturday	im
-L3	Everyday Verbs, the Week & Numbers 0–69	dimanche	Sunday	im
-L3	Everyday Verbs, the Week & Numbers 0–69	le matin	morning	im
-L3	Everyday Verbs, the Week & Numbers 0–69	l'après-midi (m)	afternoon	im
-L3	Everyday Verbs, the Week & Numbers 0–69	le soir	evening	im
-L3	Everyday Verbs, the Week & Numbers 0–69	aujourd'hui	today	pril
-L3	Everyday Verbs, the Week & Numbers 0–69	souvent	often	pril
-L3	Everyday Verbs, the Week & Numbers 0–69	toujours	always	pril
-L3	Everyday Verbs, the Week & Numbers 0–69	est-ce que	(question marker)	izraz
-L3	Everyday Verbs, the Week & Numbers 0–69	qui	who	zam
-L3	Everyday Verbs, the Week & Numbers 0–69	quoi	what	zam
-L3	Everyday Verbs, the Week & Numbers 0–69	où	where	pril
-L3	Everyday Verbs, the Week & Numbers 0–69	quand	when	pril
-L3	Everyday Verbs, the Week & Numbers 0–69	comment	how	pril
-L3	Everyday Verbs, the Week & Numbers 0–69	pourquoi	why	pril
-L3	Everyday Verbs, the Week & Numbers 0–69	quel, quelle	which; what	pr
-L3	Everyday Verbs, the Week & Numbers 0–69	zéro	zero	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	un, une	one	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	deux	two	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	trois	three	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	quatre	four	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	cinq	five	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	six	six	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	sept	seven	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	huit	eight	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	neuf	nine	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	dix	ten	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	onze	eleven	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	douze	twelve	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	vingt	twenty	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	trente	thirty	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	quarante	forty	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	cinquante	fifty	broj
-L3	Everyday Verbs, the Week & Numbers 0–69	soixante	sixty	broj
-L4	Family & Age	la mère	mother	im
-L4	Family & Age	le père	father	im
-L4	Family & Age	les parents (m)	parents	im
-L4	Family & Age	le frère	brother	im
-L4	Family & Age	la sœur	sister	im
-L4	Family & Age	le fils	son	im
-L4	Family & Age	la fille	daughter; girl	im
-L4	Family & Age	l'enfant (m/f)	child	im
-L4	Family & Age	le bébé	baby	im
-L4	Family & Age	le mari	husband	im
-L4	Family & Age	la femme	wife; woman	im
-L4	Family & Age	l'homme (m)	man	im
-L4	Family & Age	le grand-père	grandfather	im
-L4	Family & Age	la grand-mère	grandmother	im
-L4	Family & Age	les grands-parents (m)	grandparents	im
-L4	Family & Age	l'oncle (m)	uncle	im
-L4	Family & Age	la tante	aunt	im
-L4	Family & Age	le cousin, la cousine	cousin	im
-L4	Family & Age	le neveu	nephew	im
-L4	Family & Age	la nièce	niece	im
-L4	Family & Age	le petit-fils	grandson	im
-L4	Family & Age	la petite-fille	granddaughter	im
-L4	Family & Age	l'ami, l'amie	friend	im
-L4	Family & Age	le copain, la copine	friend; boyfriend; girlfriend	im
-L4	Family & Age	le voisin, la voisine	neighbour	im
-L4	Family & Age	le chien	dog	im
-L4	Family & Age	le chat	cat	im
-L4	Family & Age	avoir	to have	gl
-L4	Family & Age	l'âge (m)	age	im
-L4	Family & Age	l'an (m)	year (in age)	im
-L4	Family & Age	l'anniversaire (m)	birthday	im
-L4	Family & Age	jeune	young	pr
-L4	Family & Age	vieux	old	pr
-L4	Family & Age	âgé	elderly	pr
-L4	Family & Age	marié	married	pr
-L4	Family & Age	célibataire	single	pr
-L4	Family & Age	mon, ma, mes	my	zam
-L4	Family & Age	ton, ta, tes	your (informal)	zam
-L4	Family & Age	son, sa, ses	his; her	zam
-L4	Family & Age	notre, nos	our	zam
-L4	Family & Age	votre, vos	your (formal; plural)	zam
-L4	Family & Age	leur, leurs	their	zam
-L4	Family & Age	pas de	no; not any	izraz
-L4	Family & Age	seul	alone; only	pr
-L4	Family & Age	ensemble	together	pril
-L4	Family & Age	gentil	kind; nice	pr
-L4	Family & Age	sympa	nice; friendly	pr
-L4	Family & Age	beau	handsome; beautiful	pr
-L4	Family & Age	le parrain	godfather	im
-L4	Family & Age	la belle-mère	mother-in-law; stepmother	im
-L4	Family & Age	s'appeler	to be called	gl
-L4	Family & Age	combien	how many; how much	pril
-L4	Family & Age	quel âge as-tu ?	how old are you?	izraz
-L4	Family & Age	aussi	also; too	pril
-L4	Family & Age	avec	with	prij
-L5	Food, Drinks & Numbers 70–100	le marché	market	im
-L5	Food, Drinks & Numbers 70–100	le pain	bread	im
-L5	Food, Drinks & Numbers 70–100	la baguette	baguette	im
-L5	Food, Drinks & Numbers 70–100	le croissant	croissant	im
-L5	Food, Drinks & Numbers 70–100	le fromage	cheese	im
-L5	Food, Drinks & Numbers 70–100	le beurre	butter	im
-L5	Food, Drinks & Numbers 70–100	le lait	milk	im
-L5	Food, Drinks & Numbers 70–100	l'œuf (m)	egg	im
-L5	Food, Drinks & Numbers 70–100	la viande	meat	im
-L5	Food, Drinks & Numbers 70–100	le poulet	chicken	im
-L5	Food, Drinks & Numbers 70–100	le poisson	fish	im
-L5	Food, Drinks & Numbers 70–100	le jambon	ham	im
-L5	Food, Drinks & Numbers 70–100	la pomme	apple	im
-L5	Food, Drinks & Numbers 70–100	la poire	pear	im
-L5	Food, Drinks & Numbers 70–100	l'orange (f)	orange	im
-L5	Food, Drinks & Numbers 70–100	la fraise	strawberry	im
-L5	Food, Drinks & Numbers 70–100	le raisin	grapes	im
-L5	Food, Drinks & Numbers 70–100	la tomate	tomato	im
-L5	Food, Drinks & Numbers 70–100	la pomme de terre	potato	im
-L5	Food, Drinks & Numbers 70–100	la carotte	carrot	im
-L5	Food, Drinks & Numbers 70–100	l'oignon (m)	onion	im
-L5	Food, Drinks & Numbers 70–100	le riz	rice	im
-L5	Food, Drinks & Numbers 70–100	les pâtes (f)	pasta	im
-L5	Food, Drinks & Numbers 70–100	le sucre	sugar	im
-L5	Food, Drinks & Numbers 70–100	le sel	salt	im
-L5	Food, Drinks & Numbers 70–100	le gâteau	cake	im
-L5	Food, Drinks & Numbers 70–100	l'eau (f)	water	im
-L5	Food, Drinks & Numbers 70–100	le jus	juice	im
-L5	Food, Drinks & Numbers 70–100	le vin	wine	im
-L5	Food, Drinks & Numbers 70–100	la bière	beer	im
-L5	Food, Drinks & Numbers 70–100	le chocolat chaud	hot chocolate	izraz
-L5	Food, Drinks & Numbers 70–100	le kilo	kilo	im
-L5	Food, Drinks & Numbers 70–100	le gramme	gram	im
-L5	Food, Drinks & Numbers 70–100	la bouteille	bottle	im
-L5	Food, Drinks & Numbers 70–100	le morceau	piece	im
-L5	Food, Drinks & Numbers 70–100	un peu de	a little; some	izraz
-L5	Food, Drinks & Numbers 70–100	beaucoup de	a lot of	izraz
-L5	Food, Drinks & Numbers 70–100	du, de la, des	some (partitive)	čl
-L5	Food, Drinks & Numbers 70–100	ce, cet, cette, ces	this; that; these	zam
-L5	Food, Drinks & Numbers 70–100	boire	to drink	gl
-L5	Food, Drinks & Numbers 70–100	acheter	to buy	gl
-L5	Food, Drinks & Numbers 70–100	coûter	to cost	gl
-L5	Food, Drinks & Numbers 70–100	je voudrais	I would like	izraz
-L5	Food, Drinks & Numbers 70–100	l'euro (m)	euro	im
-L5	Food, Drinks & Numbers 70–100	le centime	cent	im
-L5	Food, Drinks & Numbers 70–100	le prix	price	im
-L5	Food, Drinks & Numbers 70–100	cher	expensive	pr
-L5	Food, Drinks & Numbers 70–100	bon marché	cheap	pr
-L5	Food, Drinks & Numbers 70–100	bon	good; tasty	pr
-L5	Food, Drinks & Numbers 70–100	frais	fresh	pr
-L5	Food, Drinks & Numbers 70–100	le garçon	waiter; boy	im
-L5	Food, Drinks & Numbers 70–100	l'addition (f)	bill	im
-L5	Food, Drinks & Numbers 70–100	soixante-dix	seventy	broj
-L5	Food, Drinks & Numbers 70–100	quatre-vingts	eighty	broj
-L5	Food, Drinks & Numbers 70–100	quatre-vingt-dix	ninety	broj
-L5	Food, Drinks & Numbers 70–100	cent	hundred	broj
-L5	Food, Drinks & Numbers 70–100	voilà	here it is; there you are	izraz
-L5	Food, Drinks & Numbers 70–100	c'est combien ?	how much is it?	izraz
-L5	Food, Drinks & Numbers 70–100	encore	more; again; still	pril
-L6	City & Directions	la rue	street	im
-L6	City & Directions	l'avenue (f)	avenue	im
-L6	City & Directions	le quartier	neighbourhood	im
-L6	City & Directions	la boulangerie	bakery	im
-L6	City & Directions	la pharmacie	chemist's	im
-L6	City & Directions	la banque	bank	im
-L6	City & Directions	la poste	post office	im
-L6	City & Directions	le supermarché	supermarket	im
-L6	City & Directions	le magasin	shop	im
-L6	City & Directions	la gare	railway station	im
-L6	City & Directions	l'arrêt de bus (m)	bus stop	im
-L6	City & Directions	le musée	museum	im
-L6	City & Directions	l'église (f)	church	im
-L6	City & Directions	l'hôpital (m)	hospital	im
-L6	City & Directions	l'école (f)	school	im
-L6	City & Directions	la mairie	town hall	im
-L6	City & Directions	le pont	bridge	im
-L6	City & Directions	le feu	traffic light; fire	im
-L6	City & Directions	le carrefour	crossroads	im
-L6	City & Directions	le coin	corner	im
-L6	City & Directions	le plan	map (of a town)	im
-L6	City & Directions	le métro	underground	im
-L6	City & Directions	la bibliothèque	library	im
-L6	City & Directions	le bureau	office; desk	im
-L6	City & Directions	aller	to go	gl
-L6	City & Directions	venir	to come	gl
-L6	City & Directions	tourner	to turn	gl
-L6	City & Directions	traverser	to cross	gl
-L6	City & Directions	continuer	to continue	gl
-L6	City & Directions	chercher	to look for	gl
-L6	City & Directions	trouver	to find	gl
-L6	City & Directions	à	to; at; in	prij
-L6	City & Directions	au, à la, aux	to the; at the	prij
-L6	City & Directions	du, de la, des (de + le)	from the; of the	prij
-L6	City & Directions	à gauche	on the left	izraz
-L6	City & Directions	à droite	on the right	izraz
-L6	City & Directions	tout droit	straight on	izraz
-L6	City & Directions	près de	near	prij
-L6	City & Directions	loin de	far from	prij
-L6	City & Directions	à côté de	next to	prij
-L6	City & Directions	en face de	opposite	prij
-L6	City & Directions	entre	between	prij
-L6	City & Directions	jusqu'à	as far as; until	prij
-L6	City & Directions	ici	here	pril
-L6	City & Directions	là	there	pril
-L6	City & Directions	après	after; afterwards	pril
-L6	City & Directions	d'abord	first	pril
-L6	City & Directions	puis	then	pril
-L6	City & Directions	ensuite	next; then	pril
-L6	City & Directions	le trottoir	pavement	im
-L6	City & Directions	premier	first	broj
-L6	City & Directions	deuxième	second	broj
-L6	City & Directions	troisième	third	broj
-L6	City & Directions	le centre-ville	town centre	im
-L6	City & Directions	à pied	on foot	izraz
-L6	City & Directions	en bus	by bus	izraz
-L6	City & Directions	perdu	lost	pr
-L6	City & Directions	excusez-moi, où est … ?	excuse me, where is …?	izraz
-L6	City & Directions	c'est loin ?	is it far?	izraz
-L7	Hobbies, Sport & Eating Out	le loisir	hobby; leisure	im
-L7	Hobbies, Sport & Eating Out	le temps libre	free time	izraz
-L7	Hobbies, Sport & Eating Out	faire	to do; to make	gl
-L7	Hobbies, Sport & Eating Out	prendre	to take; to have (food)	gl
-L7	Hobbies, Sport & Eating Out	finir	to finish	gl
-L7	Hobbies, Sport & Eating Out	choisir	to choose	gl
-L7	Hobbies, Sport & Eating Out	réussir	to succeed	gl
-L7	Hobbies, Sport & Eating Out	lire	to read	gl
-L7	Hobbies, Sport & Eating Out	nager	to swim	gl
-L7	Hobbies, Sport & Eating Out	courir	to run	gl
-L7	Hobbies, Sport & Eating Out	voyager	to travel	gl
-L7	Hobbies, Sport & Eating Out	dessiner	to draw	gl
-L7	Hobbies, Sport & Eating Out	peindre	to paint	gl
-L7	Hobbies, Sport & Eating Out	jouer au foot	to play football	izraz
-L7	Hobbies, Sport & Eating Out	jouer de la guitare	to play the guitar	izraz
-L7	Hobbies, Sport & Eating Out	faire du vélo	to cycle	izraz
-L7	Hobbies, Sport & Eating Out	faire de la natation	to swim (as a sport)	izraz
-L7	Hobbies, Sport & Eating Out	faire une promenade	to go for a walk	izraz
-L7	Hobbies, Sport & Eating Out	le vélo	bicycle	im
-L7	Hobbies, Sport & Eating Out	la natation	swimming	im
-L7	Hobbies, Sport & Eating Out	la randonnée	hike; hiking	im
-L7	Hobbies, Sport & Eating Out	le ski	skiing	im
-L7	Hobbies, Sport & Eating Out	le basket	basketball	im
-L7	Hobbies, Sport & Eating Out	le match	match	im
-L7	Hobbies, Sport & Eating Out	l'équipe (f)	team	im
-L7	Hobbies, Sport & Eating Out	le ballon	ball	im
-L7	Hobbies, Sport & Eating Out	la guitare	guitar	im
-L7	Hobbies, Sport & Eating Out	le piano	piano	im
-L7	Hobbies, Sport & Eating Out	le jeu	game	im
-L7	Hobbies, Sport & Eating Out	le jeu vidéo	video game	im
-L7	Hobbies, Sport & Eating Out	le concert	concert	im
-L7	Hobbies, Sport & Eating Out	l'exposition (f)	exhibition	im
-L7	Hobbies, Sport & Eating Out	la piscine	swimming pool	im
-L7	Hobbies, Sport & Eating Out	le stade	stadium	im
-L7	Hobbies, Sport & Eating Out	on	we; one; people	zam
-L7	Hobbies, Sport & Eating Out	moi	me	zam
-L7	Hobbies, Sport & Eating Out	toi	you (stressed)	zam
-L7	Hobbies, Sport & Eating Out	lui	him (stressed); (to) him, her	zam
-L7	Hobbies, Sport & Eating Out	eux	them (m)	zam
-L7	Hobbies, Sport & Eating Out	la carte	menu; card; map	im
-L7	Hobbies, Sport & Eating Out	le plat	dish; main course	im
-L7	Hobbies, Sport & Eating Out	l'entrée (f)	starter; entrance	im
-L7	Hobbies, Sport & Eating Out	le dessert	dessert	im
-L7	Hobbies, Sport & Eating Out	le serveur, la serveuse	waiter; waitress	im
-L7	Hobbies, Sport & Eating Out	réserver	to book	gl
-L7	Hobbies, Sport & Eating Out	commander	to order	gl
-L7	Hobbies, Sport & Eating Out	le pourboire	tip	im
-L7	Hobbies, Sport & Eating Out	le steak-frites	steak and chips	im
-L7	Hobbies, Sport & Eating Out	les frites (f)	chips	im
-L7	Hobbies, Sport & Eating Out	la crêpe	crêpe; pancake	im
-L7	Hobbies, Sport & Eating Out	la glace	ice cream; mirror	im
-L7	Hobbies, Sport & Eating Out	délicieux	delicious	pr
-L7	Hobbies, Sport & Eating Out	préféré	favourite	pr
-L7	Hobbies, Sport & Eating Out	moi aussi	me too	izraz
-L7	Hobbies, Sport & Eating Out	moi non plus	me neither	izraz
-L7	Hobbies, Sport & Eating Out	ennuyeux	boring	pr
-L7	Hobbies, Sport & Eating Out	amusant	fun; funny	pr
-L7	Hobbies, Sport & Eating Out	intéressant	interesting	pr
-L7	Hobbies, Sport & Eating Out	parfois	sometimes	pril
-L8	Routine & Time	se réveiller	to wake up	gl
-L8	Routine & Time	se lever	to get up	gl
-L8	Routine & Time	se laver	to wash (oneself)	gl
-L8	Routine & Time	se doucher	to have a shower	gl
-L8	Routine & Time	s'habiller	to get dressed	gl
-L8	Routine & Time	se brosser les dents	to brush one's teeth	izraz
-L8	Routine & Time	se coiffer	to do one's hair	gl
-L8	Routine & Time	se maquiller	to put on make-up	gl
-L8	Routine & Time	se raser	to shave	gl
-L8	Routine & Time	se reposer	to rest	gl
-L8	Routine & Time	se coucher	to go to bed	gl
-L8	Routine & Time	se dépêcher	to hurry	gl
-L8	Routine & Time	se sentir	to feel	gl
-L8	Routine & Time	s'amuser	to have fun	gl
-L8	Routine & Time	partir	to leave	gl
-L8	Routine & Time	sortir	to go out	gl
-L8	Routine & Time	dormir	to sleep	gl
-L8	Routine & Time	préférer	to prefer	gl
-L8	Routine & Time	rentrer	to go home; to come back	gl
-L8	Routine & Time	le petit-déjeuner	breakfast	im
-L8	Routine & Time	le déjeuner	lunch	im
-L8	Routine & Time	le dîner	dinner	im
-L8	Routine & Time	prendre le petit-déjeuner	to have breakfast	izraz
-L8	Routine & Time	l'heure (f)	hour; time (o'clock)	im
-L8	Routine & Time	la demi-heure	half an hour	im
-L8	Routine & Time	quelle heure est-il ?	what time is it?	izraz
-L8	Routine & Time	il est … heures	it is … o'clock	izraz
-L8	Routine & Time	et quart	quarter past	izraz
-L8	Routine & Time	moins le quart	quarter to	izraz
-L8	Routine & Time	et demie	half past	izraz
-L8	Routine & Time	midi	midday	im
-L8	Routine & Time	minuit	midnight	im
-L8	Routine & Time	la seconde	second	im
-L8	Routine & Time	le réveil	alarm clock	im
-L8	Routine & Time	la douche	shower	im
-L8	Routine & Time	le savon	soap	im
-L8	Routine & Time	la brosse à dents	toothbrush	im
-L8	Routine & Time	la serviette	towel	im
-L8	Routine & Time	le dentifrice	toothpaste	im
-L8	Routine & Time	tôt	early	pril
-L8	Routine & Time	tard	late	pril
-L8	Routine & Time	en retard	late (not on time)	izraz
-L8	Routine & Time	à l'heure	on time	izraz
-L8	Routine & Time	vite	quickly	pril
-L8	Routine & Time	lentement	slowly	pril
-L8	Routine & Time	d'habitude	usually	pril
-L8	Routine & Time	chaque	each; every	pr
-L8	Routine & Time	tous les jours	every day	izraz
-L8	Routine & Time	la nuit	night	im
-L8	Routine & Time	fatigué	tired	pr
-L8	Routine & Time	en forme	fit; in shape	izraz
-L8	Routine & Time	la routine	routine	im
-L8	Routine & Time	le travail	work; job	im
-L8	Routine & Time	le collègue, la collègue	colleague	im
-L8	Routine & Time	vers	around (time); towards	prij
-L8	Routine & Time	avant	before	prij
-L8	Routine & Time	pendant	during	prij
-L8	Routine & Time	jamais	never	pril
-L8	Routine & Time	déjà	already	pril
-L9	Weather, Dates & Plans	le temps	weather; time	im
-L9	Weather, Dates & Plans	il fait beau	the weather is nice	izraz
-L9	Weather, Dates & Plans	il fait mauvais	the weather is bad	izraz
-L9	Weather, Dates & Plans	il fait chaud	it's hot	izraz
-L9	Weather, Dates & Plans	il fait froid	it's cold	izraz
-L9	Weather, Dates & Plans	il pleut	it's raining	izraz
-L9	Weather, Dates & Plans	il neige	it's snowing	izraz
-L9	Weather, Dates & Plans	pleuvoir	to rain	gl
-L9	Weather, Dates & Plans	neiger	to snow	gl
-L9	Weather, Dates & Plans	le soleil	sun	im
-L9	Weather, Dates & Plans	la pluie	rain	im
-L9	Weather, Dates & Plans	la neige	snow	im
-L9	Weather, Dates & Plans	le vent	wind	im
-L9	Weather, Dates & Plans	le nuage	cloud	im
-L9	Weather, Dates & Plans	l'orage (m)	storm	im
-L9	Weather, Dates & Plans	la météo	weather forecast	im
-L9	Weather, Dates & Plans	le degré	degree	im
-L9	Weather, Dates & Plans	la saison	season	im
-L9	Weather, Dates & Plans	le printemps	spring	im
-L9	Weather, Dates & Plans	l'été (m)	summer	im
-L9	Weather, Dates & Plans	l'automne (m)	autumn	im
-L9	Weather, Dates & Plans	l'hiver (m)	winter	im
-L9	Weather, Dates & Plans	le mois	month	im
-L9	Weather, Dates & Plans	janvier	January	im
-L9	Weather, Dates & Plans	février	February	im
-L9	Weather, Dates & Plans	mars	March	im
-L9	Weather, Dates & Plans	avril	April	im
-L9	Weather, Dates & Plans	mai	May	im
-L9	Weather, Dates & Plans	juin	June	im
-L9	Weather, Dates & Plans	juillet	July	im
-L9	Weather, Dates & Plans	août	August	im
-L9	Weather, Dates & Plans	septembre	September	im
-L9	Weather, Dates & Plans	octobre	October	im
-L9	Weather, Dates & Plans	novembre	November	im
-L9	Weather, Dates & Plans	décembre	December	im
-L9	Weather, Dates & Plans	le calendrier	calendar	im
-L9	Weather, Dates & Plans	mille	thousand	broj
-L9	Weather, Dates & Plans	deux cents	two hundred	broj
-L9	Weather, Dates & Plans	demain	tomorrow	pril
-L9	Weather, Dates & Plans	après-demain	the day after tomorrow	pril
-L9	Weather, Dates & Plans	le week-end prochain	next weekend	izraz
-L9	Weather, Dates & Plans	prochain	next	pr
-L9	Weather, Dates & Plans	le projet	plan; project	im
-L9	Weather, Dates & Plans	pouvoir	to be able to; can	gl
-L9	Weather, Dates & Plans	vouloir	to want	gl
-L9	Weather, Dates & Plans	attendre	to wait (for)	gl
-L9	Weather, Dates & Plans	rester	to stay	gl
-L9	Weather, Dates & Plans	inviter	to invite	gl
-L9	Weather, Dates & Plans	appeler	to call	gl
-L9	Weather, Dates & Plans	le rendez-vous	appointment; meeting	im
-L9	Weather, Dates & Plans	d'accord	OK; agreed	izraz
-L9	Weather, Dates & Plans	peut-être	maybe	pril
-L9	Weather, Dates & Plans	ne … plus	no longer	čest
-L9	Weather, Dates & Plans	ne … jamais	never	čest
-L9	Weather, Dates & Plans	ne … rien	nothing	čest
-L9	Weather, Dates & Plans	alors	so; then	vez
-L9	Weather, Dates & Plans	la plage	beach	im
-L9	Weather, Dates & Plans	la mer	sea	im
-L9	Weather, Dates & Plans	la montagne	mountain(s)	im
-L9	Weather, Dates & Plans	le parapluie	umbrella	im
-L9	Weather, Dates & Plans	allô	hello (on the phone)	izraz
-L10	Weekend & Past Time	hier	yesterday	pril
-L10	Weekend & Past Time	avant-hier	the day before yesterday	pril
-L10	Weekend & Past Time	le week-end dernier	last weekend	izraz
-L10	Weekend & Past Time	dernier	last	pr
-L10	Weekend & Past Time	la semaine dernière	last week	izraz
-L10	Weekend & Past Time	il y a deux jours	two days ago	izraz
-L10	Weekend & Past Time	ce matin	this morning	izraz
-L10	Weekend & Past Time	hier soir	last night	izraz
-L10	Weekend & Past Time	voir	to see	gl
-L10	Weekend & Past Time	écrire	to write	gl
-L10	Weekend & Past Time	recevoir	to receive	gl
-L10	Weekend & Past Time	oublier	to forget	gl
-L10	Weekend & Past Time	visiter	to visit (a place)	gl
-L10	Weekend & Past Time	rencontrer	to meet	gl
-L10	Weekend & Past Time	passer	to spend (time); to pass	gl
-L10	Weekend & Past Time	fêter	to celebrate	gl
-L10	Weekend & Past Time	ranger	to tidy	gl
-L10	Weekend & Past Time	nettoyer	to clean	gl
-L10	Weekend & Past Time	faire les courses	to do the shopping	izraz
-L10	Weekend & Past Time	faire le ménage	to do the housework	izraz
-L10	Weekend & Past Time	la fête	party	im
-L10	Weekend & Past Time	la soirée	evening; party	im
-L10	Weekend & Past Time	la bande dessinée	comic	im
-L10	Weekend & Past Time	le roman	novel	im
-L10	Weekend & Past Time	le journal	newspaper; diary	im
-L10	Weekend & Past Time	le magazine	magazine	im
-L10	Weekend & Past Time	la lettre	letter	im
-L10	Weekend & Past Time	le message	message	im
-L10	Weekend & Past Time	la série	series	im
-L10	Weekend & Past Time	l'émission (f)	programme (TV)	im
-L10	Weekend & Past Time	c'était	it was	izraz
-L10	Weekend & Past Time	génial	great	pr
-L10	Weekend & Past Time	super	super; great	pr
-L10	Weekend & Past Time	nul	rubbish; useless	pr
-L10	Weekend & Past Time	pas mal	not bad	izraz
-L10	Weekend & Past Time	terrible	terrible; great (informal)	pr
-L10	Weekend & Past Time	chez	at (someone's place)	prij
-L10	Weekend & Past Time	la chanson	song	im
-L10	Weekend & Past Time	d'abord … ensuite … enfin	first … then … finally	izraz
-L10	Weekend & Past Time	enfin	finally	pril
-L10	Weekend & Past Time	tout à coup	suddenly	pril
-L10	Weekend & Past Time	longtemps	for a long time	pril
-L10	Weekend & Past Time	une fois	once	izraz
-L10	Weekend & Past Time	la fois	time (occasion)	im
-L10	Weekend & Past Time	le souvenir	memory; souvenir	im
-L10	Weekend & Past Time	la balade	stroll	im
-L10	Weekend & Past Time	le pique-nique	picnic	im
-L10	Weekend & Past Time	la campagne	countryside	im
-L10	Weekend & Past Time	le voyage	trip; journey	im
-L10	Weekend & Past Time	la nouvelle	piece of news	im
-L10	Weekend & Past Time	raconter	to tell	gl
-L10	Weekend & Past Time	montrer	to show	gl
-L10	Weekend & Past Time	perdre	to lose	gl
-L10	Weekend & Past Time	gagner	to win; to earn	gl
-L10	Weekend & Past Time	pleurer	to cry	gl
-L10	Weekend & Past Time	rire	to laugh	gl
-L10	Weekend & Past Time	ouvrir	to open	gl
-L10	Weekend & Past Time	fermer	to close	gl
-L10	Weekend & Past Time	mettre	to put	gl
-L11	Trains & Trips	la voiture	car	im
-L11	Trains & Trips	l'avion (m)	plane	im
-L11	Trains & Trips	le bateau	boat	im
-L11	Trains & Trips	le tramway	tram	im
-L11	Trains & Trips	le TGV	high-speed train	im
-L11	Trains & Trips	le billet	ticket	im
-L11	Trains & Trips	l'aller simple (m)	single ticket	im
-L11	Trains & Trips	l'aller-retour (m)	return ticket	im
-L11	Trains & Trips	le quai	platform	im
-L11	Trains & Trips	la voie	track; platform	im
-L11	Trains & Trips	le guichet	ticket office	im
-L11	Trains & Trips	le départ	departure	im
-L11	Trains & Trips	l'arrivée (f)	arrival	im
-L11	Trains & Trips	l'horaire (m)	timetable	im
-L11	Trains & Trips	la correspondance	connection	im
-L11	Trains & Trips	le retard	delay	im
-L11	Trains & Trips	la valise	suitcase	im
-L11	Trains & Trips	le sac à dos	rucksack	im
-L11	Trains & Trips	le passeport	passport	im
-L11	Trains & Trips	la carte d'identité	identity card	im
-L11	Trains & Trips	l'aéroport (m)	airport	im
-L11	Trains & Trips	le vol	flight	im
-L11	Trains & Trips	le passager, la passagère	passenger	im
-L11	Trains & Trips	le voyageur, la voyageuse	traveller	im
-L11	Trains & Trips	la réservation	reservation	im
-L11	Trains & Trips	le séjour	stay	im
-L11	Trains & Trips	la réception	reception	im
-L11	Trains & Trips	le touriste, la touriste	tourist	im
-L11	Trains & Trips	l'office de tourisme (m)	tourist office	im
-L11	Trains & Trips	le lac	lake	im
-L11	Trains & Trips	le château	castle	im
-L11	Trains & Trips	la vue	view	im
-L11	Trains & Trips	les vacances (f)	holidays	im
-L11	Trains & Trips	arriver	to arrive	gl
-L11	Trains & Trips	monter	to go up; to get on	gl
-L11	Trains & Trips	descendre	to go down; to get off	gl
-L11	Trains & Trips	entrer	to enter	gl
-L11	Trains & Trips	tomber	to fall	gl
-L11	Trains & Trips	naître	to be born	gl
-L11	Trains & Trips	mourir	to die	gl
-L11	Trains & Trips	retourner	to go back	gl
-L11	Trains & Trips	savoir	to know (a fact)	gl
-L11	Trains & Trips	connaître	to know (a person, place)	gl
-L11	Trains & Trips	conduire	to drive	gl
-L11	Trains & Trips	changer	to change	gl
-L11	Trains & Trips	louer	to rent	gl
-L11	Trains & Trips	composter	to validate (a ticket)	gl
-L11	Trains & Trips	manquer	to miss	gl
-L11	Trains & Trips	partir en vacances	to go on holiday	izraz
-L11	Trains & Trips	en voiture	by car	izraz
-L11	Trains & Trips	en avion	by plane	izraz
-L11	Trains & Trips	en train	by train	izraz
-L11	Trains & Trips	direct	direct	pr
-L11	Trains & Trips	complet	full	pr
-L11	Trains & Trips	libre	free; vacant	pr
-L11	Trains & Trips	occupé	busy; taken	pr
-L11	Trains & Trips	vers midi	around midday	izraz
-L11	Trains & Trips	le nord	north	im
-L11	Trains & Trips	le sud	south	im
-L11	Trains & Trips	l'est (m)	east	im
-L11	Trains & Trips	l'ouest (m)	west	im
-L11	Trains & Trips	la frontière	border	im
-L11	Trains & Trips	la carte postale	postcard	im
-L11	Trains & Trips	le kilomètre	kilometre	im
-L12	Clothes, Shops & Looks	les vêtements (m)	clothes	im
-L12	Clothes, Shops & Looks	la chemise	shirt	im
-L12	Clothes, Shops & Looks	le tee-shirt	T-shirt	im
-L12	Clothes, Shops & Looks	le pull	jumper	im
-L12	Clothes, Shops & Looks	le pantalon	trousers	im
-L12	Clothes, Shops & Looks	le jean	jeans	im
-L12	Clothes, Shops & Looks	la jupe	skirt	im
-L12	Clothes, Shops & Looks	la robe	dress	im
-L12	Clothes, Shops & Looks	la veste	jacket	im
-L12	Clothes, Shops & Looks	le manteau	coat	im
-L12	Clothes, Shops & Looks	le costume	suit	im
-L12	Clothes, Shops & Looks	la cravate	tie	im
-L12	Clothes, Shops & Looks	les chaussures (f)	shoes	im
-L12	Clothes, Shops & Looks	les baskets (f)	trainers	im
-L12	Clothes, Shops & Looks	les bottes (f)	boots	im
-L12	Clothes, Shops & Looks	les chaussettes (f)	socks	im
-L12	Clothes, Shops & Looks	le chapeau	hat	im
-L12	Clothes, Shops & Looks	l'écharpe (f)	scarf	im
-L12	Clothes, Shops & Looks	les lunettes (f)	glasses	im
-L12	Clothes, Shops & Looks	la ceinture	belt	im
-L12	Clothes, Shops & Looks	la taille	size; waist	im
-L12	Clothes, Shops & Looks	la pointure	shoe size	im
-L12	Clothes, Shops & Looks	la cabine d'essayage	fitting room	im
-L12	Clothes, Shops & Looks	le vendeur, la vendeuse	shop assistant	im
-L12	Clothes, Shops & Looks	le client, la cliente	customer	im
-L12	Clothes, Shops & Looks	la caisse	till; checkout	im
-L12	Clothes, Shops & Looks	les soldes (m)	sales	im
-L12	Clothes, Shops & Looks	la carte bancaire	bank card	im
-L12	Clothes, Shops & Looks	payer	to pay	gl
-L12	Clothes, Shops & Looks	essayer	to try on; to try	gl
-L12	Clothes, Shops & Looks	porter	to wear; to carry	gl
-L12	Clothes, Shops & Looks	dire	to say; to tell	gl
-L12	Clothes, Shops & Looks	enlever	to take off	gl
-L12	Clothes, Shops & Looks	plaire	to please	gl
-L12	Clothes, Shops & Looks	ça me va	it suits me; it fits me	izraz
-L12	Clothes, Shops & Looks	nouveau	new	pr
-L12	Clothes, Shops & Looks	long	long	pr
-L12	Clothes, Shops & Looks	court	short	pr
-L12	Clothes, Shops & Looks	large	wide; loose	pr
-L12	Clothes, Shops & Looks	serré	tight	pr
-L12	Clothes, Shops & Looks	mince	thin; slim	pr
-L12	Clothes, Shops & Looks	gros	fat; big	pr
-L12	Clothes, Shops & Looks	blond	blond	pr
-L12	Clothes, Shops & Looks	brun	dark-haired	pr
-L12	Clothes, Shops & Looks	roux	red-haired	pr
-L12	Clothes, Shops & Looks	les cheveux (m)	hair	im
-L12	Clothes, Shops & Looks	les yeux (m)	eyes	im
-L12	Clothes, Shops & Looks	la barbe	beard	im
-L12	Clothes, Shops & Looks	élégant	elegant	pr
-L12	Clothes, Shops & Looks	moche	ugly (informal)	pr
-L12	Clothes, Shops & Looks	à la mode	fashionable	izraz
-L12	Clothes, Shops & Looks	le style	style	im
-L12	Clothes, Shops & Looks	l'entretien (m)	interview	im
-L12	Clothes, Shops & Looks	le centre commercial	shopping centre	im
-L12	Clothes, Shops & Looks	la boutique	boutique; shop	im
-L12	Clothes, Shops & Looks	en coton	(made of) cotton	izraz
-L12	Clothes, Shops & Looks	en laine	woollen	izraz
-L12	Clothes, Shops & Looks	le cuir	leather	im
-L12	Clothes, Shops & Looks	clair	light (colour)	pr
-L12	Clothes, Shops & Looks	foncé	dark (colour)	pr
-L12	Clothes, Shops & Looks	plus	more	pril
-L12	Clothes, Shops & Looks	moins	less	pril
-L12	Clothes, Shops & Looks	trop	too; too much	pril
-L12	Clothes, Shops & Looks	assez	enough; quite	pril
-L13	The Body & the Doctor	le corps	body	im
-L13	The Body & the Doctor	la tête	head	im
-L13	The Body & the Doctor	le visage	face	im
-L13	The Body & the Doctor	l'œil (m)	eye	im
-L13	The Body & the Doctor	le nez	nose	im
-L13	The Body & the Doctor	la bouche	mouth	im
-L13	The Body & the Doctor	l'oreille (f)	ear	im
-L13	The Body & the Doctor	la dent	tooth	im
-L13	The Body & the Doctor	le cou	neck	im
-L13	The Body & the Doctor	la gorge	throat	im
-L13	The Body & the Doctor	l'épaule (f)	shoulder	im
-L13	The Body & the Doctor	le bras	arm	im
-L13	The Body & the Doctor	la main	hand	im
-L13	The Body & the Doctor	le doigt	finger	im
-L13	The Body & the Doctor	le dos	back	im
-L13	The Body & the Doctor	le ventre	stomach; belly	im
-L13	The Body & the Doctor	le cœur	heart	im
-L13	The Body & the Doctor	la jambe	leg	im
-L13	The Body & the Doctor	le genou	knee	im
-L13	The Body & the Doctor	le pied	foot	im
-L13	The Body & the Doctor	la peau	skin	im
-L13	The Body & the Doctor	le médecin	doctor	im
-L13	The Body & the Doctor	l'infirmier, l'infirmière	nurse	im
-L13	The Body & the Doctor	le dentiste	dentist	im
-L13	The Body & the Doctor	le cabinet médical	doctor's surgery	im
-L13	The Body & the Doctor	le symptôme	symptom	im
-L13	The Body & the Doctor	le patient, la patiente	patient	im
-L13	The Body & the Doctor	la maladie	illness	im
-L13	The Body & the Doctor	malade	ill	pr
-L13	The Body & the Doctor	la grippe	flu	im
-L13	The Body & the Doctor	le rhume	cold	im
-L13	The Body & the Doctor	la fièvre	fever; temperature	im
-L13	The Body & the Doctor	la toux	cough	im
-L13	The Body & the Doctor	la douleur	pain	im
-L13	The Body & the Doctor	avoir mal à	to have a pain in	izraz
-L13	The Body & the Doctor	j'ai mal à la tête	I have a headache	izraz
-L13	The Body & the Doctor	la blessure	injury	im
-L13	The Body & the Doctor	le médicament	medicine	im
-L13	The Body & the Doctor	le comprimé	tablet	im
-L13	The Body & the Doctor	l'ordonnance (f)	prescription	im
-L13	The Body & the Doctor	le sirop	syrup	im
-L13	The Body & the Doctor	la santé	health	im
-L13	The Body & the Doctor	l'urgence (f)	emergency	im
-L13	The Body & the Doctor	l'ambulance (f)	ambulance	im
-L13	The Body & the Doctor	devoir	to have to; must	gl
-L13	The Body & the Doctor	il faut	one must; it is necessary	izraz
-L13	The Body & the Doctor	tousser	to cough	gl
-L13	The Body & the Doctor	se casser	to break (a limb)	gl
-L13	The Body & the Doctor	se blesser	to hurt oneself	gl
-L13	The Body & the Doctor	se soigner	to look after oneself	gl
-L13	The Body & the Doctor	guérir	to heal; to get better	gl
-L13	The Body & the Doctor	examiner	to examine	gl
-L13	The Body & the Doctor	respirer	to breathe	gl
-L13	The Body & the Doctor	avaler	to swallow	gl
-L13	The Body & the Doctor	le sang	blood	im
-L13	The Body & the Doctor	l'estomac (m)	stomach	im
-L13	The Body & the Doctor	grave	serious	pr
-L13	The Body & the Doctor	sain	healthy	pr
-L13	The Body & the Doctor	mieux	better	pril
-L13	The Body & the Doctor	mal	badly	pril
-L13	The Body & the Doctor	bien sûr	of course	izraz
-L13	The Body & the Doctor	ne t'inquiète pas	don't worry	izraz
-L13	The Body & the Doctor	bon rétablissement	get well soon	izraz
-L13	The Body & the Doctor	à vos souhaits	bless you	izraz
-L13	The Body & the Doctor	le stress	stress	im
-L13	The Body & the Doctor	le sommeil	sleep	im
-L13	The Body & the Doctor	l'allergie (f)	allergy	im
-L13	The Body & the Doctor	le pansement	plaster; dressing	im
-L13	The Body & the Doctor	la pharmacienne, le pharmacien	pharmacist	im
-L13	The Body & the Doctor	fort	strong	pr
-L13	The Body & the Doctor	faible	weak	pr
-L13	The Body & the Doctor	lourd	heavy	pr
-L13	The Body & the Doctor	chaud	hot; warm	pr
-L14	Parties & Presents	le cadeau	present	im
-L14	Parties & Presents	offrir	to give (as a present)	gl
-L14	Parties & Presents	donner	to give	gl
-L14	Parties & Presents	envoyer	to send	gl
-L14	Parties & Presents	apporter	to bring	gl
-L14	Parties & Presents	emballer	to wrap	gl
-L14	Parties & Presents	remercier	to thank	gl
-L14	Parties & Presents	souhaiter	to wish	gl
-L14	Parties & Presents	organiser	to organise	gl
-L14	Parties & Presents	décorer	to decorate	gl
-L14	Parties & Presents	préparer	to prepare	gl
-L14	Parties & Presents	l'hôte, l'hôtesse	host; hostess	im
-L14	Parties & Presents	le carnaval	carnival	im
-L14	Parties & Presents	joyeux anniversaire	happy birthday	izraz
-L14	Parties & Presents	bonne année	happy New Year	izraz
-L14	Parties & Presents	joyeux Noël	merry Christmas	izraz
-L14	Parties & Presents	félicitations	congratulations	izraz
-L14	Parties & Presents	santé	cheers	izraz
-L14	Parties & Presents	Noël (m)	Christmas	im
-L14	Parties & Presents	le Nouvel An	New Year	im
-L14	Parties & Presents	Pâques	Easter	im
-L14	Parties & Presents	le mariage	wedding; marriage	im
-L14	Parties & Presents	la naissance	birth	im
-L14	Parties & Presents	la fête des mères	Mother's Day	izraz
-L14	Parties & Presents	la bougie	candle	im
-L14	Parties & Presents	le ballon de baudruche	balloon	im
-L14	Parties & Presents	la tarte	tart; pie	im
-L14	Parties & Presents	le champagne	champagne	im
-L14	Parties & Presents	l'invité, l'invitée	guest	im
-L14	Parties & Presents	l'invitation (f)	invitation	im
-L14	Parties & Presents	la surprise	surprise	im
-L14	Parties & Presents	le bouquet	bouquet	im
-L14	Parties & Presents	le parfum	perfume	im
-L14	Parties & Presents	le bijou	piece of jewellery	im
-L14	Parties & Presents	la montre	watch	im
-L14	Parties & Presents	le jouet	toy	im
-L14	Parties & Presents	la poupée	doll	im
-L14	Parties & Presents	le jeu de société	board game	im
-L14	Parties & Presents	le puzzle	jigsaw puzzle	im
-L14	Parties & Presents	le papier cadeau	wrapping paper	im
-L14	Parties & Presents	le ruban	ribbon	im
-L14	Parties & Presents	le déguisement	fancy-dress costume	im
-L14	Parties & Presents	la tradition	tradition	im
-L14	Parties & Presents	l'ambiance (f)	atmosphere	im
-L14	Parties & Presents	me	me (object)	zam
-L14	Parties & Presents	te	you (object)	zam
-L14	Parties & Presents	le, la, l' (pronom)	him; her; it	zam
-L14	Parties & Presents	les (pronom)	them	zam
-L14	Parties & Presents	content	happy; pleased	pr
-L14	Parties & Presents	heureux	happy	pr
-L14	Parties & Presents	ravi	delighted	pr
-L14	Parties & Presents	surpris	surprised	pr
-L14	Parties & Presents	triste	sad	pr
-L14	Parties & Presents	déçu	disappointed	pr
-L14	Parties & Presents	fier	proud	pr
-L14	Parties & Presents	original	original	pr
-L14	Parties & Presents	utile	useful	pr
-L14	Parties & Presents	tout de suite	straight away	izraz
-L14	Parties & Presents	bientôt	soon	pril
-L14	Parties & Presents	applaudir	to clap	gl
-L14	Parties & Presents	souffler les bougies	to blow out the candles	izraz
-L14	Parties & Presents	faire la fête	to party	izraz
-L14	Parties & Presents	trinquer	to clink glasses	gl
-L14	Parties & Presents	célébrer	to celebrate	gl
-L14	Parties & Presents	le repas	meal	im
-L14	Parties & Presents	le foie gras	foie gras	im
-L14	Parties & Presents	la dinde	turkey	im
-L14	Parties & Presents	la bûche de Noël	Yule log	izraz
-L14	Parties & Presents	le sapin	fir tree; Christmas tree	im
-L14	Parties & Presents	la décoration	decoration	im
-L14	Parties & Presents	le feu d'artifice	fireworks	im
-L14	Parties & Presents	le 14 juillet	Bastille Day	izraz
-L14	Parties & Presents	la fête nationale	national holiday	izraz
-L15	Childhood & School	l'enfance (f)	childhood	im
-L15	Childhood & School	l'enfant unique (m/f)	only child	izraz
-L15	Childhood & School	le doudou	cuddly toy	im
-L15	Childhood & School	le passé	the past	im
-L15	Childhood & School	l'école primaire (f)	primary school	izraz
-L15	Childhood & School	le collège	secondary school (11–15)	im
-L15	Childhood & School	le lycée	secondary school (15–18)	im
-L15	Childhood & School	la classe	class; classroom	im
-L15	Childhood & School	le maître, la maîtresse	primary teacher	im
-L15	Childhood & School	le professeur	teacher	im
-L15	Childhood & School	l'élève (m/f)	pupil	im
-L15	Childhood & School	l'étudiant, l'étudiante	student	im
-L15	Childhood & School	la leçon	lesson	im
-L15	Childhood & School	le cours	lesson; course	im
-L15	Childhood & School	les devoirs (m)	homework	im
-L15	Childhood & School	l'examen (m)	exam	im
-L15	Childhood & School	la note	mark; note	im
-L15	Childhood & School	la récréation	break (school)	im
-L15	Childhood & School	la cour	playground; courtyard	im
-L15	Childhood & School	le tableau	board; painting	im
-L15	Childhood & School	la règle	ruler; rule	im
-L15	Childhood & School	la gomme	rubber	im
-L15	Childhood & School	le cartable	school bag	im
-L15	Childhood & School	les mathématiques (f)	mathematics	im
-L15	Childhood & School	l'histoire (f)	history; story	im
-L15	Childhood & School	la géographie	geography	im
-L15	Childhood & School	les sciences (f)	science	im
-L15	Childhood & School	la biologie	biology	im
-L15	Childhood & School	la chimie	chemistry	im
-L15	Childhood & School	la langue	language; tongue	im
-L15	Childhood & School	l'éducation physique (f)	PE	izraz
-L15	Childhood & School	la matière	subject	im
-L15	Childhood & School	le prof	teacher (informal)	im
-L15	Childhood & School	les grandes vacances	summer holidays	izraz
-L15	Childhood & School	la colonie de vacances	summer camp	izraz
-L15	Childhood & School	le grenier	attic	im
-L15	Childhood & School	la physique	physics	im
-L15	Childhood & School	la balançoire	swing	im
-L15	Childhood & School	le dessin animé	cartoon	izraz
-L15	Childhood & School	apprendre	to learn	gl
-L15	Childhood & School	comprendre	to understand	gl
-L15	Childhood & School	répéter	to repeat	gl
-L15	Childhood & School	expliquer	to explain	gl
-L15	Childhood & School	réviser	to revise	gl
-L15	Childhood & School	grandir	to grow up	gl
-L15	Childhood & School	se souvenir de	to remember	gl
-L15	Childhood & School	se rappeler	to remember	gl
-L15	Childhood & School	punir	to punish	gl
-L15	Childhood & School	être bon en	to be good at	izraz
-L15	Childhood & School	le cahier de textes	homework diary	izraz
-L15	Childhood & School	leur	(to) them	zam
-L15	Childhood & School	autrefois	in the past	pril
-L15	Childhood & School	à l'époque	at the time	izraz
-L15	Childhood & School	quand j'étais petit	when I was little	izraz
-L15	Childhood & School	le pupitre	school desk	im
-L15	Childhood & School	la cantine	school canteen	im
-L15	Childhood & School	sage	well-behaved; wise	pr
-L15	Childhood & School	timide	shy	pr
-L15	Childhood & School	curieux	curious	pr
-L15	Childhood & School	bavard	talkative	pr
-L15	Childhood & School	méchant	naughty; nasty	pr
-L15	Childhood & School	sévère	strict	pr
-L15	Childhood & School	facile	easy	pr
-L15	Childhood & School	difficile	difficult	pr
-L15	Childhood & School	cent un	one hundred and one	broj
-L15	Childhood & School	deux mille	two thousand	broj
-L15	Childhood & School	l'année (f)	year	im
-L15	Childhood & School	le siècle	century	im
-L15	Childhood & School	cent cinquante	one hundred and fifty	broj
-L15	Childhood & School	le camarade, la camarade	classmate	im
-L15	Childhood & School	la bande	group; gang	im
-L15	Childhood & School	le cache-cache	hide-and-seek	im
-L15	Childhood & School	la maternelle	nursery school	im
-L16	The Home & Furniture	la maison	house; home	im
-L16	The Home & Furniture	le déménagement	move (house)	im
-L16	The Home & Furniture	déménager	to move house	gl
-L16	The Home & Furniture	emménager	to move in	gl
-L16	The Home & Furniture	le carton	cardboard box	im
-L16	The Home & Furniture	le camion	lorry	im
-L16	The Home & Furniture	le loyer	rent	im
-L16	The Home & Furniture	le propriétaire, la propriétaire	landlord; owner	im
-L16	The Home & Furniture	le locataire, la locataire	tenant	im
-L16	The Home & Furniture	l'immeuble (m)	block of flats	im
-L16	The Home & Furniture	l'étage (m)	floor (storey)	im
-L16	The Home & Furniture	le rez-de-chaussée	ground floor	im
-L16	The Home & Furniture	l'ascenseur (m)	lift	im
-L16	The Home & Furniture	l'escalier (m)	stairs	im
-L16	The Home & Furniture	le balcon	balcony	im
-L16	The Home & Furniture	le jardin	garden	im
-L16	The Home & Furniture	le garage	garage	im
-L16	The Home & Furniture	la cave	cellar	im
-L16	The Home & Furniture	le voisinage	neighbourhood (people)	im
-L16	The Home & Furniture	les toilettes (f)	toilet	im
-L16	The Home & Furniture	la salle à manger	dining room	im
-L16	The Home & Furniture	le couloir	corridor	im
-L16	The Home & Furniture	le meuble	piece of furniture	im
-L16	The Home & Furniture	les meubles (m)	furniture	im
-L16	The Home & Furniture	le fauteuil	armchair	im
-L16	The Home & Furniture	l'étagère (f)	shelf	im
-L16	The Home & Furniture	le placard	cupboard	im
-L16	The Home & Furniture	la commode	chest of drawers	im
-L16	The Home & Furniture	le tiroir	drawer	im
-L16	The Home & Furniture	le congélateur	freezer	im
-L16	The Home & Furniture	la table basse	coffee table	izraz
-L16	The Home & Furniture	le coussin	cushion	im
-L16	The Home & Furniture	le rideau	curtain	im
-L16	The Home & Furniture	le drap	sheet	im
-L16	The Home & Furniture	la couverture	blanket	im
-L16	The Home & Furniture	l'oreiller (m)	pillow	im
-L16	The Home & Furniture	le frigo	fridge	im
-L16	The Home & Furniture	le four	oven	im
-L16	The Home & Furniture	la cuisinière	cooker	im
-L16	The Home & Furniture	le micro-ondes	microwave	im
-L16	The Home & Furniture	le lave-linge	washing machine	im
-L16	The Home & Furniture	le lave-vaisselle	dishwasher	im
-L16	The Home & Furniture	l'évier (m)	sink	im
-L16	The Home & Furniture	la baignoire	bath	im
-L16	The Home & Furniture	le lavabo	washbasin	im
-L16	The Home & Furniture	le chauffage	heating	im
-L16	The Home & Furniture	la lumière	light	im
-L16	The Home & Furniture	la prise	socket	im
-L16	The Home & Furniture	le sol	floor	im
-L16	The Home & Furniture	le plafond	ceiling	im
-L16	The Home & Furniture	le toit	roof	im
-L16	The Home & Furniture	y	there; to it	zam
-L16	The Home & Furniture	en	some; of it; of them	zam
-L16	The Home & Furniture	le bricolage	DIY	im
-L16	The Home & Furniture	installer	to install; to set up	gl
-L16	The Home & Furniture	la peinture	paint; painting	im
-L16	The Home & Furniture	transporter	to transport	gl
-L16	The Home & Furniture	aider	to help	gl
-L16	The Home & Furniture	vider	to empty	gl
-L16	The Home & Furniture	remplir	to fill	gl
-L16	The Home & Furniture	réparer	to repair	gl
-L16	The Home & Furniture	le volet	shutter	im
-L16	The Home & Furniture	neuf	brand new	pr
-L16	The Home & Furniture	ancien	old; former	pr
-L16	The Home & Furniture	spacieux	spacious	pr
-L16	The Home & Furniture	lumineux	bright	pr
-L16	The Home & Furniture	calme	quiet; calm	pr
-L16	The Home & Furniture	bruyant	noisy	pr
-L16	The Home & Furniture	propre	clean	pr
-L16	The Home & Furniture	sale	dirty	pr
-L16	The Home & Furniture	confortable	comfortable	pr
-L16	The Home & Furniture	pratique	practical	pr
-L16	The Home & Furniture	au fond	at the back	izraz
-L16	The Home & Furniture	en haut	upstairs	izraz
-L16	The Home & Furniture	en bas	downstairs	izraz
-L17	Town, Village & Nature	le bois	wood	im
-L17	Town, Village & Nature	le village	village	im
-L17	Town, Village & Nature	la ferme	farm	im
-L17	Town, Village & Nature	le champ	field	im
-L17	Town, Village & Nature	la forêt	forest	im
-L17	Town, Village & Nature	l'arbre (m)	tree	im
-L17	Town, Village & Nature	la rivière	river	im
-L17	Town, Village & Nature	le fleuve	(large) river	im
-L17	Town, Village & Nature	la colline	hill	im
-L17	Town, Village & Nature	la vallée	valley	im
-L17	Town, Village & Nature	le sommet	summit	im
-L17	Town, Village & Nature	le sentier	path	im
-L17	Town, Village & Nature	la prairie	meadow	im
-L17	Town, Village & Nature	le paysage	landscape	im
-L17	Town, Village & Nature	la nature sauvage	wilderness	izraz
-L17	Town, Village & Nature	l'herbe (f)	grass	im
-L17	Town, Village & Nature	la feuille	leaf; sheet	im
-L17	Town, Village & Nature	la pierre	stone	im
-L17	Town, Village & Nature	le ciel	sky	im
-L17	Town, Village & Nature	l'étoile (f)	star	im
-L17	Town, Village & Nature	la lune	moon	im
-L17	Town, Village & Nature	l'air (m)	air	im
-L17	Town, Village & Nature	l'animal (m)	animal	im
-L17	Town, Village & Nature	la vache	cow	im
-L17	Town, Village & Nature	le cheval	horse	im
-L17	Town, Village & Nature	le mouton	sheep	im
-L17	Town, Village & Nature	le cochon	pig	im
-L17	Town, Village & Nature	la poule	hen	im
-L17	Town, Village & Nature	l'oiseau (m)	bird	im
-L17	Town, Village & Nature	le lapin	rabbit	im
-L17	Town, Village & Nature	l'insecte (m)	insect	im
-L17	Town, Village & Nature	le paysan, la paysanne	farmer	im
-L17	Town, Village & Nature	l'agriculteur, l'agricultrice	farmer	im
-L17	Town, Village & Nature	le bruit	noise	im
-L17	Town, Village & Nature	la circulation	traffic	im
-L17	Town, Village & Nature	la pollution	pollution	im
-L17	Town, Village & Nature	l'embouteillage (m)	traffic jam	im
-L17	Town, Village & Nature	les transports en commun	public transport	izraz
-L17	Town, Village & Nature	le gratte-ciel	skyscraper	im
-L17	Town, Village & Nature	la banlieue	suburbs	im
-L17	Town, Village & Nature	le centre	centre	im
-L17	Town, Village & Nature	l'habitant, l'habitante	inhabitant	im
-L17	Town, Village & Nature	la vie	life	im
-L17	Town, Village & Nature	le monde	world; people	im
-L17	Town, Village & Nature	la région	region	im
-L17	Town, Village & Nature	l'environnement (m)	environment	im
-L17	Town, Village & Nature	le recyclage	recycling	im
-L17	Town, Village & Nature	la poubelle	bin	im
-L17	Town, Village & Nature	vivre	to live	gl
-L17	Town, Village & Nature	la grotte	cave	im
-L17	Town, Village & Nature	comparer	to compare	gl
-L17	Town, Village & Nature	la côte	coast	im
-L17	Town, Village & Nature	pousser	to grow; to push	gl
-L17	Town, Village & Nature	protéger	to protect	gl
-L17	Town, Village & Nature	recycler	to recycle	gl
-L17	Town, Village & Nature	plus … que	more … than	izraz
-L17	Town, Village & Nature	moins … que	less … than	izraz
-L17	Town, Village & Nature	aussi … que	as … as	izraz
-L17	Town, Village & Nature	meilleur	better (adj.)	pr
-L17	Town, Village & Nature	le meilleur	the best	izraz
-L17	Town, Village & Nature	le pire	the worst	izraz
-L17	Town, Village & Nature	tranquille	quiet; peaceful	pr
-L17	Town, Village & Nature	animé	lively	pr
-L17	Town, Village & Nature	pur	pure; clean	pr
-L17	Town, Village & Nature	pollué	polluted	pr
-L17	Town, Village & Nature	sauvage	wild	pr
-L17	Town, Village & Nature	isolé	isolated	pr
-L17	Town, Village & Nature	magnifique	magnificent	pr
-L17	Town, Village & Nature	dangereux	dangerous	pr
-L17	Town, Village & Nature	moderne	modern	pr
-L17	Town, Village & Nature	typique	typical	pr
-L17	Town, Village & Nature	écologique	ecological; eco-friendly	pr
-L17	Town, Village & Nature	partout	everywhere	pril
-L17	Town, Village & Nature	quelque part	somewhere	pril
-L17	Town, Village & Nature	nulle part	nowhere	pril
-L17	Town, Village & Nature	loin	far	pril
-L17	Town, Village & Nature	près	near	pril
-L17	Town, Village & Nature	autour de	around	prij
-L17	Town, Village & Nature	au bord de	at the edge of	prij
-L17	Town, Village & Nature	au milieu de	in the middle of	prij
-L18	Work & Careers	le métier	job; trade	im
-L18	Work & Careers	la profession	profession	im
-L18	Work & Careers	le poste	position; job	im
-L18	Work & Careers	l'emploi (m)	employment; job	im
-L18	Work & Careers	le chômage	unemployment	im
-L18	Work & Careers	l'entreprise (f)	company	im
-L18	Work & Careers	la société	company; society	im
-L18	Work & Careers	le patron, la patronne	boss	im
-L18	Work & Careers	le directeur, la directrice	manager; director	im
-L18	Work & Careers	l'employé, l'employée	employee	im
-L18	Work & Careers	le salaire	salary	im
-L18	Work & Careers	le contrat	contract	im
-L18	Work & Careers	le CV	CV	im
-L18	Work & Careers	la lettre de motivation	cover letter	izraz
-L18	Work & Careers	l'offre d'emploi (f)	job offer	izraz
-L18	Work & Careers	le candidat, la candidate	candidate	im
-L18	Work & Careers	l'expérience (f)	experience	im
-L18	Work & Careers	la formation	training; education	im
-L18	Work & Careers	le diplôme	qualification; degree	im
-L18	Work & Careers	le stage	internship	im
-L18	Work & Careers	la réunion	meeting	im
-L18	Work & Careers	le dossier	file	im
-L18	Work & Careers	le partenaire, la partenaire	partner	im
-L18	Work & Careers	l'ingénieur, l'ingénieure	engineer	im
-L18	Work & Careers	l'avocat, l'avocate	lawyer	im
-L18	Work & Careers	le plombier	plumber	im
-L18	Work & Careers	le cuisinier, la cuisinière	cook	im
-L18	Work & Careers	le policier, la policière	police officer	im
-L18	Work & Careers	le journaliste, la journaliste	journalist	im
-L18	Work & Careers	l'informaticien, l'informaticienne	IT specialist	im
-L18	Work & Careers	l'architecte (m/f)	architect	im
-L18	Work & Careers	le comptable, la comptable	accountant	im
-L18	Work & Careers	le coiffeur, la coiffeuse	hairdresser	im
-L18	Work & Careers	le boulanger, la boulangère	baker	im
-L18	Work & Careers	le facteur, la factrice	postman; postwoman	im
-L18	Work & Careers	l'artiste (m/f)	artist	im
-L18	Work & Careers	l'acteur, l'actrice	actor; actress	im
-L18	Work & Careers	le musicien, la musicienne	musician	im
-L18	Work & Careers	le chef	chef; boss	im
-L18	Work & Careers	l'usine (f)	factory	im
-L18	Work & Careers	l'électricien, l'électricienne	electrician	im
-L18	Work & Careers	le télétravail	working from home	im
-L18	Work & Careers	l'avenir (m)	future	im
-L18	Work & Careers	le futur	future (tense)	im
-L18	Work & Careers	la carrière	career	im
-L18	Work & Careers	l'objectif (m)	goal	im
-L18	Work & Careers	la retraite	retirement	im
-L18	Work & Careers	postuler	to apply	gl
-L18	Work & Careers	embaucher	to hire	gl
-L18	Work & Careers	gérer	to manage	gl
-L18	Work & Careers	diriger	to manage; to lead	gl
-L18	Work & Careers	développer	to develop	gl
-L18	Work & Careers	créer	to create	gl
-L18	Work & Careers	devenir	to become	gl
-L18	Work & Careers	espérer	to hope	gl
-L18	Work & Careers	le recrutement	recruitment	im
-L18	Work & Careers	la promotion	promotion	im
-L18	Work & Careers	prendre sa retraite	to retire	izraz
-L18	Work & Careers	gagner sa vie	to earn a living	izraz
-L18	Work & Careers	depuis	since; for	prij
-L18	Work & Careers	si	if	vez
-L18	Work & Careers	la candidature	application	im
-L18	Work & Careers	l'augmentation (f)	pay rise	im
-L18	Work & Careers	un jour	one day	izraz
-L18	Work & Careers	plus tard	later	izraz
-L18	Work & Careers	sérieux	serious	pr
-L18	Work & Careers	motivé	motivated	pr
-L18	Work & Careers	dynamique	dynamic	pr
-L18	Work & Careers	responsable	responsible	pr
-L18	Work & Careers	organisé	organised	pr
-L18	Work & Careers	créatif	creative	pr
-L18	Work & Careers	patient	patient	pr
-L18	Work & Careers	professionnel	professional	pr
-L18	Work & Careers	à temps plein	full-time	izraz
-L18	Work & Careers	à temps partiel	part-time	izraz
-L18	Work & Careers	bien payé	well paid	izraz
-L18	Work & Careers	mal payé	badly paid	izraz
-L18	Work & Careers	international	international	pr
-L18	Work & Careers	le défi	challenge	im
-L19	Wishes & Advice	le rêve	dream	im
-L19	Wishes & Advice	rêver	to dream	gl
-L19	Wishes & Advice	le souhait	wish	im
-L19	Wishes & Advice	le désir	desire	im
-L19	Wishes & Advice	le conseil	piece of advice	im
-L19	Wishes & Advice	conseiller	to advise	gl
-L19	Wishes & Advice	proposer	to suggest	gl
-L19	Wishes & Advice	suggérer	to suggest	gl
-L19	Wishes & Advice	recommander	to recommend	gl
-L19	Wishes & Advice	imaginer	to imagine	gl
-L19	Wishes & Advice	aimer bien	to quite like	izraz
-L19	Wishes & Advice	avoir envie de	to feel like	izraz
-L19	Wishes & Advice	avoir besoin de	to need	izraz
-L19	Wishes & Advice	avoir peur de	to be afraid of	izraz
-L19	Wishes & Advice	avoir raison	to be right	izraz
-L19	Wishes & Advice	avoir tort	to be wrong	izraz
-L19	Wishes & Advice	avoir le temps	to have time	izraz
-L19	Wishes & Advice	la loterie	lottery	im
-L19	Wishes & Advice	gagner au loto	to win the lottery	izraz
-L19	Wishes & Advice	le million	million	im
-L19	Wishes & Advice	riche	rich	pr
-L19	Wishes & Advice	pauvre	poor	pr
-L19	Wishes & Advice	la richesse	wealth	im
-L19	Wishes & Advice	l'argent (m)	money	im
-L19	Wishes & Advice	dépenser	to spend (money)	gl
-L19	Wishes & Advice	économiser	to save (money)	gl
-L19	Wishes & Advice	prêter	to lend	gl
-L19	Wishes & Advice	emprunter	to borrow	gl
-L19	Wishes & Advice	le tour du monde	round-the-world trip	izraz
-L19	Wishes & Advice	faire le tour du monde	to travel around the world	izraz
-L19	Wishes & Advice	la croisière	cruise	im
-L19	Wishes & Advice	l'île (f)	island	im
-L19	Wishes & Advice	le bateau à voile	sailing boat	izraz
-L19	Wishes & Advice	le luxe	luxury	im
-L19	Wishes & Advice	la liberté	freedom	im
-L19	Wishes & Advice	le bonheur	happiness	im
-L19	Wishes & Advice	la chance	luck; chance	im
-L19	Wishes & Advice	la possibilité	possibility	im
-L19	Wishes & Advice	le choix	choice	im
-L19	Wishes & Advice	la décision	decision	im
-L19	Wishes & Advice	décider	to decide	gl
-L19	Wishes & Advice	essayer de	to try to	izraz
-L19	Wishes & Advice	arrêter de	to stop (doing)	izraz
-L19	Wishes & Advice	commencer à	to start (doing)	izraz
-L19	Wishes & Advice	continuer à	to keep (doing)	izraz
-L19	Wishes & Advice	à ta place	if I were you	izraz
-L19	Wishes & Advice	tu devrais	you should	izraz
-L19	Wishes & Advice	il vaudrait mieux	it would be better	izraz
-L19	Wishes & Advice	ce serait bien	it would be good	izraz
-L19	Wishes & Advice	j'aimerais	I would like	izraz
-L19	Wishes & Advice	si j'étais toi	if I were you	izraz
-L19	Wishes & Advice	volontiers	gladly	pril
-L19	Wishes & Advice	vraiment	really	pril
-L19	Wishes & Advice	absolument	absolutely	pril
-L19	Wishes & Advice	sûrement	surely; certainly	pril
-L19	Wishes & Advice	probablement	probably	pril
-L19	Wishes & Advice	sinon	otherwise	vez
-L19	Wishes & Advice	pourtant	yet; however	vez
-L19	Wishes & Advice	même	even	pril
-L19	Wishes & Advice	le budget	budget	im
-L19	Wishes & Advice	la vérité	truth	im
-L19	Wishes & Advice	l'espoir (m)	hope	im
-L19	Wishes & Advice	le problème	problem	im
-L19	Wishes & Advice	la solution	solution	im
-L19	Wishes & Advice	l'idée (f)	idea	im
-L19	Wishes & Advice	le but	aim; goal	im
-L19	Wishes & Advice	le courage	courage	im
-L19	Wishes & Advice	la patience	patience	im
-L19	Wishes & Advice	généreux	generous	pr
-L19	Wishes & Advice	égoïste	selfish	pr
-L19	Wishes & Advice	prudent	careful	pr
-L19	Wishes & Advice	possible	possible	pr
-L19	Wishes & Advice	impossible	impossible	pr
-L19	Wishes & Advice	idéal	ideal	pr
-L19	Wishes & Advice	parfait	perfect	pr
-L19	Wishes & Advice	important	important	pr
-L19	Wishes & Advice	nécessaire	necessary	pr
-L19	Wishes & Advice	calmement	calmly	pril
-L20	Memories & the Future	l'émotion (f)	emotion	im
-L20	Memories & the Future	regretter	to regret; to miss	gl
-L20	Memories & the Future	le regret	regret	im
-L20	Memories & the Future	la mémoire	memory (ability)	im
-L20	Memories & the Future	la sagesse	wisdom	im
-L20	Memories & the Future	l'instant (m)	instant; moment	im
-L20	Memories & the Future	inoubliable	unforgettable	pr
-L20	Memories & the Future	l'adieu (m)	farewell	im
-L20	Memories & the Future	le retour	return	im
-L20	Memories & the Future	revenir	to come back	gl
-L20	Memories & the Future	quitter	to leave (a place, a person)	gl
-L20	Memories & the Future	dire au revoir	to say goodbye	izraz
-L20	Memories & the Future	manquer à quelqu'un	to be missed by someone	izraz
-L20	Memories & the Future	tu me manques	I miss you	izraz
-L20	Memories & the Future	se sentir chez soi	to feel at home	izraz
-L20	Memories & the Future	l'amitié (f)	friendship	im
-L20	Memories & the Future	l'amour (m)	love	im
-L20	Memories & the Future	le sentiment	feeling	im
-L20	Memories & the Future	la joie	joy	im
-L20	Memories & the Future	la tristesse	sadness	im
-L20	Memories & the Future	la nostalgie	nostalgia	im
-L20	Memories & the Future	la fin	end	im
-L20	Memories & the Future	le début	beginning	im
-L20	Memories & the Future	le changement	change	im
-L20	Memories & the Future	le progrès	progress	im
-L20	Memories & the Future	le niveau	level	im
-L20	Memories & the Future	le résultat	result	im
-L20	Memories & the Future	le certificat	certificate	im
-L20	Memories & the Future	la réussite	success	im
-L20	Memories & the Future	l'aventure (f)	adventure	im
-L20	Memories & the Future	le destin	fate	im
-L20	Memories & the Future	le chapitre	chapter	im
-L20	Memories & the Future	l'étape (f)	stage; step	im
-L20	Memories & the Future	l'année prochaine	next year	izraz
-L20	Memories & the Future	l'année dernière	last year	izraz
-L20	Memories & the Future	il y a un an	a year ago	izraz
-L20	Memories & the Future	dans un an	in a year	izraz
-L20	Memories & the Future	pour toujours	forever	izraz
-L20	Memories & the Future	de nouveau	again	izraz
-L20	Memories & the Future	que	that; which (relative)	zam
-L20	Memories & the Future	lequel, laquelle	which (one)	zam
-L20	Memories & the Future	dont	whose; of which	zam
-L20	Memories & the Future	ce qui	what (subject)	zam
-L20	Memories & the Future	ce que	what (object)	zam
-L20	Memories & the Future	penser	to think	gl
-L20	Memories & the Future	croire	to believe	gl
-L20	Memories & the Future	sentir	to feel; to smell	gl
-L20	Memories & the Future	partager	to share	gl
-L20	Memories & the Future	garder	to keep	gl
-L20	Memories & the Future	promettre	to promise	gl
-L20	Memories & the Future	féliciter	to congratulate	gl
-L20	Memories & the Future	répondre	to answer	gl
-L20	Memories & the Future	rester en contact	to stay in touch	izraz
-L20	Memories & the Future	grâce à	thanks to	prij
-L20	Memories & the Future	malgré	despite	prij
-L20	Memories & the Future	à cause de	because of	prij
-L20	Memories & the Future	parce que	because	vez
-L20	Memories & the Future	donc	so; therefore	vez
-L20	Memories & the Future	comme	as; like	vez
-L20	Memories & the Future	lorsque	when	vez
-L20	Memories & the Future	pendant que	while	vez
-L20	Memories & the Future	depuis que	since	vez
-L20	Memories & the Future	tout le monde	everyone	izraz
-L20	Memories & the Future	quelqu'un	someone	zam
-L20	Memories & the Future	personne	nobody	zam
-L20	Memories & the Future	quelque chose	something	zam
-L20	Memories & the Future	rien	nothing	zam
-L20	Memories & the Future	chacun	each one	zam
-L20	Memories & the Future	tout	all; everything	zam
-L20	Memories & the Future	plusieurs	several	pr
-L20	Memories & the Future	certain	certain; some	pr
-L20	Memories & the Future	même (adj.)	same	pr
-L20	Memories & the Future	autre	other	pr
-L20	Memories & the Future	lointain	distant	pr
-L20	Memories & the Future	chéri	darling; dear	pr
-L20	Memories & the Future	fidèle	loyal	pr
-L20	Memories & the Future	reconnaissant	grateful	pr
-L20	Memories & the Future	émouvant	moving	pr
-L20	Memories & the Future	la chose	thing	im
+razina	tema	fr	en	vrsta	rod	mnozina	zenski	mnozina_pr	gl_skupina	pomocni	particip	prezent
+L0	Sounds & Familiar Words	le café	coffee; café	im	m	cafés						
+L0	Sounds & Familiar Words	le restaurant	restaurant	im	m	restaurants						
+L0	Sounds & Familiar Words	l'hôtel (m)	hotel	im	m	hôtels						
+L0	Sounds & Familiar Words	le taxi	taxi	im	m	taxis						
+L0	Sounds & Familiar Words	le bus	bus	im	m	bus						
+L0	Sounds & Familiar Words	le train	train	im	m	trains						
+L0	Sounds & Familiar Words	le chocolat	chocolate	im	m	chocolats						
+L0	Sounds & Familiar Words	la banane	banana	im	f	bananes						
+L0	Sounds & Familiar Words	la pizza	pizza	im	f	pizzas						
+L0	Sounds & Familiar Words	la salade	salad	im	f	salades						
+L0	Sounds & Familiar Words	la soupe	soup	im	f	soupes						
+L0	Sounds & Familiar Words	le thé	tea	im	m	thés						
+L0	Sounds & Familiar Words	la musique	music	im	f	musiques						
+L0	Sounds & Familiar Words	le football	football	im	m	—						
+L0	Sounds & Familiar Words	le tennis	tennis	im	m	—						
+L0	Sounds & Familiar Words	le cinéma	cinema	im	m	cinémas						
+L0	Sounds & Familiar Words	le théâtre	theatre	im	m	théâtres						
+L0	Sounds & Familiar Words	le film	film	im	m	films						
+L0	Sounds & Familiar Words	la radio	radio	im	f	radios						
+L0	Sounds & Familiar Words	la télévision	television	im	f	télévisions						
+L0	Sounds & Familiar Words	le téléphone	telephone	im	m	téléphones						
+L0	Sounds & Familiar Words	la photo	photo	im	f	photos						
+L0	Sounds & Familiar Words	le parc	park	im	m	parcs						
+L0	Sounds & Familiar Words	la place	square; place; seat	im	f	places						
+L0	Sounds & Familiar Words	la question	question	im	f	questions						
+L0	Sounds & Familiar Words	la nature	nature	im	f	—						
+L0	Sounds & Familiar Words	le moment	moment	im	m	moments						
+L0	Sounds & Familiar Words	la famille	family	im	f	familles						
+L0	Sounds & Familiar Words	le docteur	doctor	im	m	docteurs						
+L0	Sounds & Familiar Words	la police	police	im	f	—						
+L0	Sounds & Familiar Words	le sport	sport	im	m	sports						
+L0	Sounds & Familiar Words	le menu	menu	im	m	menus						
+L0	Sounds & Familiar Words	la table	table	im	f	tables						
+L0	Sounds & Familiar Words	la date	date	im	f	dates						
+L0	Sounds & Familiar Words	la minute	minute	im	f	minutes						
+L0	Sounds & Familiar Words	le week-end	weekend	im	m	week-ends						
+L1	Greetings & Countries	bonjour	hello; good morning	izraz								
+L1	Greetings & Countries	bonsoir	good evening	izraz								
+L1	Greetings & Countries	salut	hi; bye (informal)	izraz								
+L1	Greetings & Countries	au revoir	goodbye	izraz								
+L1	Greetings & Countries	à bientôt	see you soon	izraz								
+L1	Greetings & Countries	merci	thank you	izraz								
+L1	Greetings & Countries	s'il vous plaît	please (formal)	izraz								
+L1	Greetings & Countries	s'il te plaît	please (informal)	izraz								
+L1	Greetings & Countries	pardon	sorry; excuse me	izraz								
+L1	Greetings & Countries	excusez-moi	excuse me	izraz								
+L1	Greetings & Countries	oui	yes	čest								
+L1	Greetings & Countries	non	no	čest								
+L1	Greetings & Countries	madame	madam; Mrs	im	f	mesdames						
+L1	Greetings & Countries	monsieur	sir; Mr	im	m	messieurs						
+L1	Greetings & Countries	mademoiselle	miss	im	f	mesdemoiselles						
+L1	Greetings & Countries	comment ça va ?	how are you?	izraz								
+L1	Greetings & Countries	ça va	fine; it's OK	izraz								
+L1	Greetings & Countries	bien	well; fine	pril								
+L1	Greetings & Countries	très	very	pril								
+L1	Greetings & Countries	et	and	vez								
+L1	Greetings & Countries	je m'appelle	my name is	izraz								
+L1	Greetings & Countries	enchanté	pleased to meet you	izraz								
+L1	Greetings & Countries	être	to be	gl					3	avoir	été	suis · es · est · sommes · êtes · sont
+L1	Greetings & Countries	je	I	zam								
+L1	Greetings & Countries	tu	you (informal)	zam								
+L1	Greetings & Countries	il	he; it	zam								
+L1	Greetings & Countries	elle	she; it	zam								
+L1	Greetings & Countries	nous	we	zam								
+L1	Greetings & Countries	vous	you (formal; plural)	zam								
+L1	Greetings & Countries	ils	they (m)	zam								
+L1	Greetings & Countries	elles	they (f)	zam								
+L1	Greetings & Countries	le pays	country	im	m	pays						
+L1	Greetings & Countries	la France	France	im	f	—						
+L1	Greetings & Countries	le Canada	Canada	im	m	—						
+L1	Greetings & Countries	l'Angleterre (f)	England	im	f	—						
+L1	Greetings & Countries	l'Allemagne (f)	Germany	im	f	—						
+L1	Greetings & Countries	l'Italie (f)	Italy	im	f	—						
+L1	Greetings & Countries	l'Espagne (f)	Spain	im	f	—						
+L1	Greetings & Countries	la Croatie	Croatia	im	f	—						
+L1	Greetings & Countries	français	French	pr			française	français / françaises				
+L1	Greetings & Countries	canadien	Canadian	pr			canadienne	canadiens / canadiennes				
+L1	Greetings & Countries	anglais	English	pr			anglaise	anglais / anglaises				
+L1	Greetings & Countries	allemand	German	pr			allemande	allemands / allemandes				
+L1	Greetings & Countries	italien	Italian	pr			italienne	italiens / italiennes				
+L1	Greetings & Countries	espagnol	Spanish	pr			espagnole	espagnols / espagnoles				
+L1	Greetings & Countries	croate	Croatian	pr			croate	croates / croates				
+L1	Greetings & Countries	d'où	where from	pril								
+L1	Greetings & Countries	de	from; of	prij								
+L1	Greetings & Countries	en	in; to (countries)	prij								
+L1	Greetings & Countries	la ville	town; city	im	f	villes						
+L2	The Flat & Colours	l'appartement (m)	flat	im	m	appartements						
+L2	The Flat & Colours	la chambre	bedroom; room	im	f	chambres						
+L2	The Flat & Colours	la pièce	room	im	f	pièces						
+L2	The Flat & Colours	la cuisine	kitchen	im	f	cuisines						
+L2	The Flat & Colours	la salle de bains	bathroom	im	f	salles de bains						
+L2	The Flat & Colours	le salon	living room	im	m	salons						
+L2	The Flat & Colours	la porte	door	im	f	portes						
+L2	The Flat & Colours	la fenêtre	window	im	f	fenêtres						
+L2	The Flat & Colours	le mur	wall	im	m	murs						
+L2	The Flat & Colours	le lit	bed	im	m	lits						
+L2	The Flat & Colours	la chaise	chair	im	f	chaises						
+L2	The Flat & Colours	le canapé	sofa	im	m	canapés						
+L2	The Flat & Colours	l'armoire (f)	wardrobe	im	f	armoires						
+L2	The Flat & Colours	la lampe	lamp	im	f	lampes						
+L2	The Flat & Colours	le livre	book	im	m	livres						
+L2	The Flat & Colours	le stylo	pen	im	m	stylos						
+L2	The Flat & Colours	le crayon	pencil	im	m	crayons						
+L2	The Flat & Colours	le sac	bag	im	m	sacs						
+L2	The Flat & Colours	la clé	key	im	f	clés						
+L2	The Flat & Colours	l'ordinateur (m)	computer	im	m	ordinateurs						
+L2	The Flat & Colours	le tapis	rug	im	m	tapis						
+L2	The Flat & Colours	le miroir	mirror	im	m	miroirs						
+L2	The Flat & Colours	la fleur	flower	im	f	fleurs						
+L2	The Flat & Colours	la plante	plant	im	f	plantes						
+L2	The Flat & Colours	la boîte	box	im	f	boîtes						
+L2	The Flat & Colours	le cahier	notebook	im	m	cahiers						
+L2	The Flat & Colours	la tasse	cup	im	f	tasses						
+L2	The Flat & Colours	le verre	glass	im	m	verres						
+L2	The Flat & Colours	le, la, l'	the	čl								
+L2	The Flat & Colours	les	the (plural)	čl								
+L2	The Flat & Colours	un	a; one (m)	čl								
+L2	The Flat & Colours	une	a; one (f)	čl								
+L2	The Flat & Colours	des	some (plural)	čl								
+L2	The Flat & Colours	c'est	it is; this is	izraz								
+L2	The Flat & Colours	il y a	there is; there are	izraz								
+L2	The Flat & Colours	ne … pas	not	čest								
+L2	The Flat & Colours	dans	in	prij								
+L2	The Flat & Colours	sur	on	prij								
+L2	The Flat & Colours	sous	under	prij								
+L2	The Flat & Colours	devant	in front of	prij								
+L2	The Flat & Colours	derrière	behind	prij								
+L2	The Flat & Colours	la couleur	colour	im	f	couleurs						
+L2	The Flat & Colours	blanc	white	pr			blanche	blancs / blanches				
+L2	The Flat & Colours	noir	black	pr			noire	noirs / noires				
+L2	The Flat & Colours	rouge	red	pr			rouge	rouges / rouges				
+L2	The Flat & Colours	bleu	blue	pr			bleue	bleus / bleues				
+L2	The Flat & Colours	vert	green	pr			verte	verts / vertes				
+L2	The Flat & Colours	jaune	yellow	pr			jaune	jaunes / jaunes				
+L2	The Flat & Colours	gris	grey	pr			grise	gris / grises				
+L2	The Flat & Colours	marron	brown	pr			marron	marron / marron				
+L2	The Flat & Colours	rose	pink	pr			rose	roses / roses				
+L2	The Flat & Colours	petit	small	pr			petite	petits / petites				
+L2	The Flat & Colours	grand	big; tall	pr			grande	grands / grandes				
+L2	The Flat & Colours	joli	pretty	pr			jolie	jolis / jolies				
+L2	The Flat & Colours	mais	but	vez								
+L3	Everyday Verbs, the Week & Numbers 0–69	parler	to speak	gl					1	avoir	parlé	parle · parles · parle · parlons · parlez · parlent
+L3	Everyday Verbs, the Week & Numbers 0–69	travailler	to work	gl					1	avoir	travaillé	travaille · travailles · travaille · travaillons · travaillez · travaillent
+L3	Everyday Verbs, the Week & Numbers 0–69	habiter	to live (somewhere)	gl					1	avoir	habité	habite · habites · habite · habitons · habitez · habitent
+L3	Everyday Verbs, the Week & Numbers 0–69	aimer	to like; to love	gl					1	avoir	aimé	aime · aimes · aime · aimons · aimez · aiment
+L3	Everyday Verbs, the Week & Numbers 0–69	adorer	to love; to adore	gl					1	avoir	adoré	adore · adores · adore · adorons · adorez · adorent
+L3	Everyday Verbs, the Week & Numbers 0–69	détester	to hate	gl					1	avoir	détesté	déteste · détestes · déteste · détestons · détestez · détestent
+L3	Everyday Verbs, the Week & Numbers 0–69	regarder	to watch; to look at	gl					1	avoir	regardé	regarde · regardes · regarde · regardons · regardez · regardent
+L3	Everyday Verbs, the Week & Numbers 0–69	écouter	to listen to	gl					1	avoir	écouté	écoute · écoutes · écoute · écoutons · écoutez · écoutent
+L3	Everyday Verbs, the Week & Numbers 0–69	manger	to eat	gl					1	avoir	mangé	mange · manges · mange · mangeons · mangez · mangent
+L3	Everyday Verbs, the Week & Numbers 0–69	étudier	to study	gl					1	avoir	étudié	étudie · étudies · étudie · étudions · étudiez · étudient
+L3	Everyday Verbs, the Week & Numbers 0–69	chanter	to sing	gl					1	avoir	chanté	chante · chantes · chante · chantons · chantez · chantent
+L3	Everyday Verbs, the Week & Numbers 0–69	danser	to dance	gl					1	avoir	dansé	danse · danses · danse · dansons · dansez · dansent
+L3	Everyday Verbs, the Week & Numbers 0–69	cuisiner	to cook	gl					1	avoir	cuisiné	cuisine · cuisines · cuisine · cuisinons · cuisinez · cuisinent
+L3	Everyday Verbs, the Week & Numbers 0–69	jouer	to play	gl					1	avoir	joué	joue · joues · joue · jouons · jouez · jouent
+L3	Everyday Verbs, the Week & Numbers 0–69	marcher	to walk	gl					1	avoir	marché	marche · marches · marche · marchons · marchez · marchent
+L3	Everyday Verbs, the Week & Numbers 0–69	téléphoner	to phone	gl					1	avoir	téléphoné	téléphone · téléphones · téléphone · téléphonons · téléphonez · téléphonent
+L3	Everyday Verbs, the Week & Numbers 0–69	le jour	day	im	m	jours						
+L3	Everyday Verbs, the Week & Numbers 0–69	la semaine	week	im	f	semaines						
+L3	Everyday Verbs, the Week & Numbers 0–69	lundi	Monday	im	m	lundis						
+L3	Everyday Verbs, the Week & Numbers 0–69	mardi	Tuesday	im	m	mardis						
+L3	Everyday Verbs, the Week & Numbers 0–69	mercredi	Wednesday	im	m	mercredis						
+L3	Everyday Verbs, the Week & Numbers 0–69	jeudi	Thursday	im	m	jeudis						
+L3	Everyday Verbs, the Week & Numbers 0–69	vendredi	Friday	im	m	vendredis						
+L3	Everyday Verbs, the Week & Numbers 0–69	samedi	Saturday	im	m	samedis						
+L3	Everyday Verbs, the Week & Numbers 0–69	dimanche	Sunday	im	m	dimanches						
+L3	Everyday Verbs, the Week & Numbers 0–69	le matin	morning	im	m	matins						
+L3	Everyday Verbs, the Week & Numbers 0–69	l'après-midi (m)	afternoon	im	m	après-midi						
+L3	Everyday Verbs, the Week & Numbers 0–69	le soir	evening	im	m	soirs						
+L3	Everyday Verbs, the Week & Numbers 0–69	aujourd'hui	today	pril								
+L3	Everyday Verbs, the Week & Numbers 0–69	souvent	often	pril								
+L3	Everyday Verbs, the Week & Numbers 0–69	toujours	always	pril								
+L3	Everyday Verbs, the Week & Numbers 0–69	est-ce que	(question marker)	izraz								
+L3	Everyday Verbs, the Week & Numbers 0–69	qui	who	zam								
+L3	Everyday Verbs, the Week & Numbers 0–69	quoi	what	zam								
+L3	Everyday Verbs, the Week & Numbers 0–69	où	where	pril								
+L3	Everyday Verbs, the Week & Numbers 0–69	quand	when	pril								
+L3	Everyday Verbs, the Week & Numbers 0–69	comment	how	pril								
+L3	Everyday Verbs, the Week & Numbers 0–69	pourquoi	why	pril								
+L3	Everyday Verbs, the Week & Numbers 0–69	quel, quelle	which; what	pr			quelle	quels / quelles				
+L3	Everyday Verbs, the Week & Numbers 0–69	zéro	zero	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	un, une	one	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	deux	two	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	trois	three	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	quatre	four	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	cinq	five	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	six	six	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	sept	seven	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	huit	eight	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	neuf	nine	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	dix	ten	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	onze	eleven	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	douze	twelve	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	vingt	twenty	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	trente	thirty	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	quarante	forty	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	cinquante	fifty	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	soixante	sixty	broj								
+L4	Family & Age	la mère	mother	im	f	mères						
+L4	Family & Age	le père	father	im	m	pères						
+L4	Family & Age	les parents (m)	parents	im	m	parents						
+L4	Family & Age	le frère	brother	im	m	frères						
+L4	Family & Age	la sœur	sister	im	f	sœurs						
+L4	Family & Age	le fils	son	im	m	fils						
+L4	Family & Age	la fille	daughter; girl	im	f	filles						
+L4	Family & Age	l'enfant (m/f)	child	im	m,f	enfants						
+L4	Family & Age	le bébé	baby	im	m	bébés						
+L4	Family & Age	le mari	husband	im	m	maris						
+L4	Family & Age	la femme	wife; woman	im	f	femmes						
+L4	Family & Age	l'homme (m)	man	im	m	hommes						
+L4	Family & Age	le grand-père	grandfather	im	m	grands-pères						
+L4	Family & Age	la grand-mère	grandmother	im	f	grands-mères						
+L4	Family & Age	les grands-parents (m)	grandparents	im	m	grands-parents						
+L4	Family & Age	l'oncle (m)	uncle	im	m	oncles						
+L4	Family & Age	la tante	aunt	im	f	tantes						
+L4	Family & Age	le cousin, la cousine	cousin	im	m,f	cousins, cousines						
+L4	Family & Age	le neveu	nephew	im	m	neveux						
+L4	Family & Age	la nièce	niece	im	f	nièces						
+L4	Family & Age	le petit-fils	grandson	im	m	petits-fils						
+L4	Family & Age	la petite-fille	granddaughter	im	f	petites-filles						
+L4	Family & Age	l'ami, l'amie	friend	im	m,f	amis, amies						
+L4	Family & Age	le copain, la copine	friend; boyfriend; girlfriend	im	m,f	copains, copines						
+L4	Family & Age	le voisin, la voisine	neighbour	im	m,f	voisins, voisines						
+L4	Family & Age	le chien	dog	im	m	chiens						
+L4	Family & Age	le chat	cat	im	m	chats						
+L4	Family & Age	avoir	to have	gl					3	avoir	eu	ai · as · a · avons · avez · ont
+L4	Family & Age	l'âge (m)	age	im	m	âges						
+L4	Family & Age	l'an (m)	year (in age)	im	m	ans						
+L4	Family & Age	l'anniversaire (m)	birthday	im	m	anniversaires						
+L4	Family & Age	jeune	young	pr			jeune	jeunes / jeunes				
+L4	Family & Age	vieux	old	pr			vieille	vieux / vieilles				
+L4	Family & Age	âgé	elderly	pr			âgée	âgés / âgées				
+L4	Family & Age	marié	married	pr			mariée	mariés / mariées				
+L4	Family & Age	célibataire	single	pr			célibataire	célibataires / célibataires				
+L4	Family & Age	mon, ma, mes	my	zam								
+L4	Family & Age	ton, ta, tes	your (informal)	zam								
+L4	Family & Age	son, sa, ses	his; her	zam								
+L4	Family & Age	notre, nos	our	zam								
+L4	Family & Age	votre, vos	your (formal; plural)	zam								
+L4	Family & Age	leur, leurs	their	zam								
+L4	Family & Age	pas de	no; not any	izraz								
+L4	Family & Age	seul	alone; only	pr			seule	seuls / seules				
+L4	Family & Age	ensemble	together	pril								
+L4	Family & Age	gentil	kind; nice	pr			gentille	gentils / gentilles				
+L4	Family & Age	sympa	nice; friendly	pr			sympa	sympas / sympas				
+L4	Family & Age	beau	handsome; beautiful	pr			belle	beaux / belles				
+L4	Family & Age	le parrain	godfather	im	m	parrains						
+L4	Family & Age	la belle-mère	mother-in-law; stepmother	im	f	belles-mères						
+L4	Family & Age	s'appeler	to be called	gl					1	être	appelé	m'appelle · t'appelles · s'appelle · nous appelons · vous appelez · s'appellent
+L4	Family & Age	combien	how many; how much	pril								
+L4	Family & Age	quel âge as-tu ?	how old are you?	izraz								
+L4	Family & Age	aussi	also; too	pril								
+L4	Family & Age	avec	with	prij								
+L5	Food, Drinks & Numbers 70–100	le marché	market	im	m	marchés						
+L5	Food, Drinks & Numbers 70–100	le pain	bread	im	m	pains						
+L5	Food, Drinks & Numbers 70–100	la baguette	baguette	im	f	baguettes						
+L5	Food, Drinks & Numbers 70–100	le croissant	croissant	im	m	croissants						
+L5	Food, Drinks & Numbers 70–100	le fromage	cheese	im	m	fromages						
+L5	Food, Drinks & Numbers 70–100	le beurre	butter	im	m	—						
+L5	Food, Drinks & Numbers 70–100	le lait	milk	im	m	—						
+L5	Food, Drinks & Numbers 70–100	l'œuf (m)	egg	im	m	œufs						
+L5	Food, Drinks & Numbers 70–100	la viande	meat	im	f	viandes						
+L5	Food, Drinks & Numbers 70–100	le poulet	chicken	im	m	poulets						
+L5	Food, Drinks & Numbers 70–100	le poisson	fish	im	m	poissons						
+L5	Food, Drinks & Numbers 70–100	le jambon	ham	im	m	jambons						
+L5	Food, Drinks & Numbers 70–100	la pomme	apple	im	f	pommes						
+L5	Food, Drinks & Numbers 70–100	la poire	pear	im	f	poires						
+L5	Food, Drinks & Numbers 70–100	l'orange (f)	orange	im	f	oranges						
+L5	Food, Drinks & Numbers 70–100	la fraise	strawberry	im	f	fraises						
+L5	Food, Drinks & Numbers 70–100	le raisin	grapes	im	m	raisins						
+L5	Food, Drinks & Numbers 70–100	la tomate	tomato	im	f	tomates						
+L5	Food, Drinks & Numbers 70–100	la pomme de terre	potato	im	f	pommes de terre						
+L5	Food, Drinks & Numbers 70–100	la carotte	carrot	im	f	carottes						
+L5	Food, Drinks & Numbers 70–100	l'oignon (m)	onion	im	m	oignons						
+L5	Food, Drinks & Numbers 70–100	le riz	rice	im	m	—						
+L5	Food, Drinks & Numbers 70–100	les pâtes (f)	pasta	im	f	pâtes						
+L5	Food, Drinks & Numbers 70–100	le sucre	sugar	im	m	—						
+L5	Food, Drinks & Numbers 70–100	le sel	salt	im	m	—						
+L5	Food, Drinks & Numbers 70–100	le gâteau	cake	im	m	gâteaux						
+L5	Food, Drinks & Numbers 70–100	l'eau (f)	water	im	f	eaux						
+L5	Food, Drinks & Numbers 70–100	le jus	juice	im	m	jus						
+L5	Food, Drinks & Numbers 70–100	le vin	wine	im	m	vins						
+L5	Food, Drinks & Numbers 70–100	la bière	beer	im	f	bières						
+L5	Food, Drinks & Numbers 70–100	le chocolat chaud	hot chocolate	izraz								
+L5	Food, Drinks & Numbers 70–100	le kilo	kilo	im	m	kilos						
+L5	Food, Drinks & Numbers 70–100	le gramme	gram	im	m	grammes						
+L5	Food, Drinks & Numbers 70–100	la bouteille	bottle	im	f	bouteilles						
+L5	Food, Drinks & Numbers 70–100	le morceau	piece	im	m	morceaux						
+L5	Food, Drinks & Numbers 70–100	un peu de	a little; some	izraz								
+L5	Food, Drinks & Numbers 70–100	beaucoup de	a lot of	izraz								
+L5	Food, Drinks & Numbers 70–100	du, de la, des	some (partitive)	čl								
+L5	Food, Drinks & Numbers 70–100	ce, cet, cette, ces	this; that; these	zam								
+L5	Food, Drinks & Numbers 70–100	boire	to drink	gl					3	avoir	bu	bois · bois · boit · buvons · buvez · boivent
+L5	Food, Drinks & Numbers 70–100	acheter	to buy	gl					1	avoir	acheté	achète · achètes · achète · achetons · achetez · achètent
+L5	Food, Drinks & Numbers 70–100	coûter	to cost	gl					1	avoir	coûté	coûte · coûtes · coûte · coûtons · coûtez · coûtent
+L5	Food, Drinks & Numbers 70–100	je voudrais	I would like	izraz								
+L5	Food, Drinks & Numbers 70–100	l'euro (m)	euro	im	m	euros						
+L5	Food, Drinks & Numbers 70–100	le centime	cent	im	m	centimes						
+L5	Food, Drinks & Numbers 70–100	le prix	price	im	m	prix						
+L5	Food, Drinks & Numbers 70–100	cher	expensive	pr			chère	chers / chères				
+L5	Food, Drinks & Numbers 70–100	bon marché	cheap	pr			bon marché	bon marché / bon marché				
+L5	Food, Drinks & Numbers 70–100	bon	good; tasty	pr			bonne	bons / bonnes				
+L5	Food, Drinks & Numbers 70–100	frais	fresh	pr			fraîche	frais / fraîches				
+L5	Food, Drinks & Numbers 70–100	le garçon	waiter; boy	im	m	garçons						
+L5	Food, Drinks & Numbers 70–100	l'addition (f)	bill	im	f	additions						
+L5	Food, Drinks & Numbers 70–100	soixante-dix	seventy	broj								
+L5	Food, Drinks & Numbers 70–100	quatre-vingts	eighty	broj								
+L5	Food, Drinks & Numbers 70–100	quatre-vingt-dix	ninety	broj								
+L5	Food, Drinks & Numbers 70–100	cent	hundred	broj								
+L5	Food, Drinks & Numbers 70–100	voilà	here it is; there you are	izraz								
+L5	Food, Drinks & Numbers 70–100	c'est combien ?	how much is it?	izraz								
+L5	Food, Drinks & Numbers 70–100	encore	more; again; still	pril								
+L6	City & Directions	la rue	street	im	f	rues						
+L6	City & Directions	l'avenue (f)	avenue	im	f	avenues						
+L6	City & Directions	le quartier	neighbourhood	im	m	quartiers						
+L6	City & Directions	la boulangerie	bakery	im	f	boulangeries						
+L6	City & Directions	la pharmacie	chemist's	im	f	pharmacies						
+L6	City & Directions	la banque	bank	im	f	banques						
+L6	City & Directions	la poste	post office	im	f	postes						
+L6	City & Directions	le supermarché	supermarket	im	m	supermarchés						
+L6	City & Directions	le magasin	shop	im	m	magasins						
+L6	City & Directions	la gare	railway station	im	f	gares						
+L6	City & Directions	l'arrêt de bus (m)	bus stop	im	m	arrêts de bus						
+L6	City & Directions	le musée	museum	im	m	musées						
+L6	City & Directions	l'église (f)	church	im	f	églises						
+L6	City & Directions	l'hôpital (m)	hospital	im	m	hôpitaux						
+L6	City & Directions	l'école (f)	school	im	f	écoles						
+L6	City & Directions	la mairie	town hall	im	f	mairies						
+L6	City & Directions	le pont	bridge	im	m	ponts						
+L6	City & Directions	le feu	traffic light; fire	im	m	feux						
+L6	City & Directions	le carrefour	crossroads	im	m	carrefours						
+L6	City & Directions	le coin	corner	im	m	coins						
+L6	City & Directions	le plan	map (of a town)	im	m	plans						
+L6	City & Directions	le métro	underground	im	m	métros						
+L6	City & Directions	la bibliothèque	library	im	f	bibliothèques						
+L6	City & Directions	le bureau	office; desk	im	m	bureaux						
+L6	City & Directions	aller	to go	gl					3	être	allé	vais · vas · va · allons · allez · vont
+L6	City & Directions	venir	to come	gl					3	être	venu	viens · viens · vient · venons · venez · viennent
+L6	City & Directions	tourner	to turn	gl					1	avoir	tourné	tourne · tournes · tourne · tournons · tournez · tournent
+L6	City & Directions	traverser	to cross	gl					1	avoir	traversé	traverse · traverses · traverse · traversons · traversez · traversent
+L6	City & Directions	continuer	to continue	gl					1	avoir	continué	continue · continues · continue · continuons · continuez · continuent
+L6	City & Directions	chercher	to look for	gl					1	avoir	cherché	cherche · cherches · cherche · cherchons · cherchez · cherchent
+L6	City & Directions	trouver	to find	gl					1	avoir	trouvé	trouve · trouves · trouve · trouvons · trouvez · trouvent
+L6	City & Directions	à	to; at; in	prij								
+L6	City & Directions	au, à la, aux	to the; at the	prij								
+L6	City & Directions	du, de la, des (de + le)	from the; of the	prij								
+L6	City & Directions	à gauche	on the left	izraz								
+L6	City & Directions	à droite	on the right	izraz								
+L6	City & Directions	tout droit	straight on	izraz								
+L6	City & Directions	près de	near	prij								
+L6	City & Directions	loin de	far from	prij								
+L6	City & Directions	à côté de	next to	prij								
+L6	City & Directions	en face de	opposite	prij								
+L6	City & Directions	entre	between	prij								
+L6	City & Directions	jusqu'à	as far as; until	prij								
+L6	City & Directions	ici	here	pril								
+L6	City & Directions	là	there	pril								
+L6	City & Directions	après	after; afterwards	pril								
+L6	City & Directions	d'abord	first	pril								
+L6	City & Directions	puis	then	pril								
+L6	City & Directions	ensuite	next; then	pril								
+L6	City & Directions	le trottoir	pavement	im	m	trottoirs						
+L6	City & Directions	premier	first	broj								
+L6	City & Directions	deuxième	second	broj								
+L6	City & Directions	troisième	third	broj								
+L6	City & Directions	le centre-ville	town centre	im	m	centres-villes						
+L6	City & Directions	à pied	on foot	izraz								
+L6	City & Directions	en bus	by bus	izraz								
+L6	City & Directions	perdu	lost	pr			perdue	perdus / perdues				
+L6	City & Directions	excusez-moi, où est … ?	excuse me, where is …?	izraz								
+L6	City & Directions	c'est loin ?	is it far?	izraz								
+L7	Hobbies, Sport & Eating Out	le loisir	hobby; leisure	im	m	loisirs						
+L7	Hobbies, Sport & Eating Out	le temps libre	free time	izraz								
+L7	Hobbies, Sport & Eating Out	faire	to do; to make	gl					3	avoir	fait	fais · fais · fait · faisons · faites · font
+L7	Hobbies, Sport & Eating Out	prendre	to take; to have (food)	gl					3	avoir	pris	prends · prends · prend · prenons · prenez · prennent
+L7	Hobbies, Sport & Eating Out	finir	to finish	gl					2	avoir	fini	finis · finis · finit · finissons · finissez · finissent
+L7	Hobbies, Sport & Eating Out	choisir	to choose	gl					2	avoir	choisi	choisis · choisis · choisit · choisissons · choisissez · choisissent
+L7	Hobbies, Sport & Eating Out	réussir	to succeed	gl					2	avoir	réussi	réussis · réussis · réussit · réussissons · réussissez · réussissent
+L7	Hobbies, Sport & Eating Out	lire	to read	gl					3	avoir	lu	lis · lis · lit · lisons · lisez · lisent
+L7	Hobbies, Sport & Eating Out	nager	to swim	gl					1	avoir	nagé	nage · nages · nage · nageons · nagez · nagent
+L7	Hobbies, Sport & Eating Out	courir	to run	gl					3	avoir	couru	cours · cours · court · courons · courez · courent
+L7	Hobbies, Sport & Eating Out	voyager	to travel	gl					1	avoir	voyagé	voyage · voyages · voyage · voyageons · voyagez · voyagent
+L7	Hobbies, Sport & Eating Out	dessiner	to draw	gl					1	avoir	dessiné	dessine · dessines · dessine · dessinons · dessinez · dessinent
+L7	Hobbies, Sport & Eating Out	peindre	to paint	gl					3	avoir	peint	peins · peins · peint · peignons · peignez · peignent
+L7	Hobbies, Sport & Eating Out	jouer au foot	to play football	izraz								
+L7	Hobbies, Sport & Eating Out	jouer de la guitare	to play the guitar	izraz								
+L7	Hobbies, Sport & Eating Out	faire du vélo	to cycle	izraz								
+L7	Hobbies, Sport & Eating Out	faire de la natation	to swim (as a sport)	izraz								
+L7	Hobbies, Sport & Eating Out	faire une promenade	to go for a walk	izraz								
+L7	Hobbies, Sport & Eating Out	le vélo	bicycle	im	m	vélos						
+L7	Hobbies, Sport & Eating Out	la natation	swimming	im	f	—						
+L7	Hobbies, Sport & Eating Out	la randonnée	hike; hiking	im	f	randonnées						
+L7	Hobbies, Sport & Eating Out	le ski	skiing	im	m	—						
+L7	Hobbies, Sport & Eating Out	le basket	basketball	im	m	—						
+L7	Hobbies, Sport & Eating Out	le match	match	im	m	matchs						
+L7	Hobbies, Sport & Eating Out	l'équipe (f)	team	im	f	équipes						
+L7	Hobbies, Sport & Eating Out	le ballon	ball	im	m	ballons						
+L7	Hobbies, Sport & Eating Out	la guitare	guitar	im	f	guitares						
+L7	Hobbies, Sport & Eating Out	le piano	piano	im	m	pianos						
+L7	Hobbies, Sport & Eating Out	le jeu	game	im	m	jeux						
+L7	Hobbies, Sport & Eating Out	le jeu vidéo	video game	im	m	jeux vidéo						
+L7	Hobbies, Sport & Eating Out	le concert	concert	im	m	concerts						
+L7	Hobbies, Sport & Eating Out	l'exposition (f)	exhibition	im	f	expositions						
+L7	Hobbies, Sport & Eating Out	la piscine	swimming pool	im	f	piscines						
+L7	Hobbies, Sport & Eating Out	le stade	stadium	im	m	stades						
+L7	Hobbies, Sport & Eating Out	on	we; one; people	zam								
+L7	Hobbies, Sport & Eating Out	moi	me	zam								
+L7	Hobbies, Sport & Eating Out	toi	you (stressed)	zam								
+L7	Hobbies, Sport & Eating Out	lui	him (stressed); (to) him, her	zam								
+L7	Hobbies, Sport & Eating Out	eux	them (m)	zam								
+L7	Hobbies, Sport & Eating Out	la carte	menu; card; map	im	f	cartes						
+L7	Hobbies, Sport & Eating Out	le plat	dish; main course	im	m	plats						
+L7	Hobbies, Sport & Eating Out	l'entrée (f)	starter; entrance	im	f	entrées						
+L7	Hobbies, Sport & Eating Out	le dessert	dessert	im	m	desserts						
+L7	Hobbies, Sport & Eating Out	le serveur, la serveuse	waiter; waitress	im	m,f	serveurs, serveuses						
+L7	Hobbies, Sport & Eating Out	réserver	to book	gl					1	avoir	réservé	réserve · réserves · réserve · réservons · réservez · réservent
+L7	Hobbies, Sport & Eating Out	commander	to order	gl					1	avoir	commandé	commande · commandes · commande · commandons · commandez · commandent
+L7	Hobbies, Sport & Eating Out	le pourboire	tip	im	m	pourboires						
+L7	Hobbies, Sport & Eating Out	le steak-frites	steak and chips	im	m	steaks-frites						
+L7	Hobbies, Sport & Eating Out	les frites (f)	chips	im	f	frites						
+L7	Hobbies, Sport & Eating Out	la crêpe	crêpe; pancake	im	f	crêpes						
+L7	Hobbies, Sport & Eating Out	la glace	ice cream; mirror	im	f	glaces						
+L7	Hobbies, Sport & Eating Out	délicieux	delicious	pr			délicieuse	délicieux / délicieuses				
+L7	Hobbies, Sport & Eating Out	préféré	favourite	pr			préférée	préférés / préférées				
+L7	Hobbies, Sport & Eating Out	moi aussi	me too	izraz								
+L7	Hobbies, Sport & Eating Out	moi non plus	me neither	izraz								
+L7	Hobbies, Sport & Eating Out	ennuyeux	boring	pr			ennuyeuse	ennuyeux / ennuyeuses				
+L7	Hobbies, Sport & Eating Out	amusant	fun; funny	pr			amusante	amusants / amusantes				
+L7	Hobbies, Sport & Eating Out	intéressant	interesting	pr			intéressante	intéressants / intéressantes				
+L7	Hobbies, Sport & Eating Out	parfois	sometimes	pril								
+L8	Routine & Time	se réveiller	to wake up	gl					1	être	réveillé	me réveille · te réveilles · se réveille · nous réveillons · vous réveillez · se réveillent
+L8	Routine & Time	se lever	to get up	gl					1	être	levé	me lève · te lèves · se lève · nous levons · vous levez · se lèvent
+L8	Routine & Time	se laver	to wash (oneself)	gl					1	être	lavé	me lave · te laves · se lave · nous lavons · vous lavez · se lavent
+L8	Routine & Time	se doucher	to have a shower	gl					1	être	douché	me douche · te douches · se douche · nous douchons · vous douchez · se douchent
+L8	Routine & Time	s'habiller	to get dressed	gl					1	être	habillé	m'habille · t'habilles · s'habille · nous habillons · vous habillez · s'habillent
+L8	Routine & Time	se brosser les dents	to brush one's teeth	izraz								
+L8	Routine & Time	se coiffer	to do one's hair	gl					1	être	coiffé	me coiffe · te coiffes · se coiffe · nous coiffons · vous coiffez · se coiffent
+L8	Routine & Time	se maquiller	to put on make-up	gl					1	être	maquillé	me maquille · te maquilles · se maquille · nous maquillons · vous maquillez · se maquillent
+L8	Routine & Time	se raser	to shave	gl					1	être	rasé	me rase · te rases · se rase · nous rasons · vous rasez · se rasent
+L8	Routine & Time	se reposer	to rest	gl					1	être	reposé	me repose · te reposes · se repose · nous reposons · vous reposez · se reposent
+L8	Routine & Time	se coucher	to go to bed	gl					1	être	couché	me couche · te couches · se couche · nous couchons · vous couchez · se couchent
+L8	Routine & Time	se dépêcher	to hurry	gl					1	être	dépêché	me dépêche · te dépêches · se dépêche · nous dépêchons · vous dépêchez · se dépêchent
+L8	Routine & Time	se sentir	to feel	gl					3	être	senti	me sens · te sens · se sent · nous sentons · vous sentez · se sentent
+L8	Routine & Time	s'amuser	to have fun	gl					1	être	amusé	m'amuse · t'amuses · s'amuse · nous amusons · vous amusez · s'amusent
+L8	Routine & Time	partir	to leave	gl					3	être	parti	pars · pars · part · partons · partez · partent
+L8	Routine & Time	sortir	to go out	gl					3	être	sorti	sors · sors · sort · sortons · sortez · sortent
+L8	Routine & Time	dormir	to sleep	gl					3	avoir	dormi	dors · dors · dort · dormons · dormez · dorment
+L8	Routine & Time	préférer	to prefer	gl					1	avoir	préféré	préfère · préfères · préfère · préférons · préférez · préfèrent
+L8	Routine & Time	rentrer	to go home; to come back	gl					1	être	rentré	rentre · rentres · rentre · rentrons · rentrez · rentrent
+L8	Routine & Time	le petit-déjeuner	breakfast	im	m	petits-déjeuners						
+L8	Routine & Time	le déjeuner	lunch	im	m	déjeuners						
+L8	Routine & Time	le dîner	dinner	im	m	dîners						
+L8	Routine & Time	prendre le petit-déjeuner	to have breakfast	izraz								
+L8	Routine & Time	l'heure (f)	hour; time (o'clock)	im	f	heures						
+L8	Routine & Time	la demi-heure	half an hour	im	f	demi-heures						
+L8	Routine & Time	quelle heure est-il ?	what time is it?	izraz								
+L8	Routine & Time	il est … heures	it is … o'clock	izraz								
+L8	Routine & Time	et quart	quarter past	izraz								
+L8	Routine & Time	moins le quart	quarter to	izraz								
+L8	Routine & Time	et demie	half past	izraz								
+L8	Routine & Time	midi	midday	im	m	midis						
+L8	Routine & Time	minuit	midnight	im	m	—						
+L8	Routine & Time	la seconde	second	im	f	secondes						
+L8	Routine & Time	le réveil	alarm clock	im	m	réveils						
+L8	Routine & Time	la douche	shower	im	f	douches						
+L8	Routine & Time	le savon	soap	im	m	savons						
+L8	Routine & Time	la brosse à dents	toothbrush	im	f	brosses à dents						
+L8	Routine & Time	la serviette	towel	im	f	serviettes						
+L8	Routine & Time	le dentifrice	toothpaste	im	m	dentifrices						
+L8	Routine & Time	tôt	early	pril								
+L8	Routine & Time	tard	late	pril								
+L8	Routine & Time	en retard	late (not on time)	izraz								
+L8	Routine & Time	à l'heure	on time	izraz								
+L8	Routine & Time	vite	quickly	pril								
+L8	Routine & Time	lentement	slowly	pril								
+L8	Routine & Time	d'habitude	usually	pril								
+L8	Routine & Time	chaque	each; every	pr			chaque	— / —				
+L8	Routine & Time	tous les jours	every day	izraz								
+L8	Routine & Time	la nuit	night	im	f	nuits						
+L8	Routine & Time	fatigué	tired	pr			fatiguée	fatigués / fatiguées				
+L8	Routine & Time	en forme	fit; in shape	izraz								
+L8	Routine & Time	la routine	routine	im	f	routines						
+L8	Routine & Time	le travail	work; job	im	m	travaux						
+L8	Routine & Time	le collègue, la collègue	colleague	im	m,f	collègues, collègues						
+L8	Routine & Time	vers	around (time); towards	prij								
+L8	Routine & Time	avant	before	prij								
+L8	Routine & Time	pendant	during	prij								
+L8	Routine & Time	jamais	never	pril								
+L8	Routine & Time	déjà	already	pril								
+L9	Weather, Dates & Plans	le temps	weather; time	im	m	temps						
+L9	Weather, Dates & Plans	il fait beau	the weather is nice	izraz								
+L9	Weather, Dates & Plans	il fait mauvais	the weather is bad	izraz								
+L9	Weather, Dates & Plans	il fait chaud	it's hot	izraz								
+L9	Weather, Dates & Plans	il fait froid	it's cold	izraz								
+L9	Weather, Dates & Plans	il pleut	it's raining	izraz								
+L9	Weather, Dates & Plans	il neige	it's snowing	izraz								
+L9	Weather, Dates & Plans	pleuvoir	to rain	gl					3	avoir	plu	— · — · pleut · — · — · —
+L9	Weather, Dates & Plans	neiger	to snow	gl					1	avoir	neigé	— · — · neige · — · — · —
+L9	Weather, Dates & Plans	le soleil	sun	im	m	soleils						
+L9	Weather, Dates & Plans	la pluie	rain	im	f	pluies						
+L9	Weather, Dates & Plans	la neige	snow	im	f	neiges						
+L9	Weather, Dates & Plans	le vent	wind	im	m	vents						
+L9	Weather, Dates & Plans	le nuage	cloud	im	m	nuages						
+L9	Weather, Dates & Plans	l'orage (m)	storm	im	m	orages						
+L9	Weather, Dates & Plans	la météo	weather forecast	im	f	—						
+L9	Weather, Dates & Plans	le degré	degree	im	m	degrés						
+L9	Weather, Dates & Plans	la saison	season	im	f	saisons						
+L9	Weather, Dates & Plans	le printemps	spring	im	m	printemps						
+L9	Weather, Dates & Plans	l'été (m)	summer	im	m	étés						
+L9	Weather, Dates & Plans	l'automne (m)	autumn	im	m	automnes						
+L9	Weather, Dates & Plans	l'hiver (m)	winter	im	m	hivers						
+L9	Weather, Dates & Plans	le mois	month	im	m	mois						
+L9	Weather, Dates & Plans	janvier	January	im	m	—						
+L9	Weather, Dates & Plans	février	February	im	m	—						
+L9	Weather, Dates & Plans	mars	March	im	m	—						
+L9	Weather, Dates & Plans	avril	April	im	m	—						
+L9	Weather, Dates & Plans	mai	May	im	m	—						
+L9	Weather, Dates & Plans	juin	June	im	m	—						
+L9	Weather, Dates & Plans	juillet	July	im	m	—						
+L9	Weather, Dates & Plans	août	August	im	m	—						
+L9	Weather, Dates & Plans	septembre	September	im	m	—						
+L9	Weather, Dates & Plans	octobre	October	im	m	—						
+L9	Weather, Dates & Plans	novembre	November	im	m	—						
+L9	Weather, Dates & Plans	décembre	December	im	m	—						
+L9	Weather, Dates & Plans	le calendrier	calendar	im	m	calendriers						
+L9	Weather, Dates & Plans	mille	thousand	broj								
+L9	Weather, Dates & Plans	deux cents	two hundred	broj								
+L9	Weather, Dates & Plans	demain	tomorrow	pril								
+L9	Weather, Dates & Plans	après-demain	the day after tomorrow	pril								
+L9	Weather, Dates & Plans	le week-end prochain	next weekend	izraz								
+L9	Weather, Dates & Plans	prochain	next	pr			prochaine	prochains / prochaines				
+L9	Weather, Dates & Plans	le projet	plan; project	im	m	projets						
+L9	Weather, Dates & Plans	pouvoir	to be able to; can	gl					3	avoir	pu	peux · peux · peut · pouvons · pouvez · peuvent
+L9	Weather, Dates & Plans	vouloir	to want	gl					3	avoir	voulu	veux · veux · veut · voulons · voulez · veulent
+L9	Weather, Dates & Plans	attendre	to wait (for)	gl					3	avoir	attendu	attends · attends · attend · attendons · attendez · attendent
+L9	Weather, Dates & Plans	rester	to stay	gl					1	être	resté	reste · restes · reste · restons · restez · restent
+L9	Weather, Dates & Plans	inviter	to invite	gl					1	avoir	invité	invite · invites · invite · invitons · invitez · invitent
+L9	Weather, Dates & Plans	appeler	to call	gl					1	avoir	appelé	appelle · appelles · appelle · appelons · appelez · appellent
+L9	Weather, Dates & Plans	le rendez-vous	appointment; meeting	im	m	rendez-vous						
+L9	Weather, Dates & Plans	d'accord	OK; agreed	izraz								
+L9	Weather, Dates & Plans	peut-être	maybe	pril								
+L9	Weather, Dates & Plans	ne … plus	no longer	čest								
+L9	Weather, Dates & Plans	ne … jamais	never	čest								
+L9	Weather, Dates & Plans	ne … rien	nothing	čest								
+L9	Weather, Dates & Plans	alors	so; then	vez								
+L9	Weather, Dates & Plans	la plage	beach	im	f	plages						
+L9	Weather, Dates & Plans	la mer	sea	im	f	mers						
+L9	Weather, Dates & Plans	la montagne	mountain(s)	im	f	montagnes						
+L9	Weather, Dates & Plans	le parapluie	umbrella	im	m	parapluies						
+L9	Weather, Dates & Plans	allô	hello (on the phone)	izraz								
+L10	Weekend & Past Time	hier	yesterday	pril								
+L10	Weekend & Past Time	avant-hier	the day before yesterday	pril								
+L10	Weekend & Past Time	le week-end dernier	last weekend	izraz								
+L10	Weekend & Past Time	dernier	last	pr			dernière	derniers / dernières				
+L10	Weekend & Past Time	la semaine dernière	last week	izraz								
+L10	Weekend & Past Time	il y a deux jours	two days ago	izraz								
+L10	Weekend & Past Time	ce matin	this morning	izraz								
+L10	Weekend & Past Time	hier soir	last night	izraz								
+L10	Weekend & Past Time	voir	to see	gl					3	avoir	vu	vois · vois · voit · voyons · voyez · voient
+L10	Weekend & Past Time	écrire	to write	gl					3	avoir	écrit	écris · écris · écrit · écrivons · écrivez · écrivent
+L10	Weekend & Past Time	recevoir	to receive	gl					3	avoir	reçu	reçois · reçois · reçoit · recevons · recevez · reçoivent
+L10	Weekend & Past Time	oublier	to forget	gl					1	avoir	oublié	oublie · oublies · oublie · oublions · oubliez · oublient
+L10	Weekend & Past Time	visiter	to visit (a place)	gl					1	avoir	visité	visite · visites · visite · visitons · visitez · visitent
+L10	Weekend & Past Time	rencontrer	to meet	gl					1	avoir	rencontré	rencontre · rencontres · rencontre · rencontrons · rencontrez · rencontrent
+L10	Weekend & Past Time	passer	to spend (time); to pass	gl					1	avoir	passé	passe · passes · passe · passons · passez · passent
+L10	Weekend & Past Time	fêter	to celebrate	gl					1	avoir	fêté	fête · fêtes · fête · fêtons · fêtez · fêtent
+L10	Weekend & Past Time	ranger	to tidy	gl					1	avoir	rangé	range · ranges · range · rangeons · rangez · rangent
+L10	Weekend & Past Time	nettoyer	to clean	gl					1	avoir	nettoyé	nettoie · nettoies · nettoie · nettoyons · nettoyez · nettoient
+L10	Weekend & Past Time	faire les courses	to do the shopping	izraz								
+L10	Weekend & Past Time	faire le ménage	to do the housework	izraz								
+L10	Weekend & Past Time	la fête	party	im	f	fêtes						
+L10	Weekend & Past Time	la soirée	evening; party	im	f	soirées						
+L10	Weekend & Past Time	la bande dessinée	comic	im	f	bandes dessinées						
+L10	Weekend & Past Time	le roman	novel	im	m	romans						
+L10	Weekend & Past Time	le journal	newspaper; diary	im	m	journaux						
+L10	Weekend & Past Time	le magazine	magazine	im	m	magazines						
+L10	Weekend & Past Time	la lettre	letter	im	f	lettres						
+L10	Weekend & Past Time	le message	message	im	m	messages						
+L10	Weekend & Past Time	la série	series	im	f	séries						
+L10	Weekend & Past Time	l'émission (f)	programme (TV)	im	f	émissions						
+L10	Weekend & Past Time	c'était	it was	izraz								
+L10	Weekend & Past Time	génial	great	pr			géniale	géniaux / géniales				
+L10	Weekend & Past Time	super	super; great	pr			super	super / super				
+L10	Weekend & Past Time	nul	rubbish; useless	pr			nulle	nuls / nulles				
+L10	Weekend & Past Time	pas mal	not bad	izraz								
+L10	Weekend & Past Time	terrible	terrible; great (informal)	pr			terrible	terribles / terribles				
+L10	Weekend & Past Time	chez	at (someone's place)	prij								
+L10	Weekend & Past Time	la chanson	song	im	f	chansons						
+L10	Weekend & Past Time	d'abord … ensuite … enfin	first … then … finally	izraz								
+L10	Weekend & Past Time	enfin	finally	pril								
+L10	Weekend & Past Time	tout à coup	suddenly	pril								
+L10	Weekend & Past Time	longtemps	for a long time	pril								
+L10	Weekend & Past Time	une fois	once	izraz								
+L10	Weekend & Past Time	la fois	time (occasion)	im	f	fois						
+L10	Weekend & Past Time	le souvenir	memory; souvenir	im	m	souvenirs						
+L10	Weekend & Past Time	la balade	stroll	im	f	balades						
+L10	Weekend & Past Time	le pique-nique	picnic	im	m	pique-niques						
+L10	Weekend & Past Time	la campagne	countryside	im	f	campagnes						
+L10	Weekend & Past Time	le voyage	trip; journey	im	m	voyages						
+L10	Weekend & Past Time	la nouvelle	piece of news	im	f	nouvelles						
+L10	Weekend & Past Time	raconter	to tell	gl					1	avoir	raconté	raconte · racontes · raconte · racontons · racontez · racontent
+L10	Weekend & Past Time	montrer	to show	gl					1	avoir	montré	montre · montres · montre · montrons · montrez · montrent
+L10	Weekend & Past Time	perdre	to lose	gl					3	avoir	perdu	perds · perds · perd · perdons · perdez · perdent
+L10	Weekend & Past Time	gagner	to win; to earn	gl					1	avoir	gagné	gagne · gagnes · gagne · gagnons · gagnez · gagnent
+L10	Weekend & Past Time	pleurer	to cry	gl					1	avoir	pleuré	pleure · pleures · pleure · pleurons · pleurez · pleurent
+L10	Weekend & Past Time	rire	to laugh	gl					3	avoir	ri	ris · ris · rit · rions · riez · rient
+L10	Weekend & Past Time	ouvrir	to open	gl					3	avoir	ouvert	ouvre · ouvres · ouvre · ouvrons · ouvrez · ouvrent
+L10	Weekend & Past Time	fermer	to close	gl					1	avoir	fermé	ferme · fermes · ferme · fermons · fermez · ferment
+L10	Weekend & Past Time	mettre	to put	gl					3	avoir	mis	mets · mets · met · mettons · mettez · mettent
+L11	Trains & Trips	la voiture	car	im	f	voitures						
+L11	Trains & Trips	l'avion (m)	plane	im	m	avions						
+L11	Trains & Trips	le bateau	boat	im	m	bateaux						
+L11	Trains & Trips	le tramway	tram	im	m	tramways						
+L11	Trains & Trips	le TGV	high-speed train	im	m	TGV						
+L11	Trains & Trips	le billet	ticket	im	m	billets						
+L11	Trains & Trips	l'aller simple (m)	single ticket	im	m	allers simples						
+L11	Trains & Trips	l'aller-retour (m)	return ticket	im	m	allers-retours						
+L11	Trains & Trips	le quai	platform	im	m	quais						
+L11	Trains & Trips	la voie	track; platform	im	f	voies						
+L11	Trains & Trips	le guichet	ticket office	im	m	guichets						
+L11	Trains & Trips	le départ	departure	im	m	départs						
+L11	Trains & Trips	l'arrivée (f)	arrival	im	f	arrivées						
+L11	Trains & Trips	l'horaire (m)	timetable	im	m	horaires						
+L11	Trains & Trips	la correspondance	connection	im	f	correspondances						
+L11	Trains & Trips	le retard	delay	im	m	retards						
+L11	Trains & Trips	la valise	suitcase	im	f	valises						
+L11	Trains & Trips	le sac à dos	rucksack	im	m	sacs à dos						
+L11	Trains & Trips	le passeport	passport	im	m	passeports						
+L11	Trains & Trips	la carte d'identité	identity card	im	f	cartes d'identité						
+L11	Trains & Trips	l'aéroport (m)	airport	im	m	aéroports						
+L11	Trains & Trips	le vol	flight	im	m	vols						
+L11	Trains & Trips	le passager, la passagère	passenger	im	m,f	passagers, passagères						
+L11	Trains & Trips	le voyageur, la voyageuse	traveller	im	m,f	voyageurs, voyageuses						
+L11	Trains & Trips	la réservation	reservation	im	f	réservations						
+L11	Trains & Trips	le séjour	stay	im	m	séjours						
+L11	Trains & Trips	la réception	reception	im	f	réceptions						
+L11	Trains & Trips	le touriste, la touriste	tourist	im	m,f	touristes, touristes						
+L11	Trains & Trips	l'office de tourisme (m)	tourist office	im	m	offices de tourisme						
+L11	Trains & Trips	le lac	lake	im	m	lacs						
+L11	Trains & Trips	le château	castle	im	m	châteaux						
+L11	Trains & Trips	la vue	view	im	f	vues						
+L11	Trains & Trips	les vacances (f)	holidays	im	f	vacances						
+L11	Trains & Trips	arriver	to arrive	gl					1	être	arrivé	arrive · arrives · arrive · arrivons · arrivez · arrivent
+L11	Trains & Trips	monter	to go up; to get on	gl					1	être	monté	monte · montes · monte · montons · montez · montent
+L11	Trains & Trips	descendre	to go down; to get off	gl					3	être	descendu	descends · descends · descend · descendons · descendez · descendent
+L11	Trains & Trips	entrer	to enter	gl					1	être	entré	entre · entres · entre · entrons · entrez · entrent
+L11	Trains & Trips	tomber	to fall	gl					1	être	tombé	tombe · tombes · tombe · tombons · tombez · tombent
+L11	Trains & Trips	naître	to be born	gl					3	être	né	nais · nais · naît · naissons · naissez · naissent
+L11	Trains & Trips	mourir	to die	gl					3	être	mort	meurs · meurs · meurt · mourons · mourez · meurent
+L11	Trains & Trips	retourner	to go back	gl					1	être	retourné	retourne · retournes · retourne · retournons · retournez · retournent
+L11	Trains & Trips	savoir	to know (a fact)	gl					3	avoir	su	sais · sais · sait · savons · savez · savent
+L11	Trains & Trips	connaître	to know (a person, place)	gl					3	avoir	connu	connais · connais · connaît · connaissons · connaissez · connaissent
+L11	Trains & Trips	conduire	to drive	gl					3	avoir	conduit	conduis · conduis · conduit · conduisons · conduisez · conduisent
+L11	Trains & Trips	changer	to change	gl					1	avoir	changé	change · changes · change · changeons · changez · changent
+L11	Trains & Trips	louer	to rent	gl					1	avoir	loué	loue · loues · loue · louons · louez · louent
+L11	Trains & Trips	composter	to validate (a ticket)	gl					1	avoir	composté	composte · compostes · composte · compostons · compostez · compostent
+L11	Trains & Trips	manquer	to miss	gl					1	avoir	manqué	manque · manques · manque · manquons · manquez · manquent
+L11	Trains & Trips	partir en vacances	to go on holiday	izraz								
+L11	Trains & Trips	en voiture	by car	izraz								
+L11	Trains & Trips	en avion	by plane	izraz								
+L11	Trains & Trips	en train	by train	izraz								
+L11	Trains & Trips	direct	direct	pr			directe	directs / directes				
+L11	Trains & Trips	complet	full	pr			complète	complets / complètes				
+L11	Trains & Trips	libre	free; vacant	pr			libre	libres / libres				
+L11	Trains & Trips	occupé	busy; taken	pr			occupée	occupés / occupées				
+L11	Trains & Trips	vers midi	around midday	izraz								
+L11	Trains & Trips	le nord	north	im	m	nords						
+L11	Trains & Trips	le sud	south	im	m	suds						
+L11	Trains & Trips	l'est (m)	east	im	m	ests						
+L11	Trains & Trips	l'ouest (m)	west	im	m	ouests						
+L11	Trains & Trips	la frontière	border	im	f	frontières						
+L11	Trains & Trips	la carte postale	postcard	im	f	cartes postales						
+L11	Trains & Trips	le kilomètre	kilometre	im	m	kilomètres						
+L12	Clothes, Shops & Looks	les vêtements (m)	clothes	im	m	vêtements						
+L12	Clothes, Shops & Looks	la chemise	shirt	im	f	chemises						
+L12	Clothes, Shops & Looks	le tee-shirt	T-shirt	im	m	tee-shirts						
+L12	Clothes, Shops & Looks	le pull	jumper	im	m	pulls						
+L12	Clothes, Shops & Looks	le pantalon	trousers	im	m	pantalons						
+L12	Clothes, Shops & Looks	le jean	jeans	im	m	jeans						
+L12	Clothes, Shops & Looks	la jupe	skirt	im	f	jupes						
+L12	Clothes, Shops & Looks	la robe	dress	im	f	robes						
+L12	Clothes, Shops & Looks	la veste	jacket	im	f	vestes						
+L12	Clothes, Shops & Looks	le manteau	coat	im	m	manteaux						
+L12	Clothes, Shops & Looks	le costume	suit	im	m	costumes						
+L12	Clothes, Shops & Looks	la cravate	tie	im	f	cravates						
+L12	Clothes, Shops & Looks	les chaussures (f)	shoes	im	f	chaussures						
+L12	Clothes, Shops & Looks	les baskets (f)	trainers	im	f	baskets						
+L12	Clothes, Shops & Looks	les bottes (f)	boots	im	f	bottes						
+L12	Clothes, Shops & Looks	les chaussettes (f)	socks	im	f	chaussettes						
+L12	Clothes, Shops & Looks	le chapeau	hat	im	m	chapeaux						
+L12	Clothes, Shops & Looks	l'écharpe (f)	scarf	im	f	écharpes						
+L12	Clothes, Shops & Looks	les lunettes (f)	glasses	im	f	lunettes						
+L12	Clothes, Shops & Looks	la ceinture	belt	im	f	ceintures						
+L12	Clothes, Shops & Looks	la taille	size; waist	im	f	tailles						
+L12	Clothes, Shops & Looks	la pointure	shoe size	im	f	pointures						
+L12	Clothes, Shops & Looks	la cabine d'essayage	fitting room	im	f	cabines d'essayage						
+L12	Clothes, Shops & Looks	le vendeur, la vendeuse	shop assistant	im	m,f	vendeurs, vendeuses						
+L12	Clothes, Shops & Looks	le client, la cliente	customer	im	m,f	clients, clientes						
+L12	Clothes, Shops & Looks	la caisse	till; checkout	im	f	caisses						
+L12	Clothes, Shops & Looks	les soldes (m)	sales	im	m	soldes						
+L12	Clothes, Shops & Looks	la carte bancaire	bank card	im	f	cartes bancaires						
+L12	Clothes, Shops & Looks	payer	to pay	gl					1	avoir	payé	paie · paies · paie · payons · payez · paient
+L12	Clothes, Shops & Looks	essayer	to try on; to try	gl					1	avoir	essayé	essaie · essaies · essaie · essayons · essayez · essaient
+L12	Clothes, Shops & Looks	porter	to wear; to carry	gl					1	avoir	porté	porte · portes · porte · portons · portez · portent
+L12	Clothes, Shops & Looks	dire	to say; to tell	gl					3	avoir	dit	dis · dis · dit · disons · dites · disent
+L12	Clothes, Shops & Looks	enlever	to take off	gl					1	avoir	enlevé	enlève · enlèves · enlève · enlevons · enlevez · enlèvent
+L12	Clothes, Shops & Looks	plaire	to please	gl					3	avoir	plu	plais · plais · plaît · plaisons · plaisez · plaisent
+L12	Clothes, Shops & Looks	ça me va	it suits me; it fits me	izraz								
+L12	Clothes, Shops & Looks	nouveau	new	pr			nouvelle	nouveaux / nouvelles				
+L12	Clothes, Shops & Looks	long	long	pr			longue	longs / longues				
+L12	Clothes, Shops & Looks	court	short	pr			courte	courts / courtes				
+L12	Clothes, Shops & Looks	large	wide; loose	pr			large	larges / larges				
+L12	Clothes, Shops & Looks	serré	tight	pr			serrée	serrés / serrées				
+L12	Clothes, Shops & Looks	mince	thin; slim	pr			mince	minces / minces				
+L12	Clothes, Shops & Looks	gros	fat; big	pr			grosse	gros / grosses				
+L12	Clothes, Shops & Looks	blond	blond	pr			blonde	blonds / blondes				
+L12	Clothes, Shops & Looks	brun	dark-haired	pr			brune	bruns / brunes				
+L12	Clothes, Shops & Looks	roux	red-haired	pr			rousse	roux / rousses				
+L12	Clothes, Shops & Looks	les cheveux (m)	hair	im	m	cheveux						
+L12	Clothes, Shops & Looks	les yeux (m)	eyes	im	m	yeux						
+L12	Clothes, Shops & Looks	la barbe	beard	im	f	barbes						
+L12	Clothes, Shops & Looks	élégant	elegant	pr			élégante	élégants / élégantes				
+L12	Clothes, Shops & Looks	moche	ugly (informal)	pr			moche	moches / moches				
+L12	Clothes, Shops & Looks	à la mode	fashionable	izraz								
+L12	Clothes, Shops & Looks	le style	style	im	m	styles						
+L12	Clothes, Shops & Looks	l'entretien (m)	interview	im	m	entretiens						
+L12	Clothes, Shops & Looks	le centre commercial	shopping centre	im	m	centres commerciaux						
+L12	Clothes, Shops & Looks	la boutique	boutique; shop	im	f	boutiques						
+L12	Clothes, Shops & Looks	en coton	(made of) cotton	izraz								
+L12	Clothes, Shops & Looks	en laine	woollen	izraz								
+L12	Clothes, Shops & Looks	le cuir	leather	im	m	cuirs						
+L12	Clothes, Shops & Looks	clair	light (colour)	pr			claire	clairs / claires				
+L12	Clothes, Shops & Looks	foncé	dark (colour)	pr			foncée	foncés / foncées				
+L12	Clothes, Shops & Looks	plus	more	pril								
+L12	Clothes, Shops & Looks	moins	less	pril								
+L12	Clothes, Shops & Looks	trop	too; too much	pril								
+L12	Clothes, Shops & Looks	assez	enough; quite	pril								
+L13	The Body & the Doctor	le corps	body	im	m	corps						
+L13	The Body & the Doctor	la tête	head	im	f	têtes						
+L13	The Body & the Doctor	le visage	face	im	m	visages						
+L13	The Body & the Doctor	l'œil (m)	eye	im	m	yeux						
+L13	The Body & the Doctor	le nez	nose	im	m	nez						
+L13	The Body & the Doctor	la bouche	mouth	im	f	bouches						
+L13	The Body & the Doctor	l'oreille (f)	ear	im	f	oreilles						
+L13	The Body & the Doctor	la dent	tooth	im	f	dents						
+L13	The Body & the Doctor	le cou	neck	im	m	cous						
+L13	The Body & the Doctor	la gorge	throat	im	f	gorges						
+L13	The Body & the Doctor	l'épaule (f)	shoulder	im	f	épaules						
+L13	The Body & the Doctor	le bras	arm	im	m	bras						
+L13	The Body & the Doctor	la main	hand	im	f	mains						
+L13	The Body & the Doctor	le doigt	finger	im	m	doigts						
+L13	The Body & the Doctor	le dos	back	im	m	dos						
+L13	The Body & the Doctor	le ventre	stomach; belly	im	m	ventres						
+L13	The Body & the Doctor	le cœur	heart	im	m	cœurs						
+L13	The Body & the Doctor	la jambe	leg	im	f	jambes						
+L13	The Body & the Doctor	le genou	knee	im	m	genoux						
+L13	The Body & the Doctor	le pied	foot	im	m	pieds						
+L13	The Body & the Doctor	la peau	skin	im	f	peaux						
+L13	The Body & the Doctor	le médecin	doctor	im	m	médecins						
+L13	The Body & the Doctor	l'infirmier, l'infirmière	nurse	im	m,f	infirmiers, infirmières						
+L13	The Body & the Doctor	le dentiste	dentist	im	m	dentistes						
+L13	The Body & the Doctor	le cabinet médical	doctor's surgery	im	m	cabinets médicaux						
+L13	The Body & the Doctor	le symptôme	symptom	im	m	symptômes						
+L13	The Body & the Doctor	le patient, la patiente	patient	im	m,f	patients, patientes						
+L13	The Body & the Doctor	la maladie	illness	im	f	maladies						
+L13	The Body & the Doctor	malade	ill	pr			malade	malades / malades				
+L13	The Body & the Doctor	la grippe	flu	im	f	grippes						
+L13	The Body & the Doctor	le rhume	cold	im	m	rhumes						
+L13	The Body & the Doctor	la fièvre	fever; temperature	im	f	fièvres						
+L13	The Body & the Doctor	la toux	cough	im	f	toux						
+L13	The Body & the Doctor	la douleur	pain	im	f	douleurs						
+L13	The Body & the Doctor	avoir mal à	to have a pain in	izraz								
+L13	The Body & the Doctor	j'ai mal à la tête	I have a headache	izraz								
+L13	The Body & the Doctor	la blessure	injury	im	f	blessures						
+L13	The Body & the Doctor	le médicament	medicine	im	m	médicaments						
+L13	The Body & the Doctor	le comprimé	tablet	im	m	comprimés						
+L13	The Body & the Doctor	l'ordonnance (f)	prescription	im	f	ordonnances						
+L13	The Body & the Doctor	le sirop	syrup	im	m	sirops						
+L13	The Body & the Doctor	la santé	health	im	f	—						
+L13	The Body & the Doctor	l'urgence (f)	emergency	im	f	urgences						
+L13	The Body & the Doctor	l'ambulance (f)	ambulance	im	f	ambulances						
+L13	The Body & the Doctor	devoir	to have to; must	gl					3	avoir	dû	dois · dois · doit · devons · devez · doivent
+L13	The Body & the Doctor	il faut	one must; it is necessary	izraz								
+L13	The Body & the Doctor	tousser	to cough	gl					1	avoir	toussé	tousse · tousses · tousse · toussons · toussez · toussent
+L13	The Body & the Doctor	se casser	to break (a limb)	gl					1	être	cassé	me casse · te casses · se casse · nous cassons · vous cassez · se cassent
+L13	The Body & the Doctor	se blesser	to hurt oneself	gl					1	être	blessé	me blesse · te blesses · se blesse · nous blessons · vous blessez · se blessent
+L13	The Body & the Doctor	se soigner	to look after oneself	gl					1	être	soigné	me soigne · te soignes · se soigne · nous soignons · vous soignez · se soignent
+L13	The Body & the Doctor	guérir	to heal; to get better	gl					2	avoir	guéri	guéris · guéris · guérit · guérissons · guérissez · guérissent
+L13	The Body & the Doctor	examiner	to examine	gl					1	avoir	examiné	examine · examines · examine · examinons · examinez · examinent
+L13	The Body & the Doctor	respirer	to breathe	gl					1	avoir	respiré	respire · respires · respire · respirons · respirez · respirent
+L13	The Body & the Doctor	avaler	to swallow	gl					1	avoir	avalé	avale · avales · avale · avalons · avalez · avalent
+L13	The Body & the Doctor	le sang	blood	im	m	—						
+L13	The Body & the Doctor	l'estomac (m)	stomach	im	m	estomacs						
+L13	The Body & the Doctor	grave	serious	pr			grave	graves / graves				
+L13	The Body & the Doctor	sain	healthy	pr			saine	sains / saines				
+L13	The Body & the Doctor	mieux	better	pril								
+L13	The Body & the Doctor	mal	badly	pril								
+L13	The Body & the Doctor	bien sûr	of course	izraz								
+L13	The Body & the Doctor	ne t'inquiète pas	don't worry	izraz								
+L13	The Body & the Doctor	bon rétablissement	get well soon	izraz								
+L13	The Body & the Doctor	à vos souhaits	bless you	izraz								
+L13	The Body & the Doctor	le stress	stress	im	m	—						
+L13	The Body & the Doctor	le sommeil	sleep	im	m	—						
+L13	The Body & the Doctor	l'allergie (f)	allergy	im	f	allergies						
+L13	The Body & the Doctor	le pansement	plaster; dressing	im	m	pansements						
+L13	The Body & the Doctor	le pharmacien, la pharmacienne	pharmacist	im	m,f	pharmaciens, pharmaciennes						
+L13	The Body & the Doctor	fort	strong	pr			forte	forts / fortes				
+L13	The Body & the Doctor	faible	weak	pr			faible	faibles / faibles				
+L13	The Body & the Doctor	lourd	heavy	pr			lourde	lourds / lourdes				
+L13	The Body & the Doctor	chaud	hot; warm	pr			chaude	chauds / chaudes				
+L14	Parties & Presents	le cadeau	present	im	m	cadeaux						
+L14	Parties & Presents	offrir	to give (as a present)	gl					3	avoir	offert	offre · offres · offre · offrons · offrez · offrent
+L14	Parties & Presents	donner	to give	gl					1	avoir	donné	donne · donnes · donne · donnons · donnez · donnent
+L14	Parties & Presents	envoyer	to send	gl					1	avoir	envoyé	envoie · envoies · envoie · envoyons · envoyez · envoient
+L14	Parties & Presents	apporter	to bring	gl					1	avoir	apporté	apporte · apportes · apporte · apportons · apportez · apportent
+L14	Parties & Presents	emballer	to wrap	gl					1	avoir	emballé	emballe · emballes · emballe · emballons · emballez · emballent
+L14	Parties & Presents	remercier	to thank	gl					1	avoir	remercié	remercie · remercies · remercie · remercions · remerciez · remercient
+L14	Parties & Presents	souhaiter	to wish	gl					1	avoir	souhaité	souhaite · souhaites · souhaite · souhaitons · souhaitez · souhaitent
+L14	Parties & Presents	organiser	to organise	gl					1	avoir	organisé	organise · organises · organise · organisons · organisez · organisent
+L14	Parties & Presents	décorer	to decorate	gl					1	avoir	décoré	décore · décores · décore · décorons · décorez · décorent
+L14	Parties & Presents	préparer	to prepare	gl					1	avoir	préparé	prépare · prépares · prépare · préparons · préparez · préparent
+L14	Parties & Presents	l'hôte, l'hôtesse	host; hostess	im	m,f	hôtes, hôtesses						
+L14	Parties & Presents	le carnaval	carnival	im	m	carnavals						
+L14	Parties & Presents	joyeux anniversaire	happy birthday	izraz								
+L14	Parties & Presents	bonne année	happy New Year	izraz								
+L14	Parties & Presents	joyeux Noël	merry Christmas	izraz								
+L14	Parties & Presents	félicitations	congratulations	izraz								
+L14	Parties & Presents	santé	cheers	izraz								
+L14	Parties & Presents	Noël (m)	Christmas	im	m	—						
+L14	Parties & Presents	le Nouvel An	New Year	im	m	—						
+L14	Parties & Presents	Pâques	Easter	im	f	Pâques						
+L14	Parties & Presents	le mariage	wedding; marriage	im	m	mariages						
+L14	Parties & Presents	la naissance	birth	im	f	naissances						
+L14	Parties & Presents	la fête des mères	Mother's Day	izraz								
+L14	Parties & Presents	la bougie	candle	im	f	bougies						
+L14	Parties & Presents	le ballon de baudruche	balloon	im	m	ballons de baudruche						
+L14	Parties & Presents	la tarte	tart; pie	im	f	tartes						
+L14	Parties & Presents	le champagne	champagne	im	m	champagnes						
+L14	Parties & Presents	l'invité, l'invitée	guest	im	m,f	invités, invitées						
+L14	Parties & Presents	l'invitation (f)	invitation	im	f	invitations						
+L14	Parties & Presents	la surprise	surprise	im	f	surprises						
+L14	Parties & Presents	le bouquet	bouquet	im	m	bouquets						
+L14	Parties & Presents	le parfum	perfume	im	m	parfums						
+L14	Parties & Presents	le bijou	piece of jewellery	im	m	bijoux						
+L14	Parties & Presents	la montre	watch	im	f	montres						
+L14	Parties & Presents	le jouet	toy	im	m	jouets						
+L14	Parties & Presents	la poupée	doll	im	f	poupées						
+L14	Parties & Presents	le jeu de société	board game	im	m	jeux de société						
+L14	Parties & Presents	le puzzle	jigsaw puzzle	im	m	puzzles						
+L14	Parties & Presents	le papier cadeau	wrapping paper	im	m	papiers cadeaux						
+L14	Parties & Presents	le ruban	ribbon	im	m	rubans						
+L14	Parties & Presents	le déguisement	fancy-dress costume	im	m	déguisements						
+L14	Parties & Presents	la tradition	tradition	im	f	traditions						
+L14	Parties & Presents	l'ambiance (f)	atmosphere	im	f	ambiances						
+L14	Parties & Presents	me	me (object)	zam								
+L14	Parties & Presents	te	you (object)	zam								
+L14	Parties & Presents	le, la, l' (pronom)	him; her; it	zam								
+L14	Parties & Presents	les (pronom)	them	zam								
+L14	Parties & Presents	content	happy; pleased	pr			contente	contents / contentes				
+L14	Parties & Presents	heureux	happy	pr			heureuse	heureux / heureuses				
+L14	Parties & Presents	ravi	delighted	pr			ravie	ravis / ravies				
+L14	Parties & Presents	surpris	surprised	pr			surprise	surpris / surprises				
+L14	Parties & Presents	triste	sad	pr			triste	tristes / tristes				
+L14	Parties & Presents	déçu	disappointed	pr			déçue	déçus / déçues				
+L14	Parties & Presents	fier	proud	pr			fière	fiers / fières				
+L14	Parties & Presents	original	original	pr			originale	originaux / originales				
+L14	Parties & Presents	utile	useful	pr			utile	utiles / utiles				
+L14	Parties & Presents	tout de suite	straight away	izraz								
+L14	Parties & Presents	bientôt	soon	pril								
+L14	Parties & Presents	applaudir	to clap	gl					2	avoir	applaudi	applaudis · applaudis · applaudit · applaudissons · applaudissez · applaudissent
+L14	Parties & Presents	souffler les bougies	to blow out the candles	izraz								
+L14	Parties & Presents	faire la fête	to party	izraz								
+L14	Parties & Presents	trinquer	to clink glasses	gl					1	avoir	trinqué	trinque · trinques · trinque · trinquons · trinquez · trinquent
+L14	Parties & Presents	célébrer	to celebrate	gl					1	avoir	célébré	célèbre · célèbres · célèbre · célébrons · célébrez · célèbrent
+L14	Parties & Presents	le repas	meal	im	m	repas						
+L14	Parties & Presents	le foie gras	foie gras	im	m	—						
+L14	Parties & Presents	la dinde	turkey	im	f	dindes						
+L14	Parties & Presents	la bûche de Noël	Yule log	izraz								
+L14	Parties & Presents	le sapin	fir tree; Christmas tree	im	m	sapins						
+L14	Parties & Presents	la décoration	decoration	im	f	décorations						
+L14	Parties & Presents	le feu d'artifice	fireworks	im	m	feux d'artifice						
+L14	Parties & Presents	le 14 juillet	Bastille Day	izraz								
+L14	Parties & Presents	la fête nationale	national holiday	izraz								
+L15	Childhood & School	l'enfance (f)	childhood	im	f	—						
+L15	Childhood & School	l'enfant unique (m/f)	only child	izraz								
+L15	Childhood & School	le doudou	cuddly toy	im	m	doudous						
+L15	Childhood & School	le passé	the past	im	m	—						
+L15	Childhood & School	l'école primaire (f)	primary school	izraz								
+L15	Childhood & School	le collège	secondary school (11–15)	im	m	collèges						
+L15	Childhood & School	le lycée	secondary school (15–18)	im	m	lycées						
+L15	Childhood & School	la classe	class; classroom	im	f	classes						
+L15	Childhood & School	le maître, la maîtresse	primary teacher	im	m,f	maîtres, maîtresses						
+L15	Childhood & School	le professeur	teacher	im	m	professeurs						
+L15	Childhood & School	l'élève (m/f)	pupil	im	m,f	élèves						
+L15	Childhood & School	l'étudiant, l'étudiante	student	im	m,f	étudiants, étudiantes						
+L15	Childhood & School	la leçon	lesson	im	f	leçons						
+L15	Childhood & School	le cours	lesson; course	im	m	cours						
+L15	Childhood & School	les devoirs (m)	homework	im	m	devoirs						
+L15	Childhood & School	l'examen (m)	exam	im	m	examens						
+L15	Childhood & School	la note	mark; note	im	f	notes						
+L15	Childhood & School	la récréation	break (school)	im	f	récréations						
+L15	Childhood & School	la cour	playground; courtyard	im	f	cours						
+L15	Childhood & School	le tableau	board; painting	im	m	tableaux						
+L15	Childhood & School	la règle	ruler; rule	im	f	règles						
+L15	Childhood & School	la gomme	rubber	im	f	gommes						
+L15	Childhood & School	le cartable	school bag	im	m	cartables						
+L15	Childhood & School	les mathématiques (f)	mathematics	im	f	mathématiques						
+L15	Childhood & School	l'histoire (f)	history; story	im	f	histoires						
+L15	Childhood & School	la géographie	geography	im	f	—						
+L15	Childhood & School	les sciences (f)	science	im	f	sciences						
+L15	Childhood & School	la biologie	biology	im	f	—						
+L15	Childhood & School	la chimie	chemistry	im	f	—						
+L15	Childhood & School	la langue	language; tongue	im	f	langues						
+L15	Childhood & School	l'éducation physique (f)	PE	izraz								
+L15	Childhood & School	la matière	subject	im	f	matières						
+L15	Childhood & School	le prof	teacher (informal)	im	m	profs						
+L15	Childhood & School	les grandes vacances	summer holidays	izraz								
+L15	Childhood & School	la colonie de vacances	summer camp	izraz								
+L15	Childhood & School	le grenier	attic	im	m	greniers						
+L15	Childhood & School	la physique	physics	im	f	—						
+L15	Childhood & School	la balançoire	swing	im	f	balançoires						
+L15	Childhood & School	le dessin animé	cartoon	izraz								
+L15	Childhood & School	apprendre	to learn	gl					3	avoir	appris	apprends · apprends · apprend · apprenons · apprenez · apprennent
+L15	Childhood & School	comprendre	to understand	gl					3	avoir	compris	comprends · comprends · comprend · comprenons · comprenez · comprennent
+L15	Childhood & School	répéter	to repeat	gl					1	avoir	répété	répète · répètes · répète · répétons · répétez · répètent
+L15	Childhood & School	expliquer	to explain	gl					1	avoir	expliqué	explique · expliques · explique · expliquons · expliquez · expliquent
+L15	Childhood & School	réviser	to revise	gl					1	avoir	révisé	révise · révises · révise · révisons · révisez · révisent
+L15	Childhood & School	grandir	to grow up	gl					2	avoir	grandi	grandis · grandis · grandit · grandissons · grandissez · grandissent
+L15	Childhood & School	se souvenir de	to remember	gl					3	être	souvenu	me souviens · te souviens · se souvient · nous souvenons · vous souvenez · se souviennent
+L15	Childhood & School	se rappeler	to remember	gl					1	être	rappelé	me rappelle · te rappelles · se rappelle · nous rappelons · vous rappelez · se rappellent
+L15	Childhood & School	punir	to punish	gl					2	avoir	puni	punis · punis · punit · punissons · punissez · punissent
+L15	Childhood & School	être bon en	to be good at	izraz								
+L15	Childhood & School	le cahier de textes	homework diary	izraz								
+L15	Childhood & School	leur	(to) them	zam								
+L15	Childhood & School	autrefois	in the past	pril								
+L15	Childhood & School	à l'époque	at the time	izraz								
+L15	Childhood & School	quand j'étais petit	when I was little	izraz								
+L15	Childhood & School	le pupitre	school desk	im	m	pupitres						
+L15	Childhood & School	la cantine	school canteen	im	f	cantines						
+L15	Childhood & School	sage	well-behaved; wise	pr			sage	sages / sages				
+L15	Childhood & School	timide	shy	pr			timide	timides / timides				
+L15	Childhood & School	curieux	curious	pr			curieuse	curieux / curieuses				
+L15	Childhood & School	bavard	talkative	pr			bavarde	bavards / bavardes				
+L15	Childhood & School	méchant	naughty; nasty	pr			méchante	méchants / méchantes				
+L15	Childhood & School	sévère	strict	pr			sévère	sévères / sévères				
+L15	Childhood & School	facile	easy	pr			facile	faciles / faciles				
+L15	Childhood & School	difficile	difficult	pr			difficile	difficiles / difficiles				
+L15	Childhood & School	cent un	one hundred and one	broj								
+L15	Childhood & School	deux mille	two thousand	broj								
+L15	Childhood & School	l'année (f)	year	im	f	années						
+L15	Childhood & School	le siècle	century	im	m	siècles						
+L15	Childhood & School	cent cinquante	one hundred and fifty	broj								
+L15	Childhood & School	le camarade, la camarade	classmate	im	m,f	camarades, camarades						
+L15	Childhood & School	la bande	group; gang	im	f	bandes						
+L15	Childhood & School	le cache-cache	hide-and-seek	im	m	—						
+L15	Childhood & School	la maternelle	nursery school	im	f	maternelles						
+L16	The Home & Furniture	la maison	house; home	im	f	maisons						
+L16	The Home & Furniture	le déménagement	move (house)	im	m	déménagements						
+L16	The Home & Furniture	déménager	to move house	gl					1	avoir	déménagé	déménage · déménages · déménage · déménageons · déménagez · déménagent
+L16	The Home & Furniture	emménager	to move in	gl					1	avoir	emménagé	emménage · emménages · emménage · emménageons · emménagez · emménagent
+L16	The Home & Furniture	le carton	cardboard box	im	m	cartons						
+L16	The Home & Furniture	le camion	lorry	im	m	camions						
+L16	The Home & Furniture	le loyer	rent	im	m	loyers						
+L16	The Home & Furniture	le propriétaire, la propriétaire	landlord; owner	im	m,f	propriétaires, propriétaires						
+L16	The Home & Furniture	le locataire, la locataire	tenant	im	m,f	locataires, locataires						
+L16	The Home & Furniture	l'immeuble (m)	block of flats	im	m	immeubles						
+L16	The Home & Furniture	l'étage (m)	floor (storey)	im	m	étages						
+L16	The Home & Furniture	le rez-de-chaussée	ground floor	im	m	rez-de-chaussée						
+L16	The Home & Furniture	l'ascenseur (m)	lift	im	m	ascenseurs						
+L16	The Home & Furniture	l'escalier (m)	stairs	im	m	escaliers						
+L16	The Home & Furniture	le balcon	balcony	im	m	balcons						
+L16	The Home & Furniture	le jardin	garden	im	m	jardins						
+L16	The Home & Furniture	le garage	garage	im	m	garages						
+L16	The Home & Furniture	la cave	cellar	im	f	caves						
+L16	The Home & Furniture	le voisinage	neighbourhood (people)	im	m	voisinages						
+L16	The Home & Furniture	les toilettes (f)	toilet	im	f	toilettes						
+L16	The Home & Furniture	la salle à manger	dining room	im	f	salles à manger						
+L16	The Home & Furniture	le couloir	corridor	im	m	couloirs						
+L16	The Home & Furniture	le meuble	piece of furniture	im	m	meubles						
+L16	The Home & Furniture	les meubles (m)	furniture	im	m	meubles						
+L16	The Home & Furniture	le fauteuil	armchair	im	m	fauteuils						
+L16	The Home & Furniture	l'étagère (f)	shelf	im	f	étagères						
+L16	The Home & Furniture	le placard	cupboard	im	m	placards						
+L16	The Home & Furniture	la commode	chest of drawers	im	f	commodes						
+L16	The Home & Furniture	le tiroir	drawer	im	m	tiroirs						
+L16	The Home & Furniture	le congélateur	freezer	im	m	congélateurs						
+L16	The Home & Furniture	la table basse	coffee table	izraz								
+L16	The Home & Furniture	le coussin	cushion	im	m	coussins						
+L16	The Home & Furniture	le rideau	curtain	im	m	rideaux						
+L16	The Home & Furniture	le drap	sheet	im	m	draps						
+L16	The Home & Furniture	la couverture	blanket	im	f	couvertures						
+L16	The Home & Furniture	l'oreiller (m)	pillow	im	m	oreillers						
+L16	The Home & Furniture	le frigo	fridge	im	m	frigos						
+L16	The Home & Furniture	le four	oven	im	m	fours						
+L16	The Home & Furniture	la cuisinière	cooker	im	f	cuisinières						
+L16	The Home & Furniture	le micro-ondes	microwave	im	m	micro-ondes						
+L16	The Home & Furniture	le lave-linge	washing machine	im	m	lave-linge						
+L16	The Home & Furniture	le lave-vaisselle	dishwasher	im	m	lave-vaisselle						
+L16	The Home & Furniture	l'évier (m)	sink	im	m	éviers						
+L16	The Home & Furniture	la baignoire	bath	im	f	baignoires						
+L16	The Home & Furniture	le lavabo	washbasin	im	m	lavabos						
+L16	The Home & Furniture	le chauffage	heating	im	m	chauffages						
+L16	The Home & Furniture	la lumière	light	im	f	lumières						
+L16	The Home & Furniture	la prise	socket	im	f	prises						
+L16	The Home & Furniture	le sol	floor	im	m	sols						
+L16	The Home & Furniture	le plafond	ceiling	im	m	plafonds						
+L16	The Home & Furniture	le toit	roof	im	m	toits						
+L16	The Home & Furniture	y	there; to it	zam								
+L16	The Home & Furniture	en	some; of it; of them	zam								
+L16	The Home & Furniture	le bricolage	DIY	im	m	—						
+L16	The Home & Furniture	installer	to install; to set up	gl					1	avoir	installé	installe · installes · installe · installons · installez · installent
+L16	The Home & Furniture	la peinture	paint; painting	im	f	peintures						
+L16	The Home & Furniture	transporter	to transport	gl					1	avoir	transporté	transporte · transportes · transporte · transportons · transportez · transportent
+L16	The Home & Furniture	aider	to help	gl					1	avoir	aidé	aide · aides · aide · aidons · aidez · aident
+L16	The Home & Furniture	vider	to empty	gl					1	avoir	vidé	vide · vides · vide · vidons · videz · vident
+L16	The Home & Furniture	remplir	to fill	gl					2	avoir	rempli	remplis · remplis · remplit · remplissons · remplissez · remplissent
+L16	The Home & Furniture	réparer	to repair	gl					1	avoir	réparé	répare · répares · répare · réparons · réparez · réparent
+L16	The Home & Furniture	le volet	shutter	im	m	volets						
+L16	The Home & Furniture	neuf	brand new	pr			neuve	neufs / neuves				
+L16	The Home & Furniture	ancien	old; former	pr			ancienne	anciens / anciennes				
+L16	The Home & Furniture	spacieux	spacious	pr			spacieuse	spacieux / spacieuses				
+L16	The Home & Furniture	lumineux	bright	pr			lumineuse	lumineux / lumineuses				
+L16	The Home & Furniture	calme	quiet; calm	pr			calme	calmes / calmes				
+L16	The Home & Furniture	bruyant	noisy	pr			bruyante	bruyants / bruyantes				
+L16	The Home & Furniture	propre	clean	pr			propre	propres / propres				
+L16	The Home & Furniture	sale	dirty	pr			sale	sales / sales				
+L16	The Home & Furniture	confortable	comfortable	pr			confortable	confortables / confortables				
+L16	The Home & Furniture	pratique	practical	pr			pratique	pratiques / pratiques				
+L16	The Home & Furniture	au fond	at the back	izraz								
+L16	The Home & Furniture	en haut	upstairs	izraz								
+L16	The Home & Furniture	en bas	downstairs	izraz								
+L17	Town, Village & Nature	le bois	wood	im	m	bois						
+L17	Town, Village & Nature	le village	village	im	m	villages						
+L17	Town, Village & Nature	la ferme	farm	im	f	fermes						
+L17	Town, Village & Nature	le champ	field	im	m	champs						
+L17	Town, Village & Nature	la forêt	forest	im	f	forêts						
+L17	Town, Village & Nature	l'arbre (m)	tree	im	m	arbres						
+L17	Town, Village & Nature	la rivière	river	im	f	rivières						
+L17	Town, Village & Nature	le fleuve	(large) river	im	m	fleuves						
+L17	Town, Village & Nature	la colline	hill	im	f	collines						
+L17	Town, Village & Nature	la vallée	valley	im	f	vallées						
+L17	Town, Village & Nature	le sommet	summit	im	m	sommets						
+L17	Town, Village & Nature	le sentier	path	im	m	sentiers						
+L17	Town, Village & Nature	la prairie	meadow	im	f	prairies						
+L17	Town, Village & Nature	le paysage	landscape	im	m	paysages						
+L17	Town, Village & Nature	la nature sauvage	wilderness	izraz								
+L17	Town, Village & Nature	l'herbe (f)	grass	im	f	herbes						
+L17	Town, Village & Nature	la feuille	leaf; sheet	im	f	feuilles						
+L17	Town, Village & Nature	la pierre	stone	im	f	pierres						
+L17	Town, Village & Nature	le ciel	sky	im	m	cieux						
+L17	Town, Village & Nature	l'étoile (f)	star	im	f	étoiles						
+L17	Town, Village & Nature	la lune	moon	im	f	lunes						
+L17	Town, Village & Nature	l'air (m)	air	im	m	—						
+L17	Town, Village & Nature	l'animal (m)	animal	im	m	animaux						
+L17	Town, Village & Nature	la vache	cow	im	f	vaches						
+L17	Town, Village & Nature	le cheval	horse	im	m	chevaux						
+L17	Town, Village & Nature	le mouton	sheep	im	m	moutons						
+L17	Town, Village & Nature	le cochon	pig	im	m	cochons						
+L17	Town, Village & Nature	la poule	hen	im	f	poules						
+L17	Town, Village & Nature	l'oiseau (m)	bird	im	m	oiseaux						
+L17	Town, Village & Nature	le lapin	rabbit	im	m	lapins						
+L17	Town, Village & Nature	l'insecte (m)	insect	im	m	insectes						
+L17	Town, Village & Nature	le paysan, la paysanne	farmer	im	m,f	paysans, paysannes						
+L17	Town, Village & Nature	l'agriculteur, l'agricultrice	farmer	im	m,f	agriculteurs, agricultrices						
+L17	Town, Village & Nature	le bruit	noise	im	m	bruits						
+L17	Town, Village & Nature	la circulation	traffic	im	f	—						
+L17	Town, Village & Nature	la pollution	pollution	im	f	—						
+L17	Town, Village & Nature	l'embouteillage (m)	traffic jam	im	m	embouteillages						
+L17	Town, Village & Nature	les transports en commun	public transport	izraz								
+L17	Town, Village & Nature	le gratte-ciel	skyscraper	im	m	gratte-ciel						
+L17	Town, Village & Nature	la banlieue	suburbs	im	f	banlieues						
+L17	Town, Village & Nature	le centre	centre	im	m	centres						
+L17	Town, Village & Nature	l'habitant, l'habitante	inhabitant	im	m,f	habitants, habitantes						
+L17	Town, Village & Nature	la vie	life	im	f	vies						
+L17	Town, Village & Nature	le monde	world; people	im	m	mondes						
+L17	Town, Village & Nature	la région	region	im	f	régions						
+L17	Town, Village & Nature	l'environnement (m)	environment	im	m	—						
+L17	Town, Village & Nature	le recyclage	recycling	im	m	—						
+L17	Town, Village & Nature	la poubelle	bin	im	f	poubelles						
+L17	Town, Village & Nature	vivre	to live	gl					3	avoir	vécu	vis · vis · vit · vivons · vivez · vivent
+L17	Town, Village & Nature	la grotte	cave	im	f	grottes						
+L17	Town, Village & Nature	comparer	to compare	gl					1	avoir	comparé	compare · compares · compare · comparons · comparez · comparent
+L17	Town, Village & Nature	la côte	coast	im	f	côtes						
+L17	Town, Village & Nature	pousser	to grow; to push	gl					1	avoir	poussé	pousse · pousses · pousse · poussons · poussez · poussent
+L17	Town, Village & Nature	protéger	to protect	gl					1	avoir	protégé	protège · protèges · protège · protégeons · protégez · protègent
+L17	Town, Village & Nature	recycler	to recycle	gl					1	avoir	recyclé	recycle · recycles · recycle · recyclons · recyclez · recyclent
+L17	Town, Village & Nature	plus … que	more … than	izraz								
+L17	Town, Village & Nature	moins … que	less … than	izraz								
+L17	Town, Village & Nature	aussi … que	as … as	izraz								
+L17	Town, Village & Nature	meilleur	better (adj.)	pr			meilleure	meilleurs / meilleures				
+L17	Town, Village & Nature	le meilleur	the best	izraz								
+L17	Town, Village & Nature	le pire	the worst	izraz								
+L17	Town, Village & Nature	tranquille	quiet; peaceful	pr			tranquille	tranquilles / tranquilles				
+L17	Town, Village & Nature	animé	lively	pr			animée	animés / animées				
+L17	Town, Village & Nature	pur	pure; clean	pr			pure	purs / pures				
+L17	Town, Village & Nature	pollué	polluted	pr			polluée	pollués / polluées				
+L17	Town, Village & Nature	sauvage	wild	pr			sauvage	sauvages / sauvages				
+L17	Town, Village & Nature	isolé	isolated	pr			isolée	isolés / isolées				
+L17	Town, Village & Nature	magnifique	magnificent	pr			magnifique	magnifiques / magnifiques				
+L17	Town, Village & Nature	dangereux	dangerous	pr			dangereuse	dangereux / dangereuses				
+L17	Town, Village & Nature	moderne	modern	pr			moderne	modernes / modernes				
+L17	Town, Village & Nature	typique	typical	pr			typique	typiques / typiques				
+L17	Town, Village & Nature	écologique	ecological; eco-friendly	pr			écologique	écologiques / écologiques				
+L17	Town, Village & Nature	partout	everywhere	pril								
+L17	Town, Village & Nature	quelque part	somewhere	pril								
+L17	Town, Village & Nature	nulle part	nowhere	pril								
+L17	Town, Village & Nature	loin	far	pril								
+L17	Town, Village & Nature	près	near	pril								
+L17	Town, Village & Nature	autour de	around	prij								
+L17	Town, Village & Nature	au bord de	at the edge of	prij								
+L17	Town, Village & Nature	au milieu de	in the middle of	prij								
+L18	Work & Careers	le métier	job; trade	im	m	métiers						
+L18	Work & Careers	la profession	profession	im	f	professions						
+L18	Work & Careers	le poste	position; job	im	m	postes						
+L18	Work & Careers	l'emploi (m)	employment; job	im	m	emplois						
+L18	Work & Careers	le chômage	unemployment	im	m	—						
+L18	Work & Careers	l'entreprise (f)	company	im	f	entreprises						
+L18	Work & Careers	la société	company; society	im	f	sociétés						
+L18	Work & Careers	le patron, la patronne	boss	im	m,f	patrons, patronnes						
+L18	Work & Careers	le directeur, la directrice	manager; director	im	m,f	directeurs, directrices						
+L18	Work & Careers	l'employé, l'employée	employee	im	m,f	employés, employées						
+L18	Work & Careers	le salaire	salary	im	m	salaires						
+L18	Work & Careers	le contrat	contract	im	m	contrats						
+L18	Work & Careers	le CV	CV	im	m	CV						
+L18	Work & Careers	la lettre de motivation	cover letter	izraz								
+L18	Work & Careers	l'offre d'emploi (f)	job offer	izraz								
+L18	Work & Careers	le candidat, la candidate	candidate	im	m,f	candidats, candidates						
+L18	Work & Careers	l'expérience (f)	experience	im	f	expériences						
+L18	Work & Careers	la formation	training; education	im	f	formations						
+L18	Work & Careers	le diplôme	qualification; degree	im	m	diplômes						
+L18	Work & Careers	le stage	internship	im	m	stages						
+L18	Work & Careers	la réunion	meeting	im	f	réunions						
+L18	Work & Careers	le dossier	file	im	m	dossiers						
+L18	Work & Careers	le partenaire, la partenaire	partner	im	m,f	partenaires, partenaires						
+L18	Work & Careers	l'ingénieur, l'ingénieure	engineer	im	m,f	ingénieurs, ingénieures						
+L18	Work & Careers	l'avocat, l'avocate	lawyer	im	m,f	avocats, avocates						
+L18	Work & Careers	le plombier	plumber	im	m	plombiers						
+L18	Work & Careers	le cuisinier, la cuisinière	cook	im	m,f	cuisiniers, cuisinières						
+L18	Work & Careers	le policier, la policière	police officer	im	m,f	policiers, policières						
+L18	Work & Careers	le journaliste, la journaliste	journalist	im	m,f	journalistes, journalistes						
+L18	Work & Careers	l'informaticien, l'informaticienne	IT specialist	im	m,f	informaticiens, informaticiennes						
+L18	Work & Careers	l'architecte (m/f)	architect	im	m,f	architectes						
+L18	Work & Careers	le comptable, la comptable	accountant	im	m,f	comptables, comptables						
+L18	Work & Careers	le coiffeur, la coiffeuse	hairdresser	im	m,f	coiffeurs, coiffeuses						
+L18	Work & Careers	le boulanger, la boulangère	baker	im	m,f	boulangers, boulangères						
+L18	Work & Careers	le facteur, la factrice	postman; postwoman	im	m,f	facteurs, factrices						
+L18	Work & Careers	l'artiste (m/f)	artist	im	m,f	artistes						
+L18	Work & Careers	l'acteur, l'actrice	actor; actress	im	m,f	acteurs, actrices						
+L18	Work & Careers	le musicien, la musicienne	musician	im	m,f	musiciens, musiciennes						
+L18	Work & Careers	le chef	chef; boss	im	m	chefs						
+L18	Work & Careers	l'usine (f)	factory	im	f	usines						
+L18	Work & Careers	l'électricien, l'électricienne	electrician	im	m,f	électriciens, électriciennes						
+L18	Work & Careers	le télétravail	working from home	im	m	—						
+L18	Work & Careers	l'avenir (m)	future	im	m	—						
+L18	Work & Careers	le futur	future (tense)	im	m	—						
+L18	Work & Careers	la carrière	career	im	f	carrières						
+L18	Work & Careers	l'objectif (m)	goal	im	m	objectifs						
+L18	Work & Careers	la retraite	retirement	im	f	retraites						
+L18	Work & Careers	postuler	to apply	gl					1	avoir	postulé	postule · postules · postule · postulons · postulez · postulent
+L18	Work & Careers	embaucher	to hire	gl					1	avoir	embauché	embauche · embauches · embauche · embauchons · embauchez · embauchent
+L18	Work & Careers	gérer	to manage	gl					1	avoir	géré	gère · gères · gère · gérons · gérez · gèrent
+L18	Work & Careers	diriger	to manage; to lead	gl					1	avoir	dirigé	dirige · diriges · dirige · dirigeons · dirigez · dirigent
+L18	Work & Careers	développer	to develop	gl					1	avoir	développé	développe · développes · développe · développons · développez · développent
+L18	Work & Careers	créer	to create	gl					1	avoir	créé	crée · crées · crée · créons · créez · créent
+L18	Work & Careers	devenir	to become	gl					3	être	devenu	deviens · deviens · devient · devenons · devenez · deviennent
+L18	Work & Careers	espérer	to hope	gl					1	avoir	espéré	espère · espères · espère · espérons · espérez · espèrent
+L18	Work & Careers	le recrutement	recruitment	im	m	recrutements						
+L18	Work & Careers	la promotion	promotion	im	f	promotions						
+L18	Work & Careers	prendre sa retraite	to retire	izraz								
+L18	Work & Careers	gagner sa vie	to earn a living	izraz								
+L18	Work & Careers	depuis	since; for	prij								
+L18	Work & Careers	si	if	vez								
+L18	Work & Careers	la candidature	application	im	f	candidatures						
+L18	Work & Careers	l'augmentation (f)	pay rise	im	f	augmentations						
+L18	Work & Careers	un jour	one day	izraz								
+L18	Work & Careers	plus tard	later	izraz								
+L18	Work & Careers	sérieux	serious	pr			sérieuse	sérieux / sérieuses				
+L18	Work & Careers	motivé	motivated	pr			motivée	motivés / motivées				
+L18	Work & Careers	dynamique	dynamic	pr			dynamique	dynamiques / dynamiques				
+L18	Work & Careers	responsable	responsible	pr			responsable	responsables / responsables				
+L18	Work & Careers	organisé	organised	pr			organisée	organisés / organisées				
+L18	Work & Careers	créatif	creative	pr			créative	créatifs / créatives				
+L18	Work & Careers	patient	patient	pr			patiente	patients / patientes				
+L18	Work & Careers	professionnel	professional	pr			professionnelle	professionnels / professionnelles				
+L18	Work & Careers	à temps plein	full-time	izraz								
+L18	Work & Careers	à temps partiel	part-time	izraz								
+L18	Work & Careers	bien payé	well paid	izraz								
+L18	Work & Careers	mal payé	badly paid	izraz								
+L18	Work & Careers	international	international	pr			internationale	internationaux / internationales				
+L18	Work & Careers	le défi	challenge	im	m	défis						
+L19	Wishes & Advice	le rêve	dream	im	m	rêves						
+L19	Wishes & Advice	rêver	to dream	gl					1	avoir	rêvé	rêve · rêves · rêve · rêvons · rêvez · rêvent
+L19	Wishes & Advice	le souhait	wish	im	m	souhaits						
+L19	Wishes & Advice	le désir	desire	im	m	désirs						
+L19	Wishes & Advice	le conseil	piece of advice	im	m	conseils						
+L19	Wishes & Advice	conseiller	to advise	gl					1	avoir	conseillé	conseille · conseilles · conseille · conseillons · conseillez · conseillent
+L19	Wishes & Advice	proposer	to suggest	gl					1	avoir	proposé	propose · proposes · propose · proposons · proposez · proposent
+L19	Wishes & Advice	suggérer	to suggest	gl					1	avoir	suggéré	suggère · suggères · suggère · suggérons · suggérez · suggèrent
+L19	Wishes & Advice	recommander	to recommend	gl					1	avoir	recommandé	recommande · recommandes · recommande · recommandons · recommandez · recommandent
+L19	Wishes & Advice	imaginer	to imagine	gl					1	avoir	imaginé	imagine · imagines · imagine · imaginons · imaginez · imaginent
+L19	Wishes & Advice	aimer bien	to quite like	izraz								
+L19	Wishes & Advice	avoir envie de	to feel like	izraz								
+L19	Wishes & Advice	avoir besoin de	to need	izraz								
+L19	Wishes & Advice	avoir peur de	to be afraid of	izraz								
+L19	Wishes & Advice	avoir raison	to be right	izraz								
+L19	Wishes & Advice	avoir tort	to be wrong	izraz								
+L19	Wishes & Advice	avoir le temps	to have time	izraz								
+L19	Wishes & Advice	la loterie	lottery	im	f	loteries						
+L19	Wishes & Advice	gagner au loto	to win the lottery	izraz								
+L19	Wishes & Advice	le million	million	im	m	millions						
+L19	Wishes & Advice	riche	rich	pr			riche	riches / riches				
+L19	Wishes & Advice	pauvre	poor	pr			pauvre	pauvres / pauvres				
+L19	Wishes & Advice	la richesse	wealth	im	f	richesses						
+L19	Wishes & Advice	l'argent (m)	money	im	m	—						
+L19	Wishes & Advice	dépenser	to spend (money)	gl					1	avoir	dépensé	dépense · dépenses · dépense · dépensons · dépensez · dépensent
+L19	Wishes & Advice	économiser	to save (money)	gl					1	avoir	économisé	économise · économises · économise · économisons · économisez · économisent
+L19	Wishes & Advice	prêter	to lend	gl					1	avoir	prêté	prête · prêtes · prête · prêtons · prêtez · prêtent
+L19	Wishes & Advice	emprunter	to borrow	gl					1	avoir	emprunté	emprunte · empruntes · emprunte · empruntons · empruntez · empruntent
+L19	Wishes & Advice	le tour du monde	round-the-world trip	izraz								
+L19	Wishes & Advice	faire le tour du monde	to travel around the world	izraz								
+L19	Wishes & Advice	la croisière	cruise	im	f	croisières						
+L19	Wishes & Advice	l'île (f)	island	im	f	îles						
+L19	Wishes & Advice	le bateau à voile	sailing boat	izraz								
+L19	Wishes & Advice	le luxe	luxury	im	m	—						
+L19	Wishes & Advice	la liberté	freedom	im	f	libertés						
+L19	Wishes & Advice	le bonheur	happiness	im	m	—						
+L19	Wishes & Advice	la chance	luck; chance	im	f	chances						
+L19	Wishes & Advice	la possibilité	possibility	im	f	possibilités						
+L19	Wishes & Advice	le choix	choice	im	m	choix						
+L19	Wishes & Advice	la décision	decision	im	f	décisions						
+L19	Wishes & Advice	décider	to decide	gl					1	avoir	décidé	décide · décides · décide · décidons · décidez · décident
+L19	Wishes & Advice	essayer de	to try to	izraz								
+L19	Wishes & Advice	arrêter de	to stop (doing)	izraz								
+L19	Wishes & Advice	commencer à	to start (doing)	izraz								
+L19	Wishes & Advice	continuer à	to keep (doing)	izraz								
+L19	Wishes & Advice	à ta place	if I were you	izraz								
+L19	Wishes & Advice	tu devrais	you should	izraz								
+L19	Wishes & Advice	il vaudrait mieux	it would be better	izraz								
+L19	Wishes & Advice	ce serait bien	it would be good	izraz								
+L19	Wishes & Advice	j'aimerais	I would like	izraz								
+L19	Wishes & Advice	si j'étais toi	if I were you	izraz								
+L19	Wishes & Advice	volontiers	gladly	pril								
+L19	Wishes & Advice	vraiment	really	pril								
+L19	Wishes & Advice	absolument	absolutely	pril								
+L19	Wishes & Advice	sûrement	surely; certainly	pril								
+L19	Wishes & Advice	probablement	probably	pril								
+L19	Wishes & Advice	sinon	otherwise	vez								
+L19	Wishes & Advice	pourtant	yet; however	vez								
+L19	Wishes & Advice	même	even	pril								
+L19	Wishes & Advice	le budget	budget	im	m	budgets						
+L19	Wishes & Advice	la vérité	truth	im	f	vérités						
+L19	Wishes & Advice	l'espoir (m)	hope	im	m	espoirs						
+L19	Wishes & Advice	le problème	problem	im	m	problèmes						
+L19	Wishes & Advice	la solution	solution	im	f	solutions						
+L19	Wishes & Advice	l'idée (f)	idea	im	f	idées						
+L19	Wishes & Advice	le but	aim; goal	im	m	buts						
+L19	Wishes & Advice	le courage	courage	im	m	—						
+L19	Wishes & Advice	la patience	patience	im	f	—						
+L19	Wishes & Advice	généreux	generous	pr			généreuse	généreux / généreuses				
+L19	Wishes & Advice	égoïste	selfish	pr			égoïste	égoïstes / égoïstes				
+L19	Wishes & Advice	prudent	careful	pr			prudente	prudents / prudentes				
+L19	Wishes & Advice	possible	possible	pr			possible	possibles / possibles				
+L19	Wishes & Advice	impossible	impossible	pr			impossible	impossibles / impossibles				
+L19	Wishes & Advice	idéal	ideal	pr			idéale	idéaux / idéales				
+L19	Wishes & Advice	parfait	perfect	pr			parfaite	parfaits / parfaites				
+L19	Wishes & Advice	important	important	pr			importante	importants / importantes				
+L19	Wishes & Advice	nécessaire	necessary	pr			nécessaire	nécessaires / nécessaires				
+L19	Wishes & Advice	calmement	calmly	pril								
+L20	Memories & the Future	l'émotion (f)	emotion	im	f	émotions						
+L20	Memories & the Future	regretter	to regret; to miss	gl					1	avoir	regretté	regrette · regrettes · regrette · regrettons · regrettez · regrettent
+L20	Memories & the Future	le regret	regret	im	m	regrets						
+L20	Memories & the Future	la mémoire	memory (ability)	im	f	mémoires						
+L20	Memories & the Future	la sagesse	wisdom	im	f	—						
+L20	Memories & the Future	l'instant (m)	instant; moment	im	m	instants						
+L20	Memories & the Future	inoubliable	unforgettable	pr			inoubliable	inoubliables / inoubliables				
+L20	Memories & the Future	l'adieu (m)	farewell	im	m	adieux						
+L20	Memories & the Future	le retour	return	im	m	retours						
+L20	Memories & the Future	revenir	to come back	gl					3	être	revenu	reviens · reviens · revient · revenons · revenez · reviennent
+L20	Memories & the Future	quitter	to leave (a place, a person)	gl					1	avoir	quitté	quitte · quittes · quitte · quittons · quittez · quittent
+L20	Memories & the Future	dire au revoir	to say goodbye	izraz								
+L20	Memories & the Future	manquer à quelqu'un	to be missed by someone	izraz								
+L20	Memories & the Future	tu me manques	I miss you	izraz								
+L20	Memories & the Future	se sentir chez soi	to feel at home	izraz								
+L20	Memories & the Future	l'amitié (f)	friendship	im	f	amitiés						
+L20	Memories & the Future	l'amour (m)	love	im	m	amours						
+L20	Memories & the Future	le sentiment	feeling	im	m	sentiments						
+L20	Memories & the Future	la joie	joy	im	f	joies						
+L20	Memories & the Future	la tristesse	sadness	im	f	—						
+L20	Memories & the Future	la nostalgie	nostalgia	im	f	—						
+L20	Memories & the Future	la fin	end	im	f	fins						
+L20	Memories & the Future	le début	beginning	im	m	débuts						
+L20	Memories & the Future	le changement	change	im	m	changements						
+L20	Memories & the Future	le progrès	progress	im	m	progrès						
+L20	Memories & the Future	le niveau	level	im	m	niveaux						
+L20	Memories & the Future	le résultat	result	im	m	résultats						
+L20	Memories & the Future	le certificat	certificate	im	m	certificats						
+L20	Memories & the Future	la réussite	success	im	f	réussites						
+L20	Memories & the Future	l'aventure (f)	adventure	im	f	aventures						
+L20	Memories & the Future	le destin	fate	im	m	destins						
+L20	Memories & the Future	le chapitre	chapter	im	m	chapitres						
+L20	Memories & the Future	l'étape (f)	stage; step	im	f	étapes						
+L20	Memories & the Future	l'année prochaine	next year	izraz								
+L20	Memories & the Future	l'année dernière	last year	izraz								
+L20	Memories & the Future	il y a un an	a year ago	izraz								
+L20	Memories & the Future	dans un an	in a year	izraz								
+L20	Memories & the Future	pour toujours	forever	izraz								
+L20	Memories & the Future	de nouveau	again	izraz								
+L20	Memories & the Future	que	that; which (relative)	zam								
+L20	Memories & the Future	lequel, laquelle	which (one)	zam								
+L20	Memories & the Future	dont	whose; of which	zam								
+L20	Memories & the Future	ce qui	what (subject)	zam								
+L20	Memories & the Future	ce que	what (object)	zam								
+L20	Memories & the Future	penser	to think	gl					1	avoir	pensé	pense · penses · pense · pensons · pensez · pensent
+L20	Memories & the Future	croire	to believe	gl					3	avoir	cru	crois · crois · croit · croyons · croyez · croient
+L20	Memories & the Future	sentir	to feel; to smell	gl					3	avoir	senti	sens · sens · sent · sentons · sentez · sentent
+L20	Memories & the Future	partager	to share	gl					1	avoir	partagé	partage · partages · partage · partageons · partagez · partagent
+L20	Memories & the Future	garder	to keep	gl					1	avoir	gardé	garde · gardes · garde · gardons · gardez · gardent
+L20	Memories & the Future	promettre	to promise	gl					3	avoir	promis	promets · promets · promet · promettons · promettez · promettent
+L20	Memories & the Future	féliciter	to congratulate	gl					1	avoir	félicité	félicite · félicites · félicite · félicitons · félicitez · félicitent
+L20	Memories & the Future	répondre	to answer	gl					3	avoir	répondu	réponds · réponds · répond · répondons · répondez · répondent
+L20	Memories & the Future	rester en contact	to stay in touch	izraz								
+L20	Memories & the Future	grâce à	thanks to	prij								
+L20	Memories & the Future	malgré	despite	prij								
+L20	Memories & the Future	à cause de	because of	prij								
+L20	Memories & the Future	parce que	because	vez								
+L20	Memories & the Future	donc	so; therefore	vez								
+L20	Memories & the Future	comme	as; like	vez								
+L20	Memories & the Future	lorsque	when	vez								
+L20	Memories & the Future	pendant que	while	vez								
+L20	Memories & the Future	depuis que	since	vez								
+L20	Memories & the Future	tout le monde	everyone	izraz								
+L20	Memories & the Future	quelqu'un	someone	zam								
+L20	Memories & the Future	personne	nobody	zam								
+L20	Memories & the Future	quelque chose	something	zam								
+L20	Memories & the Future	rien	nothing	zam								
+L20	Memories & the Future	chacun	each one	zam								
+L20	Memories & the Future	tout	all; everything	zam								
+L20	Memories & the Future	plusieurs	several	pr			plusieurs	plusieurs / plusieurs				
+L20	Memories & the Future	certain	certain; some	pr			certaine	certains / certaines				
+L20	Memories & the Future	même (adj.)	same	pr			même	mêmes / mêmes				
+L20	Memories & the Future	autre	other	pr			autre	autres / autres				
+L20	Memories & the Future	lointain	distant	pr			lointaine	lointains / lointaines				
+L20	Memories & the Future	chéri	darling; dear	pr			chérie	chéris / chéries				
+L20	Memories & the Future	fidèle	loyal	pr			fidèle	fidèles / fidèles				
+L20	Memories & the Future	reconnaissant	grateful	pr			reconnaissante	reconnaissants / reconnaissantes				
+L20	Memories & the Future	émouvant	moving	pr			émouvante	émouvants / émouvantes				
+L20	Memories & the Future	la chose	thing	im	f	choses						
