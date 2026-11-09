@@ -51,4 +51,4 @@ Riječi: **1494** · greške: **0** · upozorenja: **0**
 |---|---|---:|
 | imenica | mnozina | 770 / 770 |
 | pridjev | komparativ, superlativ | 155 / 155 |
-| glagol | preterit, particip | 185 / 185 |
+| glagol | preterit, particip, ing | 185 / 185 |

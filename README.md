@@ -60,9 +60,9 @@ zam, izraz, broj, čest, čl, usk, afiks) ostaje prazan. `—` znači „oblik s
 |---|---|---|---|
 | fr | rod, mnozina | zenski, mnozina_pr | gl_skupina, pomocni, particip, prezent (6) |
 | it | rod, mnozina (s članom) | zenski, mnozina_pr | gl_skupina, pomocni, particip, prezent (6) |
-| es | rod, mnozina (s članom) | zenski, mnozina_pr | gl_skupina, particip, prezent (6) |
-| pt | rod, mnozina (s članom) | zenski, mnozina_pr | gl_skupina, particip, prezent (4) |
-| en | mnozina | komparativ, superlativ | preterit, particip |
+| es | rod, mnozina (s članom) | zenski, mnozina_pr | gl_skupina, particip, prezent (6), preterit (2) |
+| pt | rod, mnozina (s članom) | zenski, mnozina_pr | gl_skupina, particip, prezent (4), preterit (2) |
+| en | mnozina | komparativ, superlativ | preterit, particip, ing |
 | la | rod, genitiv, deklinacija | oblici_pr, deklinacija | konjugacija, glavni_oblici |
 | eo | — | — | prelaznost |
 | isv | rod | — | vid, prezent (2) |
@@ -98,7 +98,8 @@ Pravila:
 `provjeri.py` provjerava: stupac postoji → popunjen za svoju vrstu i prazan za ostale; vrijednost
 je iz popisa jezika (`VRIJEDNOSTI`: `rod`, `gl_skupina`, `pomocni`, `konjugacija`, `deklinacija`,
 `vid`, `prelaznost`); dvorodna riječ ima `m,f` i jednak broj oblika množine (`(m/f)`: jedan ili
-dva); `mnozina_pr` je `m / ž`; `prezent` ima propisani broj oblika (`PREZENT_LICA`, inače 6);
+dva); `mnozina_pr` je `m / ž`; `prezent` ima propisani broj oblika (`PREZENT_LICA`, inače 6),
+`preterit` u es/pt dva (`PRETERIT_LICA`);
 `glavni_oblici` ima 1–3 dijela.
 
 ### Talijanski — razlike od francuskog
@@ -125,6 +126,9 @@ Isti stupci, s ovim razlikama:
 - `prezent`: yo · tú · él · nosotros · vosotros · ellos (europski, s *vosotros*); povratni sa
   zamjenicom (`me levanto · te levantas …`); promjena osnove vidi se u oblicima (`pienso`, `puedo`).
 - `particip`: participio (m. jd.): `hecho`, `escrito`, `leído`.
+- `preterit`: pretérito indefinido, **2 oblika** yo · él, jer 3. lice pokazuje promjenu osnove:
+  `hice · hizo`, `dormí · durmió`, `leí · leyó`, `busqué · buscó`; povratni `me levanté · se levantó`;
+  pravopis 2010. (`vi · vio`, `reí · rio`); `soler` → `— · —` (ne koristi se).
 - Boje `rosa`, `naranja` kao pridjevi slažu se u broju (`rosas / rosas`, prema DPD-u).
 
 ### Portugalski (brazilski)
@@ -132,6 +136,8 @@ Isti stupci, s ovim razlikama:
 - Isto kao španjolski (`mnozina` s članom, `—` za nebrojive), `pomocni` se izostavlja (*ter*).
 - `prezent` ima **4 oblika**: eu · você/ele · nós · vocês/eles (oblici koji se u Brazilu stvarno
   koriste; *tu* i *vós* izostavljeni). Povratni glagoli s **proklizom** (`me levanto · se levanta …`).
+- `preterit`: pretérito perfeito, **2 oblika** eu · você/ele: `fiz · fez`, `pude · pôde`,
+  `cheguei · chegou`, `me levantei · se levantou`.
 - `cinza`, `rosa`, `laranja` kao pridjevi su nepromjenjivi (`rosa / rosa`).
 - Pravopis po Ortografskom sporazumu 1990. (`veem`, `doo`, `ideia`).
 
@@ -145,6 +151,7 @@ Isti stupci, s ovim razlikama:
 - Glagoli: `preterit` (past simple) i `particip` (past participle), britanski pravopis
   (`travelled`, `learnt / learned`). Riječi koje su same oblik drugog glagola (`went`, `been`) i
   modalni glagoli (`must`, `should`) imaju `—`; `can` → `could` / `—`.
+- `ing`: oblik na -ing zbog pravopisa (`making`, `running`, `lying`, `travelling`, `seeing`).
 
 ### Latinski (klasični, makroni)
 
@@ -167,7 +174,8 @@ akuzativ i tvorba s -igi / -iĝi (-iĝi je uvijek `ntr`, -igi uvijek `tr`).
 
 ### Interslavenski
 
-- `rod` (`m` / `f` / `n`) i `vid` (`ipf` / `pf` / `ipf,pf`) uzimaju se iz zaključane baze
+- `rod`: `m` / `m.ž` (muški živi: osobe i životinje, akuzativ = genitiv) / `f` / `n`.
+- `rod` i `vid` (`ipf` / `pf` / `ipf,pf`) uzimaju se iz zaključane baze
   (odluka ISV2); dvoznačne natuknice riješene ručno prema značenju u stupcu `en`.
 - `prezent`: **2 oblika**, ja · on, po školskom standardu ISV1 (1. lice na -m, kratki oblici):
   `dělam · děla`, `vidim · vidi`, `pišem · piše`, `kupujem · kupuje`; povratni `učim se · uči se`.

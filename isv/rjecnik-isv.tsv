@@ -2,11 +2,11 @@ razina	tema	isv	en	vrsta	rod	vid	prezent
 L0	Sounds & Familiar Words	voda	water	im	f		
 L0	Sounds & Familiar Words	hlěb	bread	im	m		
 L0	Sounds & Familiar Words	dom	house; home	im	m		
-L0	Sounds & Familiar Words	brat	brother	im	m		
+L0	Sounds & Familiar Words	brat	brother	im	m.ž		
 L0	Sounds & Familiar Words	sestra	sister	im	f		
 L0	Sounds & Familiar Words	mati	mother	im	f		
-L0	Sounds & Familiar Words	otec	father	im	m		
-L0	Sounds & Familiar Words	syn	son	im	m		
+L0	Sounds & Familiar Words	otec	father	im	m.ž		
+L0	Sounds & Familiar Words	syn	son	im	m.ž		
 L0	Sounds & Familiar Words	doči	daughter	im	f		
 L0	Sounds & Familiar Words	ruka	hand; arm	im	f		
 L0	Sounds & Familiar Words	noga	leg; foot	im	f		
@@ -31,9 +31,9 @@ L0	Sounds & Familiar Words	drěvo	tree	im	n
 L0	Sounds & Familiar Words	ogonj	fire	im	m		
 L0	Sounds & Familiar Words	sněg	snow	im	m		
 L0	Sounds & Familiar Words	dožd	rain	im	m		
-L0	Sounds & Familiar Words	pes	dog	im	m		
-L0	Sounds & Familiar Words	kot	cat	im	m		
-L0	Sounds & Familiar Words	konj	horse	im	m		
+L0	Sounds & Familiar Words	pes	dog	im	m.ž		
+L0	Sounds & Familiar Words	kot	cat	im	m.ž		
+L0	Sounds & Familiar Words	konj	horse	im	m.ž		
 L0	Sounds & Familiar Words	mlěko	milk	im	n		
 L0	Sounds & Familiar Words	solj	salt	im	f		
 L0	Sounds & Familiar Words	med	honey	im	m		
@@ -50,7 +50,7 @@ L1	Greetings & Countries	izvinite	sorry; excuse me	izraz
 L1	Greetings & Countries	dobrodošli!	welcome!	izraz			
 L1	Greetings & Countries	da	yes	čest			
 L1	Greetings & Countries	ne	no; not	čest			
-L1	Greetings & Countries	gospodin	Mr; sir	im	m		
+L1	Greetings & Countries	gospodin	Mr; sir	im	m.ž		
 L1	Greetings & Countries	gospodža	Mrs; madam	im	f		
 L1	Greetings & Countries	kako jesi?	how are you?	izraz			
 L1	Greetings & Countries	dobro	well; fine	pril			
@@ -97,7 +97,7 @@ L1	Greetings & Countries	medžuslovjansky	Interslavic	pr
 L1	Greetings & Countries	hrvatsky	Croatian	pr			
 L1	Greetings & Countries	anglijsky	English	pr			
 L1	Greetings & Countries	grad	city; town	im	m		
-L1	Greetings & Countries	prijatelj	friend	im	m		
+L1	Greetings & Countries	prijatelj	friend	im	m.ž		
 L2	The Train & Colours	vlak	train	im	m		
 L2	The Train & Colours	vagon	carriage	im	m		
 L2	The Train & Colours	stancija	station	im	f		
@@ -116,8 +116,8 @@ L2	The Train & Colours	telefon	telephone	im	m
 L2	The Train & Colours	kompjuter	computer	im	m		
 L2	The Train & Colours	kava	coffee	im	f		
 L2	The Train & Colours	čaj	tea	im	m		
-L2	The Train & Colours	voditelj	driver; leader	im	m		
-L2	The Train & Colours	putnik	passenger; traveller	im	m		
+L2	The Train & Colours	voditelj	driver; leader	im	m.ž		
+L2	The Train & Colours	putnik	passenger; traveller	im	m.ž		
 L2	The Train & Colours	kolor	colour	im	m		
 L2	The Train & Colours	běly	white	pr			
 L2	The Train & Colours	črny	black	pr			
@@ -238,34 +238,34 @@ L3	Everyday Verbs & the Week	rano	early	pril
 L3	Everyday Verbs & the Week	pozdno	late	pril			
 L3	Everyday Verbs & the Week	potom	then; later	pril			
 L4	Family & People	sěmja	family	im	f		
-L4	Family & People	roditelj	parent	im	m		
+L4	Family & People	roditelj	parent	im	m.ž		
 L4	Family & People	mama	mum	im	f		
-L4	Family & People	tata	dad	im	m		
+L4	Family & People	tata	dad	im	m.ž		
 L4	Family & People	děti	children	im	f		
 L4	Family & People	dětę	child	im	n		
-L4	Family & People	děd	grandfather	im	m		
+L4	Family & People	děd	grandfather	im	m.ž		
 L4	Family & People	baba	grandmother	im	f		
-L4	Family & People	vnuk	grandson	im	m		
+L4	Family & People	vnuk	grandson	im	m.ž		
 L4	Family & People	vnučka	granddaughter	im	f		
-L4	Family & People	ujec	uncle	im	m		
+L4	Family & People	ujec	uncle	im	m.ž		
 L4	Family & People	tetka	aunt	im	f		
-L4	Family & People	kuzen	cousin (m)	im	m		
+L4	Family & People	kuzen	cousin (m)	im	m.ž		
 L4	Family & People	kuzina	cousin (f)	im	f		
-L4	Family & People	muž	husband; man	im	m		
+L4	Family & People	muž	husband; man	im	m.ž		
 L4	Family & People	žena	wife; woman	im	f		
 L4	Family & People	osoba	person	im	f		
 L4	Family & People	děvčina	girl; young woman	im	f		
-L4	Family & People	člověk	person; human	im	m		
+L4	Family & People	člověk	person; human	im	m.ž		
 L4	Family & People	ljudi	people	im	f		
 L4	Family & People	děte	child	im	n		
 L4	Family & People	děvče	girl	im	n		
-L4	Family & People	mlådenec	young man	im	m		
+L4	Family & People	mlådenec	young man	im	m.ž		
 L4	Family & People	děva	maiden; girl	im	f		
-L4	Family & People	suprug	spouse (m)	im	m		
+L4	Family & People	suprug	spouse (m)	im	m.ž		
 L4	Family & People	supruga	spouse (f)	im	f		
-L4	Family & People	susěd	neighbour	im	m		
-L4	Family & People	kolega	colleague	im	m		
-L4	Family & People	gost	guest	im	m		
+L4	Family & People	susěd	neighbour	im	m.ž		
+L4	Family & People	kolega	colleague	im	m.ž		
+L4	Family & People	gost	guest	im	m.ž		
 L4	Family & People	imati	to have	gl		ipf	imam · ima
 L4	Family & People	roditi se	to be born	gl		ipf	rodim se · rodi se
 L4	Family & People	ženiti se	to marry (of a man)	gl		ipf	ženim se · ženi se
@@ -273,7 +273,7 @@ L4	Family & People	lěta	years (of age)	im	n
 L4	Family & People	vozrast	age	im	m		
 L4	Family & People	denj rodženja	birthday	im	m		
 L4	Family & People	mlady	young	pr			
-L4	Family & People	starec	old man	im	m		
+L4	Family & People	starec	old man	im	m.ž		
 L4	Family & People	oženjeny	married	pr			
 L4	Family & People	omuženy	married (woman)	pr			
 L4	Family & People	svobodny	free; single	pr			
@@ -290,7 +290,7 @@ L4	Family & People	ljubov	love	im	f
 L4	Family & People	svoj	one's own	zam			
 L4	Family & People	jejin	her (possessive)	zam			
 L4	Family & People	čij	whose	zam			
-L4	Family & People	ljubimec	pet; favourite	im	m		
+L4	Family & People	ljubimec	pet; favourite	im	m.ž		
 L4	Family & People	prijateljka	friend (f)	im	f		
 L4	Family & People	znajemy	familiar; acquaintance	pr			
 L4	Family & People	rodny	native; related	pr			
@@ -373,8 +373,8 @@ L5	Food, Numbers & Age	tyseč	thousand	broj
 L5	Food, Numbers & Age	prvy	first	broj			
 L5	Food, Numbers & Age	drugy	second; other	broj			
 L5	Food, Numbers & Age	tretji	third	broj			
-L5	Food, Numbers & Age	prodavec	seller	im	m		
-L5	Food, Numbers & Age	kupec	buyer; customer	im	m		
+L5	Food, Numbers & Age	prodavec	seller	im	m.ž		
+L5	Food, Numbers & Age	kupec	buyer; customer	im	m.ž		
 L5	Food, Numbers & Age	magazin	shop	im	m		
 L5	Food, Numbers & Age	koš	basket	im	m		
 L5	Food, Numbers & Age	ješče něčto?	anything else?	izraz			
@@ -448,8 +448,8 @@ L6	City & Directions	vot	look; here is	čest
 L6	City & Directions	čekanje	waiting	im	n		
 L6	City & Directions	kde jest …?	where is …?	izraz			
 L6	City & Directions	jest li to daleko?	is it far?	izraz			
-L6	City & Directions	turist	tourist	im	m		
-L6	City & Directions	provodnik	guide	im	m		
+L6	City & Directions	turist	tourist	im	m.ž		
+L6	City & Directions	provodnik	guide	im	m.ž		
 L6	City & Directions	parkovišče	car park	im	n		
 L6	City & Directions	semafor	traffic light	im	m		
 L6	City & Directions	križišče	crossroads	im	n		
@@ -503,7 +503,7 @@ L7	Hobbies & Sport	maljevati	to paint	gl		ipf	maljujem · maljuje
 L7	Hobbies & Sport	putovati	to travel	gl		ipf	putujem · putuje
 L7	Hobbies & Sport	pohodka	walk	im	f		
 L7	Hobbies & Sport	odpočivati	to rest	gl		ipf	odpočivam · odpočiva
-L7	Hobbies & Sport	čitatelj	reader	im	m		
+L7	Hobbies & Sport	čitatelj	reader	im	m.ž		
 L7	Hobbies & Sport	roman	novel	im	m		
 L7	Hobbies & Sport	serial	series	im	m		
 L7	Hobbies & Sport	televizija	television	im	f		
@@ -526,22 +526,22 @@ L7	Hobbies & Sport	nenaviděti	to hate	gl		ipf	nenavidim · nenavidi
 L7	Hobbies & Sport	dobyti	to win	gl		pf	dobudem · dobude
 L7	Hobbies & Sport	izgubiti	to lose	gl		pf	izgubim · izgubi
 L7	Hobbies & Sport	obučati	to train	gl		ipf	obučam · obuča
-L7	Hobbies & Sport	trener	coach	im	m		
-L7	Hobbies & Sport	igrač	player	im	m		
-L7	Hobbies & Sport	ljubitelj	fan; enthusiast	im	m		
+L7	Hobbies & Sport	trener	coach	im	m.ž		
+L7	Hobbies & Sport	igrač	player	im	m.ž		
+L7	Hobbies & Sport	ljubitelj	fan; enthusiast	im	m.ž		
 L7	Hobbies & Sport	gol	goal	im	m		
 L7	Hobbies & Sport	rezultat	result; score	im	m		
 L7	Hobbies & Sport	tanec	dance	im	m		
 L7	Hobbies & Sport	gora (izlet)	mountain trip	izraz			
 L7	Hobbies & Sport	izlet	outing; trip	im	m		
-L7	Hobbies & Sport	rybak	fisherman	im	m		
+L7	Hobbies & Sport	rybak	fisherman	im	m.ž		
 L7	Hobbies & Sport	sanky	sledge	im	f		
 L7	Hobbies & Sport	rybolov	fishing	im	m		
 L7	Hobbies & Sport	trava	grass	im	f		
 L7	Hobbies & Sport	cvět	flower	im	m		
 L7	Hobbies & Sport	kartina	picture	im	f		
-L7	Hobbies & Sport	pisatelj	writer	im	m		
-L7	Hobbies & Sport	aktor	actor	im	m		
+L7	Hobbies & Sport	pisatelj	writer	im	m.ž		
+L7	Hobbies & Sport	aktor	actor	im	m.ž		
 L7	Hobbies & Sport	plesati	to dance	gl		ipf	plesam · plesa
 L7	Hobbies & Sport	kniga (ljubima)	favourite book	izraz			
 L8	Past Time & Events	byl	was (past of byti)	izraz			
@@ -713,38 +713,38 @@ L9	Plans, Weather & Seasons	suhy	dry	pr
 L9	Plans, Weather & Seasons	mokry	wet	pr			
 L9	Plans, Weather & Seasons	jasny	clear	pr			
 L9	Plans, Weather & Seasons	temny	dark	pr			
-L10	Friends, Professions & Eating Out	drug	friend; mate	im	m		
+L10	Friends, Professions & Eating Out	drug	friend; mate	im	m.ž		
 L10	Friends, Professions & Eating Out	prijateljstvo	friendship	im	n		
 L10	Friends, Professions & Eating Out	kompanija	company; group of friends	im	f		
 L10	Friends, Professions & Eating Out	grupa	group	im	f		
 L10	Friends, Professions & Eating Out	družka	friend (f)	im	f		
 L10	Friends, Professions & Eating Out	instrumental	instrumental case	im	m		
 L10	Friends, Professions & Eating Out	profesija	profession	im	f		
-L10	Friends, Professions & Eating Out	råbotnik	worker	im	m		
-L10	Friends, Professions & Eating Out	učitelj	teacher	im	m		
+L10	Friends, Professions & Eating Out	råbotnik	worker	im	m.ž		
+L10	Friends, Professions & Eating Out	učitelj	teacher	im	m.ž		
 L10	Friends, Professions & Eating Out	učiteljka	teacher (f)	im	f		
-L10	Friends, Professions & Eating Out	učenik	pupil	im	m		
-L10	Friends, Professions & Eating Out	student	student	im	m		
-L10	Friends, Professions & Eating Out	lěkar	doctor	im	m		
+L10	Friends, Professions & Eating Out	učenik	pupil	im	m.ž		
+L10	Friends, Professions & Eating Out	student	student	im	m.ž		
+L10	Friends, Professions & Eating Out	lěkar	doctor	im	m.ž		
 L10	Friends, Professions & Eating Out	medsestra	nurse	im	f		
-L10	Friends, Professions & Eating Out	inženjer	engineer	im	m		
-L10	Friends, Professions & Eating Out	advokat	lawyer	im	m		
-L10	Friends, Professions & Eating Out	kuhar	cook	im	m		
-L10	Friends, Professions & Eating Out	kelner	waiter	im	m		
+L10	Friends, Professions & Eating Out	inženjer	engineer	im	m.ž		
+L10	Friends, Professions & Eating Out	advokat	lawyer	im	m.ž		
+L10	Friends, Professions & Eating Out	kuhar	cook	im	m.ž		
+L10	Friends, Professions & Eating Out	kelner	waiter	im	m.ž		
 L10	Friends, Professions & Eating Out	prodavica	saleswoman	im	f		
-L10	Friends, Professions & Eating Out	šofer	driver	im	m		
+L10	Friends, Professions & Eating Out	šofer	driver	im	m.ž		
 L10	Friends, Professions & Eating Out	policija	police	im	f		
-L10	Friends, Professions & Eating Out	žurnalist	journalist	im	m		
-L10	Friends, Professions & Eating Out	programist	programmer	im	m		
-L10	Friends, Professions & Eating Out	arhitekt	architect	im	m		
+L10	Friends, Professions & Eating Out	žurnalist	journalist	im	m.ž		
+L10	Friends, Professions & Eating Out	programist	programmer	im	m.ž		
+L10	Friends, Professions & Eating Out	arhitekt	architect	im	m.ž		
 L10	Friends, Professions & Eating Out	rabotnik (fabrika)	factory worker	izraz			
-L10	Friends, Professions & Eating Out	zemjedělec	farmer	im	m		
-L10	Friends, Professions & Eating Out	pekar	baker	im	m		
-L10	Friends, Professions & Eating Out	frizer	hairdresser	im	m		
-L10	Friends, Professions & Eating Out	umětnik	artist	im	m		
-L10	Friends, Professions & Eating Out	muzikant	musician	im	m		
-L10	Friends, Professions & Eating Out	šef	boss	im	m		
-L10	Friends, Professions & Eating Out	direktor	director	im	m		
+L10	Friends, Professions & Eating Out	zemjedělec	farmer	im	m.ž		
+L10	Friends, Professions & Eating Out	pekar	baker	im	m.ž		
+L10	Friends, Professions & Eating Out	frizer	hairdresser	im	m.ž		
+L10	Friends, Professions & Eating Out	umětnik	artist	im	m.ž		
+L10	Friends, Professions & Eating Out	muzikant	musician	im	m.ž		
+L10	Friends, Professions & Eating Out	šef	boss	im	m.ž		
+L10	Friends, Professions & Eating Out	direktor	director	im	m.ž		
 L10	Friends, Professions & Eating Out	firma	company	im	f		
 L10	Friends, Professions & Eating Out	fabrika	factory	im	f		
 L10	Friends, Professions & Eating Out	ured	office	im	m		
@@ -790,10 +790,10 @@ L10	Friends, Professions & Eating Out	ju	her	zam
 L10	Friends, Professions & Eating Out	nas	us	zam			
 L10	Friends, Professions & Eating Out	vas	you (pl.)	zam			
 L10	Friends, Professions & Eating Out	jih (obj.)	them	izraz			
-L10	Friends, Professions & Eating Out	sobstvenik	owner	im	m		
+L10	Friends, Professions & Eating Out	sobstvenik	owner	im	m.ž		
 L10	Friends, Professions & Eating Out	kolektiv	team (work)	im	m		
-L10	Friends, Professions & Eating Out	pomočnik	assistant	im	m		
-L10	Friends, Professions & Eating Out	gospodar	host; master	im	m		
+L10	Friends, Professions & Eating Out	pomočnik	assistant	im	m.ž		
+L10	Friends, Professions & Eating Out	gospodar	host; master	im	m.ž		
 L10	Friends, Professions & Eating Out	gostinica	inn	im	f		
 L10	Friends, Professions & Eating Out	zakuska	snack	im	f		
 L10	Friends, Professions & Eating Out	pekti	to bake; to roast	gl		ipf	pečem · peče
@@ -850,7 +850,7 @@ L11	Transport, Trips & Hotels	jug	south	im	m
 L11	Transport, Trips & Hotels	iztok	east	im	m		
 L11	Transport, Trips & Hotels	zapad	west	im	m		
 L11	Transport, Trips & Hotels	zagranica	abroad; foreign countries	im	f		
-L11	Transport, Trips & Hotels	inostranec	foreigner	im	m		
+L11	Transport, Trips & Hotels	inostranec	foreigner	im	m.ž		
 L11	Transport, Trips & Hotels	opozdniti se	to be late	gl		pf	opozdnim se · opozdni se
 L11	Transport, Trips & Hotels	avtomagistralj	motorway	im	m		
 L11	Transport, Trips & Hotels	odjezd	departure	im	m		
@@ -885,13 +885,13 @@ L11	Transport, Trips & Hotels	voz	car; cart	im	m
 L11	Transport, Trips & Hotels	dojezd	arrival (by vehicle)	im	m		
 L11	Transport, Trips & Hotels	benzinovy	petrol (adj.)	pr			
 L11	Transport, Trips & Hotels	krěslo	seat; armchair	im	n		
-L11	Transport, Trips & Hotels	konduktor	conductor (train)	im	m		
+L11	Transport, Trips & Hotels	konduktor	conductor (train)	im	m.ž		
 L11	Transport, Trips & Hotels	morsky	sea (adj.)	pr			
 L11	Transport, Trips & Hotels	pribrěžje	coast	im	n		
 L11	Transport, Trips & Hotels	vala	wave (variant)	im	f		
 L11	Transport, Trips & Hotels	tunel	tunnel	im	m		
-L11	Transport, Trips & Hotels	pilot	pilot	im	m		
-L11	Transport, Trips & Hotels	morjak	sailor	im	m		
+L11	Transport, Trips & Hotels	pilot	pilot	im	m.ž		
+L11	Transport, Trips & Hotels	morjak	sailor	im	m.ž		
 L11	Transport, Trips & Hotels	kolo	wheel; bicycle	im	n		
 L12	The Body & the Doctor	tělo	body	im	n		
 L12	The Body & the Doctor	lice	face	im	n		
@@ -915,7 +915,7 @@ L12	The Body & the Doctor	grud	chest	im	f
 L12	The Body & the Doctor	lakot	elbow	im	m		
 L12	The Body & the Doctor	lěkar (specialist)	specialist doctor	izraz			
 L12	The Body & the Doctor	zubny lěkar	dentist	izraz			
-L12	The Body & the Doctor	pacient	patient	im	m		
+L12	The Body & the Doctor	pacient	patient	im	m.ž		
 L12	The Body & the Doctor	bolěznj	illness	im	f		
 L12	The Body & the Doctor	boljny	ill; sick	pr			
 L12	The Body & the Doctor	zdravy	healthy	pr			
@@ -957,7 +957,7 @@ L12	The Body & the Doctor	stres	stress	im	m
 L12	The Body & the Doctor	son	sleep; dream	im	m		
 L12	The Body & the Doctor	spanje	sleep	im	n		
 L12	The Body & the Doctor	teploměr	thermometer	im	m		
-L12	The Body & the Doctor	aptekar	pharmacist	im	m		
+L12	The Body & the Doctor	aptekar	pharmacist	im	m.ž		
 L12	The Body & the Doctor	sestra (medicinska)	nurse	izraz			
 L12	The Body & the Doctor	operacija	operation	im	f		
 L12	The Body & the Doctor	injekcija	injection	im	f		
@@ -980,7 +980,7 @@ L12	The Body & the Doctor	žila	vein; sinew	im	f
 L12	The Body & the Doctor	kyhati	to sneeze	gl		ipf	kyham · kyha
 L12	The Body & the Doctor	zěvati	to yawn	gl		ipf	zěvam · zěva
 L12	The Body & the Doctor	solza	tear	im	f		
-L12	The Body & the Doctor	dentist	dentist	im	m		
+L12	The Body & the Doctor	dentist	dentist	im	m.ž		
 L13	Cities & Nature	večši	bigger	pr			
 L13	Cities & Nature	menši	smaller	pr			
 L13	Cities & Nature	lučši	better	pr			
@@ -1014,16 +1014,16 @@ L13	Cities & Nature	listje	foliage	im	n
 L13	Cities & Nature	list	leaf; letter	im	m		
 L13	Cities & Nature	korenj	root	im	m		
 L13	Cities & Nature	cvětati	to bloom	gl		ipf	cvětam · cvěta
-L13	Cities & Nature	zvěr	beast	im	m		
+L13	Cities & Nature	zvěr	beast	im	m.ž		
 L13	Cities & Nature	životina	animal	im	f		
 L13	Cities & Nature	krava	cow	im	f		
 L13	Cities & Nature	ovca	sheep	im	f		
 L13	Cities & Nature	svinja	pig	im	f		
 L13	Cities & Nature	kokoška	hen	im	f		
 L13	Cities & Nature	ptica	bird	im	f		
-L13	Cities & Nature	zajec	hare	im	m		
-L13	Cities & Nature	volk	wolf	im	m		
-L13	Cities & Nature	medvěd	bear	im	m		
+L13	Cities & Nature	zajec	hare	im	m.ž		
+L13	Cities & Nature	volk	wolf	im	m.ž		
+L13	Cities & Nature	medvěd	bear	im	m.ž		
 L13	Cities & Nature	lisica	fox	im	f		
 L13	Cities & Nature	muha	fly	im	f		
 L13	Cities & Nature	pčela	bee	im	f		
@@ -1053,8 +1053,8 @@ L13	Cities & Nature	někde	somewhere	pril
 L13	Cities & Nature	nikogdy	never (variant)	pril			
 L13	Cities & Nature	sravniti	to compare	gl		pf	sravnim · sravni
 L13	Cities & Nature	sravnjenje	comparison	im	n		
-L13	Cities & Nature	žitelj	inhabitant	im	m		
-L13	Cities & Nature	obyvatelj	inhabitant	im	m		
+L13	Cities & Nature	žitelj	inhabitant	im	m.ž		
+L13	Cities & Nature	obyvatelj	inhabitant	im	m.ž		
 L13	Cities & Nature	prirodny park	nature park	izraz			
 L13	Cities & Nature	ohraniti	to protect	gl		pf	ohranim · ohrani
 L13	Cities & Nature	obsrědina	environment	im	f		
@@ -1063,8 +1063,8 @@ L13	Cities & Nature	smeti	rubbish	im	f
 L13	Cities & Nature	zemjedělstvo	agriculture	im	n		
 L13	Cities & Nature	livada	meadow	im	f		
 L13	Cities & Nature	zmija	snake	im	f		
-L13	Cities & Nature	gad	snake; viper	im	m		
-L13	Cities & Nature	orel	eagle	im	m		
+L13	Cities & Nature	gad	snake; viper	im	m.ž		
+L13	Cities & Nature	orel	eagle	im	m.ž		
 L13	Cities & Nature	koza	goat	im	f		
 L13	Cities & Nature	duga	rainbow	im	f		
 L13	Cities & Nature	planeta	planet	im	f		
@@ -1107,7 +1107,7 @@ L14	Shopping & Clothes	kěšenj	pocket	im	f
 L14	Shopping & Clothes	guzik	button	im	m		
 L14	Shopping & Clothes	razměr	size	im	m		
 L14	Shopping & Clothes	izvod	outlet; copy	im	m		
-L14	Shopping & Clothes	zakaznik	customer	im	m		
+L14	Shopping & Clothes	zakaznik	customer	im	m.ž		
 L14	Shopping & Clothes	rabat	discount	im	m		
 L14	Shopping & Clothes	prodaž	sale	im	f		
 L14	Shopping & Clothes	karta (platežna)	bank card	izraz			
@@ -1187,7 +1187,7 @@ L15	Wishes & Advice	poščediti	to save; to spare	gl		pf	poščedim · poščedi
 L15	Wishes & Advice	dati zajem	to lend	izraz			
 L15	Wishes & Advice	zajęti	to borrow	gl		pf	zajmem · zajme
 L15	Wishes & Advice	svět	world	im	m		
-L15	Wishes & Advice	motylj	butterfly	im	m		
+L15	Wishes & Advice	motylj	butterfly	im	m.ž		
 L15	Wishes & Advice	jahta	yacht	im	f		
 L15	Wishes & Advice	razkoš	luxury	im	f		
 L15	Wishes & Advice	svoboda	freedom	im	f		
@@ -1225,7 +1225,7 @@ L15	Wishes & Advice	važny	important	pr
 L15	Wishes & Advice	potrěbny	necessary	pr			
 L15	Wishes & Advice	sumněnje	doubt	im	n		
 L15	Wishes & Advice	slučajnost	chance; coincidence	im	f		
-L15	Wishes & Advice	dobrovoljec	volunteer	im	m		
+L15	Wishes & Advice	dobrovoljec	volunteer	im	m.ž		
 L15	Wishes & Advice	darovati	to donate	gl		ipf	darujem · daruje
 L15	Wishes & Advice	dom u mora	house by the sea	izraz			
 L15	Wishes & Advice	mir	peace; world	im	m		

@@ -27,12 +27,12 @@ OBLICI = {
     'zenski': {'pr'}, 'mnozina_pr': {'pr'}, 'oblici_pr': {'pr'},
     'komparativ': {'pr'}, 'superlativ': {'pr'},
     'gl_skupina': {'gl'}, 'konjugacija': {'gl'}, 'pomocni': {'gl'}, 'particip': {'gl'},
-    'prezent': {'gl'}, 'preterit': {'gl'}, 'glavni_oblici': {'gl'}, 'vid': {'gl'},
+    'prezent': {'gl'}, 'preterit': {'gl'}, 'ing': {'gl'}, 'glavni_oblici': {'gl'}, 'vid': {'gl'},
     'prelaznost': {'gl'},
 }
 # dopuštene vrijednosti: stupac -> {jezik ili '*': skup}
 VRIJEDNOSTI = {
-    'rod': {'*': {'m', 'f', 'm,f'}, 'la': {'m', 'f', 'n', 'm,f'}, 'isv': {'m', 'f', 'n', 'm,f'}},
+    'rod': {'*': {'m', 'f', 'm,f'}, 'la': {'m', 'f', 'n', 'm,f'}, 'isv': {'m', 'm.ž', 'f', 'n', 'm,f'}},
     'gl_skupina': {'*': {'1', '2', '3'}},
     'pomocni': {'fr': {'avoir', 'être'}, 'it': {'avere', 'essere'}},
     'konjugacija': {'la': {'1', '2', '3', '3io', '4', 'nepr'}},
@@ -41,6 +41,7 @@ VRIJEDNOSTI = {
     'prelaznost': {'eo': {'tr', 'ntr', 'tr,ntr'}},
 }
 PREZENT_LICA = {'pt': 4, 'isv': 2}   # pt: eu · você/ele · nós · vocês/eles; isv: ja · on; ostali: 6
+PRETERIT_LICA = {'es': 2, 'pt': 2}   # ja · on (en: jedan oblik, „was / were“)
 NEMA = '—'   # oblik se ne koristi (nebrojivo, bezlični glagol …)
 
 
@@ -80,6 +81,10 @@ def provjeri_oblike(jezik, i, r, greske):
             f = r['prezent'].split(' · ')
             if len(f) != lica or not all(x.strip() for x in f):
                 greske.append(f'redak {i}: prezent mora imati {lica} oblika odvojenih „ · “ ({len(f)})')
+        if r.get('preterit') and jezik in PRETERIT_LICA:
+            f = r['preterit'].split(' · ')
+            if len(f) != PRETERIT_LICA[jezik] or not all(x.strip() for x in f):
+                greske.append(f'redak {i}: preterit mora imati {PRETERIT_LICA[jezik]} oblika odvojena „ · “ ({len(f)})')
         go = r.get('glavni_oblici')
         if go and go != NEMA and not 1 <= len(go.split(', ')) <= 3:
             greske.append(f'redak {i}: glavni_oblici „{go}“ (infinitiv[, perfekt[, supin]])')

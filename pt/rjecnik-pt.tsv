@@ -1,1361 +1,1361 @@
-razina	tema	pt	en	vrsta	rod	mnozina	zenski	mnozina_pr	gl_skupina	particip	prezent
-L0	Sounds & Familiar Words	o café	coffee; café	im	m	os cafés					
-L0	Sounds & Familiar Words	o bar	bar	im	m	os bares					
-L0	Sounds & Familiar Words	o restaurante	restaurant	im	m	os restaurantes					
-L0	Sounds & Familiar Words	o hotel	hotel	im	m	os hotéis					
-L0	Sounds & Familiar Words	o táxi	taxi	im	m	os táxis					
-L0	Sounds & Familiar Words	o ônibus	bus	im	m	os ônibus					
-L0	Sounds & Familiar Words	o trem	train	im	m	os trens					
-L0	Sounds & Familiar Words	a pizza	pizza	im	f	as pizzas					
-L0	Sounds & Familiar Words	o chocolate	chocolate	im	m	os chocolates					
-L0	Sounds & Familiar Words	a banana	banana	im	f	as bananas					
-L0	Sounds & Familiar Words	o chá	tea	im	m	os chás					
-L0	Sounds & Familiar Words	a música	music	im	f	—					
-L0	Sounds & Familiar Words	o futebol	football	im	m	—					
-L0	Sounds & Familiar Words	o tênis	tennis; trainers	im	m	os tênis					
-L0	Sounds & Familiar Words	o cinema	cinema	im	m	os cinemas					
-L0	Sounds & Familiar Words	o teatro	theatre	im	m	os teatros					
-L0	Sounds & Familiar Words	o filme	film	im	m	os filmes					
-L0	Sounds & Familiar Words	o rádio	radio	im	m	os rádios					
-L0	Sounds & Familiar Words	a televisão	television	im	f	as televisões					
-L0	Sounds & Familiar Words	o telefone	telephone	im	m	os telefones					
-L0	Sounds & Familiar Words	a foto	photo	im	f	as fotos					
-L0	Sounds & Familiar Words	o parque	park	im	m	os parques					
-L0	Sounds & Familiar Words	a praça	square	im	f	as praças					
-L0	Sounds & Familiar Words	o banco	bank; bench	im	m	os bancos					
-L0	Sounds & Familiar Words	a farmácia	chemist's	im	f	as farmácias					
-L0	Sounds & Familiar Words	o doutor, a doutora	doctor	im	m,f	os doutores, as doutoras					
-L0	Sounds & Familiar Words	a polícia	police	im	f	—					
-L0	Sounds & Familiar Words	o esporte	sport	im	m	os esportes					
-L0	Sounds & Familiar Words	o menu	menu	im	m	os menus					
-L0	Sounds & Familiar Words	o momento	moment	im	m	os momentos					
-L0	Sounds & Familiar Words	a família	family	im	f	as famílias					
-L0	Sounds & Familiar Words	o computador	computer	im	m	os computadores					
-L0	Sounds & Familiar Words	o problema	problem	im	m	os problemas					
-L0	Sounds & Familiar Words	o samba	samba	im	m	os sambas					
-L0	Sounds & Familiar Words	a praia	beach	im	f	as praias					
-L0	Sounds & Familiar Words	o real	real (currency)	im	m	os reais					
-L1	Greetings & Countries	olá	hello	izraz							
-L1	Greetings & Countries	oi	hi	izraz							
-L1	Greetings & Countries	bom dia	good morning	izraz							
-L1	Greetings & Countries	boa tarde	good afternoon	izraz							
-L1	Greetings & Countries	boa noite	good evening; good night	izraz							
-L1	Greetings & Countries	tchau	bye	izraz							
-L1	Greetings & Countries	até logo	see you later	izraz							
-L1	Greetings & Countries	até amanhã	see you tomorrow	izraz							
-L1	Greetings & Countries	obrigado, obrigada	thank you	izraz							
-L1	Greetings & Countries	de nada	you're welcome	izraz							
-L1	Greetings & Countries	por favor	please	izraz							
-L1	Greetings & Countries	desculpa	sorry	izraz							
-L1	Greetings & Countries	com licença	excuse me	izraz							
-L1	Greetings & Countries	sim	yes	čest							
-L1	Greetings & Countries	não	no; not	čest							
-L1	Greetings & Countries	o senhor, a senhora	sir; madam; you (formal)	zam							
-L1	Greetings & Countries	tudo bem?	how are you?	izraz							
-L1	Greetings & Countries	tudo bem	fine	izraz							
-L1	Greetings & Countries	bem	well; fine	pril							
-L1	Greetings & Countries	muito	very; a lot	pril							
-L1	Greetings & Countries	e	and	vez							
-L1	Greetings & Countries	meu nome é	my name is	izraz							
-L1	Greetings & Countries	prazer	nice to meet you	izraz							
-L1	Greetings & Countries	ser	to be	gl					2	sido	sou · é · somos · são
-L1	Greetings & Countries	eu	I	zam							
-L1	Greetings & Countries	você	you	zam							
-L1	Greetings & Countries	ele	he	zam							
-L1	Greetings & Countries	ela	she	zam							
-L1	Greetings & Countries	nós	we	zam							
-L1	Greetings & Countries	a gente	we (informal)	zam							
-L1	Greetings & Countries	vocês	you (plural)	zam							
-L1	Greetings & Countries	eles, elas	they	zam							
-L1	Greetings & Countries	o país	country	im	m	os países					
-L1	Greetings & Countries	o Brasil	Brazil	im	m	—					
-L1	Greetings & Countries	a Croácia	Croatia	im	f	—					
-L1	Greetings & Countries	a Alemanha	Germany	im	f	—					
-L1	Greetings & Countries	a Inglaterra	England	im	f	—					
-L1	Greetings & Countries	o Senegal	Senegal	im	m	—					
-L1	Greetings & Countries	brasileiro	Brazilian	pr			brasileira	brasileiros / brasileiras			
-L1	Greetings & Countries	croata	Croatian	pr			croata	croatas / croatas			
-L1	Greetings & Countries	alemão	German	pr			alemã	alemães / alemãs			
-L1	Greetings & Countries	inglês	English	pr			inglesa	ingleses / inglesas			
-L1	Greetings & Countries	francês	French	pr			francesa	franceses / francesas			
-L1	Greetings & Countries	senegalês	Senegalese	pr			senegalesa	senegaleses / senegalesas			
-L1	Greetings & Countries	o que	what	zam							
-L1	Greetings & Countries	quem	who	zam							
-L1	Greetings & Countries	onde	where	pril							
-L1	Greetings & Countries	como	how	pril							
-L1	Greetings & Countries	de onde	where from	izraz							
-L1	Greetings & Countries	de	from; of	prij							
-L1	Greetings & Countries	a cidade	city; town	im	f	as cidades					
-L2	The Flat & Colours	o apartamento	flat	im	m	os apartamentos					
-L2	The Flat & Colours	a casa	house; home	im	f	as casas					
-L2	The Flat & Colours	o quarto	bedroom; room	im	m	os quartos					
-L2	The Flat & Colours	a cozinha	kitchen	im	f	as cozinhas					
-L2	The Flat & Colours	o banheiro	bathroom	im	m	os banheiros					
-L2	The Flat & Colours	a sala	living room	im	f	as salas					
-L2	The Flat & Colours	a porta	door	im	f	as portas					
-L2	The Flat & Colours	a janela	window	im	f	as janelas					
-L2	The Flat & Colours	a parede	wall	im	f	as paredes					
-L2	The Flat & Colours	a cama	bed	im	f	as camas					
-L2	The Flat & Colours	a cadeira	chair	im	f	as cadeiras					
-L2	The Flat & Colours	a mesa	table	im	f	as mesas					
-L2	The Flat & Colours	o sofá	sofa	im	m	os sofás					
-L2	The Flat & Colours	o armário	wardrobe; cupboard	im	m	os armários					
-L2	The Flat & Colours	o abajur	lamp	im	m	os abajures					
-L2	The Flat & Colours	o livro	book	im	m	os livros					
-L2	The Flat & Colours	a caneta	pen	im	f	as canetas					
-L2	The Flat & Colours	o lápis	pencil	im	m	os lápis					
-L2	The Flat & Colours	a bolsa	bag	im	f	as bolsas					
-L2	The Flat & Colours	a chave	key	im	f	as chaves					
-L2	The Flat & Colours	o espelho	mirror	im	m	os espelhos					
-L2	The Flat & Colours	o tapete	rug	im	m	os tapetes					
-L2	The Flat & Colours	a flor	flower	im	f	as flores					
-L2	The Flat & Colours	a planta	plant	im	f	as plantas					
-L2	The Flat & Colours	a caixa	box	im	f	as caixas					
-L2	The Flat & Colours	o caderno	notebook	im	m	os cadernos					
-L2	The Flat & Colours	a xícara	cup	im	f	as xícaras					
-L2	The Flat & Colours	o copo	glass	im	m	os copos					
-L2	The Flat & Colours	o, a	the	čl							
-L2	The Flat & Colours	os, as	the (plural)	čl							
-L2	The Flat & Colours	um, uma	a; an	čl							
-L2	The Flat & Colours	uns, umas	some	čl							
-L2	The Flat & Colours	tem	there is; there are (informal)	izraz							
-L2	The Flat & Colours	há	there is; there are	izraz							
-L2	The Flat & Colours	a cor	colour	im	f	as cores					
-L2	The Flat & Colours	branco	white	pr			branca	brancos / brancas			
-L2	The Flat & Colours	preto	black	pr			preta	pretos / pretas			
-L2	The Flat & Colours	vermelho	red	pr			vermelha	vermelhos / vermelhas			
-L2	The Flat & Colours	azul	blue	pr			azul	azuis / azuis			
-L2	The Flat & Colours	verde	green	pr			verde	verdes / verdes			
-L2	The Flat & Colours	amarelo	yellow	pr			amarela	amarelos / amarelas			
-L2	The Flat & Colours	cinza	grey	pr			cinza	cinza / cinza			
-L2	The Flat & Colours	marrom	brown	pr			marrom	marrons / marrons			
-L2	The Flat & Colours	rosa	pink	pr			rosa	rosa / rosa			
-L2	The Flat & Colours	laranja	orange	pr			laranja	laranja / laranja			
-L2	The Flat & Colours	roxo	purple	pr			roxa	roxos / roxas			
-L2	The Flat & Colours	pequeno	small	pr			pequena	pequenos / pequenas			
-L2	The Flat & Colours	grande	big	pr			grande	grandes / grandes			
-L2	The Flat & Colours	bonito	pretty	pr			bonita	bonitos / bonitas			
-L2	The Flat & Colours	feio	ugly	pr			feia	feios / feias			
-L2	The Flat & Colours	novo	new	pr			nova	novos / novas			
-L2	The Flat & Colours	velho	old	pr			velha	velhos / velhas			
-L2	The Flat & Colours	iluminado	bright; well-lit	pr			iluminada	iluminados / iluminadas			
-L2	The Flat & Colours	o ventilador	fan	im	m	os ventiladores					
-L2	The Flat & Colours	mas	but	vez							
-L3	Everyday Verbs & the Week	falar	to speak	gl					1	falado	falo · fala · falamos · falam
-L3	Everyday Verbs & the Week	trabalhar	to work	gl					1	trabalhado	trabalho · trabalha · trabalhamos · trabalham
-L3	Everyday Verbs & the Week	morar	to live (somewhere)	gl					1	morado	moro · mora · moramos · moram
-L3	Everyday Verbs & the Week	estudar	to study	gl					1	estudado	estudo · estuda · estudamos · estudam
-L3	Everyday Verbs & the Week	comer	to eat	gl					2	comido	como · come · comemos · comem
-L3	Everyday Verbs & the Week	beber	to drink	gl					2	bebido	bebo · bebe · bebemos · bebem
-L3	Everyday Verbs & the Week	olhar	to look	gl					1	olhado	olho · olha · olhamos · olham
-L3	Everyday Verbs & the Week	ver	to see; to watch	gl					2	visto	vejo · vê · vemos · veem
-L3	Everyday Verbs & the Week	assistir	to watch (TV)	gl					3	assistido	assisto · assiste · assistimos · assistem
-L3	Everyday Verbs & the Week	escutar	to listen to	gl					1	escutado	escuto · escuta · escutamos · escutam
-L3	Everyday Verbs & the Week	cozinhar	to cook	gl					1	cozinhado	cozinho · cozinha · cozinhamos · cozinham
-L3	Everyday Verbs & the Week	cantar	to sing	gl					1	cantado	canto · canta · cantamos · cantam
-L3	Everyday Verbs & the Week	dançar	to dance	gl					1	dançado	danço · dança · dançamos · dançam
-L3	Everyday Verbs & the Week	andar	to walk	gl					1	andado	ando · anda · andamos · andam
-L3	Everyday Verbs & the Week	ler	to read	gl					2	lido	leio · lê · lemos · leem
-L3	Everyday Verbs & the Week	escrever	to write	gl					2	escrito	escrevo · escreve · escrevemos · escrevem
-L3	Everyday Verbs & the Week	aprender	to learn	gl					2	aprendido	aprendo · aprende · aprendemos · aprendem
-L3	Everyday Verbs & the Week	entender	to understand	gl					2	entendido	entendo · entende · entendemos · entendem
-L3	Everyday Verbs & the Week	abrir	to open	gl					3	aberto	abro · abre · abrimos · abrem
-L3	Everyday Verbs & the Week	ligar	to call; to switch on	gl					1	ligado	ligo · liga · ligamos · ligam
-L3	Everyday Verbs & the Week	tomar	to take; to drink	gl					1	tomado	tomo · toma · tomamos · tomam
-L3	Everyday Verbs & the Week	chegar	to arrive	gl					1	chegado	chego · chega · chegamos · chegam
-L3	Everyday Verbs & the Week	precisar de	to need	izraz							
-L3	Everyday Verbs & the Week	o dia	day	im	m	os dias					
-L3	Everyday Verbs & the Week	a semana	week	im	f	as semanas					
-L3	Everyday Verbs & the Week	segunda-feira	Monday	im	f	as segundas-feiras					
-L3	Everyday Verbs & the Week	terça-feira	Tuesday	im	f	as terças-feiras					
-L3	Everyday Verbs & the Week	quarta-feira	Wednesday	im	f	as quartas-feiras					
-L3	Everyday Verbs & the Week	quinta-feira	Thursday	im	f	as quintas-feiras					
-L3	Everyday Verbs & the Week	sexta-feira	Friday	im	f	as sextas-feiras					
-L3	Everyday Verbs & the Week	sábado	Saturday	im	m	os sábados					
-L3	Everyday Verbs & the Week	domingo	Sunday	im	m	os domingos					
-L3	Everyday Verbs & the Week	o fim de semana	weekend	im	m	os fins de semana					
-L3	Everyday Verbs & the Week	a manhã	morning	im	f	as manhãs					
-L3	Everyday Verbs & the Week	a tarde	afternoon	im	f	as tardes					
-L3	Everyday Verbs & the Week	a noite	night; evening	im	f	as noites					
-L3	Everyday Verbs & the Week	hoje	today	pril							
-L3	Everyday Verbs & the Week	sempre	always	pril							
-L3	Everyday Verbs & the Week	às vezes	sometimes	izraz							
-L3	Everyday Verbs & the Week	de dia	by day	izraz							
-L3	Everyday Verbs & the Week	de noite	at night	izraz							
-L3	Everyday Verbs & the Week	quando	when	pril							
-L3	Everyday Verbs & the Week	qual	which	zam							
-L3	Everyday Verbs & the Week	por que	why	izraz							
-L3	Everyday Verbs & the Week	porque	because	vez							
-L3	Everyday Verbs & the Week	o trabalho	work; job	im	m	os trabalhos					
-L3	Everyday Verbs & the Week	a faculdade	university	im	f	as faculdades					
-L3	Everyday Verbs & the Week	o escritório	office	im	m	os escritórios					
-L3	Everyday Verbs & the Week	a língua	language; tongue	im	f	as línguas					
-L3	Everyday Verbs & the Week	o português	Portuguese (language)	im	m	—					
-L3	Everyday Verbs & the Week	também	also	pril							
-L3	Everyday Verbs & the Week	todo dia	every day	izraz							
-L3	Everyday Verbs & the Week	em	in; on; at	prij							
-L3	Everyday Verbs & the Week	com	with	prij							
-L3	Everyday Verbs & the Week	para	to; for	prij							
-L4	Family & Age	a mãe	mother	im	f	as mães					
-L4	Family & Age	o pai	father	im	m	os pais					
-L4	Family & Age	os pais	parents	im	m	os pais					
-L4	Family & Age	o irmão	brother	im	m	os irmãos					
-L4	Family & Age	a irmã	sister	im	f	as irmãs					
-L4	Family & Age	o filho	son	im	m	os filhos					
-L4	Family & Age	a filha	daughter	im	f	as filhas					
-L4	Family & Age	os filhos	children	im	m	os filhos					
-L4	Family & Age	a criança	child	im	f	as crianças					
-L4	Family & Age	o menino, a menina	boy; girl	im	m,f	os meninos, as meninas					
-L4	Family & Age	o marido	husband	im	m	os maridos					
-L4	Family & Age	a esposa	wife	im	f	as esposas					
-L4	Family & Age	o homem	man	im	m	os homens					
-L4	Family & Age	a mulher	woman; wife	im	f	as mulheres					
-L4	Family & Age	o avô	grandfather	im	m	os avôs					
-L4	Family & Age	a avó	grandmother	im	f	as avós					
-L4	Family & Age	os avós	grandparents	im	m	os avós					
-L4	Family & Age	o tio	uncle	im	m	os tios					
-L4	Family & Age	a tia	aunt	im	f	as tias					
-L4	Family & Age	o primo, a prima	cousin	im	m,f	os primos, as primas					
-L4	Family & Age	o sobrinho, a sobrinha	nephew; niece	im	m,f	os sobrinhos, as sobrinhas					
-L4	Family & Age	o neto, a neta	grandson; granddaughter	im	m,f	os netos, as netas					
-L4	Family & Age	o amigo, a amiga	friend	im	m,f	os amigos, as amigas					
-L4	Family & Age	o namorado, a namorada	boyfriend; girlfriend	im	m,f	os namorados, as namoradas					
-L4	Family & Age	o vizinho, a vizinha	neighbour	im	m,f	os vizinhos, as vizinhas					
-L4	Family & Age	o cachorro	dog	im	m	os cachorros					
-L4	Family & Age	o gato	cat	im	m	os gatos					
-L4	Family & Age	o bebê	baby	im	m	os bebês					
-L4	Family & Age	ter	to have	gl					2	tido	tenho · tem · temos · têm
-L4	Family & Age	o ano	year	im	m	os anos					
-L4	Family & Age	o aniversário	birthday	im	m	os aniversários					
-L4	Family & Age	quantos anos você tem?	how old are you?	izraz							
-L4	Family & Age	jovem	young	pr			jovem	jovens / jovens			
-L4	Family & Age	mais velho	older	izraz							
-L4	Family & Age	mais novo	younger	izraz							
-L4	Family & Age	casado	married	pr			casada	casados / casadas			
-L4	Family & Age	solteiro	single	pr			solteira	solteiros / solteiras			
-L4	Family & Age	meu, minha	my	zam							
-L4	Family & Age	seu, sua	your; his; her	zam							
-L4	Family & Age	dele, dela	his; her	zam							
-L4	Family & Age	nosso, nossa	our	zam							
-L4	Family & Age	simpático	nice; friendly	pr			simpática	simpáticos / simpáticas			
-L4	Family & Age	legal	cool; nice	pr			legal	legais / legais			
-L4	Family & Age	gentil	kind	pr			gentil	gentis / gentis			
-L4	Family & Age	alto	tall	pr			alta	altos / altas			
-L4	Family & Age	baixo	short	pr			baixa	baixos / baixas			
-L4	Family & Age	o sobrenome	surname	im	m	os sobrenomes					
-L4	Family & Age	o nome	name	im	m	os nomes					
-L4	Family & Age	o padrinho, a madrinha	godfather; godmother	im	m,f	os padrinhos, as madrinhas					
-L4	Family & Age	o sogro, a sogra	father-in-law; mother-in-law	im	m,f	os sogros, as sogras					
-L4	Family & Age	o cunhado, a cunhada	brother-in-law; sister-in-law	im	m,f	os cunhados, as cunhadas					
-L4	Family & Age	o enteado, a enteada	stepson; stepdaughter	im	m,f	os enteados, as enteadas					
-L4	Family & Age	o casal	couple	im	m	os casais					
-L4	Family & Age	o parente	relative	im	m	os parentes					
-L4	Family & Age	juntos	together	pr			juntas	juntos / juntas			
-L4	Family & Age	sozinho	alone	pr			sozinha	sozinhos / sozinhas			
-L5	Food, Drinks & Quantities	a feira	street market	im	f	as feiras					
-L5	Food, Drinks & Quantities	o mercado	market	im	m	os mercados					
-L5	Food, Drinks & Quantities	o pão	bread	im	m	os pães					
-L5	Food, Drinks & Quantities	o queijo	cheese	im	m	os queijos					
-L5	Food, Drinks & Quantities	a manteiga	butter	im	f	—					
-L5	Food, Drinks & Quantities	o leite	milk	im	m	—					
-L5	Food, Drinks & Quantities	o ovo	egg	im	m	os ovos					
-L5	Food, Drinks & Quantities	a carne	meat	im	f	as carnes					
-L5	Food, Drinks & Quantities	o frango	chicken	im	m	os frangos					
-L5	Food, Drinks & Quantities	o peixe	fish	im	m	os peixes					
-L5	Food, Drinks & Quantities	o presunto	ham	im	m	os presuntos					
-L5	Food, Drinks & Quantities	a maçã	apple	im	f	as maçãs					
-L5	Food, Drinks & Quantities	a laranja	orange	im	f	as laranjas					
-L5	Food, Drinks & Quantities	o morango	strawberry	im	m	os morangos					
-L5	Food, Drinks & Quantities	a uva	grape	im	f	as uvas					
-L5	Food, Drinks & Quantities	o limão	lime; lemon	im	m	os limões					
-L5	Food, Drinks & Quantities	a manga	mango	im	f	as mangas					
-L5	Food, Drinks & Quantities	o abacaxi	pineapple	im	m	os abacaxis					
-L5	Food, Drinks & Quantities	o mamão	papaya	im	m	os mamões					
-L5	Food, Drinks & Quantities	o tomate	tomato	im	m	os tomates					
-L5	Food, Drinks & Quantities	a batata	potato	im	f	as batatas					
-L5	Food, Drinks & Quantities	a cenoura	carrot	im	f	as cenouras					
-L5	Food, Drinks & Quantities	a cebola	onion	im	f	as cebolas					
-L5	Food, Drinks & Quantities	a alface	lettuce	im	f	as alfaces					
-L5	Food, Drinks & Quantities	o arroz	rice	im	m	—					
-L5	Food, Drinks & Quantities	o feijão	beans	im	m	—					
-L5	Food, Drinks & Quantities	o açúcar	sugar	im	m	—					
-L5	Food, Drinks & Quantities	o sal	salt	im	m	—					
-L5	Food, Drinks & Quantities	o óleo	oil	im	m	os óleos					
-L5	Food, Drinks & Quantities	a água	water	im	f	as águas					
-L5	Food, Drinks & Quantities	o suco	juice	im	m	os sucos					
-L5	Food, Drinks & Quantities	o vinho	wine	im	m	os vinhos					
-L5	Food, Drinks & Quantities	a cerveja	beer	im	f	as cervejas					
-L5	Food, Drinks & Quantities	o refrigerante	soft drink	im	m	os refrigerantes					
-L5	Food, Drinks & Quantities	o quilo	kilo	im	m	os quilos					
-L5	Food, Drinks & Quantities	o grama	gram	im	m	os gramas					
-L5	Food, Drinks & Quantities	o litro	litre	im	m	os litros					
-L5	Food, Drinks & Quantities	a garrafa	bottle	im	f	as garrafas					
-L5	Food, Drinks & Quantities	a dúzia	dozen	im	f	as dúzias					
-L5	Food, Drinks & Quantities	a fruta	fruit	im	f	as frutas					
-L5	Food, Drinks & Quantities	a verdura	vegetables	im	f	as verduras					
-L5	Food, Drinks & Quantities	eu queria	I would like	izraz							
-L5	Food, Drinks & Quantities	quanto custa?	how much is it?	izraz							
-L5	Food, Drinks & Quantities	comprar	to buy	gl					1	comprado	compro · compra · compramos · compram
-L5	Food, Drinks & Quantities	custar	to cost	gl					1	custado	custo · custa · custamos · custam
-L5	Food, Drinks & Quantities	pagar	to pay	gl					1	pago	pago · paga · pagamos · pagam
-L5	Food, Drinks & Quantities	o centavo	cent	im	m	os centavos					
-L5	Food, Drinks & Quantities	o preço	price	im	m	os preços					
-L5	Food, Drinks & Quantities	caro	expensive	pr			cara	caros / caras			
-L5	Food, Drinks & Quantities	barato	cheap	pr			barata	baratos / baratas			
-L5	Food, Drinks & Quantities	bom	good	pr			boa	bons / boas			
-L5	Food, Drinks & Quantities	fresco	fresh	pr			fresca	frescos / frescas			
-L5	Food, Drinks & Quantities	este, esta	this	zam							
-L5	Food, Drinks & Quantities	esse, essa	that	zam							
-L5	Food, Drinks & Quantities	aquele, aquela	that (over there)	zam							
-L5	Food, Drinks & Quantities	a loja	shop	im	f	as lojas					
-L5	Food, Drinks & Quantities	o supermercado	supermarket	im	m	os supermercados					
-L5	Food, Drinks & Quantities	mais alguma coisa?	anything else?	izraz							
-L5	Food, Drinks & Quantities	cem	hundred	broj							
-L5	Food, Drinks & Quantities	pouco	little; few	pril							
-L6	City & Directions	a rua	street	im	f	as ruas					
-L6	City & Directions	a avenida	avenue	im	f	as avenidas					
-L6	City & Directions	o bairro	neighbourhood	im	m	os bairros					
-L6	City & Directions	o centro	centre	im	m	os centros					
-L6	City & Directions	a estação	station	im	f	as estações					
-L6	City & Directions	o ponto de ônibus	bus stop	izraz							
-L6	City & Directions	o museu	museum	im	m	os museus					
-L6	City & Directions	a igreja	church	im	f	as igrejas					
-L6	City & Directions	o hospital	hospital	im	m	os hospitais					
-L6	City & Directions	a escola	school	im	f	as escolas					
-L6	City & Directions	o correio	post office	im	m	os correios					
-L6	City & Directions	a prefeitura	town hall	im	f	as prefeituras					
-L6	City & Directions	a biblioteca	library	im	f	as bibliotecas					
-L6	City & Directions	a ponte	bridge	im	f	as pontes					
-L6	City & Directions	o sinal	traffic light	im	m	os sinais					
-L6	City & Directions	o cruzamento	crossroads	im	m	os cruzamentos					
-L6	City & Directions	a esquina	corner	im	f	as esquinas					
-L6	City & Directions	o mapa	map	im	m	os mapas					
-L6	City & Directions	a padaria	bakery	im	f	as padarias					
-L6	City & Directions	a banca de jornal	newsstand	izraz							
-L6	City & Directions	o metrô	underground	im	m	os metrôs					
-L6	City & Directions	estar	to be (state, location)	gl					1	estado	estou · está · estamos · estão
-L6	City & Directions	ficar	to be located; to stay	gl					1	ficado	fico · fica · ficamos · ficam
-L6	City & Directions	ir	to go	gl					3	ido	vou · vai · vamos · vão
-L6	City & Directions	virar	to turn	gl					1	virado	viro · vira · viramos · viram
-L6	City & Directions	atravessar	to cross	gl					1	atravessado	atravesso · atravessa · atravessamos · atravessam
-L6	City & Directions	seguir	to follow; to continue	gl					3	seguido	sigo · segue · seguimos · seguem
-L6	City & Directions	procurar	to look for	gl					1	procurado	procuro · procura · procuramos · procuram
-L6	City & Directions	encontrar	to find; to meet	gl					1	encontrado	encontro · encontra · encontramos · encontram
-L6	City & Directions	no, na	in the	prij							
-L6	City & Directions	do, da	of the; from the	prij							
-L6	City & Directions	ao, à	to the	prij							
-L6	City & Directions	pelo, pela	through the; by the	prij							
-L6	City & Directions	à direita	on the right	izraz							
-L6	City & Directions	à esquerda	on the left	izraz							
-L6	City & Directions	em frente	straight on	izraz							
-L6	City & Directions	perto de	near	prij							
-L6	City & Directions	longe de	far from	prij							
-L6	City & Directions	ao lado de	next to	prij							
-L6	City & Directions	na frente de	in front of	prij							
-L6	City & Directions	atrás de	behind	prij							
-L6	City & Directions	em cima de	on top of	prij							
-L6	City & Directions	embaixo de	under	prij							
-L6	City & Directions	entre	between	prij							
-L6	City & Directions	aqui	here	pril							
-L6	City & Directions	ali	there	pril							
-L6	City & Directions	depois	after; afterwards	pril							
-L6	City & Directions	primeiro	first	pril							
-L6	City & Directions	segundo	second	broj							
-L6	City & Directions	terceiro	third	broj							
-L6	City & Directions	a pé	on foot	izraz							
-L6	City & Directions	de ônibus	by bus	izraz							
-L6	City & Directions	perdido	lost	pr			perdida	perdidos / perdidas			
-L6	City & Directions	onde fica …?	where is …?	izraz							
-L6	City & Directions	é longe?	is it far?	izraz							
-L6	City & Directions	o posto de gasolina	petrol station	izraz							
-L6	City & Directions	o estacionamento	car park	im	m	os estacionamentos					
-L6	City & Directions	a catedral	cathedral	im	f	as catedrais					
-L6	City & Directions	o prédio	building	im	m	os prédios					
-L6	City & Directions	o turista, a turista	tourist	im	m,f	os turistas, as turistas					
-L6	City & Directions	a calçada	pavement	im	f	as calçadas					
-L6	City & Directions	o shopping	shopping centre	im	m	os shoppings					
-L7	Hobbies & Sport	o tempo livre	free time	izraz							
-L7	Hobbies & Sport	o hobby	hobby	im	m	os hobbies					
-L7	Hobbies & Sport	gostar de	to like	izraz							
-L7	Hobbies & Sport	adorar	to love	gl					1	adorado	adoro · adora · adoramos · adoram
-L7	Hobbies & Sport	odiar	to hate	gl					1	odiado	odeio · odeia · odiamos · odeiam
-L7	Hobbies & Sport	querer	to want	gl					2	querido	quero · quer · queremos · querem
-L7	Hobbies & Sport	preferir	to prefer	gl					3	preferido	prefiro · prefere · preferimos · preferem
-L7	Hobbies & Sport	poder	can; to be able to	gl					2	podido	posso · pode · podemos · podem
-L7	Hobbies & Sport	fazer	to do; to make	gl					2	feito	faço · faz · fazemos · fazem
-L7	Hobbies & Sport	sair	to go out	gl					3	saído	saio · sai · saímos · saem
-L7	Hobbies & Sport	dormir	to sleep	gl					3	dormido	durmo · dorme · dormimos · dormem
-L7	Hobbies & Sport	jogar	to play (a game)	gl					1	jogado	jogo · joga · jogamos · jogam
-L7	Hobbies & Sport	tocar	to play (an instrument); to touch	gl					1	tocado	toco · toca · tocamos · tocam
-L7	Hobbies & Sport	nadar	to swim	gl					1	nadado	nado · nada · nadamos · nadam
-L7	Hobbies & Sport	correr	to run	gl					2	corrido	corro · corre · corremos · correm
-L7	Hobbies & Sport	surfar	to surf	gl					1	surfado	surfo · surfa · surfamos · surfam
-L7	Hobbies & Sport	viajar	to travel	gl					1	viajado	viajo · viaja · viajamos · viajam
-L7	Hobbies & Sport	desenhar	to draw	gl					1	desenhado	desenho · desenha · desenhamos · desenham
-L7	Hobbies & Sport	pintar	to paint	gl					1	pintado	pinto · pinta · pintamos · pintam
-L7	Hobbies & Sport	passear	to go for a walk	gl					1	passeado	passeio · passeia · passeamos · passeiam
-L7	Hobbies & Sport	andar de bicicleta	to ride a bike	izraz							
-L7	Hobbies & Sport	a bicicleta	bicycle	im	f	as bicicletas					
-L7	Hobbies & Sport	a natação	swimming	im	f	—					
-L7	Hobbies & Sport	a academia	gym	im	f	as academias					
-L7	Hobbies & Sport	o vôlei	volleyball	im	m	—					
-L7	Hobbies & Sport	o basquete	basketball	im	m	—					
-L7	Hobbies & Sport	o jogo	game; match	im	m	os jogos					
-L7	Hobbies & Sport	o time	team	im	m	os times					
-L7	Hobbies & Sport	a bola	ball	im	f	as bolas					
-L7	Hobbies & Sport	o violão	(acoustic) guitar	im	m	os violões					
-L7	Hobbies & Sport	o piano	piano	im	m	os pianos					
-L7	Hobbies & Sport	o videogame	video game	im	m	os videogames					
-L7	Hobbies & Sport	o show	concert; show	im	m	os shows					
-L7	Hobbies & Sport	a exposição	exhibition	im	f	as exposições					
-L7	Hobbies & Sport	a piscina	swimming pool	im	f	as piscinas					
-L7	Hobbies & Sport	o estádio	stadium	im	m	os estádios					
-L7	Hobbies & Sport	a canção	song	im	f	as canções					
-L7	Hobbies & Sport	a dança	dance	im	f	as danças					
-L7	Hobbies & Sport	a fotografia	photography	im	f	—					
-L7	Hobbies & Sport	o quadrinho	comic	im	m	os quadrinhos					
-L7	Hobbies & Sport	o romance	novel	im	m	os romances					
-L7	Hobbies & Sport	a série	series	im	f	as séries					
-L7	Hobbies & Sport	o passeio	walk; outing	im	m	os passeios					
-L7	Hobbies & Sport	o torcedor, a torcedora	fan (sport)	im	m,f	os torcedores, as torcedoras					
-L7	Hobbies & Sport	a trilha	trail; hike	im	f	as trilhas					
-L7	Hobbies & Sport	a capoeira	capoeira	im	f	—					
-L7	Hobbies & Sport	o surfe	surfing	im	m	—					
-L7	Hobbies & Sport	favorito	favourite	pr			favorita	favoritos / favoritas			
-L7	Hobbies & Sport	chato	boring; annoying	pr			chata	chatos / chatas			
-L7	Hobbies & Sport	divertido	fun	pr			divertida	divertidos / divertidas			
-L7	Hobbies & Sport	interessante	interesting	pr			interessante	interessantes / interessantes			
-L7	Hobbies & Sport	cansado	tired	pr			cansada	cansados / cansadas			
-L7	Hobbies & Sport	cada	each; every	pr			cada	— / —			
-L7	Hobbies & Sport	também não	neither; not either	izraz							
-L7	Hobbies & Sport	ganhar	to win; to earn	gl					1	ganho	ganho · ganha · ganhamos · ganham
-L7	Hobbies & Sport	perder	to lose; to miss	gl					2	perdido	perco · perde · perdemos · perdem
-L7	Hobbies & Sport	o campo	field; countryside	im	m	os campos					
-L7	Hobbies & Sport	cedo	early	pril							
-L7	Hobbies & Sport	acordar	to wake up	gl					1	acordado	acordo · acorda · acordamos · acordam
-L7	Hobbies & Sport	a festa	party	im	f	as festas					
-L8	Routine & Time	levantar-se	to get up	gl					1	levantado	me levanto · se levanta · nos levantamos · se levantam
-L8	Routine & Time	lavar-se	to wash (oneself)	gl					1	lavado	me lavo · se lava · nos lavamos · se lavam
-L8	Routine & Time	tomar banho	to have a shower	izraz							
-L8	Routine & Time	vestir-se	to get dressed	gl					3	vestido	me visto · se veste · nos vestimos · se vestem
-L8	Routine & Time	pentear-se	to comb one's hair	gl					1	penteado	me penteio · se penteia · nos penteamos · se penteiam
-L8	Routine & Time	maquiar-se	to put on make-up	gl					1	maquiado	me maquio · se maquia · nos maquiamos · se maquiam
-L8	Routine & Time	fazer a barba	to shave	izraz							
-L8	Routine & Time	escovar os dentes	to brush one's teeth	izraz							
-L8	Routine & Time	deitar-se	to lie down; to go to bed	gl					1	deitado	me deito · se deita · nos deitamos · se deitam
-L8	Routine & Time	dormir cedo	to go to bed early	izraz							
-L8	Routine & Time	descansar	to rest	gl					1	descansado	descanso · descansa · descansamos · descansam
-L8	Routine & Time	apressar-se	to hurry	gl					1	apressado	me apresso · se apressa · nos apressamos · se apressam
-L8	Routine & Time	sentir-se	to feel	gl					3	sentido	me sinto · se sente · nos sentimos · se sentem
-L8	Routine & Time	chamar-se	to be called	gl					1	chamado	me chamo · se chama · nos chamamos · se chamam
-L8	Routine & Time	voltar	to come back	gl					1	voltado	volto · volta · voltamos · voltam
-L8	Routine & Time	o café da manhã	breakfast	izraz							
-L8	Routine & Time	o almoço	lunch	im	m	os almoços					
-L8	Routine & Time	o jantar	dinner	im	m	os jantares					
-L8	Routine & Time	tomar café da manhã	to have breakfast	izraz							
-L8	Routine & Time	almoçar	to have lunch	gl					1	almoçado	almoço · almoça · almoçamos · almoçam
-L8	Routine & Time	jantar	to have dinner	gl					1	jantado	janto · janta · jantamos · jantam
-L8	Routine & Time	a hora	hour	im	f	as horas					
-L8	Routine & Time	a meia hora	half an hour	izraz							
-L8	Routine & Time	que horas são?	what time is it?	izraz							
-L8	Routine & Time	é uma hora	it's one o'clock	izraz							
-L8	Routine & Time	são … horas	it's … o'clock	izraz							
-L8	Routine & Time	e meia	half past	izraz							
-L8	Routine & Time	e quinze	quarter past	izraz							
-L8	Routine & Time	quinze para as …	quarter to …	izraz							
-L8	Routine & Time	o meio-dia	midday	im	m	os meios-dias					
-L8	Routine & Time	a meia-noite	midnight	im	f	as meias-noites					
-L8	Routine & Time	o minuto	minute	im	m	os minutos					
-L8	Routine & Time	o segundo	second (time)	im	m	os segundos					
-L8	Routine & Time	o despertador	alarm clock	im	m	os despertadores					
-L8	Routine & Time	o chuveiro	shower	im	m	os chuveiros					
-L8	Routine & Time	o sabonete	soap	im	m	os sabonetes					
-L8	Routine & Time	a escova de dentes	toothbrush	izraz							
-L8	Routine & Time	a pasta de dentes	toothpaste	izraz							
-L8	Routine & Time	a toalha	towel	im	f	as toalhas					
-L8	Routine & Time	tarde	late	pril							
-L8	Routine & Time	atrasado	late (not on time)	pr			atrasada	atrasados / atrasadas			
-L8	Routine & Time	na hora	on time	izraz							
-L8	Routine & Time	rápido	quickly; fast	pril							
-L8	Routine & Time	devagar	slowly	pril							
-L8	Routine & Time	normalmente	usually	pril							
-L8	Routine & Time	antes de	before	prij							
-L8	Routine & Time	durante	during	prij							
-L8	Routine & Time	o colega, a colega	colleague	im	m,f	os colegas, as colegas					
-L8	Routine & Time	a rotina	routine	im	f	as rotinas					
-L8	Routine & Time	o horário	timetable; schedule	im	m	os horários					
-L8	Routine & Time	o cochilo	nap	im	m	os cochilos					
-L8	Routine & Time	quase	almost	pril							
-L8	Routine & Time	nunca	never	pril							
-L8	Routine & Time	o relógio	watch; clock	im	m	os relógios					
-L8	Routine & Time	todas as manhãs	every morning	izraz							
-L8	Routine & Time	o celular	mobile phone	im	m	os celulares					
-L8	Routine & Time	o trânsito	traffic	im	m	—					
-L8	Routine & Time	lotado	crowded	pr			lotada	lotados / lotadas			
-L9	Weather, Months & Dates	agora	now	pril							
-L9	Weather, Months & Dates	o tempo	weather; time	im	m	os tempos					
-L9	Weather, Months & Dates	está calor	it's hot	izraz							
-L9	Weather, Months & Dates	está frio	it's cold	izraz							
-L9	Weather, Months & Dates	faz sol	it's sunny	izraz							
-L9	Weather, Months & Dates	está chovendo	it's raining	izraz							
-L9	Weather, Months & Dates	estar + gerúndio	to be doing	izraz							
-L9	Weather, Months & Dates	chover	to rain	gl					2	chovido	— · chove · — · —
-L9	Weather, Months & Dates	o sol	sun	im	m	os sóis					
-L9	Weather, Months & Dates	a chuva	rain	im	f	as chuvas					
-L9	Weather, Months & Dates	o vento	wind	im	m	os ventos					
-L9	Weather, Months & Dates	a nuvem	cloud	im	f	as nuvens					
-L9	Weather, Months & Dates	a tempestade	storm	im	f	as tempestades					
-L9	Weather, Months & Dates	a previsão do tempo	weather forecast	izraz							
-L9	Weather, Months & Dates	o grau	degree	im	m	os graus					
-L9	Weather, Months & Dates	a estação do ano	season	izraz							
-L9	Weather, Months & Dates	a primavera	spring	im	f	as primaveras					
-L9	Weather, Months & Dates	o verão	summer	im	m	os verões					
-L9	Weather, Months & Dates	o outono	autumn	im	m	os outonos					
-L9	Weather, Months & Dates	o inverno	winter	im	m	os invernos					
-L9	Weather, Months & Dates	o mês	month	im	m	os meses					
-L9	Weather, Months & Dates	janeiro	January	im	m	—					
-L9	Weather, Months & Dates	fevereiro	February	im	m	—					
-L9	Weather, Months & Dates	março	March	im	m	—					
-L9	Weather, Months & Dates	abril	April	im	m	—					
-L9	Weather, Months & Dates	maio	May	im	m	—					
-L9	Weather, Months & Dates	junho	June	im	m	—					
-L9	Weather, Months & Dates	julho	July	im	m	—					
-L9	Weather, Months & Dates	agosto	August	im	m	—					
-L9	Weather, Months & Dates	setembro	September	im	m	—					
-L9	Weather, Months & Dates	outubro	October	im	m	—					
-L9	Weather, Months & Dates	novembro	November	im	m	—					
-L9	Weather, Months & Dates	dezembro	December	im	m	—					
-L9	Weather, Months & Dates	a data	date	im	f	as datas					
-L9	Weather, Months & Dates	amanhã	tomorrow	pril							
-L9	Weather, Months & Dates	depois de amanhã	the day after tomorrow	izraz							
-L9	Weather, Months & Dates	próximo	next	pr			próxima	próximos / próximas			
-L9	Weather, Months & Dates	o plano	plan	im	m	os planos					
-L9	Weather, Months & Dates	ir + infinitivo	to be going to	izraz							
-L9	Weather, Months & Dates	ter que	to have to	izraz							
-L9	Weather, Months & Dates	combinar	to arrange	gl					1	combinado	combino · combina · combinamos · combinam
-L9	Weather, Months & Dates	convidar	to invite	gl					1	convidado	convido · convida · convidamos · convidam
-L9	Weather, Months & Dates	esperar	to wait; to hope	gl					1	esperado	espero · espera · esperamos · esperam
-L9	Weather, Months & Dates	o encontro	meeting; date	im	m	os encontros					
-L9	Weather, Months & Dates	tá bom	OK	izraz							
-L9	Weather, Months & Dates	combinado	agreed; deal	izraz							
-L9	Weather, Months & Dates	talvez	maybe	pril							
-L9	Weather, Months & Dates	então	so; then	pril							
-L9	Weather, Months & Dates	alguma coisa	something	izraz							
-L9	Weather, Months & Dates	nada	nothing	zam							
-L9	Weather, Months & Dates	alguém	someone	zam							
-L9	Weather, Months & Dates	ninguém	nobody	zam							
-L9	Weather, Months & Dates	o mar	sea	im	m	os mares					
-L9	Weather, Months & Dates	a montanha	mountain	im	f	as montanhas					
-L9	Weather, Months & Dates	o guarda-chuva	umbrella	im	m	os guarda-chuvas					
-L9	Weather, Months & Dates	alô	hello (phone)	izraz							
-L9	Weather, Months & Dates	quente	hot	pr			quente	quentes / quentes			
-L9	Weather, Months & Dates	frio	cold	pr			fria	frios / frias			
-L9	Weather, Months & Dates	nublado	cloudy	pr			nublada	nublados / nubladas			
-L9	Weather, Months & Dates	úmido	humid	pr			úmida	úmidos / úmidas			
-L9	Weather, Months & Dates	o carnaval	carnival	im	m	os carnavais					
-L10	Weekend & Past Time	ontem	yesterday	pril							
-L10	Weekend & Past Time	anteontem	the day before yesterday	pril							
-L10	Weekend & Past Time	passado	last; past	pr			passada	passados / passadas			
-L10	Weekend & Past Time	ontem à noite	last night	izraz							
-L10	Weekend & Past Time	hoje de manhã	this morning	izraz							
-L10	Weekend & Past Time	já	already	pril							
-L10	Weekend & Past Time	ainda não	not yet	izraz							
-L10	Weekend & Past Time	limpar	to clean	gl					1	limpado	limpo · limpa · limpamos · limpam
-L10	Weekend & Past Time	arrumar	to tidy	gl					1	arrumado	arrumo · arruma · arrumamos · arrumam
-L10	Weekend & Past Time	fazer compras	to go shopping	izraz							
-L10	Weekend & Past Time	esquecer	to forget	gl					2	esquecido	esqueço · esquece · esquecemos · esquecem
-L10	Weekend & Past Time	receber	to receive	gl					2	recebido	recebo · recebe · recebemos · recebem
-L10	Weekend & Past Time	contar	to tell; to count	gl					1	contado	conto · conta · contamos · contam
-L10	Weekend & Past Time	mostrar	to show	gl					1	mostrado	mostro · mostra · mostramos · mostram
-L10	Weekend & Past Time	rir	to laugh	gl					3	rido	rio · ri · rimos · riem
-L10	Weekend & Past Time	chorar	to cry	gl					1	chorado	choro · chora · choramos · choram
-L10	Weekend & Past Time	fechar	to close	gl					1	fechado	fecho · fecha · fechamos · fecham
-L10	Weekend & Past Time	responder	to answer	gl					2	respondido	respondo · responde · respondemos · respondem
-L10	Weekend & Past Time	perguntar	to ask	gl					1	perguntado	pergunto · pergunta · perguntamos · perguntam
-L10	Weekend & Past Time	terminar	to finish	gl					1	terminado	termino · termina · terminamos · terminam
-L10	Weekend & Past Time	conhecer	to meet; to get to know	gl					2	conhecido	conheço · conhece · conhecemos · conhecem
-L10	Weekend & Past Time	visitar	to visit	gl					1	visitado	visito · visita · visitamos · visitam
-L10	Weekend & Past Time	encontrar-se com	to meet up with	izraz							
-L10	Weekend & Past Time	comemorar	to celebrate	gl					1	comemorado	comemoro · comemora · comemoramos · comemoram
-L10	Weekend & Past Time	o jornal	newspaper	im	m	os jornais					
-L10	Weekend & Past Time	a revista	magazine	im	f	as revistas					
-L10	Weekend & Past Time	a carta	letter	im	f	as cartas					
-L10	Weekend & Past Time	a mensagem	message	im	f	as mensagens					
-L10	Weekend & Past Time	a notícia	news	im	f	as notícias					
-L10	Weekend & Past Time	o e-mail	email	im	m	os e-mails					
-L10	Weekend & Past Time	o passeio de barco	boat trip	izraz							
-L10	Weekend & Past Time	a lembrança	memory; souvenir	im	f	as lembranças					
-L10	Weekend & Past Time	a vez	time (occasion)	im	f	as vezes					
-L10	Weekend & Past Time	uma vez	once	izraz							
-L10	Weekend & Past Time	ótimo	great	pr			ótima	ótimos / ótimas			
-L10	Weekend & Past Time	maravilhoso	wonderful	pr			maravilhosa	maravilhosos / maravilhosas			
-L10	Weekend & Past Time	horrível	horrible	pr			horrível	horríveis / horríveis			
-L10	Weekend & Past Time	mais ou menos	so-so	izraz							
-L10	Weekend & Past Time	nada mal	not bad	izraz							
-L10	Weekend & Past Time	finalmente	finally	pril							
-L10	Weekend & Past Time	de repente	suddenly	izraz							
-L10	Weekend & Past Time	muito tempo	a long time	izraz							
-L10	Weekend & Past Time	o garçom, a garçonete	waiter; waitress	im	m,f	os garçons, as garçonetes					
-L10	Weekend & Past Time	a conta	bill	im	f	as contas					
-L10	Weekend & Past Time	a gorjeta	tip	im	f	as gorjetas					
-L10	Weekend & Past Time	o prato	dish; plate	im	m	os pratos					
-L10	Weekend & Past Time	a sobremesa	dessert	im	f	as sobremesas					
-L10	Weekend & Past Time	a feijoada	feijoada (bean stew)	im	f	as feijoadas					
-L10	Weekend & Past Time	o churrasco	barbecue	im	m	os churrascos					
-L10	Weekend & Past Time	a reunião	meeting	im	f	as reuniões					
-L10	Weekend & Past Time	a prova	test; exam	im	f	as provas					
-L10	Weekend & Past Time	o resultado	result	im	m	os resultados					
-L10	Weekend & Past Time	a surpresa	surprise	im	f	as surpresas					
-L10	Weekend & Past Time	o pagode	pagode (samba style)	im	m	os pagodes					
-L10	Weekend & Past Time	o forró	forró (dance)	im	m	os forrós					
-L10	Weekend & Past Time	a vizinhança	neighbourhood	im	f	as vizinhanças					
-L10	Weekend & Past Time	a batucada	percussion jam	im	f	as batucadas					
-L10	Weekend & Past Time	a galera	group of friends; gang	im	f	as galeras					
-L10	Weekend & Past Time	o barzinho	small bar	im	m	os barzinhos					
-L10	Weekend & Past Time	o petisco	snack; nibbles	im	m	os petiscos					
-L11	Buses & Trips	o carro	car	im	m	os carros					
-L11	Buses & Trips	o avião	plane	im	m	os aviões					
-L11	Buses & Trips	o barco	boat	im	m	os barcos					
-L11	Buses & Trips	a balsa	ferry	im	f	as balsas					
-L11	Buses & Trips	o bonde	tram	im	m	os bondes					
-L11	Buses & Trips	a passagem	ticket (travel)	im	f	as passagens					
-L11	Buses & Trips	o bilhete	ticket	im	m	os bilhetes					
-L11	Buses & Trips	ida e volta	return (ticket)	izraz							
-L11	Buses & Trips	só ida	single (ticket)	izraz							
-L11	Buses & Trips	a rodoviária	bus station	im	f	as rodoviárias					
-L11	Buses & Trips	o guichê	ticket window	im	m	os guichês					
-L11	Buses & Trips	a saída	departure; exit	im	f	as saídas					
-L11	Buses & Trips	a chegada	arrival	im	f	as chegadas					
-L11	Buses & Trips	o atraso	delay	im	m	os atrasos					
-L11	Buses & Trips	a mala	suitcase	im	f	as malas					
-L11	Buses & Trips	a mochila	rucksack	im	f	as mochilas					
-L11	Buses & Trips	o passaporte	passport	im	m	os passaportes					
-L11	Buses & Trips	a identidade	identity card	im	f	as identidades					
-L11	Buses & Trips	o aeroporto	airport	im	m	os aeroportos					
-L11	Buses & Trips	o voo	flight	im	m	os voos					
-L11	Buses & Trips	o passageiro, a passageira	passenger	im	m,f	os passageiros, as passageiras					
-L11	Buses & Trips	o viajante	traveller	im	m	os viajantes					
-L11	Buses & Trips	a reserva	booking	im	f	as reservas					
-L11	Buses & Trips	o quarto de casal	double room	izraz							
-L11	Buses & Trips	a recepção	reception	im	f	as recepções					
-L11	Buses & Trips	a pousada	guesthouse	im	f	as pousadas					
-L11	Buses & Trips	o lago	lake	im	m	os lagos					
-L11	Buses & Trips	a cachoeira	waterfall	im	f	as cachoeiras					
-L11	Buses & Trips	a ilha	island	im	f	as ilhas					
-L11	Buses & Trips	a vista	view	im	f	as vistas					
-L11	Buses & Trips	as férias	holidays	im	f	as férias					
-L11	Buses & Trips	a viagem	trip; journey	im	f	as viagens					
-L11	Buses & Trips	a fronteira	border	im	f	as fronteiras					
-L11	Buses & Trips	o cartão-postal	postcard	im	m	os cartões-postais					
-L11	Buses & Trips	o quilômetro	kilometre	im	m	os quilômetros					
-L11	Buses & Trips	o norte	north	im	m	—					
-L11	Buses & Trips	o sul	south	im	m	—					
-L11	Buses & Trips	o leste	east	im	m	—					
-L11	Buses & Trips	o oeste	west	im	m	—					
-L11	Buses & Trips	subir	to go up; to get on	gl					3	subido	subo · sobe · subimos · sobem
-L11	Buses & Trips	descer	to go down; to get off	gl					2	descido	desço · desce · descemos · descem
-L11	Buses & Trips	entrar	to enter	gl					1	entrado	entro · entra · entramos · entram
-L11	Buses & Trips	cair	to fall	gl					3	caído	caio · cai · caímos · caem
-L11	Buses & Trips	nascer	to be born	gl					2	nascido	nasço · nasce · nascemos · nascem
-L11	Buses & Trips	morrer	to die	gl					2	morrido	morro · morre · morremos · morrem
-L11	Buses & Trips	dirigir	to drive	gl					3	dirigido	dirijo · dirige · dirigimos · dirigem
-L11	Buses & Trips	mudar	to change; to move	gl					1	mudado	mudo · muda · mudamos · mudam
-L11	Buses & Trips	alugar	to rent; to hire	gl					1	alugado	alugo · aluga · alugamos · alugam
-L11	Buses & Trips	reservar	to book	gl					1	reservado	reservo · reserva · reservamos · reservam
-L11	Buses & Trips	trazer	to bring	gl					2	trazido	trago · traz · trazemos · trazem
-L11	Buses & Trips	dar	to give	gl					1	dado	dou · dá · damos · dão
-L11	Buses & Trips	dizer	to say	gl					2	dito	digo · diz · dizemos · dizem
-L11	Buses & Trips	pôr	to put	gl					2	posto	ponho · põe · pomos · põem
-L11	Buses & Trips	saber	to know	gl					2	sabido	sei · sabe · sabemos · sabem
-L11	Buses & Trips	vir	to come	gl					3	vindo	venho · vem · vimos · vêm
-L11	Buses & Trips	sair de férias	to go on holiday	izraz							
-L11	Buses & Trips	de carro	by car	izraz							
-L11	Buses & Trips	de avião	by plane	izraz							
-L11	Buses & Trips	direto	direct	pr			direta	diretos / diretas			
-L11	Buses & Trips	cheio	full	pr			cheia	cheios / cheias			
-L11	Buses & Trips	livre	free	pr			livre	livres / livres			
-L11	Buses & Trips	ocupado	busy; taken	pr			ocupada	ocupados / ocupadas			
-L11	Buses & Trips	por	through; by; for	prij							
-L11	Buses & Trips	o guia, a guia	guide	im	m,f	os guias, as guias					
-L12	Clothes & Shops	a roupa	clothes	im	f	—					
-L12	Clothes & Shops	a camisa	shirt	im	f	as camisas					
-L12	Clothes & Shops	a camiseta	T-shirt	im	f	as camisetas					
-L12	Clothes & Shops	o suéter	jumper	im	m	os suéteres					
-L12	Clothes & Shops	a calça	trousers	im	f	as calças					
-L12	Clothes & Shops	o jeans	jeans	im	m	os jeans					
-L12	Clothes & Shops	a saia	skirt	im	f	as saias					
-L12	Clothes & Shops	o vestido	dress	im	m	os vestidos					
-L12	Clothes & Shops	a jaqueta	jacket	im	f	as jaquetas					
-L12	Clothes & Shops	o casaco	coat	im	m	os casacos					
-L12	Clothes & Shops	o terno	suit	im	m	os ternos					
-L12	Clothes & Shops	a gravata	tie	im	f	as gravatas					
-L12	Clothes & Shops	o sapato	shoe	im	m	os sapatos					
-L12	Clothes & Shops	a sandália	sandal	im	f	as sandálias					
-L12	Clothes & Shops	o chinelo	flip-flop	im	m	os chinelos					
-L12	Clothes & Shops	a bota	boot	im	f	as botas					
-L12	Clothes & Shops	a meia	sock	im	f	as meias					
-L12	Clothes & Shops	o chapéu	hat	im	m	os chapéus					
-L12	Clothes & Shops	o boné	cap	im	m	os bonés					
-L12	Clothes & Shops	o biquíni	bikini	im	m	os biquínis					
-L12	Clothes & Shops	os óculos	glasses	im	m	os óculos					
-L12	Clothes & Shops	o óculos de sol	sunglasses	izraz							
-L12	Clothes & Shops	o cinto	belt	im	m	os cintos					
-L12	Clothes & Shops	o tamanho	size	im	m	os tamanhos					
-L12	Clothes & Shops	o número	number; shoe size	im	m	os números					
-L12	Clothes & Shops	o provador	fitting room	im	m	os provadores					
-L12	Clothes & Shops	o vendedor, a vendedora	shop assistant	im	m,f	os vendedores, as vendedoras					
-L12	Clothes & Shops	o cliente, a cliente	customer	im	m,f	os clientes, as clientes					
-L12	Clothes & Shops	o caixa	till; cashier	im	m	os caixas					
-L12	Clothes & Shops	a liquidação	sale	im	f	as liquidações					
-L12	Clothes & Shops	o desconto	discount	im	m	os descontos					
-L12	Clothes & Shops	o cartão	card	im	m	os cartões					
-L12	Clothes & Shops	o recibo	receipt	im	m	os recibos					
-L12	Clothes & Shops	experimentar	to try on	gl					1	experimentado	experimento · experimenta · experimentamos · experimentam
-L12	Clothes & Shops	usar	to wear; to use	gl					1	usado	uso · usa · usamos · usam
-L12	Clothes & Shops	vestir	to put on; to wear	gl					3	vestido	visto · veste · vestimos · vestem
-L12	Clothes & Shops	tirar	to take off	gl					1	tirado	tiro · tira · tiramos · tiram
-L12	Clothes & Shops	ficar bem	to suit; to look good	izraz							
-L12	Clothes & Shops	comprido	long	pr			comprida	compridos / compridas			
-L12	Clothes & Shops	curto	short	pr			curta	curtos / curtas			
-L12	Clothes & Shops	largo	wide; loose	pr			larga	largos / largas			
-L12	Clothes & Shops	apertado	tight	pr			apertada	apertados / apertadas			
-L12	Clothes & Shops	magro	thin	pr			magra	magros / magras			
-L12	Clothes & Shops	gordo	fat	pr			gorda	gordos / gordas			
-L12	Clothes & Shops	loiro	blond	pr			loira	loiros / loiras			
-L12	Clothes & Shops	moreno	dark-haired; tanned	pr			morena	morenos / morenas			
-L12	Clothes & Shops	ruivo	red-haired	pr			ruiva	ruivos / ruivas			
-L12	Clothes & Shops	o cabelo	hair	im	m	os cabelos					
-L12	Clothes & Shops	os olhos	eyes	im	m	os olhos					
-L12	Clothes & Shops	a barba	beard	im	f	as barbas					
-L12	Clothes & Shops	elegante	elegant	pr			elegante	elegantes / elegantes			
-L12	Clothes & Shops	na moda	fashionable	izraz							
-L12	Clothes & Shops	o estilo	style	im	m	os estilos					
-L12	Clothes & Shops	a entrevista	interview	im	f	as entrevistas					
-L12	Clothes & Shops	o algodão	cotton	im	m	—					
-L12	Clothes & Shops	o couro	leather	im	m	—					
-L12	Clothes & Shops	escuro	dark	pr			escura	escuros / escuras			
-L12	Clothes & Shops	mais	more	pril							
-L12	Clothes & Shops	menos	less	pril							
-L12	Clothes & Shops	demais	too much	pril							
-L12	Clothes & Shops	bastante	quite; enough	pril							
-L12	Clothes & Shops	o parcelamento	payment in instalments	im	m	os parcelamentos					
-L12	Clothes & Shops	à vista	paid in full	izraz							
-L12	Clothes & Shops	a vitrine	shop window	im	f	as vitrines					
-L12	Clothes & Shops	lindo	beautiful	pr			linda	lindos / lindas			
-L13	The Body & the Doctor	o corpo	body	im	m	os corpos					
-L13	The Body & the Doctor	a cabeça	head	im	f	as cabeças					
-L13	The Body & the Doctor	o rosto	face	im	m	os rostos					
-L13	The Body & the Doctor	o olho	eye	im	m	os olhos					
-L13	The Body & the Doctor	o nariz	nose	im	m	os narizes					
-L13	The Body & the Doctor	a boca	mouth	im	f	as bocas					
-L13	The Body & the Doctor	a orelha	ear	im	f	as orelhas					
-L13	The Body & the Doctor	o dente	tooth	im	m	os dentes					
-L13	The Body & the Doctor	o pescoço	neck	im	m	os pescoços					
-L13	The Body & the Doctor	a garganta	throat	im	f	as gargantas					
-L13	The Body & the Doctor	o ombro	shoulder	im	m	os ombros					
-L13	The Body & the Doctor	o braço	arm	im	m	os braços					
-L13	The Body & the Doctor	a mão	hand	im	f	as mãos					
-L13	The Body & the Doctor	o dedo	finger	im	m	os dedos					
-L13	The Body & the Doctor	as costas	back	im	f	as costas					
-L13	The Body & the Doctor	a barriga	belly	im	f	as barrigas					
-L13	The Body & the Doctor	o estômago	stomach	im	m	os estômagos					
-L13	The Body & the Doctor	o coração	heart	im	m	os corações					
-L13	The Body & the Doctor	a perna	leg	im	f	as pernas					
-L13	The Body & the Doctor	o joelho	knee	im	m	os joelhos					
-L13	The Body & the Doctor	o pé	foot	im	m	os pés					
-L13	The Body & the Doctor	o tornozelo	ankle	im	m	os tornozelos					
-L13	The Body & the Doctor	o pulso	wrist	im	m	os pulsos					
-L13	The Body & the Doctor	a pele	skin	im	f	as peles					
-L13	The Body & the Doctor	o sangue	blood	im	m	—					
-L13	The Body & the Doctor	o médico, a médica	doctor	im	m,f	os médicos, as médicas					
-L13	The Body & the Doctor	o enfermeiro, a enfermeira	nurse	im	m,f	os enfermeiros, as enfermeiras					
-L13	The Body & the Doctor	o dentista, a dentista	dentist	im	m,f	os dentistas, as dentistas					
-L13	The Body & the Doctor	o posto de saúde	health centre	izraz							
-L13	The Body & the Doctor	o paciente, a paciente	patient	im	m,f	os pacientes, as pacientes					
-L13	The Body & the Doctor	a doença	illness	im	f	as doenças					
-L13	The Body & the Doctor	doente	ill	pr			doente	doentes / doentes			
-L13	The Body & the Doctor	a gripe	flu	im	f	as gripes					
-L13	The Body & the Doctor	o resfriado	cold	im	m	os resfriados					
-L13	The Body & the Doctor	a febre	fever	im	f	as febres					
-L13	The Body & the Doctor	a tosse	cough	im	f	as tosses					
-L13	The Body & the Doctor	a dor	pain	im	f	as dores					
-L13	The Body & the Doctor	estar com dor de	to have a pain in	izraz							
-L13	The Body & the Doctor	estar com dor de cabeça	to have a headache	izraz							
-L13	The Body & the Doctor	doer	to hurt	gl					2	doído	— · dói · — · doem
-L13	The Body & the Doctor	o machucado	injury	im	m	os machucados					
-L13	The Body & the Doctor	o remédio	medicine	im	m	os remédios					
-L13	The Body & the Doctor	o comprimido	tablet	im	m	os comprimidos					
-L13	The Body & the Doctor	a receita	prescription; recipe	im	f	as receitas					
-L13	The Body & the Doctor	o xarope	syrup	im	m	os xaropes					
-L13	The Body & the Doctor	a saúde	health	im	f	—					
-L13	The Body & the Doctor	a emergência	emergency	im	f	as emergências					
-L13	The Body & the Doctor	a ambulância	ambulance	im	f	as ambulâncias					
-L13	The Body & the Doctor	o sintoma	symptom	im	m	os sintomas					
-L13	The Body & the Doctor	tossir	to cough	gl					3	tossido	tusso · tosse · tossimos · tossem
-L13	The Body & the Doctor	quebrar	to break	gl					1	quebrado	quebro · quebra · quebramos · quebram
-L13	The Body & the Doctor	machucar-se	to hurt oneself	gl					1	machucado	me machuco · se machuca · nos machucamos · se machucam
-L13	The Body & the Doctor	melhorar	to get better	gl					1	melhorado	melhoro · melhora · melhoramos · melhoram
-L13	The Body & the Doctor	respirar	to breathe	gl					1	respirado	respiro · respira · respiramos · respiram
-L13	The Body & the Doctor	ficar em casa	to stay at home	izraz							
-L13	The Body & the Doctor	grave	serious	pr			grave	graves / graves			
-L13	The Body & the Doctor	saudável	healthy	pr			saudável	saudáveis / saudáveis			
-L13	The Body & the Doctor	melhor	better	pr			melhor	melhores / melhores			
-L13	The Body & the Doctor	pior	worse	pr			pior	piores / piores			
-L13	The Body & the Doctor	mal	badly; ill	pril							
-L13	The Body & the Doctor	claro	of course; clear; light	pr			clara	claros / claras			
-L13	The Body & the Doctor	fica tranquilo	don't worry	izraz							
-L13	The Body & the Doctor	melhoras!	get well soon!	izraz							
-L13	The Body & the Doctor	saúde!	bless you!; cheers!	izraz							
-L13	The Body & the Doctor	o estresse	stress	im	m	—					
-L13	The Body & the Doctor	o sono	sleep; sleepiness	im	m	—					
-L13	The Body & the Doctor	a alergia	allergy	im	f	as alergias					
-L13	The Body & the Doctor	o curativo	plaster; dressing	im	m	os curativos					
-L13	The Body & the Doctor	o farmacêutico, a farmacêutica	pharmacist	im	m,f	os farmacêuticos, as farmacêuticas					
-L13	The Body & the Doctor	forte	strong	pr			forte	fortes / fortes			
-L13	The Body & the Doctor	fraco	weak	pr			fraca	fracos / fracas			
-L13	The Body & the Doctor	pesado	heavy	pr			pesada	pesados / pesadas			
-L13	The Body & the Doctor	tonto	dizzy	pr			tonta	tontos / tontas			
-L13	The Body & the Doctor	o termômetro	thermometer	im	m	os termômetros					
-L13	The Body & the Doctor	a consulta	appointment (doctor)	im	f	as consultas					
-L13	The Body & the Doctor	o protetor solar	sunscreen	izraz							
-L13	The Body & the Doctor	a insolação	sunstroke	im	f	as insolações					
-L13	The Body & the Doctor	o repelente	insect repellent	im	m	os repelentes					
-L14	Parties & Presents	o presente	present; gift	im	m	os presentes					
-L14	Parties & Presents	presentear	to give a present	gl					1	presenteado	presenteio · presenteia · presenteamos · presenteiam
-L14	Parties & Presents	mandar	to send	gl					1	mandado	mando · manda · mandamos · mandam
-L14	Parties & Presents	enviar	to send	gl					1	enviado	envio · envia · enviamos · enviam
-L14	Parties & Presents	embrulhar	to wrap	gl					1	embrulhado	embrulho · embrulha · embrulhamos · embrulham
-L14	Parties & Presents	agradecer	to thank	gl					2	agradecido	agradeço · agradece · agradecemos · agradecem
-L14	Parties & Presents	desejar	to wish	gl					1	desejado	desejo · deseja · desejamos · desejam
-L14	Parties & Presents	organizar	to organise	gl					1	organizado	organizo · organiza · organizamos · organizam
-L14	Parties & Presents	decorar	to decorate	gl					1	decorado	decoro · decora · decoramos · decoram
-L14	Parties & Presents	preparar	to prepare	gl					1	preparado	preparo · prepara · preparamos · preparam
-L14	Parties & Presents	celebrar	to celebrate	gl					1	celebrado	celebro · celebra · celebramos · celebram
-L14	Parties & Presents	brindar	to toast	gl					1	brindado	brindo · brinda · brindamos · brindam
-L14	Parties & Presents	aplaudir	to clap	gl					3	aplaudido	aplaudo · aplaude · aplaudimos · aplaudem
-L14	Parties & Presents	parabenizar	to congratulate	gl					1	parabenizado	parabenizo · parabeniza · parabenizamos · parabenizam
-L14	Parties & Presents	parabéns!	happy birthday!; congratulations!	izraz							
-L14	Parties & Presents	feliz Natal!	merry Christmas!	izraz							
-L14	Parties & Presents	feliz Ano-Novo!	happy New Year!	izraz							
-L14	Parties & Presents	o Natal	Christmas	im	m	—					
-L14	Parties & Presents	o Ano-Novo	New Year	im	m	—					
-L14	Parties & Presents	o Réveillon	New Year's Eve party	im	m	—					
-L14	Parties & Presents	a Páscoa	Easter	im	f	—					
-L14	Parties & Presents	a festa junina	June festival	izraz							
-L14	Parties & Presents	o casamento	wedding	im	m	os casamentos					
-L14	Parties & Presents	o nascimento	birth	im	m	os nascimentos					
-L14	Parties & Presents	a vela	candle	im	f	as velas					
-L14	Parties & Presents	o balão	balloon	im	m	os balões					
-L14	Parties & Presents	o espumante	sparkling wine	im	m	os espumantes					
-L14	Parties & Presents	o convidado, a convidada	guest	im	m,f	os convidados, as convidadas					
-L14	Parties & Presents	o convite	invitation	im	m	os convites					
-L14	Parties & Presents	o buquê	bouquet	im	m	os buquês					
-L14	Parties & Presents	o perfume	perfume	im	m	os perfumes					
-L14	Parties & Presents	a joia	piece of jewellery	im	f	as joias					
-L14	Parties & Presents	o brinquedo	toy	im	m	os brinquedos					
-L14	Parties & Presents	a boneca	doll	im	f	as bonecas					
-L14	Parties & Presents	o jogo de tabuleiro	board game	izraz							
-L14	Parties & Presents	o quebra-cabeça	jigsaw	im	m	os quebra-cabeças					
-L14	Parties & Presents	o papel de presente	wrapping paper	izraz							
-L14	Parties & Presents	o laço	bow	im	m	os laços					
-L14	Parties & Presents	a tradição	tradition	im	f	as tradições					
-L14	Parties & Presents	o clima	climate; atmosphere	im	m	os climas					
-L14	Parties & Presents	a fantasia	fancy-dress costume	im	f	as fantasias					
-L14	Parties & Presents	a máscara	mask	im	f	as máscaras					
-L14	Parties & Presents	o panetone	panettone	im	m	os panetones					
-L14	Parties & Presents	o bolo	cake	im	m	os bolos					
-L14	Parties & Presents	o brigadeiro	brigadeiro (chocolate sweet)	im	m	os brigadeiros					
-L14	Parties & Presents	a árvore de Natal	Christmas tree	izraz							
-L14	Parties & Presents	o presépio	nativity scene	im	m	os presépios					
-L14	Parties & Presents	os fogos de artifício	fireworks	izraz							
-L14	Parties & Presents	o Dia das Mães	Mother's Day	izraz							
-L14	Parties & Presents	o, a, os, as (pronome)	him; her; it; them	zam							
-L14	Parties & Presents	lhe, lhes	(to) him; (to) her; (to) you	zam							
-L14	Parties & Presents	me, te, nos	me; you; us	zam							
-L14	Parties & Presents	você (objeto)	you (object, spoken)	izraz							
-L14	Parties & Presents	feliz	happy	pr			feliz	felizes / felizes			
-L14	Parties & Presents	contente	glad	pr			contente	contentes / contentes			
-L14	Parties & Presents	surpreso	surprised	pr			surpresa	surpresos / surpresas			
-L14	Parties & Presents	triste	sad	pr			triste	tristes / tristes			
-L14	Parties & Presents	decepcionado	disappointed	pr			decepcionada	decepcionados / decepcionadas			
-L14	Parties & Presents	orgulhoso	proud	pr			orgulhosa	orgulhosos / orgulhosas			
-L14	Parties & Presents	original	original	pr			original	originais / originais			
-L14	Parties & Presents	útil	useful	pr			útil	úteis / úteis			
-L14	Parties & Presents	logo	soon; right away	pril							
-L14	Parties & Presents	daqui a pouco	in a little while	izraz							
-L14	Parties & Presents	soprar as velas	to blow out the candles	izraz							
-L14	Parties & Presents	a comemoração	celebration	im	f	as comemorações					
-L14	Parties & Presents	o doce	sweet	im	m	os doces					
-L14	Parties & Presents	o salgadinho	savoury snack	im	m	os salgadinhos					
-L14	Parties & Presents	o feriado	public holiday	im	m	os feriados					
-L14	Parties & Presents	o noivado	engagement	im	m	os noivados					
-L14	Parties & Presents	o anfitrião, a anfitriã	host; hostess	im	m,f	os anfitriões, as anfitriãs					
-L14	Parties & Presents	o cartão de aniversário	birthday card	izraz							
-L14	Parties & Presents	a lembrancinha	small gift; party favour	im	f	as lembrancinhas					
-L14	Parties & Presents	a festa surpresa	surprise party	izraz							
-L14	Parties & Presents	a quadrilha	square dance (June festival)	im	f	as quadrilhas					
-L14	Parties & Presents	o amigo secreto	Secret Santa	izraz							
-L14	Parties & Presents	a ceia	supper (Christmas Eve)	im	f	as ceias					
-L14	Parties & Presents	o peru	turkey	im	m	os perus					
-L15	Childhood & School	a infância	childhood	im	f	—					
-L15	Childhood & School	o filho único, a filha única	only child	izraz							
-L15	Childhood & School	a escola primária	primary school	izraz							
-L15	Childhood & School	o ensino médio	secondary school	izraz							
-L15	Childhood & School	a creche	nursery	im	f	as creches					
-L15	Childhood & School	a sala de aula	classroom	izraz							
-L15	Childhood & School	o professor, a professora	teacher	im	m,f	os professores, as professoras					
-L15	Childhood & School	o aluno, a aluna	pupil	im	m,f	os alunos, as alunas					
-L15	Childhood & School	o estudante, a estudante	student	im	m,f	os estudantes, as estudantes					
-L15	Childhood & School	a aula	lesson; class	im	f	as aulas					
-L15	Childhood & School	o curso	course	im	m	os cursos					
-L15	Childhood & School	o dever de casa	homework	izraz							
-L15	Childhood & School	a nota	mark; note	im	f	as notas					
-L15	Childhood & School	o recreio	break (school)	im	m	os recreios					
-L15	Childhood & School	o pátio	playground; yard	im	m	os pátios					
-L15	Childhood & School	o quadro	board; painting	im	m	os quadros					
-L15	Childhood & School	a régua	ruler	im	f	as réguas					
-L15	Childhood & School	a borracha	rubber	im	f	as borrachas					
-L15	Childhood & School	o estojo	pencil case	im	m	os estojos					
-L15	Childhood & School	a carteira	school desk; wallet	im	f	as carteiras					
-L15	Childhood & School	a merenda	school snack	im	f	as merendas					
-L15	Childhood & School	a matemática	maths	im	f	—					
-L15	Childhood & School	a história	history; story	im	f	as histórias					
-L15	Childhood & School	a geografia	geography	im	f	—					
-L15	Childhood & School	as ciências	science	im	f	as ciências					
-L15	Childhood & School	a matéria	subject	im	f	as matérias					
-L15	Childhood & School	a biologia	biology	im	f	—					
-L15	Childhood & School	a química	chemistry	im	f	—					
-L15	Childhood & School	a física	physics	im	f	—					
-L15	Childhood & School	a educação física	PE	izraz							
-L15	Childhood & School	o colega de turma	classmate	izraz							
-L15	Childhood & School	a turma	class (group)	im	f	as turmas					
-L15	Childhood & School	o esconde-esconde	hide-and-seek	im	m	—					
-L15	Childhood & School	o balanço	swing	im	m	os balanços					
-L15	Childhood & School	o desenho animado	cartoon	izraz							
-L15	Childhood & School	o acampamento	camp	im	m	os acampamentos					
-L15	Childhood & School	a pipa	kite	im	f	as pipas					
-L15	Childhood & School	o carrinho	toy car; trolley	im	m	os carrinhos					
-L15	Childhood & School	a bola de gude	marble	izraz							
-L15	Childhood & School	o pega-pega	tag (game)	im	m	—					
-L15	Childhood & School	brincar	to play (children)	gl					1	brincado	brinco · brinca · brincamos · brincam
-L15	Childhood & School	ensinar	to teach	gl					1	ensinado	ensino · ensina · ensinamos · ensinam
-L15	Childhood & School	repetir	to repeat	gl					3	repetido	repito · repete · repetimos · repetem
-L15	Childhood & School	explicar	to explain	gl					1	explicado	explico · explica · explicamos · explicam
-L15	Childhood & School	revisar	to revise	gl					1	revisado	reviso · revisa · revisamos · revisam
-L15	Childhood & School	crescer	to grow up	gl					2	crescido	cresço · cresce · crescemos · crescem
-L15	Childhood & School	lembrar	to remember	gl					1	lembrado	lembro · lembra · lembramos · lembram
-L15	Childhood & School	lembrar-se de	to remember	izraz							
-L15	Childhood & School	castigar	to punish	gl					1	castigado	castigo · castiga · castigamos · castigam
-L15	Childhood & School	costumar	to usually do	gl					1	costumado	costumo · costuma · costumamos · costumam
-L15	Childhood & School	ser bom em	to be good at	izraz							
-L15	Childhood & School	quando eu era criança	when I was a child	izraz							
-L15	Childhood & School	antigamente	in the old days	pril							
-L15	Childhood & School	naquela época	at that time	izraz							
-L15	Childhood & School	todo verão	every summer	izraz							
-L15	Childhood & School	obediente	obedient	pr			obediente	obedientes / obedientes			
-L15	Childhood & School	tímido	shy	pr			tímida	tímidos / tímidas			
-L15	Childhood & School	curioso	curious	pr			curiosa	curiosos / curiosas			
-L15	Childhood & School	falador	talkative	pr			faladora	faladores / faladoras			
-L15	Childhood & School	bagunceiro	messy; naughty	pr			bagunceira	bagunceiros / bagunceiras			
-L15	Childhood & School	rígido	strict	pr			rígida	rígidos / rígidas			
-L15	Childhood & School	fácil	easy	pr			fácil	fáceis / fáceis			
-L15	Childhood & School	difícil	difficult	pr			difícil	difíceis / difíceis			
-L15	Childhood & School	duzentos	two hundred	broj							
-L15	Childhood & School	mil	thousand	broj							
-L15	Childhood & School	dois mil	two thousand	broj							
-L15	Childhood & School	o século	century	im	m	os séculos					
-L15	Childhood & School	o diário	diary	im	m	os diários					
-L15	Childhood & School	o boletim	school report	im	m	os boletins					
-L15	Childhood & School	o conto	tale	im	m	os contos					
-L15	Childhood & School	a cidade pequena	small town	izraz							
-L15	Childhood & School	a terra	earth; soil; land	im	f	as terras					
-L15	Childhood & School	o quintal	backyard	im	m	os quintais					
-L16	The Home & Furniture	a mudança	move (house); change	im	f	as mudanças					
-L16	The Home & Furniture	mudar-se	to move house	gl					1	mudado	me mudo · se muda · nos mudamos · se mudam
-L16	The Home & Furniture	a caixa de papelão	cardboard box	izraz							
-L16	The Home & Furniture	o caminhão	lorry	im	m	os caminhões					
-L16	The Home & Furniture	o aluguel	rent	im	m	os aluguéis					
-L16	The Home & Furniture	o dono, a dona	owner; landlord	im	m,f	os donos, as donas					
-L16	The Home & Furniture	o inquilino, a inquilina	tenant	im	m,f	os inquilinos, as inquilinas					
-L16	The Home & Furniture	o andar	floor (storey)	im	m	os andares					
-L16	The Home & Furniture	o térreo	ground floor	im	m	os térreos					
-L16	The Home & Furniture	o elevador	lift	im	m	os elevadores					
-L16	The Home & Furniture	a escada	stairs	im	f	as escadas					
-L16	The Home & Furniture	a varanda	balcony	im	f	as varandas					
-L16	The Home & Furniture	o jardim	garden	im	m	os jardins					
-L16	The Home & Furniture	a garagem	garage	im	f	as garagens					
-L16	The Home & Furniture	o porão	basement	im	m	os porões					
-L16	The Home & Furniture	o corredor	corridor	im	m	os corredores					
-L16	The Home & Furniture	a sala de jantar	dining room	izraz							
-L16	The Home & Furniture	o móvel	piece of furniture	im	m	os móveis					
-L16	The Home & Furniture	os móveis	furniture	im	m	os móveis					
-L16	The Home & Furniture	a poltrona	armchair	im	f	as poltronas					
-L16	The Home & Furniture	a estante	bookcase; shelves	im	f	as estantes					
-L16	The Home & Furniture	a prateleira	shelf	im	f	as prateleiras					
-L16	The Home & Furniture	a gaveta	drawer	im	f	as gavetas					
-L16	The Home & Furniture	a escrivaninha	desk	im	f	as escrivaninhas					
-L16	The Home & Furniture	a almofada	cushion	im	f	as almofadas					
-L16	The Home & Furniture	o travesseiro	pillow	im	m	os travesseiros					
-L16	The Home & Furniture	a cortina	curtain	im	f	as cortinas					
-L16	The Home & Furniture	o lençol	sheet	im	m	os lençóis					
-L16	The Home & Furniture	o cobertor	blanket	im	m	os cobertores					
-L16	The Home & Furniture	a geladeira	fridge	im	f	as geladeiras					
-L16	The Home & Furniture	o forno	oven	im	m	os fornos					
-L16	The Home & Furniture	o fogão	cooker	im	m	os fogões					
-L16	The Home & Furniture	o micro-ondas	microwave	im	m	os micro-ondas					
-L16	The Home & Furniture	a máquina de lavar	washing machine	izraz							
-L16	The Home & Furniture	a pia	sink	im	f	as pias					
-L16	The Home & Furniture	a banheira	bath	im	f	as banheiras					
-L16	The Home & Furniture	o ar-condicionado	air conditioning	im	m	os ares-condicionados					
-L16	The Home & Furniture	a luz	light	im	f	as luzes					
-L16	The Home & Furniture	a tomada	socket	im	f	as tomadas					
-L16	The Home & Furniture	o chão	floor	im	m	os chãos					
-L16	The Home & Furniture	o teto	ceiling	im	m	os tetos					
-L16	The Home & Furniture	o telhado	roof	im	m	os telhados					
-L16	The Home & Furniture	o freezer	freezer	im	m	os freezers					
-L16	The Home & Furniture	dentro de	inside	prij							
-L16	The Home & Furniture	fora de	outside	prij							
-L16	The Home & Furniture	debaixo de	underneath	prij							
-L16	The Home & Furniture	o porteiro	doorman	im	m	os porteiros					
-L16	The Home & Furniture	o condomínio	condominium	im	m	os condomínios					
-L16	The Home & Furniture	a faxina	cleaning	im	f	as faxinas					
-L16	The Home & Furniture	lavar a louça	to wash the dishes	izraz							
-L16	The Home & Furniture	varrer	to sweep	gl					2	varrido	varro · varre · varremos · varrem
-L16	The Home & Furniture	passar roupa	to iron	izraz							
-L16	The Home & Furniture	arrumar a cama	to make the bed	izraz							
-L16	The Home & Furniture	tirar o lixo	to take out the rubbish	izraz							
-L16	The Home & Furniture	o lixo	rubbish	im	m	—					
-L16	The Home & Furniture	o aspirador	vacuum cleaner	im	m	os aspiradores					
-L16	The Home & Furniture	ajudar	to help	gl					1	ajudado	ajudo · ajuda · ajudamos · ajudam
-L16	The Home & Furniture	esvaziar	to empty	gl					1	esvaziado	esvazio · esvazia · esvaziamos · esvaziam
-L16	The Home & Furniture	encher	to fill	gl					2	enchido	encho · enche · enchemos · enchem
-L16	The Home & Furniture	consertar	to fix	gl					1	consertado	conserto · conserta · consertamos · consertam
-L16	The Home & Furniture	montar	to assemble	gl					1	montado	monto · monta · montamos · montam
-L16	The Home & Furniture	a reforma	renovation	im	f	as reformas					
-L16	The Home & Furniture	a tinta	paint	im	f	as tintas					
-L16	The Home & Furniture	espaçoso	spacious	pr			espaçosa	espaçosos / espaçosas			
-L16	The Home & Furniture	tranquilo	quiet	pr			tranquila	tranquilos / tranquilas			
-L16	The Home & Furniture	barulhento	noisy	pr			barulhenta	barulhentos / barulhentas			
-L16	The Home & Furniture	limpo	clean	pr			limpa	limpos / limpas			
-L16	The Home & Furniture	sujo	dirty	pr			suja	sujos / sujas			
-L16	The Home & Furniture	confortável	comfortable	pr			confortável	confortáveis / confortáveis			
-L16	The Home & Furniture	prático	practical	pr			prática	práticos / práticas			
-L16	The Home & Furniture	no fundo	at the back	izraz							
-L16	The Home & Furniture	em cima	upstairs; above	izraz							
-L16	The Home & Furniture	embaixo	downstairs; below	pril							
-L16	The Home & Furniture	a laje	flat roof	im	f	as lajes					
-L17	Town, Village & Nature	a serra	mountains; hills	im	f	as serras					
-L17	Town, Village & Nature	o interior	countryside; inland	im	m	—					
-L17	Town, Village & Nature	a fazenda	farm	im	f	as fazendas					
-L17	Town, Village & Nature	o sítio	small farm	im	m	os sítios					
-L17	Town, Village & Nature	a floresta	forest	im	f	as florestas					
-L17	Town, Village & Nature	a mata	woods	im	f	as matas					
-L17	Town, Village & Nature	a árvore	tree	im	f	as árvores					
-L17	Town, Village & Nature	o rio	river	im	m	os rios					
-L17	Town, Village & Nature	o morro	hill	im	m	os morros					
-L17	Town, Village & Nature	o vale	valley	im	m	os vales					
-L17	Town, Village & Nature	o topo	summit	im	m	os topos					
-L17	Town, Village & Nature	o caminho	path; way	im	m	os caminhos					
-L17	Town, Village & Nature	o pasto	pasture	im	m	os pastos					
-L17	Town, Village & Nature	a paisagem	landscape	im	f	as paisagens					
-L17	Town, Village & Nature	a natureza	nature	im	f	—					
-L17	Town, Village & Nature	a grama	grass	im	f	—					
-L17	Town, Village & Nature	a folha	leaf; sheet	im	f	as folhas					
-L17	Town, Village & Nature	a pedra	stone	im	f	as pedras					
-L17	Town, Village & Nature	o céu	sky	im	m	os céus					
-L17	Town, Village & Nature	a estrela	star	im	f	as estrelas					
-L17	Town, Village & Nature	a lua	moon	im	f	as luas					
-L17	Town, Village & Nature	o ar	air	im	m	—					
-L17	Town, Village & Nature	o animal	animal	im	m	os animais					
-L17	Town, Village & Nature	a vaca	cow	im	f	as vacas					
-L17	Town, Village & Nature	o cavalo	horse	im	m	os cavalos					
-L17	Town, Village & Nature	a ovelha	sheep	im	f	as ovelhas					
-L17	Town, Village & Nature	o porco	pig	im	m	os porcos					
-L17	Town, Village & Nature	a galinha	hen	im	f	as galinhas					
-L17	Town, Village & Nature	o pássaro	bird	im	m	os pássaros					
-L17	Town, Village & Nature	o coelho	rabbit	im	m	os coelhos					
-L17	Town, Village & Nature	o inseto	insect	im	m	os insetos					
-L17	Town, Village & Nature	o macaco	monkey	im	m	os macacos					
-L17	Town, Village & Nature	o agricultor, a agricultora	farmer	im	m,f	os agricultores, as agricultoras					
-L17	Town, Village & Nature	o barulho	noise	im	m	os barulhos					
-L17	Town, Village & Nature	a poluição	pollution	im	f	—					
-L17	Town, Village & Nature	o engarrafamento	traffic jam	im	m	os engarrafamentos					
-L17	Town, Village & Nature	o transporte público	public transport	izraz							
-L17	Town, Village & Nature	o arranha-céu	skyscraper	im	m	os arranha-céus					
-L17	Town, Village & Nature	a periferia	outskirts	im	f	as periferias					
-L17	Town, Village & Nature	a favela	favela	im	f	as favelas					
-L17	Town, Village & Nature	o morador, a moradora	resident	im	m,f	os moradores, as moradoras					
-L17	Town, Village & Nature	a vida	life	im	f	as vidas					
-L17	Town, Village & Nature	o mundo	world	im	m	os mundos					
-L17	Town, Village & Nature	a região	region	im	f	as regiões					
-L17	Town, Village & Nature	o meio ambiente	environment	izraz							
-L17	Town, Village & Nature	a reciclagem	recycling	im	f	—					
-L17	Town, Village & Nature	a lixeira	bin	im	f	as lixeiras					
-L17	Town, Village & Nature	comparar	to compare	gl					1	comparado	comparo · compara · comparamos · comparam
-L17	Town, Village & Nature	proteger	to protect	gl					2	protegido	protejo · protege · protegemos · protegem
-L17	Town, Village & Nature	reciclar	to recycle	gl					1	reciclado	reciclo · recicla · reciclamos · reciclam
-L17	Town, Village & Nature	plantar	to plant	gl					1	plantado	planto · planta · plantamos · plantam
-L17	Town, Village & Nature	mais … do que	more … than	izraz							
-L17	Town, Village & Nature	menos … do que	less … than	izraz							
-L17	Town, Village & Nature	tão … quanto	as … as	izraz							
-L17	Town, Village & Nature	o melhor	the best	izraz							
-L17	Town, Village & Nature	o pior	the worst	izraz							
-L17	Town, Village & Nature	calmo	calm	pr			calma	calmos / calmas			
-L17	Town, Village & Nature	animado	lively	pr			animada	animados / animadas			
-L17	Town, Village & Nature	puro	pure; clean	pr			pura	puros / puras			
-L17	Town, Village & Nature	poluído	polluted	pr			poluída	poluídos / poluídas			
-L17	Town, Village & Nature	selvagem	wild	pr			selvagem	selvagens / selvagens			
-L17	Town, Village & Nature	isolado	isolated	pr			isolada	isolados / isoladas			
-L17	Town, Village & Nature	deslumbrante	stunning	pr			deslumbrante	deslumbrantes / deslumbrantes			
-L17	Town, Village & Nature	perigoso	dangerous	pr			perigosa	perigosos / perigosas			
-L17	Town, Village & Nature	moderno	modern	pr			moderna	modernos / modernas			
-L17	Town, Village & Nature	típico	typical	pr			típica	típicos / típicas			
-L17	Town, Village & Nature	ecológico	eco-friendly	pr			ecológica	ecológicos / ecológicas			
-L17	Town, Village & Nature	em todo lugar	everywhere	izraz							
-L17	Town, Village & Nature	em algum lugar	somewhere	izraz							
-L17	Town, Village & Nature	em nenhum lugar	nowhere	izraz							
-L17	Town, Village & Nature	longe	far	pril							
-L17	Town, Village & Nature	perto	near	pril							
-L17	Town, Village & Nature	em volta de	around	prij							
-L17	Town, Village & Nature	no meio de	in the middle of	prij							
-L17	Town, Village & Nature	o litoral	coast	im	m	os litorais					
-L17	Town, Village & Nature	a caverna	cave	im	f	as cavernas					
-L17	Town, Village & Nature	a colheita	harvest	im	f	as colheitas					
-L17	Town, Village & Nature	o riacho	stream	im	m	os riachos					
-L17	Town, Village & Nature	o mirante	viewpoint	im	m	os mirantes					
-L18	Work & Careers	a profissão	profession	im	f	as profissões					
-L18	Work & Careers	o emprego	job	im	m	os empregos					
-L18	Work & Careers	o desemprego	unemployment	im	m	—					
-L18	Work & Careers	a empresa	company	im	f	as empresas					
-L18	Work & Careers	o chefe, a chefe	boss	im	m,f	os chefes, as chefes					
-L18	Work & Careers	o diretor, a diretora	manager; director	im	m,f	os diretores, as diretoras					
-L18	Work & Careers	o funcionário, a funcionária	employee	im	m,f	os funcionários, as funcionárias					
-L18	Work & Careers	o salário	salary	im	m	os salários					
-L18	Work & Careers	o contrato	contract	im	m	os contratos					
-L18	Work & Careers	o currículo	CV	im	m	os currículos					
-L18	Work & Careers	a carta de apresentação	cover letter	izraz							
-L18	Work & Careers	a vaga	vacancy	im	f	as vagas					
-L18	Work & Careers	o candidato, a candidata	candidate	im	m,f	os candidatos, as candidatas					
-L18	Work & Careers	a candidatura	application	im	f	as candidaturas					
-L18	Work & Careers	a experiência	experience	im	f	as experiências					
-L18	Work & Careers	a formação	training	im	f	as formações					
-L18	Work & Careers	o diploma	degree; diploma	im	m	os diplomas					
-L18	Work & Careers	o estágio	internship	im	m	os estágios					
-L18	Work & Careers	o engenheiro, a engenheira	engineer	im	m,f	os engenheiros, as engenheiras					
-L18	Work & Careers	o advogado, a advogada	lawyer	im	m,f	os advogados, as advogadas					
-L18	Work & Careers	o cozinheiro, a cozinheira	cook	im	m,f	os cozinheiros, as cozinheiras					
-L18	Work & Careers	o policial, a policial	police officer	im	m,f	os policiais, as policiais					
-L18	Work & Careers	o jornalista, a jornalista	journalist	im	m,f	os jornalistas, as jornalistas					
-L18	Work & Careers	o programador, a programadora	programmer	im	m,f	os programadores, as programadoras					
-L18	Work & Careers	o arquiteto, a arquiteta	architect	im	m,f	os arquitetos, as arquitetas					
-L18	Work & Careers	o contador, a contadora	accountant	im	m,f	os contadores, as contadoras					
-L18	Work & Careers	o cabeleireiro, a cabeleireira	hairdresser	im	m,f	os cabeleireiros, as cabeleireiras					
-L18	Work & Careers	o padeiro, a padeira	baker	im	m,f	os padeiros, as padeiras					
-L18	Work & Careers	o carteiro, a carteira	postman; postwoman	im	m,f	os carteiros, as carteiras					
-L18	Work & Careers	o artista, a artista	artist	im	m,f	os artistas, as artistas					
-L18	Work & Careers	o ator, a atriz	actor; actress	im	m,f	os atores, as atrizes					
-L18	Work & Careers	o músico, a musicista	musician	im	m,f	os músicos, as musicistas					
-L18	Work & Careers	o encanador	plumber	im	m	os encanadores					
-L18	Work & Careers	o eletricista	electrician	im	m	os eletricistas					
-L18	Work & Careers	a fábrica	factory	im	f	as fábricas					
-L18	Work & Careers	o home office	working from home	im	m	—					
-L18	Work & Careers	o futuro	future	im	m	—					
-L18	Work & Careers	a carreira	career	im	f	as carreiras					
-L18	Work & Careers	o objetivo	goal	im	m	os objetivos					
-L18	Work & Careers	a aposentadoria	retirement	im	f	as aposentadorias					
-L18	Work & Careers	o aumento	pay rise	im	m	os aumentos					
-L18	Work & Careers	a promoção	promotion	im	f	as promoções					
-L18	Work & Careers	o sócio, a sócia	partner (business)	im	m,f	os sócios, as sócias					
-L18	Work & Careers	candidatar-se	to apply	gl					1	candidatado	me candidato · se candidata · nos candidatamos · se candidatam
-L18	Work & Careers	contratar	to hire	gl					1	contratado	contrato · contrata · contratamos · contratam
-L18	Work & Careers	demitir	to fire	gl					3	demitido	demito · demite · demitimos · demitem
-L18	Work & Careers	gerenciar	to manage	gl					1	gerenciado	gerencio · gerencia · gerenciamos · gerenciam
-L18	Work & Careers	desenvolver	to develop	gl					2	desenvolvido	desenvolvo · desenvolve · desenvolvemos · desenvolvem
-L18	Work & Careers	criar	to create	gl					1	criado	crio · cria · criamos · criam
-L18	Work & Careers	tornar-se	to become	gl					1	tornado	me torno · se torna · nos tornamos · se tornam
-L18	Work & Careers	aposentar-se	to retire	gl					1	aposentado	me aposento · se aposenta · nos aposentamos · se aposentam
-L18	Work & Careers	ganhar a vida	to earn a living	izraz							
-L18	Work & Careers	conseguir	to manage; to get	gl					3	conseguido	consigo · consegue · conseguimos · conseguem
-L18	Work & Careers	se	if	vez							
-L18	Work & Careers	quando (futuro)	when (future)	izraz							
-L18	Work & Careers	daqui a cinco anos	in five years	izraz							
-L18	Work & Careers	um dia	one day	izraz							
-L18	Work & Careers	mais tarde	later	izraz							
-L18	Work & Careers	sério	serious	pr			séria	sérios / sérias			
-L18	Work & Careers	motivado	motivated	pr			motivada	motivados / motivadas			
-L18	Work & Careers	dinâmico	dynamic	pr			dinâmica	dinâmicos / dinâmicas			
-L18	Work & Careers	responsável	responsible	pr			responsável	responsáveis / responsáveis			
-L18	Work & Careers	organizado	organised	pr			organizada	organizados / organizadas			
-L18	Work & Careers	criativo	creative	pr			criativa	criativos / criativas			
-L18	Work & Careers	paciente	patient	pr			paciente	pacientes / pacientes			
-L18	Work & Careers	profissional	professional	pr			profissional	profissionais / profissionais			
-L18	Work & Careers	em tempo integral	full-time	izraz							
-L18	Work & Careers	meio período	part-time	izraz							
-L18	Work & Careers	bem pago	well paid	izraz							
-L18	Work & Careers	internacional	international	pr			internacional	internacionais / internacionais			
-L18	Work & Careers	o desafio	challenge	im	m	os desafios					
-L18	Work & Careers	o projeto	project	im	m	os projetos					
-L18	Work & Careers	a obra	building site; work	im	f	as obras					
-L18	Work & Careers	a equipe	team (work)	im	f	as equipes					
-L18	Work & Careers	a pasta	folder; file	im	f	as pastas					
-L18	Work & Careers	o projeto arquitetônico	architectural design	izraz							
-L18	Work & Careers	o carimbo	stamp	im	m	os carimbos					
-L19	Wishes & Advice	o sonho	dream	im	m	os sonhos					
-L19	Wishes & Advice	sonhar	to dream	gl					1	sonhado	sonho · sonha · sonhamos · sonham
-L19	Wishes & Advice	o desejo	wish	im	m	os desejos					
-L19	Wishes & Advice	o conselho	piece of advice	im	m	os conselhos					
-L19	Wishes & Advice	aconselhar	to advise	gl					1	aconselhado	aconselho · aconselha · aconselhamos · aconselham
-L19	Wishes & Advice	propor	to propose	gl					2	proposto	proponho · propõe · propomos · propõem
-L19	Wishes & Advice	sugerir	to suggest	gl					3	sugerido	sugiro · sugere · sugerimos · sugerem
-L19	Wishes & Advice	recomendar	to recommend	gl					1	recomendado	recomendo · recomenda · recomendamos · recomendam
-L19	Wishes & Advice	imaginar	to imagine	gl					1	imaginado	imagino · imagina · imaginamos · imaginam
-L19	Wishes & Advice	estar com vontade de	to feel like	izraz							
-L19	Wishes & Advice	ter medo de	to be afraid of	izraz							
-L19	Wishes & Advice	ter razão	to be right	izraz							
-L19	Wishes & Advice	ter tempo	to have time	izraz							
-L19	Wishes & Advice	a loteria	lottery	im	f	as loterias					
-L19	Wishes & Advice	ganhar na loteria	to win the lottery	izraz							
-L19	Wishes & Advice	o milhão	million	im	m	os milhões					
-L19	Wishes & Advice	rico	rich	pr			rica	ricos / ricas			
-L19	Wishes & Advice	pobre	poor	pr			pobre	pobres / pobres			
-L19	Wishes & Advice	a riqueza	wealth	im	f	—					
-L19	Wishes & Advice	o dinheiro	money	im	m	—					
-L19	Wishes & Advice	gastar	to spend (money)	gl					1	gasto	gasto · gasta · gastamos · gastam
-L19	Wishes & Advice	economizar	to save	gl					1	economizado	economizo · economiza · economizamos · economizam
-L19	Wishes & Advice	emprestar	to lend	gl					1	emprestado	empresto · empresta · emprestamos · emprestam
-L19	Wishes & Advice	pegar emprestado	to borrow	izraz							
-L19	Wishes & Advice	a volta ao mundo	round-the-world trip	izraz							
-L19	Wishes & Advice	o veleiro	sailing boat	im	m	os veleiros					
-L19	Wishes & Advice	o luxo	luxury	im	m	—					
-L19	Wishes & Advice	o cruzeiro	cruise	im	m	os cruzeiros					
-L19	Wishes & Advice	a liberdade	freedom	im	f	as liberdades					
-L19	Wishes & Advice	a felicidade	happiness	im	f	—					
-L19	Wishes & Advice	a sorte	luck	im	f	as sortes					
-L19	Wishes & Advice	a possibilidade	possibility	im	f	as possibilidades					
-L19	Wishes & Advice	a escolha	choice	im	f	as escolhas					
-L19	Wishes & Advice	a decisão	decision	im	f	as decisões					
-L19	Wishes & Advice	decidir	to decide	gl					3	decidido	decido · decide · decidimos · decidem
-L19	Wishes & Advice	tentar	to try	gl					1	tentado	tento · tenta · tentamos · tentam
-L19	Wishes & Advice	parar de	to stop (doing)	izraz							
-L19	Wishes & Advice	começar a	to start (doing)	izraz							
-L19	Wishes & Advice	continuar a	to keep (doing)	izraz							
-L19	Wishes & Advice	você deveria	you should	izraz							
-L19	Wishes & Advice	seria melhor	it would be better	izraz							
-L19	Wishes & Advice	eu gostaria de	I would like to	izraz							
-L19	Wishes & Advice	no seu lugar	if I were you	izraz							
-L19	Wishes & Advice	de verdade	really	izraz							
-L19	Wishes & Advice	com certeza	certainly	izraz							
-L19	Wishes & Advice	provavelmente	probably	pril							
-L19	Wishes & Advice	senão	otherwise	vez							
-L19	Wishes & Advice	porém	however	vez							
-L19	Wishes & Advice	até	even; until	prij							
-L19	Wishes & Advice	a solução	solution	im	f	as soluções					
-L19	Wishes & Advice	a ideia	idea	im	f	as ideias					
-L19	Wishes & Advice	a meta	goal	im	f	as metas					
-L19	Wishes & Advice	a coragem	courage	im	f	—					
-L19	Wishes & Advice	a paciência	patience	im	f	—					
-L19	Wishes & Advice	a verdade	truth	im	f	as verdades					
-L19	Wishes & Advice	a esperança	hope	im	f	as esperanças					
-L19	Wishes & Advice	o orçamento	budget	im	m	os orçamentos					
-L19	Wishes & Advice	generoso	generous	pr			generosa	generosos / generosas			
-L19	Wishes & Advice	egoísta	selfish	pr			egoísta	egoístas / egoístas			
-L19	Wishes & Advice	cuidadoso	careful	pr			cuidadosa	cuidadosos / cuidadosas			
-L19	Wishes & Advice	possível	possible	pr			possível	possíveis / possíveis			
-L19	Wishes & Advice	impossível	impossible	pr			impossível	impossíveis / impossíveis			
-L19	Wishes & Advice	ideal	ideal	pr			ideal	ideais / ideais			
-L19	Wishes & Advice	perfeito	perfect	pr			perfeita	perfeitos / perfeitas			
-L19	Wishes & Advice	importante	important	pr			importante	importantes / importantes			
-L19	Wishes & Advice	necessário	necessary	pr			necessária	necessários / necessárias			
-L19	Wishes & Advice	a dúvida	doubt	im	f	as dúvidas					
-L19	Wishes & Advice	a oportunidade	opportunity	im	f	as oportunidades					
-L19	Wishes & Advice	a casa na praia	beach house	izraz							
-L19	Wishes & Advice	o voluntariado	volunteering	im	m	os voluntariados					
-L19	Wishes & Advice	doar	to donate	gl					1	doado	doo · doa · doamos · doam
-L19	Wishes & Advice	melhorar de vida	to improve one's life	izraz							
-L19	Wishes & Advice	o sossego	peace and quiet	im	m	—					
-L19	Wishes & Advice	a calma	calm	im	f	—					
-L19	Wishes & Advice	a casinha	little house	im	f	as casinhas					
-L19	Wishes & Advice	a vista para o mar	sea view	izraz							
-L19	Wishes & Advice	a rede	hammock; network	im	f	as redes					
-L20	Memories & the Future	a memória	memory	im	f	as memórias					
-L20	Memories & the Future	inesquecível	unforgettable	pr			inesquecível	inesquecíveis / inesquecíveis			
-L20	Memories & the Future	a volta	return	im	f	as voltas					
-L20	Memories & the Future	regressar	to return	gl					1	regressado	regresso · regressa · regressamos · regressam
-L20	Memories & the Future	deixar	to leave; to let	gl					1	deixado	deixo · deixa · deixamos · deixam
-L20	Memories & the Future	despedir-se	to say goodbye	gl					3	despedido	me despeço · se despede · nos despedimos · se despedem
-L20	Memories & the Future	sentir falta de	to miss	izraz							
-L20	Memories & the Future	estou com saudade	I miss (you)	izraz							
-L20	Memories & the Future	a saudade	longing; missing someone	im	f	as saudades					
-L20	Memories & the Future	sentir-se em casa	to feel at home	izraz							
-L20	Memories & the Future	a amizade	friendship	im	f	as amizades					
-L20	Memories & the Future	o amor	love	im	m	os amores					
-L20	Memories & the Future	o sentimento	feeling	im	m	os sentimentos					
-L20	Memories & the Future	a alegria	joy	im	f	as alegrias					
-L20	Memories & the Future	a tristeza	sadness	im	f	—					
-L20	Memories & the Future	a emoção	emotion	im	f	as emoções					
-L20	Memories & the Future	o fim	end	im	m	os fins					
-L20	Memories & the Future	o começo	beginning	im	m	os começos					
-L20	Memories & the Future	a transformação	transformation	im	f	as transformações					
-L20	Memories & the Future	o progresso	progress	im	m	os progressos					
-L20	Memories & the Future	o nível	level	im	m	os níveis					
-L20	Memories & the Future	o certificado	certificate	im	m	os certificados					
-L20	Memories & the Future	o sucesso	success	im	m	os sucessos					
-L20	Memories & the Future	a aventura	adventure	im	f	as aventuras					
-L20	Memories & the Future	o capítulo	chapter	im	m	os capítulos					
-L20	Memories & the Future	a etapa	stage	im	f	as etapas					
-L20	Memories & the Future	o ano que vem	next year	izraz							
-L20	Memories & the Future	o ano passado	last year	izraz							
-L20	Memories & the Future	há um ano	a year ago	izraz							
-L20	Memories & the Future	daqui a um ano	in a year	izraz							
-L20	Memories & the Future	para sempre	forever	izraz							
-L20	Memories & the Future	de novo	again	izraz							
-L20	Memories & the Future	que (relativo)	who; which; that	zam							
-L20	Memories & the Future	onde (relativo)	where	izraz							
-L20	Memories & the Future	o que (relativo)	what	izraz							
-L20	Memories & the Future	pensar	to think	gl					1	pensado	penso · pensa · pensamos · pensam
-L20	Memories & the Future	acreditar	to believe	gl					1	acreditado	acredito · acredita · acreditamos · acreditam
-L20	Memories & the Future	espero que	I hope that	izraz							
-L20	Memories & the Future	compartilhar	to share	gl					1	compartilhado	compartilho · compartilha · compartilhamos · compartilham
-L20	Memories & the Future	guardar	to keep	gl					1	guardado	guardo · guarda · guardamos · guardam
-L20	Memories & the Future	prometer	to promise	gl					2	prometido	prometo · promete · prometemos · prometem
-L20	Memories & the Future	manter contato	to keep in touch	izraz							
-L20	Memories & the Future	permanecer	to remain	gl					2	permanecido	permaneço · permanece · permanecemos · permanecem
-L20	Memories & the Future	graças a	thanks to	prij							
-L20	Memories & the Future	apesar de	despite	prij							
-L20	Memories & the Future	por causa de	because of	prij							
-L20	Memories & the Future	por isso	so; that's why	izraz							
-L20	Memories & the Future	enquanto	while	vez							
-L20	Memories & the Future	desde que	since	izraz							
-L20	Memories & the Future	desde	since; from	prij							
-L20	Memories & the Future	assim que	as soon as	izraz							
-L20	Memories & the Future	todo mundo	everyone	izraz							
-L20	Memories & the Future	algum	some; any	pr			alguma	alguns / algumas			
-L20	Memories & the Future	nenhum	no; none	pr			nenhuma	nenhuns / nenhumas			
-L20	Memories & the Future	cada um	each one	izraz							
-L20	Memories & the Future	tudo	everything	zam							
-L20	Memories & the Future	vários	several	pr			várias	vários / várias			
-L20	Memories & the Future	mesmo	same; even	pr			mesma	mesmos / mesmas			
-L20	Memories & the Future	diferente	different	pr			diferente	diferentes / diferentes			
-L20	Memories & the Future	outro	other; another	pr			outra	outros / outras			
-L20	Memories & the Future	querido	dear	pr			querida	queridos / queridas			
-L20	Memories & the Future	fiel	loyal	pr			fiel	fiéis / fiéis			
-L20	Memories & the Future	grato	grateful	pr			grata	gratos / gratas			
-L20	Memories & the Future	emocionante	exciting; moving	pr			emocionante	emocionantes / emocionantes			
-L20	Memories & the Future	a coisa	thing	im	f	as coisas					
-L20	Memories & the Future	o destino	fate	im	m	os destinos					
-L20	Memories & the Future	a sabedoria	wisdom	im	f	—					
-L20	Memories & the Future	a despedida	farewell	im	f	as despedidas					
-L20	Memories & the Future	o instante	instant	im	m	os instantes					
-L20	Memories & the Future	emocionado	moved	pr			emocionada	emocionados / emocionadas			
-L20	Memories & the Future	nunca mais	never again	izraz							
-L20	Memories & the Future	o álbum	album	im	m	os álbuns					
-L20	Memories & the Future	a formatura	graduation	im	f	as formaturas					
-L20	Memories & the Future	o reencontro	reunion	im	m	os reencontros					
-L20	Memories & the Future	o porvir	future	im	m	—					
-L20	Memories & the Future	realizar	to fulfil; to achieve	gl					1	realizado	realizo · realiza · realizamos · realizam
-L20	Memories & the Future	a gratidão	gratitude	im	f	—					
-L20	Memories & the Future	o carioca, a carioca	person from Rio	im	m,f	os cariocas, as cariocas					
-L20	Memories & the Future	a nostalgia	nostalgia	im	f	—					
-L20	Memories & the Future	o horizonte	horizon	im	m	os horizontes					
-L20	Memories & the Future	o pôr do sol	sunset	izraz							
-L20	Memories & the Future	o recomeço	new beginning	im	m	os recomeços					
+razina	tema	pt	en	vrsta	rod	mnozina	zenski	mnozina_pr	gl_skupina	particip	prezent	preterit
+L0	Sounds & Familiar Words	o café	coffee; café	im	m	os cafés						
+L0	Sounds & Familiar Words	o bar	bar	im	m	os bares						
+L0	Sounds & Familiar Words	o restaurante	restaurant	im	m	os restaurantes						
+L0	Sounds & Familiar Words	o hotel	hotel	im	m	os hotéis						
+L0	Sounds & Familiar Words	o táxi	taxi	im	m	os táxis						
+L0	Sounds & Familiar Words	o ônibus	bus	im	m	os ônibus						
+L0	Sounds & Familiar Words	o trem	train	im	m	os trens						
+L0	Sounds & Familiar Words	a pizza	pizza	im	f	as pizzas						
+L0	Sounds & Familiar Words	o chocolate	chocolate	im	m	os chocolates						
+L0	Sounds & Familiar Words	a banana	banana	im	f	as bananas						
+L0	Sounds & Familiar Words	o chá	tea	im	m	os chás						
+L0	Sounds & Familiar Words	a música	music	im	f	—						
+L0	Sounds & Familiar Words	o futebol	football	im	m	—						
+L0	Sounds & Familiar Words	o tênis	tennis; trainers	im	m	os tênis						
+L0	Sounds & Familiar Words	o cinema	cinema	im	m	os cinemas						
+L0	Sounds & Familiar Words	o teatro	theatre	im	m	os teatros						
+L0	Sounds & Familiar Words	o filme	film	im	m	os filmes						
+L0	Sounds & Familiar Words	o rádio	radio	im	m	os rádios						
+L0	Sounds & Familiar Words	a televisão	television	im	f	as televisões						
+L0	Sounds & Familiar Words	o telefone	telephone	im	m	os telefones						
+L0	Sounds & Familiar Words	a foto	photo	im	f	as fotos						
+L0	Sounds & Familiar Words	o parque	park	im	m	os parques						
+L0	Sounds & Familiar Words	a praça	square	im	f	as praças						
+L0	Sounds & Familiar Words	o banco	bank; bench	im	m	os bancos						
+L0	Sounds & Familiar Words	a farmácia	chemist's	im	f	as farmácias						
+L0	Sounds & Familiar Words	o doutor, a doutora	doctor	im	m,f	os doutores, as doutoras						
+L0	Sounds & Familiar Words	a polícia	police	im	f	—						
+L0	Sounds & Familiar Words	o esporte	sport	im	m	os esportes						
+L0	Sounds & Familiar Words	o menu	menu	im	m	os menus						
+L0	Sounds & Familiar Words	o momento	moment	im	m	os momentos						
+L0	Sounds & Familiar Words	a família	family	im	f	as famílias						
+L0	Sounds & Familiar Words	o computador	computer	im	m	os computadores						
+L0	Sounds & Familiar Words	o problema	problem	im	m	os problemas						
+L0	Sounds & Familiar Words	o samba	samba	im	m	os sambas						
+L0	Sounds & Familiar Words	a praia	beach	im	f	as praias						
+L0	Sounds & Familiar Words	o real	real (currency)	im	m	os reais						
+L1	Greetings & Countries	olá	hello	izraz								
+L1	Greetings & Countries	oi	hi	izraz								
+L1	Greetings & Countries	bom dia	good morning	izraz								
+L1	Greetings & Countries	boa tarde	good afternoon	izraz								
+L1	Greetings & Countries	boa noite	good evening; good night	izraz								
+L1	Greetings & Countries	tchau	bye	izraz								
+L1	Greetings & Countries	até logo	see you later	izraz								
+L1	Greetings & Countries	até amanhã	see you tomorrow	izraz								
+L1	Greetings & Countries	obrigado, obrigada	thank you	izraz								
+L1	Greetings & Countries	de nada	you're welcome	izraz								
+L1	Greetings & Countries	por favor	please	izraz								
+L1	Greetings & Countries	desculpa	sorry	izraz								
+L1	Greetings & Countries	com licença	excuse me	izraz								
+L1	Greetings & Countries	sim	yes	čest								
+L1	Greetings & Countries	não	no; not	čest								
+L1	Greetings & Countries	o senhor, a senhora	sir; madam; you (formal)	zam								
+L1	Greetings & Countries	tudo bem?	how are you?	izraz								
+L1	Greetings & Countries	tudo bem	fine	izraz								
+L1	Greetings & Countries	bem	well; fine	pril								
+L1	Greetings & Countries	muito	very; a lot	pril								
+L1	Greetings & Countries	e	and	vez								
+L1	Greetings & Countries	meu nome é	my name is	izraz								
+L1	Greetings & Countries	prazer	nice to meet you	izraz								
+L1	Greetings & Countries	ser	to be	gl					2	sido	sou · é · somos · são	fui · foi
+L1	Greetings & Countries	eu	I	zam								
+L1	Greetings & Countries	você	you	zam								
+L1	Greetings & Countries	ele	he	zam								
+L1	Greetings & Countries	ela	she	zam								
+L1	Greetings & Countries	nós	we	zam								
+L1	Greetings & Countries	a gente	we (informal)	zam								
+L1	Greetings & Countries	vocês	you (plural)	zam								
+L1	Greetings & Countries	eles, elas	they	zam								
+L1	Greetings & Countries	o país	country	im	m	os países						
+L1	Greetings & Countries	o Brasil	Brazil	im	m	—						
+L1	Greetings & Countries	a Croácia	Croatia	im	f	—						
+L1	Greetings & Countries	a Alemanha	Germany	im	f	—						
+L1	Greetings & Countries	a Inglaterra	England	im	f	—						
+L1	Greetings & Countries	o Senegal	Senegal	im	m	—						
+L1	Greetings & Countries	brasileiro	Brazilian	pr			brasileira	brasileiros / brasileiras				
+L1	Greetings & Countries	croata	Croatian	pr			croata	croatas / croatas				
+L1	Greetings & Countries	alemão	German	pr			alemã	alemães / alemãs				
+L1	Greetings & Countries	inglês	English	pr			inglesa	ingleses / inglesas				
+L1	Greetings & Countries	francês	French	pr			francesa	franceses / francesas				
+L1	Greetings & Countries	senegalês	Senegalese	pr			senegalesa	senegaleses / senegalesas				
+L1	Greetings & Countries	o que	what	zam								
+L1	Greetings & Countries	quem	who	zam								
+L1	Greetings & Countries	onde	where	pril								
+L1	Greetings & Countries	como	how	pril								
+L1	Greetings & Countries	de onde	where from	izraz								
+L1	Greetings & Countries	de	from; of	prij								
+L1	Greetings & Countries	a cidade	city; town	im	f	as cidades						
+L2	The Flat & Colours	o apartamento	flat	im	m	os apartamentos						
+L2	The Flat & Colours	a casa	house; home	im	f	as casas						
+L2	The Flat & Colours	o quarto	bedroom; room	im	m	os quartos						
+L2	The Flat & Colours	a cozinha	kitchen	im	f	as cozinhas						
+L2	The Flat & Colours	o banheiro	bathroom	im	m	os banheiros						
+L2	The Flat & Colours	a sala	living room	im	f	as salas						
+L2	The Flat & Colours	a porta	door	im	f	as portas						
+L2	The Flat & Colours	a janela	window	im	f	as janelas						
+L2	The Flat & Colours	a parede	wall	im	f	as paredes						
+L2	The Flat & Colours	a cama	bed	im	f	as camas						
+L2	The Flat & Colours	a cadeira	chair	im	f	as cadeiras						
+L2	The Flat & Colours	a mesa	table	im	f	as mesas						
+L2	The Flat & Colours	o sofá	sofa	im	m	os sofás						
+L2	The Flat & Colours	o armário	wardrobe; cupboard	im	m	os armários						
+L2	The Flat & Colours	o abajur	lamp	im	m	os abajures						
+L2	The Flat & Colours	o livro	book	im	m	os livros						
+L2	The Flat & Colours	a caneta	pen	im	f	as canetas						
+L2	The Flat & Colours	o lápis	pencil	im	m	os lápis						
+L2	The Flat & Colours	a bolsa	bag	im	f	as bolsas						
+L2	The Flat & Colours	a chave	key	im	f	as chaves						
+L2	The Flat & Colours	o espelho	mirror	im	m	os espelhos						
+L2	The Flat & Colours	o tapete	rug	im	m	os tapetes						
+L2	The Flat & Colours	a flor	flower	im	f	as flores						
+L2	The Flat & Colours	a planta	plant	im	f	as plantas						
+L2	The Flat & Colours	a caixa	box	im	f	as caixas						
+L2	The Flat & Colours	o caderno	notebook	im	m	os cadernos						
+L2	The Flat & Colours	a xícara	cup	im	f	as xícaras						
+L2	The Flat & Colours	o copo	glass	im	m	os copos						
+L2	The Flat & Colours	o, a	the	čl								
+L2	The Flat & Colours	os, as	the (plural)	čl								
+L2	The Flat & Colours	um, uma	a; an	čl								
+L2	The Flat & Colours	uns, umas	some	čl								
+L2	The Flat & Colours	tem	there is; there are (informal)	izraz								
+L2	The Flat & Colours	há	there is; there are	izraz								
+L2	The Flat & Colours	a cor	colour	im	f	as cores						
+L2	The Flat & Colours	branco	white	pr			branca	brancos / brancas				
+L2	The Flat & Colours	preto	black	pr			preta	pretos / pretas				
+L2	The Flat & Colours	vermelho	red	pr			vermelha	vermelhos / vermelhas				
+L2	The Flat & Colours	azul	blue	pr			azul	azuis / azuis				
+L2	The Flat & Colours	verde	green	pr			verde	verdes / verdes				
+L2	The Flat & Colours	amarelo	yellow	pr			amarela	amarelos / amarelas				
+L2	The Flat & Colours	cinza	grey	pr			cinza	cinza / cinza				
+L2	The Flat & Colours	marrom	brown	pr			marrom	marrons / marrons				
+L2	The Flat & Colours	rosa	pink	pr			rosa	rosa / rosa				
+L2	The Flat & Colours	laranja	orange	pr			laranja	laranja / laranja				
+L2	The Flat & Colours	roxo	purple	pr			roxa	roxos / roxas				
+L2	The Flat & Colours	pequeno	small	pr			pequena	pequenos / pequenas				
+L2	The Flat & Colours	grande	big	pr			grande	grandes / grandes				
+L2	The Flat & Colours	bonito	pretty	pr			bonita	bonitos / bonitas				
+L2	The Flat & Colours	feio	ugly	pr			feia	feios / feias				
+L2	The Flat & Colours	novo	new	pr			nova	novos / novas				
+L2	The Flat & Colours	velho	old	pr			velha	velhos / velhas				
+L2	The Flat & Colours	iluminado	bright; well-lit	pr			iluminada	iluminados / iluminadas				
+L2	The Flat & Colours	o ventilador	fan	im	m	os ventiladores						
+L2	The Flat & Colours	mas	but	vez								
+L3	Everyday Verbs & the Week	falar	to speak	gl					1	falado	falo · fala · falamos · falam	falei · falou
+L3	Everyday Verbs & the Week	trabalhar	to work	gl					1	trabalhado	trabalho · trabalha · trabalhamos · trabalham	trabalhei · trabalhou
+L3	Everyday Verbs & the Week	morar	to live (somewhere)	gl					1	morado	moro · mora · moramos · moram	morei · morou
+L3	Everyday Verbs & the Week	estudar	to study	gl					1	estudado	estudo · estuda · estudamos · estudam	estudei · estudou
+L3	Everyday Verbs & the Week	comer	to eat	gl					2	comido	como · come · comemos · comem	comi · comeu
+L3	Everyday Verbs & the Week	beber	to drink	gl					2	bebido	bebo · bebe · bebemos · bebem	bebi · bebeu
+L3	Everyday Verbs & the Week	olhar	to look	gl					1	olhado	olho · olha · olhamos · olham	olhei · olhou
+L3	Everyday Verbs & the Week	ver	to see; to watch	gl					2	visto	vejo · vê · vemos · veem	vi · viu
+L3	Everyday Verbs & the Week	assistir	to watch (TV)	gl					3	assistido	assisto · assiste · assistimos · assistem	assisti · assistiu
+L3	Everyday Verbs & the Week	escutar	to listen to	gl					1	escutado	escuto · escuta · escutamos · escutam	escutei · escutou
+L3	Everyday Verbs & the Week	cozinhar	to cook	gl					1	cozinhado	cozinho · cozinha · cozinhamos · cozinham	cozinhei · cozinhou
+L3	Everyday Verbs & the Week	cantar	to sing	gl					1	cantado	canto · canta · cantamos · cantam	cantei · cantou
+L3	Everyday Verbs & the Week	dançar	to dance	gl					1	dançado	danço · dança · dançamos · dançam	dancei · dançou
+L3	Everyday Verbs & the Week	andar	to walk	gl					1	andado	ando · anda · andamos · andam	andei · andou
+L3	Everyday Verbs & the Week	ler	to read	gl					2	lido	leio · lê · lemos · leem	li · leu
+L3	Everyday Verbs & the Week	escrever	to write	gl					2	escrito	escrevo · escreve · escrevemos · escrevem	escrevi · escreveu
+L3	Everyday Verbs & the Week	aprender	to learn	gl					2	aprendido	aprendo · aprende · aprendemos · aprendem	aprendi · aprendeu
+L3	Everyday Verbs & the Week	entender	to understand	gl					2	entendido	entendo · entende · entendemos · entendem	entendi · entendeu
+L3	Everyday Verbs & the Week	abrir	to open	gl					3	aberto	abro · abre · abrimos · abrem	abri · abriu
+L3	Everyday Verbs & the Week	ligar	to call; to switch on	gl					1	ligado	ligo · liga · ligamos · ligam	liguei · ligou
+L3	Everyday Verbs & the Week	tomar	to take; to drink	gl					1	tomado	tomo · toma · tomamos · tomam	tomei · tomou
+L3	Everyday Verbs & the Week	chegar	to arrive	gl					1	chegado	chego · chega · chegamos · chegam	cheguei · chegou
+L3	Everyday Verbs & the Week	precisar de	to need	izraz								
+L3	Everyday Verbs & the Week	o dia	day	im	m	os dias						
+L3	Everyday Verbs & the Week	a semana	week	im	f	as semanas						
+L3	Everyday Verbs & the Week	segunda-feira	Monday	im	f	as segundas-feiras						
+L3	Everyday Verbs & the Week	terça-feira	Tuesday	im	f	as terças-feiras						
+L3	Everyday Verbs & the Week	quarta-feira	Wednesday	im	f	as quartas-feiras						
+L3	Everyday Verbs & the Week	quinta-feira	Thursday	im	f	as quintas-feiras						
+L3	Everyday Verbs & the Week	sexta-feira	Friday	im	f	as sextas-feiras						
+L3	Everyday Verbs & the Week	sábado	Saturday	im	m	os sábados						
+L3	Everyday Verbs & the Week	domingo	Sunday	im	m	os domingos						
+L3	Everyday Verbs & the Week	o fim de semana	weekend	im	m	os fins de semana						
+L3	Everyday Verbs & the Week	a manhã	morning	im	f	as manhãs						
+L3	Everyday Verbs & the Week	a tarde	afternoon	im	f	as tardes						
+L3	Everyday Verbs & the Week	a noite	night; evening	im	f	as noites						
+L3	Everyday Verbs & the Week	hoje	today	pril								
+L3	Everyday Verbs & the Week	sempre	always	pril								
+L3	Everyday Verbs & the Week	às vezes	sometimes	izraz								
+L3	Everyday Verbs & the Week	de dia	by day	izraz								
+L3	Everyday Verbs & the Week	de noite	at night	izraz								
+L3	Everyday Verbs & the Week	quando	when	pril								
+L3	Everyday Verbs & the Week	qual	which	zam								
+L3	Everyday Verbs & the Week	por que	why	izraz								
+L3	Everyday Verbs & the Week	porque	because	vez								
+L3	Everyday Verbs & the Week	o trabalho	work; job	im	m	os trabalhos						
+L3	Everyday Verbs & the Week	a faculdade	university	im	f	as faculdades						
+L3	Everyday Verbs & the Week	o escritório	office	im	m	os escritórios						
+L3	Everyday Verbs & the Week	a língua	language; tongue	im	f	as línguas						
+L3	Everyday Verbs & the Week	o português	Portuguese (language)	im	m	—						
+L3	Everyday Verbs & the Week	também	also	pril								
+L3	Everyday Verbs & the Week	todo dia	every day	izraz								
+L3	Everyday Verbs & the Week	em	in; on; at	prij								
+L3	Everyday Verbs & the Week	com	with	prij								
+L3	Everyday Verbs & the Week	para	to; for	prij								
+L4	Family & Age	a mãe	mother	im	f	as mães						
+L4	Family & Age	o pai	father	im	m	os pais						
+L4	Family & Age	os pais	parents	im	m	os pais						
+L4	Family & Age	o irmão	brother	im	m	os irmãos						
+L4	Family & Age	a irmã	sister	im	f	as irmãs						
+L4	Family & Age	o filho	son	im	m	os filhos						
+L4	Family & Age	a filha	daughter	im	f	as filhas						
+L4	Family & Age	os filhos	children	im	m	os filhos						
+L4	Family & Age	a criança	child	im	f	as crianças						
+L4	Family & Age	o menino, a menina	boy; girl	im	m,f	os meninos, as meninas						
+L4	Family & Age	o marido	husband	im	m	os maridos						
+L4	Family & Age	a esposa	wife	im	f	as esposas						
+L4	Family & Age	o homem	man	im	m	os homens						
+L4	Family & Age	a mulher	woman; wife	im	f	as mulheres						
+L4	Family & Age	o avô	grandfather	im	m	os avôs						
+L4	Family & Age	a avó	grandmother	im	f	as avós						
+L4	Family & Age	os avós	grandparents	im	m	os avós						
+L4	Family & Age	o tio	uncle	im	m	os tios						
+L4	Family & Age	a tia	aunt	im	f	as tias						
+L4	Family & Age	o primo, a prima	cousin	im	m,f	os primos, as primas						
+L4	Family & Age	o sobrinho, a sobrinha	nephew; niece	im	m,f	os sobrinhos, as sobrinhas						
+L4	Family & Age	o neto, a neta	grandson; granddaughter	im	m,f	os netos, as netas						
+L4	Family & Age	o amigo, a amiga	friend	im	m,f	os amigos, as amigas						
+L4	Family & Age	o namorado, a namorada	boyfriend; girlfriend	im	m,f	os namorados, as namoradas						
+L4	Family & Age	o vizinho, a vizinha	neighbour	im	m,f	os vizinhos, as vizinhas						
+L4	Family & Age	o cachorro	dog	im	m	os cachorros						
+L4	Family & Age	o gato	cat	im	m	os gatos						
+L4	Family & Age	o bebê	baby	im	m	os bebês						
+L4	Family & Age	ter	to have	gl					2	tido	tenho · tem · temos · têm	tive · teve
+L4	Family & Age	o ano	year	im	m	os anos						
+L4	Family & Age	o aniversário	birthday	im	m	os aniversários						
+L4	Family & Age	quantos anos você tem?	how old are you?	izraz								
+L4	Family & Age	jovem	young	pr			jovem	jovens / jovens				
+L4	Family & Age	mais velho	older	izraz								
+L4	Family & Age	mais novo	younger	izraz								
+L4	Family & Age	casado	married	pr			casada	casados / casadas				
+L4	Family & Age	solteiro	single	pr			solteira	solteiros / solteiras				
+L4	Family & Age	meu, minha	my	zam								
+L4	Family & Age	seu, sua	your; his; her	zam								
+L4	Family & Age	dele, dela	his; her	zam								
+L4	Family & Age	nosso, nossa	our	zam								
+L4	Family & Age	simpático	nice; friendly	pr			simpática	simpáticos / simpáticas				
+L4	Family & Age	legal	cool; nice	pr			legal	legais / legais				
+L4	Family & Age	gentil	kind	pr			gentil	gentis / gentis				
+L4	Family & Age	alto	tall	pr			alta	altos / altas				
+L4	Family & Age	baixo	short	pr			baixa	baixos / baixas				
+L4	Family & Age	o sobrenome	surname	im	m	os sobrenomes						
+L4	Family & Age	o nome	name	im	m	os nomes						
+L4	Family & Age	o padrinho, a madrinha	godfather; godmother	im	m,f	os padrinhos, as madrinhas						
+L4	Family & Age	o sogro, a sogra	father-in-law; mother-in-law	im	m,f	os sogros, as sogras						
+L4	Family & Age	o cunhado, a cunhada	brother-in-law; sister-in-law	im	m,f	os cunhados, as cunhadas						
+L4	Family & Age	o enteado, a enteada	stepson; stepdaughter	im	m,f	os enteados, as enteadas						
+L4	Family & Age	o casal	couple	im	m	os casais						
+L4	Family & Age	o parente	relative	im	m	os parentes						
+L4	Family & Age	juntos	together	pr			juntas	juntos / juntas				
+L4	Family & Age	sozinho	alone	pr			sozinha	sozinhos / sozinhas				
+L5	Food, Drinks & Quantities	a feira	street market	im	f	as feiras						
+L5	Food, Drinks & Quantities	o mercado	market	im	m	os mercados						
+L5	Food, Drinks & Quantities	o pão	bread	im	m	os pães						
+L5	Food, Drinks & Quantities	o queijo	cheese	im	m	os queijos						
+L5	Food, Drinks & Quantities	a manteiga	butter	im	f	—						
+L5	Food, Drinks & Quantities	o leite	milk	im	m	—						
+L5	Food, Drinks & Quantities	o ovo	egg	im	m	os ovos						
+L5	Food, Drinks & Quantities	a carne	meat	im	f	as carnes						
+L5	Food, Drinks & Quantities	o frango	chicken	im	m	os frangos						
+L5	Food, Drinks & Quantities	o peixe	fish	im	m	os peixes						
+L5	Food, Drinks & Quantities	o presunto	ham	im	m	os presuntos						
+L5	Food, Drinks & Quantities	a maçã	apple	im	f	as maçãs						
+L5	Food, Drinks & Quantities	a laranja	orange	im	f	as laranjas						
+L5	Food, Drinks & Quantities	o morango	strawberry	im	m	os morangos						
+L5	Food, Drinks & Quantities	a uva	grape	im	f	as uvas						
+L5	Food, Drinks & Quantities	o limão	lime; lemon	im	m	os limões						
+L5	Food, Drinks & Quantities	a manga	mango	im	f	as mangas						
+L5	Food, Drinks & Quantities	o abacaxi	pineapple	im	m	os abacaxis						
+L5	Food, Drinks & Quantities	o mamão	papaya	im	m	os mamões						
+L5	Food, Drinks & Quantities	o tomate	tomato	im	m	os tomates						
+L5	Food, Drinks & Quantities	a batata	potato	im	f	as batatas						
+L5	Food, Drinks & Quantities	a cenoura	carrot	im	f	as cenouras						
+L5	Food, Drinks & Quantities	a cebola	onion	im	f	as cebolas						
+L5	Food, Drinks & Quantities	a alface	lettuce	im	f	as alfaces						
+L5	Food, Drinks & Quantities	o arroz	rice	im	m	—						
+L5	Food, Drinks & Quantities	o feijão	beans	im	m	—						
+L5	Food, Drinks & Quantities	o açúcar	sugar	im	m	—						
+L5	Food, Drinks & Quantities	o sal	salt	im	m	—						
+L5	Food, Drinks & Quantities	o óleo	oil	im	m	os óleos						
+L5	Food, Drinks & Quantities	a água	water	im	f	as águas						
+L5	Food, Drinks & Quantities	o suco	juice	im	m	os sucos						
+L5	Food, Drinks & Quantities	o vinho	wine	im	m	os vinhos						
+L5	Food, Drinks & Quantities	a cerveja	beer	im	f	as cervejas						
+L5	Food, Drinks & Quantities	o refrigerante	soft drink	im	m	os refrigerantes						
+L5	Food, Drinks & Quantities	o quilo	kilo	im	m	os quilos						
+L5	Food, Drinks & Quantities	o grama	gram	im	m	os gramas						
+L5	Food, Drinks & Quantities	o litro	litre	im	m	os litros						
+L5	Food, Drinks & Quantities	a garrafa	bottle	im	f	as garrafas						
+L5	Food, Drinks & Quantities	a dúzia	dozen	im	f	as dúzias						
+L5	Food, Drinks & Quantities	a fruta	fruit	im	f	as frutas						
+L5	Food, Drinks & Quantities	a verdura	vegetables	im	f	as verduras						
+L5	Food, Drinks & Quantities	eu queria	I would like	izraz								
+L5	Food, Drinks & Quantities	quanto custa?	how much is it?	izraz								
+L5	Food, Drinks & Quantities	comprar	to buy	gl					1	comprado	compro · compra · compramos · compram	comprei · comprou
+L5	Food, Drinks & Quantities	custar	to cost	gl					1	custado	custo · custa · custamos · custam	custei · custou
+L5	Food, Drinks & Quantities	pagar	to pay	gl					1	pago	pago · paga · pagamos · pagam	paguei · pagou
+L5	Food, Drinks & Quantities	o centavo	cent	im	m	os centavos						
+L5	Food, Drinks & Quantities	o preço	price	im	m	os preços						
+L5	Food, Drinks & Quantities	caro	expensive	pr			cara	caros / caras				
+L5	Food, Drinks & Quantities	barato	cheap	pr			barata	baratos / baratas				
+L5	Food, Drinks & Quantities	bom	good	pr			boa	bons / boas				
+L5	Food, Drinks & Quantities	fresco	fresh	pr			fresca	frescos / frescas				
+L5	Food, Drinks & Quantities	este, esta	this	zam								
+L5	Food, Drinks & Quantities	esse, essa	that	zam								
+L5	Food, Drinks & Quantities	aquele, aquela	that (over there)	zam								
+L5	Food, Drinks & Quantities	a loja	shop	im	f	as lojas						
+L5	Food, Drinks & Quantities	o supermercado	supermarket	im	m	os supermercados						
+L5	Food, Drinks & Quantities	mais alguma coisa?	anything else?	izraz								
+L5	Food, Drinks & Quantities	cem	hundred	broj								
+L5	Food, Drinks & Quantities	pouco	little; few	pril								
+L6	City & Directions	a rua	street	im	f	as ruas						
+L6	City & Directions	a avenida	avenue	im	f	as avenidas						
+L6	City & Directions	o bairro	neighbourhood	im	m	os bairros						
+L6	City & Directions	o centro	centre	im	m	os centros						
+L6	City & Directions	a estação	station	im	f	as estações						
+L6	City & Directions	o ponto de ônibus	bus stop	izraz								
+L6	City & Directions	o museu	museum	im	m	os museus						
+L6	City & Directions	a igreja	church	im	f	as igrejas						
+L6	City & Directions	o hospital	hospital	im	m	os hospitais						
+L6	City & Directions	a escola	school	im	f	as escolas						
+L6	City & Directions	o correio	post office	im	m	os correios						
+L6	City & Directions	a prefeitura	town hall	im	f	as prefeituras						
+L6	City & Directions	a biblioteca	library	im	f	as bibliotecas						
+L6	City & Directions	a ponte	bridge	im	f	as pontes						
+L6	City & Directions	o sinal	traffic light	im	m	os sinais						
+L6	City & Directions	o cruzamento	crossroads	im	m	os cruzamentos						
+L6	City & Directions	a esquina	corner	im	f	as esquinas						
+L6	City & Directions	o mapa	map	im	m	os mapas						
+L6	City & Directions	a padaria	bakery	im	f	as padarias						
+L6	City & Directions	a banca de jornal	newsstand	izraz								
+L6	City & Directions	o metrô	underground	im	m	os metrôs						
+L6	City & Directions	estar	to be (state, location)	gl					1	estado	estou · está · estamos · estão	estive · esteve
+L6	City & Directions	ficar	to be located; to stay	gl					1	ficado	fico · fica · ficamos · ficam	fiquei · ficou
+L6	City & Directions	ir	to go	gl					3	ido	vou · vai · vamos · vão	fui · foi
+L6	City & Directions	virar	to turn	gl					1	virado	viro · vira · viramos · viram	virei · virou
+L6	City & Directions	atravessar	to cross	gl					1	atravessado	atravesso · atravessa · atravessamos · atravessam	atravessei · atravessou
+L6	City & Directions	seguir	to follow; to continue	gl					3	seguido	sigo · segue · seguimos · seguem	segui · seguiu
+L6	City & Directions	procurar	to look for	gl					1	procurado	procuro · procura · procuramos · procuram	procurei · procurou
+L6	City & Directions	encontrar	to find; to meet	gl					1	encontrado	encontro · encontra · encontramos · encontram	encontrei · encontrou
+L6	City & Directions	no, na	in the	prij								
+L6	City & Directions	do, da	of the; from the	prij								
+L6	City & Directions	ao, à	to the	prij								
+L6	City & Directions	pelo, pela	through the; by the	prij								
+L6	City & Directions	à direita	on the right	izraz								
+L6	City & Directions	à esquerda	on the left	izraz								
+L6	City & Directions	em frente	straight on	izraz								
+L6	City & Directions	perto de	near	prij								
+L6	City & Directions	longe de	far from	prij								
+L6	City & Directions	ao lado de	next to	prij								
+L6	City & Directions	na frente de	in front of	prij								
+L6	City & Directions	atrás de	behind	prij								
+L6	City & Directions	em cima de	on top of	prij								
+L6	City & Directions	embaixo de	under	prij								
+L6	City & Directions	entre	between	prij								
+L6	City & Directions	aqui	here	pril								
+L6	City & Directions	ali	there	pril								
+L6	City & Directions	depois	after; afterwards	pril								
+L6	City & Directions	primeiro	first	pril								
+L6	City & Directions	segundo	second	broj								
+L6	City & Directions	terceiro	third	broj								
+L6	City & Directions	a pé	on foot	izraz								
+L6	City & Directions	de ônibus	by bus	izraz								
+L6	City & Directions	perdido	lost	pr			perdida	perdidos / perdidas				
+L6	City & Directions	onde fica …?	where is …?	izraz								
+L6	City & Directions	é longe?	is it far?	izraz								
+L6	City & Directions	o posto de gasolina	petrol station	izraz								
+L6	City & Directions	o estacionamento	car park	im	m	os estacionamentos						
+L6	City & Directions	a catedral	cathedral	im	f	as catedrais						
+L6	City & Directions	o prédio	building	im	m	os prédios						
+L6	City & Directions	o turista, a turista	tourist	im	m,f	os turistas, as turistas						
+L6	City & Directions	a calçada	pavement	im	f	as calçadas						
+L6	City & Directions	o shopping	shopping centre	im	m	os shoppings						
+L7	Hobbies & Sport	o tempo livre	free time	izraz								
+L7	Hobbies & Sport	o hobby	hobby	im	m	os hobbies						
+L7	Hobbies & Sport	gostar de	to like	izraz								
+L7	Hobbies & Sport	adorar	to love	gl					1	adorado	adoro · adora · adoramos · adoram	adorei · adorou
+L7	Hobbies & Sport	odiar	to hate	gl					1	odiado	odeio · odeia · odiamos · odeiam	odiei · odiou
+L7	Hobbies & Sport	querer	to want	gl					2	querido	quero · quer · queremos · querem	quis · quis
+L7	Hobbies & Sport	preferir	to prefer	gl					3	preferido	prefiro · prefere · preferimos · preferem	preferi · preferiu
+L7	Hobbies & Sport	poder	can; to be able to	gl					2	podido	posso · pode · podemos · podem	pude · pôde
+L7	Hobbies & Sport	fazer	to do; to make	gl					2	feito	faço · faz · fazemos · fazem	fiz · fez
+L7	Hobbies & Sport	sair	to go out	gl					3	saído	saio · sai · saímos · saem	saí · saiu
+L7	Hobbies & Sport	dormir	to sleep	gl					3	dormido	durmo · dorme · dormimos · dormem	dormi · dormiu
+L7	Hobbies & Sport	jogar	to play (a game)	gl					1	jogado	jogo · joga · jogamos · jogam	joguei · jogou
+L7	Hobbies & Sport	tocar	to play (an instrument); to touch	gl					1	tocado	toco · toca · tocamos · tocam	toquei · tocou
+L7	Hobbies & Sport	nadar	to swim	gl					1	nadado	nado · nada · nadamos · nadam	nadei · nadou
+L7	Hobbies & Sport	correr	to run	gl					2	corrido	corro · corre · corremos · correm	corri · correu
+L7	Hobbies & Sport	surfar	to surf	gl					1	surfado	surfo · surfa · surfamos · surfam	surfei · surfou
+L7	Hobbies & Sport	viajar	to travel	gl					1	viajado	viajo · viaja · viajamos · viajam	viajei · viajou
+L7	Hobbies & Sport	desenhar	to draw	gl					1	desenhado	desenho · desenha · desenhamos · desenham	desenhei · desenhou
+L7	Hobbies & Sport	pintar	to paint	gl					1	pintado	pinto · pinta · pintamos · pintam	pintei · pintou
+L7	Hobbies & Sport	passear	to go for a walk	gl					1	passeado	passeio · passeia · passeamos · passeiam	passeei · passeou
+L7	Hobbies & Sport	andar de bicicleta	to ride a bike	izraz								
+L7	Hobbies & Sport	a bicicleta	bicycle	im	f	as bicicletas						
+L7	Hobbies & Sport	a natação	swimming	im	f	—						
+L7	Hobbies & Sport	a academia	gym	im	f	as academias						
+L7	Hobbies & Sport	o vôlei	volleyball	im	m	—						
+L7	Hobbies & Sport	o basquete	basketball	im	m	—						
+L7	Hobbies & Sport	o jogo	game; match	im	m	os jogos						
+L7	Hobbies & Sport	o time	team	im	m	os times						
+L7	Hobbies & Sport	a bola	ball	im	f	as bolas						
+L7	Hobbies & Sport	o violão	(acoustic) guitar	im	m	os violões						
+L7	Hobbies & Sport	o piano	piano	im	m	os pianos						
+L7	Hobbies & Sport	o videogame	video game	im	m	os videogames						
+L7	Hobbies & Sport	o show	concert; show	im	m	os shows						
+L7	Hobbies & Sport	a exposição	exhibition	im	f	as exposições						
+L7	Hobbies & Sport	a piscina	swimming pool	im	f	as piscinas						
+L7	Hobbies & Sport	o estádio	stadium	im	m	os estádios						
+L7	Hobbies & Sport	a canção	song	im	f	as canções						
+L7	Hobbies & Sport	a dança	dance	im	f	as danças						
+L7	Hobbies & Sport	a fotografia	photography	im	f	—						
+L7	Hobbies & Sport	o quadrinho	comic	im	m	os quadrinhos						
+L7	Hobbies & Sport	o romance	novel	im	m	os romances						
+L7	Hobbies & Sport	a série	series	im	f	as séries						
+L7	Hobbies & Sport	o passeio	walk; outing	im	m	os passeios						
+L7	Hobbies & Sport	o torcedor, a torcedora	fan (sport)	im	m,f	os torcedores, as torcedoras						
+L7	Hobbies & Sport	a trilha	trail; hike	im	f	as trilhas						
+L7	Hobbies & Sport	a capoeira	capoeira	im	f	—						
+L7	Hobbies & Sport	o surfe	surfing	im	m	—						
+L7	Hobbies & Sport	favorito	favourite	pr			favorita	favoritos / favoritas				
+L7	Hobbies & Sport	chato	boring; annoying	pr			chata	chatos / chatas				
+L7	Hobbies & Sport	divertido	fun	pr			divertida	divertidos / divertidas				
+L7	Hobbies & Sport	interessante	interesting	pr			interessante	interessantes / interessantes				
+L7	Hobbies & Sport	cansado	tired	pr			cansada	cansados / cansadas				
+L7	Hobbies & Sport	cada	each; every	pr			cada	— / —				
+L7	Hobbies & Sport	também não	neither; not either	izraz								
+L7	Hobbies & Sport	ganhar	to win; to earn	gl					1	ganho	ganho · ganha · ganhamos · ganham	ganhei · ganhou
+L7	Hobbies & Sport	perder	to lose; to miss	gl					2	perdido	perco · perde · perdemos · perdem	perdi · perdeu
+L7	Hobbies & Sport	o campo	field; countryside	im	m	os campos						
+L7	Hobbies & Sport	cedo	early	pril								
+L7	Hobbies & Sport	acordar	to wake up	gl					1	acordado	acordo · acorda · acordamos · acordam	acordei · acordou
+L7	Hobbies & Sport	a festa	party	im	f	as festas						
+L8	Routine & Time	levantar-se	to get up	gl					1	levantado	me levanto · se levanta · nos levantamos · se levantam	me levantei · se levantou
+L8	Routine & Time	lavar-se	to wash (oneself)	gl					1	lavado	me lavo · se lava · nos lavamos · se lavam	me lavei · se lavou
+L8	Routine & Time	tomar banho	to have a shower	izraz								
+L8	Routine & Time	vestir-se	to get dressed	gl					3	vestido	me visto · se veste · nos vestimos · se vestem	me vesti · se vestiu
+L8	Routine & Time	pentear-se	to comb one's hair	gl					1	penteado	me penteio · se penteia · nos penteamos · se penteiam	me penteei · se penteou
+L8	Routine & Time	maquiar-se	to put on make-up	gl					1	maquiado	me maquio · se maquia · nos maquiamos · se maquiam	me maquiei · se maquiou
+L8	Routine & Time	fazer a barba	to shave	izraz								
+L8	Routine & Time	escovar os dentes	to brush one's teeth	izraz								
+L8	Routine & Time	deitar-se	to lie down; to go to bed	gl					1	deitado	me deito · se deita · nos deitamos · se deitam	me deitei · se deitou
+L8	Routine & Time	dormir cedo	to go to bed early	izraz								
+L8	Routine & Time	descansar	to rest	gl					1	descansado	descanso · descansa · descansamos · descansam	descansei · descansou
+L8	Routine & Time	apressar-se	to hurry	gl					1	apressado	me apresso · se apressa · nos apressamos · se apressam	me apressei · se apressou
+L8	Routine & Time	sentir-se	to feel	gl					3	sentido	me sinto · se sente · nos sentimos · se sentem	me senti · se sentiu
+L8	Routine & Time	chamar-se	to be called	gl					1	chamado	me chamo · se chama · nos chamamos · se chamam	me chamei · se chamou
+L8	Routine & Time	voltar	to come back	gl					1	voltado	volto · volta · voltamos · voltam	voltei · voltou
+L8	Routine & Time	o café da manhã	breakfast	izraz								
+L8	Routine & Time	o almoço	lunch	im	m	os almoços						
+L8	Routine & Time	o jantar	dinner	im	m	os jantares						
+L8	Routine & Time	tomar café da manhã	to have breakfast	izraz								
+L8	Routine & Time	almoçar	to have lunch	gl					1	almoçado	almoço · almoça · almoçamos · almoçam	almocei · almoçou
+L8	Routine & Time	jantar	to have dinner	gl					1	jantado	janto · janta · jantamos · jantam	jantei · jantou
+L8	Routine & Time	a hora	hour	im	f	as horas						
+L8	Routine & Time	a meia hora	half an hour	izraz								
+L8	Routine & Time	que horas são?	what time is it?	izraz								
+L8	Routine & Time	é uma hora	it's one o'clock	izraz								
+L8	Routine & Time	são … horas	it's … o'clock	izraz								
+L8	Routine & Time	e meia	half past	izraz								
+L8	Routine & Time	e quinze	quarter past	izraz								
+L8	Routine & Time	quinze para as …	quarter to …	izraz								
+L8	Routine & Time	o meio-dia	midday	im	m	os meios-dias						
+L8	Routine & Time	a meia-noite	midnight	im	f	as meias-noites						
+L8	Routine & Time	o minuto	minute	im	m	os minutos						
+L8	Routine & Time	o segundo	second (time)	im	m	os segundos						
+L8	Routine & Time	o despertador	alarm clock	im	m	os despertadores						
+L8	Routine & Time	o chuveiro	shower	im	m	os chuveiros						
+L8	Routine & Time	o sabonete	soap	im	m	os sabonetes						
+L8	Routine & Time	a escova de dentes	toothbrush	izraz								
+L8	Routine & Time	a pasta de dentes	toothpaste	izraz								
+L8	Routine & Time	a toalha	towel	im	f	as toalhas						
+L8	Routine & Time	tarde	late	pril								
+L8	Routine & Time	atrasado	late (not on time)	pr			atrasada	atrasados / atrasadas				
+L8	Routine & Time	na hora	on time	izraz								
+L8	Routine & Time	rápido	quickly; fast	pril								
+L8	Routine & Time	devagar	slowly	pril								
+L8	Routine & Time	normalmente	usually	pril								
+L8	Routine & Time	antes de	before	prij								
+L8	Routine & Time	durante	during	prij								
+L8	Routine & Time	o colega, a colega	colleague	im	m,f	os colegas, as colegas						
+L8	Routine & Time	a rotina	routine	im	f	as rotinas						
+L8	Routine & Time	o horário	timetable; schedule	im	m	os horários						
+L8	Routine & Time	o cochilo	nap	im	m	os cochilos						
+L8	Routine & Time	quase	almost	pril								
+L8	Routine & Time	nunca	never	pril								
+L8	Routine & Time	o relógio	watch; clock	im	m	os relógios						
+L8	Routine & Time	todas as manhãs	every morning	izraz								
+L8	Routine & Time	o celular	mobile phone	im	m	os celulares						
+L8	Routine & Time	o trânsito	traffic	im	m	—						
+L8	Routine & Time	lotado	crowded	pr			lotada	lotados / lotadas				
+L9	Weather, Months & Dates	agora	now	pril								
+L9	Weather, Months & Dates	o tempo	weather; time	im	m	os tempos						
+L9	Weather, Months & Dates	está calor	it's hot	izraz								
+L9	Weather, Months & Dates	está frio	it's cold	izraz								
+L9	Weather, Months & Dates	faz sol	it's sunny	izraz								
+L9	Weather, Months & Dates	está chovendo	it's raining	izraz								
+L9	Weather, Months & Dates	estar + gerúndio	to be doing	izraz								
+L9	Weather, Months & Dates	chover	to rain	gl					2	chovido	— · chove · — · —	— · choveu
+L9	Weather, Months & Dates	o sol	sun	im	m	os sóis						
+L9	Weather, Months & Dates	a chuva	rain	im	f	as chuvas						
+L9	Weather, Months & Dates	o vento	wind	im	m	os ventos						
+L9	Weather, Months & Dates	a nuvem	cloud	im	f	as nuvens						
+L9	Weather, Months & Dates	a tempestade	storm	im	f	as tempestades						
+L9	Weather, Months & Dates	a previsão do tempo	weather forecast	izraz								
+L9	Weather, Months & Dates	o grau	degree	im	m	os graus						
+L9	Weather, Months & Dates	a estação do ano	season	izraz								
+L9	Weather, Months & Dates	a primavera	spring	im	f	as primaveras						
+L9	Weather, Months & Dates	o verão	summer	im	m	os verões						
+L9	Weather, Months & Dates	o outono	autumn	im	m	os outonos						
+L9	Weather, Months & Dates	o inverno	winter	im	m	os invernos						
+L9	Weather, Months & Dates	o mês	month	im	m	os meses						
+L9	Weather, Months & Dates	janeiro	January	im	m	—						
+L9	Weather, Months & Dates	fevereiro	February	im	m	—						
+L9	Weather, Months & Dates	março	March	im	m	—						
+L9	Weather, Months & Dates	abril	April	im	m	—						
+L9	Weather, Months & Dates	maio	May	im	m	—						
+L9	Weather, Months & Dates	junho	June	im	m	—						
+L9	Weather, Months & Dates	julho	July	im	m	—						
+L9	Weather, Months & Dates	agosto	August	im	m	—						
+L9	Weather, Months & Dates	setembro	September	im	m	—						
+L9	Weather, Months & Dates	outubro	October	im	m	—						
+L9	Weather, Months & Dates	novembro	November	im	m	—						
+L9	Weather, Months & Dates	dezembro	December	im	m	—						
+L9	Weather, Months & Dates	a data	date	im	f	as datas						
+L9	Weather, Months & Dates	amanhã	tomorrow	pril								
+L9	Weather, Months & Dates	depois de amanhã	the day after tomorrow	izraz								
+L9	Weather, Months & Dates	próximo	next	pr			próxima	próximos / próximas				
+L9	Weather, Months & Dates	o plano	plan	im	m	os planos						
+L9	Weather, Months & Dates	ir + infinitivo	to be going to	izraz								
+L9	Weather, Months & Dates	ter que	to have to	izraz								
+L9	Weather, Months & Dates	combinar	to arrange	gl					1	combinado	combino · combina · combinamos · combinam	combinei · combinou
+L9	Weather, Months & Dates	convidar	to invite	gl					1	convidado	convido · convida · convidamos · convidam	convidei · convidou
+L9	Weather, Months & Dates	esperar	to wait; to hope	gl					1	esperado	espero · espera · esperamos · esperam	esperei · esperou
+L9	Weather, Months & Dates	o encontro	meeting; date	im	m	os encontros						
+L9	Weather, Months & Dates	tá bom	OK	izraz								
+L9	Weather, Months & Dates	combinado	agreed; deal	izraz								
+L9	Weather, Months & Dates	talvez	maybe	pril								
+L9	Weather, Months & Dates	então	so; then	pril								
+L9	Weather, Months & Dates	alguma coisa	something	izraz								
+L9	Weather, Months & Dates	nada	nothing	zam								
+L9	Weather, Months & Dates	alguém	someone	zam								
+L9	Weather, Months & Dates	ninguém	nobody	zam								
+L9	Weather, Months & Dates	o mar	sea	im	m	os mares						
+L9	Weather, Months & Dates	a montanha	mountain	im	f	as montanhas						
+L9	Weather, Months & Dates	o guarda-chuva	umbrella	im	m	os guarda-chuvas						
+L9	Weather, Months & Dates	alô	hello (phone)	izraz								
+L9	Weather, Months & Dates	quente	hot	pr			quente	quentes / quentes				
+L9	Weather, Months & Dates	frio	cold	pr			fria	frios / frias				
+L9	Weather, Months & Dates	nublado	cloudy	pr			nublada	nublados / nubladas				
+L9	Weather, Months & Dates	úmido	humid	pr			úmida	úmidos / úmidas				
+L9	Weather, Months & Dates	o carnaval	carnival	im	m	os carnavais						
+L10	Weekend & Past Time	ontem	yesterday	pril								
+L10	Weekend & Past Time	anteontem	the day before yesterday	pril								
+L10	Weekend & Past Time	passado	last; past	pr			passada	passados / passadas				
+L10	Weekend & Past Time	ontem à noite	last night	izraz								
+L10	Weekend & Past Time	hoje de manhã	this morning	izraz								
+L10	Weekend & Past Time	já	already	pril								
+L10	Weekend & Past Time	ainda não	not yet	izraz								
+L10	Weekend & Past Time	limpar	to clean	gl					1	limpado	limpo · limpa · limpamos · limpam	limpei · limpou
+L10	Weekend & Past Time	arrumar	to tidy	gl					1	arrumado	arrumo · arruma · arrumamos · arrumam	arrumei · arrumou
+L10	Weekend & Past Time	fazer compras	to go shopping	izraz								
+L10	Weekend & Past Time	esquecer	to forget	gl					2	esquecido	esqueço · esquece · esquecemos · esquecem	esqueci · esqueceu
+L10	Weekend & Past Time	receber	to receive	gl					2	recebido	recebo · recebe · recebemos · recebem	recebi · recebeu
+L10	Weekend & Past Time	contar	to tell; to count	gl					1	contado	conto · conta · contamos · contam	contei · contou
+L10	Weekend & Past Time	mostrar	to show	gl					1	mostrado	mostro · mostra · mostramos · mostram	mostrei · mostrou
+L10	Weekend & Past Time	rir	to laugh	gl					3	rido	rio · ri · rimos · riem	ri · riu
+L10	Weekend & Past Time	chorar	to cry	gl					1	chorado	choro · chora · choramos · choram	chorei · chorou
+L10	Weekend & Past Time	fechar	to close	gl					1	fechado	fecho · fecha · fechamos · fecham	fechei · fechou
+L10	Weekend & Past Time	responder	to answer	gl					2	respondido	respondo · responde · respondemos · respondem	respondi · respondeu
+L10	Weekend & Past Time	perguntar	to ask	gl					1	perguntado	pergunto · pergunta · perguntamos · perguntam	perguntei · perguntou
+L10	Weekend & Past Time	terminar	to finish	gl					1	terminado	termino · termina · terminamos · terminam	terminei · terminou
+L10	Weekend & Past Time	conhecer	to meet; to get to know	gl					2	conhecido	conheço · conhece · conhecemos · conhecem	conheci · conheceu
+L10	Weekend & Past Time	visitar	to visit	gl					1	visitado	visito · visita · visitamos · visitam	visitei · visitou
+L10	Weekend & Past Time	encontrar-se com	to meet up with	izraz								
+L10	Weekend & Past Time	comemorar	to celebrate	gl					1	comemorado	comemoro · comemora · comemoramos · comemoram	comemorei · comemorou
+L10	Weekend & Past Time	o jornal	newspaper	im	m	os jornais						
+L10	Weekend & Past Time	a revista	magazine	im	f	as revistas						
+L10	Weekend & Past Time	a carta	letter	im	f	as cartas						
+L10	Weekend & Past Time	a mensagem	message	im	f	as mensagens						
+L10	Weekend & Past Time	a notícia	news	im	f	as notícias						
+L10	Weekend & Past Time	o e-mail	email	im	m	os e-mails						
+L10	Weekend & Past Time	o passeio de barco	boat trip	izraz								
+L10	Weekend & Past Time	a lembrança	memory; souvenir	im	f	as lembranças						
+L10	Weekend & Past Time	a vez	time (occasion)	im	f	as vezes						
+L10	Weekend & Past Time	uma vez	once	izraz								
+L10	Weekend & Past Time	ótimo	great	pr			ótima	ótimos / ótimas				
+L10	Weekend & Past Time	maravilhoso	wonderful	pr			maravilhosa	maravilhosos / maravilhosas				
+L10	Weekend & Past Time	horrível	horrible	pr			horrível	horríveis / horríveis				
+L10	Weekend & Past Time	mais ou menos	so-so	izraz								
+L10	Weekend & Past Time	nada mal	not bad	izraz								
+L10	Weekend & Past Time	finalmente	finally	pril								
+L10	Weekend & Past Time	de repente	suddenly	izraz								
+L10	Weekend & Past Time	muito tempo	a long time	izraz								
+L10	Weekend & Past Time	o garçom, a garçonete	waiter; waitress	im	m,f	os garçons, as garçonetes						
+L10	Weekend & Past Time	a conta	bill	im	f	as contas						
+L10	Weekend & Past Time	a gorjeta	tip	im	f	as gorjetas						
+L10	Weekend & Past Time	o prato	dish; plate	im	m	os pratos						
+L10	Weekend & Past Time	a sobremesa	dessert	im	f	as sobremesas						
+L10	Weekend & Past Time	a feijoada	feijoada (bean stew)	im	f	as feijoadas						
+L10	Weekend & Past Time	o churrasco	barbecue	im	m	os churrascos						
+L10	Weekend & Past Time	a reunião	meeting	im	f	as reuniões						
+L10	Weekend & Past Time	a prova	test; exam	im	f	as provas						
+L10	Weekend & Past Time	o resultado	result	im	m	os resultados						
+L10	Weekend & Past Time	a surpresa	surprise	im	f	as surpresas						
+L10	Weekend & Past Time	o pagode	pagode (samba style)	im	m	os pagodes						
+L10	Weekend & Past Time	o forró	forró (dance)	im	m	os forrós						
+L10	Weekend & Past Time	a vizinhança	neighbourhood	im	f	as vizinhanças						
+L10	Weekend & Past Time	a batucada	percussion jam	im	f	as batucadas						
+L10	Weekend & Past Time	a galera	group of friends; gang	im	f	as galeras						
+L10	Weekend & Past Time	o barzinho	small bar	im	m	os barzinhos						
+L10	Weekend & Past Time	o petisco	snack; nibbles	im	m	os petiscos						
+L11	Buses & Trips	o carro	car	im	m	os carros						
+L11	Buses & Trips	o avião	plane	im	m	os aviões						
+L11	Buses & Trips	o barco	boat	im	m	os barcos						
+L11	Buses & Trips	a balsa	ferry	im	f	as balsas						
+L11	Buses & Trips	o bonde	tram	im	m	os bondes						
+L11	Buses & Trips	a passagem	ticket (travel)	im	f	as passagens						
+L11	Buses & Trips	o bilhete	ticket	im	m	os bilhetes						
+L11	Buses & Trips	ida e volta	return (ticket)	izraz								
+L11	Buses & Trips	só ida	single (ticket)	izraz								
+L11	Buses & Trips	a rodoviária	bus station	im	f	as rodoviárias						
+L11	Buses & Trips	o guichê	ticket window	im	m	os guichês						
+L11	Buses & Trips	a saída	departure; exit	im	f	as saídas						
+L11	Buses & Trips	a chegada	arrival	im	f	as chegadas						
+L11	Buses & Trips	o atraso	delay	im	m	os atrasos						
+L11	Buses & Trips	a mala	suitcase	im	f	as malas						
+L11	Buses & Trips	a mochila	rucksack	im	f	as mochilas						
+L11	Buses & Trips	o passaporte	passport	im	m	os passaportes						
+L11	Buses & Trips	a identidade	identity card	im	f	as identidades						
+L11	Buses & Trips	o aeroporto	airport	im	m	os aeroportos						
+L11	Buses & Trips	o voo	flight	im	m	os voos						
+L11	Buses & Trips	o passageiro, a passageira	passenger	im	m,f	os passageiros, as passageiras						
+L11	Buses & Trips	o viajante	traveller	im	m	os viajantes						
+L11	Buses & Trips	a reserva	booking	im	f	as reservas						
+L11	Buses & Trips	o quarto de casal	double room	izraz								
+L11	Buses & Trips	a recepção	reception	im	f	as recepções						
+L11	Buses & Trips	a pousada	guesthouse	im	f	as pousadas						
+L11	Buses & Trips	o lago	lake	im	m	os lagos						
+L11	Buses & Trips	a cachoeira	waterfall	im	f	as cachoeiras						
+L11	Buses & Trips	a ilha	island	im	f	as ilhas						
+L11	Buses & Trips	a vista	view	im	f	as vistas						
+L11	Buses & Trips	as férias	holidays	im	f	as férias						
+L11	Buses & Trips	a viagem	trip; journey	im	f	as viagens						
+L11	Buses & Trips	a fronteira	border	im	f	as fronteiras						
+L11	Buses & Trips	o cartão-postal	postcard	im	m	os cartões-postais						
+L11	Buses & Trips	o quilômetro	kilometre	im	m	os quilômetros						
+L11	Buses & Trips	o norte	north	im	m	—						
+L11	Buses & Trips	o sul	south	im	m	—						
+L11	Buses & Trips	o leste	east	im	m	—						
+L11	Buses & Trips	o oeste	west	im	m	—						
+L11	Buses & Trips	subir	to go up; to get on	gl					3	subido	subo · sobe · subimos · sobem	subi · subiu
+L11	Buses & Trips	descer	to go down; to get off	gl					2	descido	desço · desce · descemos · descem	desci · desceu
+L11	Buses & Trips	entrar	to enter	gl					1	entrado	entro · entra · entramos · entram	entrei · entrou
+L11	Buses & Trips	cair	to fall	gl					3	caído	caio · cai · caímos · caem	caí · caiu
+L11	Buses & Trips	nascer	to be born	gl					2	nascido	nasço · nasce · nascemos · nascem	nasci · nasceu
+L11	Buses & Trips	morrer	to die	gl					2	morrido	morro · morre · morremos · morrem	morri · morreu
+L11	Buses & Trips	dirigir	to drive	gl					3	dirigido	dirijo · dirige · dirigimos · dirigem	dirigi · dirigiu
+L11	Buses & Trips	mudar	to change; to move	gl					1	mudado	mudo · muda · mudamos · mudam	mudei · mudou
+L11	Buses & Trips	alugar	to rent; to hire	gl					1	alugado	alugo · aluga · alugamos · alugam	aluguei · alugou
+L11	Buses & Trips	reservar	to book	gl					1	reservado	reservo · reserva · reservamos · reservam	reservei · reservou
+L11	Buses & Trips	trazer	to bring	gl					2	trazido	trago · traz · trazemos · trazem	trouxe · trouxe
+L11	Buses & Trips	dar	to give	gl					1	dado	dou · dá · damos · dão	dei · deu
+L11	Buses & Trips	dizer	to say	gl					2	dito	digo · diz · dizemos · dizem	disse · disse
+L11	Buses & Trips	pôr	to put	gl					2	posto	ponho · põe · pomos · põem	pus · pôs
+L11	Buses & Trips	saber	to know	gl					2	sabido	sei · sabe · sabemos · sabem	soube · soube
+L11	Buses & Trips	vir	to come	gl					3	vindo	venho · vem · vimos · vêm	vim · veio
+L11	Buses & Trips	sair de férias	to go on holiday	izraz								
+L11	Buses & Trips	de carro	by car	izraz								
+L11	Buses & Trips	de avião	by plane	izraz								
+L11	Buses & Trips	direto	direct	pr			direta	diretos / diretas				
+L11	Buses & Trips	cheio	full	pr			cheia	cheios / cheias				
+L11	Buses & Trips	livre	free	pr			livre	livres / livres				
+L11	Buses & Trips	ocupado	busy; taken	pr			ocupada	ocupados / ocupadas				
+L11	Buses & Trips	por	through; by; for	prij								
+L11	Buses & Trips	o guia, a guia	guide	im	m,f	os guias, as guias						
+L12	Clothes & Shops	a roupa	clothes	im	f	—						
+L12	Clothes & Shops	a camisa	shirt	im	f	as camisas						
+L12	Clothes & Shops	a camiseta	T-shirt	im	f	as camisetas						
+L12	Clothes & Shops	o suéter	jumper	im	m	os suéteres						
+L12	Clothes & Shops	a calça	trousers	im	f	as calças						
+L12	Clothes & Shops	o jeans	jeans	im	m	os jeans						
+L12	Clothes & Shops	a saia	skirt	im	f	as saias						
+L12	Clothes & Shops	o vestido	dress	im	m	os vestidos						
+L12	Clothes & Shops	a jaqueta	jacket	im	f	as jaquetas						
+L12	Clothes & Shops	o casaco	coat	im	m	os casacos						
+L12	Clothes & Shops	o terno	suit	im	m	os ternos						
+L12	Clothes & Shops	a gravata	tie	im	f	as gravatas						
+L12	Clothes & Shops	o sapato	shoe	im	m	os sapatos						
+L12	Clothes & Shops	a sandália	sandal	im	f	as sandálias						
+L12	Clothes & Shops	o chinelo	flip-flop	im	m	os chinelos						
+L12	Clothes & Shops	a bota	boot	im	f	as botas						
+L12	Clothes & Shops	a meia	sock	im	f	as meias						
+L12	Clothes & Shops	o chapéu	hat	im	m	os chapéus						
+L12	Clothes & Shops	o boné	cap	im	m	os bonés						
+L12	Clothes & Shops	o biquíni	bikini	im	m	os biquínis						
+L12	Clothes & Shops	os óculos	glasses	im	m	os óculos						
+L12	Clothes & Shops	o óculos de sol	sunglasses	izraz								
+L12	Clothes & Shops	o cinto	belt	im	m	os cintos						
+L12	Clothes & Shops	o tamanho	size	im	m	os tamanhos						
+L12	Clothes & Shops	o número	number; shoe size	im	m	os números						
+L12	Clothes & Shops	o provador	fitting room	im	m	os provadores						
+L12	Clothes & Shops	o vendedor, a vendedora	shop assistant	im	m,f	os vendedores, as vendedoras						
+L12	Clothes & Shops	o cliente, a cliente	customer	im	m,f	os clientes, as clientes						
+L12	Clothes & Shops	o caixa	till; cashier	im	m	os caixas						
+L12	Clothes & Shops	a liquidação	sale	im	f	as liquidações						
+L12	Clothes & Shops	o desconto	discount	im	m	os descontos						
+L12	Clothes & Shops	o cartão	card	im	m	os cartões						
+L12	Clothes & Shops	o recibo	receipt	im	m	os recibos						
+L12	Clothes & Shops	experimentar	to try on	gl					1	experimentado	experimento · experimenta · experimentamos · experimentam	experimentei · experimentou
+L12	Clothes & Shops	usar	to wear; to use	gl					1	usado	uso · usa · usamos · usam	usei · usou
+L12	Clothes & Shops	vestir	to put on; to wear	gl					3	vestido	visto · veste · vestimos · vestem	vesti · vestiu
+L12	Clothes & Shops	tirar	to take off	gl					1	tirado	tiro · tira · tiramos · tiram	tirei · tirou
+L12	Clothes & Shops	ficar bem	to suit; to look good	izraz								
+L12	Clothes & Shops	comprido	long	pr			comprida	compridos / compridas				
+L12	Clothes & Shops	curto	short	pr			curta	curtos / curtas				
+L12	Clothes & Shops	largo	wide; loose	pr			larga	largos / largas				
+L12	Clothes & Shops	apertado	tight	pr			apertada	apertados / apertadas				
+L12	Clothes & Shops	magro	thin	pr			magra	magros / magras				
+L12	Clothes & Shops	gordo	fat	pr			gorda	gordos / gordas				
+L12	Clothes & Shops	loiro	blond	pr			loira	loiros / loiras				
+L12	Clothes & Shops	moreno	dark-haired; tanned	pr			morena	morenos / morenas				
+L12	Clothes & Shops	ruivo	red-haired	pr			ruiva	ruivos / ruivas				
+L12	Clothes & Shops	o cabelo	hair	im	m	os cabelos						
+L12	Clothes & Shops	os olhos	eyes	im	m	os olhos						
+L12	Clothes & Shops	a barba	beard	im	f	as barbas						
+L12	Clothes & Shops	elegante	elegant	pr			elegante	elegantes / elegantes				
+L12	Clothes & Shops	na moda	fashionable	izraz								
+L12	Clothes & Shops	o estilo	style	im	m	os estilos						
+L12	Clothes & Shops	a entrevista	interview	im	f	as entrevistas						
+L12	Clothes & Shops	o algodão	cotton	im	m	—						
+L12	Clothes & Shops	o couro	leather	im	m	—						
+L12	Clothes & Shops	escuro	dark	pr			escura	escuros / escuras				
+L12	Clothes & Shops	mais	more	pril								
+L12	Clothes & Shops	menos	less	pril								
+L12	Clothes & Shops	demais	too much	pril								
+L12	Clothes & Shops	bastante	quite; enough	pril								
+L12	Clothes & Shops	o parcelamento	payment in instalments	im	m	os parcelamentos						
+L12	Clothes & Shops	à vista	paid in full	izraz								
+L12	Clothes & Shops	a vitrine	shop window	im	f	as vitrines						
+L12	Clothes & Shops	lindo	beautiful	pr			linda	lindos / lindas				
+L13	The Body & the Doctor	o corpo	body	im	m	os corpos						
+L13	The Body & the Doctor	a cabeça	head	im	f	as cabeças						
+L13	The Body & the Doctor	o rosto	face	im	m	os rostos						
+L13	The Body & the Doctor	o olho	eye	im	m	os olhos						
+L13	The Body & the Doctor	o nariz	nose	im	m	os narizes						
+L13	The Body & the Doctor	a boca	mouth	im	f	as bocas						
+L13	The Body & the Doctor	a orelha	ear	im	f	as orelhas						
+L13	The Body & the Doctor	o dente	tooth	im	m	os dentes						
+L13	The Body & the Doctor	o pescoço	neck	im	m	os pescoços						
+L13	The Body & the Doctor	a garganta	throat	im	f	as gargantas						
+L13	The Body & the Doctor	o ombro	shoulder	im	m	os ombros						
+L13	The Body & the Doctor	o braço	arm	im	m	os braços						
+L13	The Body & the Doctor	a mão	hand	im	f	as mãos						
+L13	The Body & the Doctor	o dedo	finger	im	m	os dedos						
+L13	The Body & the Doctor	as costas	back	im	f	as costas						
+L13	The Body & the Doctor	a barriga	belly	im	f	as barrigas						
+L13	The Body & the Doctor	o estômago	stomach	im	m	os estômagos						
+L13	The Body & the Doctor	o coração	heart	im	m	os corações						
+L13	The Body & the Doctor	a perna	leg	im	f	as pernas						
+L13	The Body & the Doctor	o joelho	knee	im	m	os joelhos						
+L13	The Body & the Doctor	o pé	foot	im	m	os pés						
+L13	The Body & the Doctor	o tornozelo	ankle	im	m	os tornozelos						
+L13	The Body & the Doctor	o pulso	wrist	im	m	os pulsos						
+L13	The Body & the Doctor	a pele	skin	im	f	as peles						
+L13	The Body & the Doctor	o sangue	blood	im	m	—						
+L13	The Body & the Doctor	o médico, a médica	doctor	im	m,f	os médicos, as médicas						
+L13	The Body & the Doctor	o enfermeiro, a enfermeira	nurse	im	m,f	os enfermeiros, as enfermeiras						
+L13	The Body & the Doctor	o dentista, a dentista	dentist	im	m,f	os dentistas, as dentistas						
+L13	The Body & the Doctor	o posto de saúde	health centre	izraz								
+L13	The Body & the Doctor	o paciente, a paciente	patient	im	m,f	os pacientes, as pacientes						
+L13	The Body & the Doctor	a doença	illness	im	f	as doenças						
+L13	The Body & the Doctor	doente	ill	pr			doente	doentes / doentes				
+L13	The Body & the Doctor	a gripe	flu	im	f	as gripes						
+L13	The Body & the Doctor	o resfriado	cold	im	m	os resfriados						
+L13	The Body & the Doctor	a febre	fever	im	f	as febres						
+L13	The Body & the Doctor	a tosse	cough	im	f	as tosses						
+L13	The Body & the Doctor	a dor	pain	im	f	as dores						
+L13	The Body & the Doctor	estar com dor de	to have a pain in	izraz								
+L13	The Body & the Doctor	estar com dor de cabeça	to have a headache	izraz								
+L13	The Body & the Doctor	doer	to hurt	gl					2	doído	— · dói · — · doem	— · doeu
+L13	The Body & the Doctor	o machucado	injury	im	m	os machucados						
+L13	The Body & the Doctor	o remédio	medicine	im	m	os remédios						
+L13	The Body & the Doctor	o comprimido	tablet	im	m	os comprimidos						
+L13	The Body & the Doctor	a receita	prescription; recipe	im	f	as receitas						
+L13	The Body & the Doctor	o xarope	syrup	im	m	os xaropes						
+L13	The Body & the Doctor	a saúde	health	im	f	—						
+L13	The Body & the Doctor	a emergência	emergency	im	f	as emergências						
+L13	The Body & the Doctor	a ambulância	ambulance	im	f	as ambulâncias						
+L13	The Body & the Doctor	o sintoma	symptom	im	m	os sintomas						
+L13	The Body & the Doctor	tossir	to cough	gl					3	tossido	tusso · tosse · tossimos · tossem	tossi · tossiu
+L13	The Body & the Doctor	quebrar	to break	gl					1	quebrado	quebro · quebra · quebramos · quebram	quebrei · quebrou
+L13	The Body & the Doctor	machucar-se	to hurt oneself	gl					1	machucado	me machuco · se machuca · nos machucamos · se machucam	me machuquei · se machucou
+L13	The Body & the Doctor	melhorar	to get better	gl					1	melhorado	melhoro · melhora · melhoramos · melhoram	melhorei · melhorou
+L13	The Body & the Doctor	respirar	to breathe	gl					1	respirado	respiro · respira · respiramos · respiram	respirei · respirou
+L13	The Body & the Doctor	ficar em casa	to stay at home	izraz								
+L13	The Body & the Doctor	grave	serious	pr			grave	graves / graves				
+L13	The Body & the Doctor	saudável	healthy	pr			saudável	saudáveis / saudáveis				
+L13	The Body & the Doctor	melhor	better	pr			melhor	melhores / melhores				
+L13	The Body & the Doctor	pior	worse	pr			pior	piores / piores				
+L13	The Body & the Doctor	mal	badly; ill	pril								
+L13	The Body & the Doctor	claro	of course; clear; light	pr			clara	claros / claras				
+L13	The Body & the Doctor	fica tranquilo	don't worry	izraz								
+L13	The Body & the Doctor	melhoras!	get well soon!	izraz								
+L13	The Body & the Doctor	saúde!	bless you!; cheers!	izraz								
+L13	The Body & the Doctor	o estresse	stress	im	m	—						
+L13	The Body & the Doctor	o sono	sleep; sleepiness	im	m	—						
+L13	The Body & the Doctor	a alergia	allergy	im	f	as alergias						
+L13	The Body & the Doctor	o curativo	plaster; dressing	im	m	os curativos						
+L13	The Body & the Doctor	o farmacêutico, a farmacêutica	pharmacist	im	m,f	os farmacêuticos, as farmacêuticas						
+L13	The Body & the Doctor	forte	strong	pr			forte	fortes / fortes				
+L13	The Body & the Doctor	fraco	weak	pr			fraca	fracos / fracas				
+L13	The Body & the Doctor	pesado	heavy	pr			pesada	pesados / pesadas				
+L13	The Body & the Doctor	tonto	dizzy	pr			tonta	tontos / tontas				
+L13	The Body & the Doctor	o termômetro	thermometer	im	m	os termômetros						
+L13	The Body & the Doctor	a consulta	appointment (doctor)	im	f	as consultas						
+L13	The Body & the Doctor	o protetor solar	sunscreen	izraz								
+L13	The Body & the Doctor	a insolação	sunstroke	im	f	as insolações						
+L13	The Body & the Doctor	o repelente	insect repellent	im	m	os repelentes						
+L14	Parties & Presents	o presente	present; gift	im	m	os presentes						
+L14	Parties & Presents	presentear	to give a present	gl					1	presenteado	presenteio · presenteia · presenteamos · presenteiam	presenteei · presenteou
+L14	Parties & Presents	mandar	to send	gl					1	mandado	mando · manda · mandamos · mandam	mandei · mandou
+L14	Parties & Presents	enviar	to send	gl					1	enviado	envio · envia · enviamos · enviam	enviei · enviou
+L14	Parties & Presents	embrulhar	to wrap	gl					1	embrulhado	embrulho · embrulha · embrulhamos · embrulham	embrulhei · embrulhou
+L14	Parties & Presents	agradecer	to thank	gl					2	agradecido	agradeço · agradece · agradecemos · agradecem	agradeci · agradeceu
+L14	Parties & Presents	desejar	to wish	gl					1	desejado	desejo · deseja · desejamos · desejam	desejei · desejou
+L14	Parties & Presents	organizar	to organise	gl					1	organizado	organizo · organiza · organizamos · organizam	organizei · organizou
+L14	Parties & Presents	decorar	to decorate	gl					1	decorado	decoro · decora · decoramos · decoram	decorei · decorou
+L14	Parties & Presents	preparar	to prepare	gl					1	preparado	preparo · prepara · preparamos · preparam	preparei · preparou
+L14	Parties & Presents	celebrar	to celebrate	gl					1	celebrado	celebro · celebra · celebramos · celebram	celebrei · celebrou
+L14	Parties & Presents	brindar	to toast	gl					1	brindado	brindo · brinda · brindamos · brindam	brindei · brindou
+L14	Parties & Presents	aplaudir	to clap	gl					3	aplaudido	aplaudo · aplaude · aplaudimos · aplaudem	aplaudi · aplaudiu
+L14	Parties & Presents	parabenizar	to congratulate	gl					1	parabenizado	parabenizo · parabeniza · parabenizamos · parabenizam	parabenizei · parabenizou
+L14	Parties & Presents	parabéns!	happy birthday!; congratulations!	izraz								
+L14	Parties & Presents	feliz Natal!	merry Christmas!	izraz								
+L14	Parties & Presents	feliz Ano-Novo!	happy New Year!	izraz								
+L14	Parties & Presents	o Natal	Christmas	im	m	—						
+L14	Parties & Presents	o Ano-Novo	New Year	im	m	—						
+L14	Parties & Presents	o Réveillon	New Year's Eve party	im	m	—						
+L14	Parties & Presents	a Páscoa	Easter	im	f	—						
+L14	Parties & Presents	a festa junina	June festival	izraz								
+L14	Parties & Presents	o casamento	wedding	im	m	os casamentos						
+L14	Parties & Presents	o nascimento	birth	im	m	os nascimentos						
+L14	Parties & Presents	a vela	candle	im	f	as velas						
+L14	Parties & Presents	o balão	balloon	im	m	os balões						
+L14	Parties & Presents	o espumante	sparkling wine	im	m	os espumantes						
+L14	Parties & Presents	o convidado, a convidada	guest	im	m,f	os convidados, as convidadas						
+L14	Parties & Presents	o convite	invitation	im	m	os convites						
+L14	Parties & Presents	o buquê	bouquet	im	m	os buquês						
+L14	Parties & Presents	o perfume	perfume	im	m	os perfumes						
+L14	Parties & Presents	a joia	piece of jewellery	im	f	as joias						
+L14	Parties & Presents	o brinquedo	toy	im	m	os brinquedos						
+L14	Parties & Presents	a boneca	doll	im	f	as bonecas						
+L14	Parties & Presents	o jogo de tabuleiro	board game	izraz								
+L14	Parties & Presents	o quebra-cabeça	jigsaw	im	m	os quebra-cabeças						
+L14	Parties & Presents	o papel de presente	wrapping paper	izraz								
+L14	Parties & Presents	o laço	bow	im	m	os laços						
+L14	Parties & Presents	a tradição	tradition	im	f	as tradições						
+L14	Parties & Presents	o clima	climate; atmosphere	im	m	os climas						
+L14	Parties & Presents	a fantasia	fancy-dress costume	im	f	as fantasias						
+L14	Parties & Presents	a máscara	mask	im	f	as máscaras						
+L14	Parties & Presents	o panetone	panettone	im	m	os panetones						
+L14	Parties & Presents	o bolo	cake	im	m	os bolos						
+L14	Parties & Presents	o brigadeiro	brigadeiro (chocolate sweet)	im	m	os brigadeiros						
+L14	Parties & Presents	a árvore de Natal	Christmas tree	izraz								
+L14	Parties & Presents	o presépio	nativity scene	im	m	os presépios						
+L14	Parties & Presents	os fogos de artifício	fireworks	izraz								
+L14	Parties & Presents	o Dia das Mães	Mother's Day	izraz								
+L14	Parties & Presents	o, a, os, as (pronome)	him; her; it; them	zam								
+L14	Parties & Presents	lhe, lhes	(to) him; (to) her; (to) you	zam								
+L14	Parties & Presents	me, te, nos	me; you; us	zam								
+L14	Parties & Presents	você (objeto)	you (object, spoken)	izraz								
+L14	Parties & Presents	feliz	happy	pr			feliz	felizes / felizes				
+L14	Parties & Presents	contente	glad	pr			contente	contentes / contentes				
+L14	Parties & Presents	surpreso	surprised	pr			surpresa	surpresos / surpresas				
+L14	Parties & Presents	triste	sad	pr			triste	tristes / tristes				
+L14	Parties & Presents	decepcionado	disappointed	pr			decepcionada	decepcionados / decepcionadas				
+L14	Parties & Presents	orgulhoso	proud	pr			orgulhosa	orgulhosos / orgulhosas				
+L14	Parties & Presents	original	original	pr			original	originais / originais				
+L14	Parties & Presents	útil	useful	pr			útil	úteis / úteis				
+L14	Parties & Presents	logo	soon; right away	pril								
+L14	Parties & Presents	daqui a pouco	in a little while	izraz								
+L14	Parties & Presents	soprar as velas	to blow out the candles	izraz								
+L14	Parties & Presents	a comemoração	celebration	im	f	as comemorações						
+L14	Parties & Presents	o doce	sweet	im	m	os doces						
+L14	Parties & Presents	o salgadinho	savoury snack	im	m	os salgadinhos						
+L14	Parties & Presents	o feriado	public holiday	im	m	os feriados						
+L14	Parties & Presents	o noivado	engagement	im	m	os noivados						
+L14	Parties & Presents	o anfitrião, a anfitriã	host; hostess	im	m,f	os anfitriões, as anfitriãs						
+L14	Parties & Presents	o cartão de aniversário	birthday card	izraz								
+L14	Parties & Presents	a lembrancinha	small gift; party favour	im	f	as lembrancinhas						
+L14	Parties & Presents	a festa surpresa	surprise party	izraz								
+L14	Parties & Presents	a quadrilha	square dance (June festival)	im	f	as quadrilhas						
+L14	Parties & Presents	o amigo secreto	Secret Santa	izraz								
+L14	Parties & Presents	a ceia	supper (Christmas Eve)	im	f	as ceias						
+L14	Parties & Presents	o peru	turkey	im	m	os perus						
+L15	Childhood & School	a infância	childhood	im	f	—						
+L15	Childhood & School	o filho único, a filha única	only child	izraz								
+L15	Childhood & School	a escola primária	primary school	izraz								
+L15	Childhood & School	o ensino médio	secondary school	izraz								
+L15	Childhood & School	a creche	nursery	im	f	as creches						
+L15	Childhood & School	a sala de aula	classroom	izraz								
+L15	Childhood & School	o professor, a professora	teacher	im	m,f	os professores, as professoras						
+L15	Childhood & School	o aluno, a aluna	pupil	im	m,f	os alunos, as alunas						
+L15	Childhood & School	o estudante, a estudante	student	im	m,f	os estudantes, as estudantes						
+L15	Childhood & School	a aula	lesson; class	im	f	as aulas						
+L15	Childhood & School	o curso	course	im	m	os cursos						
+L15	Childhood & School	o dever de casa	homework	izraz								
+L15	Childhood & School	a nota	mark; note	im	f	as notas						
+L15	Childhood & School	o recreio	break (school)	im	m	os recreios						
+L15	Childhood & School	o pátio	playground; yard	im	m	os pátios						
+L15	Childhood & School	o quadro	board; painting	im	m	os quadros						
+L15	Childhood & School	a régua	ruler	im	f	as réguas						
+L15	Childhood & School	a borracha	rubber	im	f	as borrachas						
+L15	Childhood & School	o estojo	pencil case	im	m	os estojos						
+L15	Childhood & School	a carteira	school desk; wallet	im	f	as carteiras						
+L15	Childhood & School	a merenda	school snack	im	f	as merendas						
+L15	Childhood & School	a matemática	maths	im	f	—						
+L15	Childhood & School	a história	history; story	im	f	as histórias						
+L15	Childhood & School	a geografia	geography	im	f	—						
+L15	Childhood & School	as ciências	science	im	f	as ciências						
+L15	Childhood & School	a matéria	subject	im	f	as matérias						
+L15	Childhood & School	a biologia	biology	im	f	—						
+L15	Childhood & School	a química	chemistry	im	f	—						
+L15	Childhood & School	a física	physics	im	f	—						
+L15	Childhood & School	a educação física	PE	izraz								
+L15	Childhood & School	o colega de turma	classmate	izraz								
+L15	Childhood & School	a turma	class (group)	im	f	as turmas						
+L15	Childhood & School	o esconde-esconde	hide-and-seek	im	m	—						
+L15	Childhood & School	o balanço	swing	im	m	os balanços						
+L15	Childhood & School	o desenho animado	cartoon	izraz								
+L15	Childhood & School	o acampamento	camp	im	m	os acampamentos						
+L15	Childhood & School	a pipa	kite	im	f	as pipas						
+L15	Childhood & School	o carrinho	toy car; trolley	im	m	os carrinhos						
+L15	Childhood & School	a bola de gude	marble	izraz								
+L15	Childhood & School	o pega-pega	tag (game)	im	m	—						
+L15	Childhood & School	brincar	to play (children)	gl					1	brincado	brinco · brinca · brincamos · brincam	brinquei · brincou
+L15	Childhood & School	ensinar	to teach	gl					1	ensinado	ensino · ensina · ensinamos · ensinam	ensinei · ensinou
+L15	Childhood & School	repetir	to repeat	gl					3	repetido	repito · repete · repetimos · repetem	repeti · repetiu
+L15	Childhood & School	explicar	to explain	gl					1	explicado	explico · explica · explicamos · explicam	expliquei · explicou
+L15	Childhood & School	revisar	to revise	gl					1	revisado	reviso · revisa · revisamos · revisam	revisei · revisou
+L15	Childhood & School	crescer	to grow up	gl					2	crescido	cresço · cresce · crescemos · crescem	cresci · cresceu
+L15	Childhood & School	lembrar	to remember	gl					1	lembrado	lembro · lembra · lembramos · lembram	lembrei · lembrou
+L15	Childhood & School	lembrar-se de	to remember	izraz								
+L15	Childhood & School	castigar	to punish	gl					1	castigado	castigo · castiga · castigamos · castigam	castiguei · castigou
+L15	Childhood & School	costumar	to usually do	gl					1	costumado	costumo · costuma · costumamos · costumam	costumei · costumou
+L15	Childhood & School	ser bom em	to be good at	izraz								
+L15	Childhood & School	quando eu era criança	when I was a child	izraz								
+L15	Childhood & School	antigamente	in the old days	pril								
+L15	Childhood & School	naquela época	at that time	izraz								
+L15	Childhood & School	todo verão	every summer	izraz								
+L15	Childhood & School	obediente	obedient	pr			obediente	obedientes / obedientes				
+L15	Childhood & School	tímido	shy	pr			tímida	tímidos / tímidas				
+L15	Childhood & School	curioso	curious	pr			curiosa	curiosos / curiosas				
+L15	Childhood & School	falador	talkative	pr			faladora	faladores / faladoras				
+L15	Childhood & School	bagunceiro	messy; naughty	pr			bagunceira	bagunceiros / bagunceiras				
+L15	Childhood & School	rígido	strict	pr			rígida	rígidos / rígidas				
+L15	Childhood & School	fácil	easy	pr			fácil	fáceis / fáceis				
+L15	Childhood & School	difícil	difficult	pr			difícil	difíceis / difíceis				
+L15	Childhood & School	duzentos	two hundred	broj								
+L15	Childhood & School	mil	thousand	broj								
+L15	Childhood & School	dois mil	two thousand	broj								
+L15	Childhood & School	o século	century	im	m	os séculos						
+L15	Childhood & School	o diário	diary	im	m	os diários						
+L15	Childhood & School	o boletim	school report	im	m	os boletins						
+L15	Childhood & School	o conto	tale	im	m	os contos						
+L15	Childhood & School	a cidade pequena	small town	izraz								
+L15	Childhood & School	a terra	earth; soil; land	im	f	as terras						
+L15	Childhood & School	o quintal	backyard	im	m	os quintais						
+L16	The Home & Furniture	a mudança	move (house); change	im	f	as mudanças						
+L16	The Home & Furniture	mudar-se	to move house	gl					1	mudado	me mudo · se muda · nos mudamos · se mudam	me mudei · se mudou
+L16	The Home & Furniture	a caixa de papelão	cardboard box	izraz								
+L16	The Home & Furniture	o caminhão	lorry	im	m	os caminhões						
+L16	The Home & Furniture	o aluguel	rent	im	m	os aluguéis						
+L16	The Home & Furniture	o dono, a dona	owner; landlord	im	m,f	os donos, as donas						
+L16	The Home & Furniture	o inquilino, a inquilina	tenant	im	m,f	os inquilinos, as inquilinas						
+L16	The Home & Furniture	o andar	floor (storey)	im	m	os andares						
+L16	The Home & Furniture	o térreo	ground floor	im	m	os térreos						
+L16	The Home & Furniture	o elevador	lift	im	m	os elevadores						
+L16	The Home & Furniture	a escada	stairs	im	f	as escadas						
+L16	The Home & Furniture	a varanda	balcony	im	f	as varandas						
+L16	The Home & Furniture	o jardim	garden	im	m	os jardins						
+L16	The Home & Furniture	a garagem	garage	im	f	as garagens						
+L16	The Home & Furniture	o porão	basement	im	m	os porões						
+L16	The Home & Furniture	o corredor	corridor	im	m	os corredores						
+L16	The Home & Furniture	a sala de jantar	dining room	izraz								
+L16	The Home & Furniture	o móvel	piece of furniture	im	m	os móveis						
+L16	The Home & Furniture	os móveis	furniture	im	m	os móveis						
+L16	The Home & Furniture	a poltrona	armchair	im	f	as poltronas						
+L16	The Home & Furniture	a estante	bookcase; shelves	im	f	as estantes						
+L16	The Home & Furniture	a prateleira	shelf	im	f	as prateleiras						
+L16	The Home & Furniture	a gaveta	drawer	im	f	as gavetas						
+L16	The Home & Furniture	a escrivaninha	desk	im	f	as escrivaninhas						
+L16	The Home & Furniture	a almofada	cushion	im	f	as almofadas						
+L16	The Home & Furniture	o travesseiro	pillow	im	m	os travesseiros						
+L16	The Home & Furniture	a cortina	curtain	im	f	as cortinas						
+L16	The Home & Furniture	o lençol	sheet	im	m	os lençóis						
+L16	The Home & Furniture	o cobertor	blanket	im	m	os cobertores						
+L16	The Home & Furniture	a geladeira	fridge	im	f	as geladeiras						
+L16	The Home & Furniture	o forno	oven	im	m	os fornos						
+L16	The Home & Furniture	o fogão	cooker	im	m	os fogões						
+L16	The Home & Furniture	o micro-ondas	microwave	im	m	os micro-ondas						
+L16	The Home & Furniture	a máquina de lavar	washing machine	izraz								
+L16	The Home & Furniture	a pia	sink	im	f	as pias						
+L16	The Home & Furniture	a banheira	bath	im	f	as banheiras						
+L16	The Home & Furniture	o ar-condicionado	air conditioning	im	m	os ares-condicionados						
+L16	The Home & Furniture	a luz	light	im	f	as luzes						
+L16	The Home & Furniture	a tomada	socket	im	f	as tomadas						
+L16	The Home & Furniture	o chão	floor	im	m	os chãos						
+L16	The Home & Furniture	o teto	ceiling	im	m	os tetos						
+L16	The Home & Furniture	o telhado	roof	im	m	os telhados						
+L16	The Home & Furniture	o freezer	freezer	im	m	os freezers						
+L16	The Home & Furniture	dentro de	inside	prij								
+L16	The Home & Furniture	fora de	outside	prij								
+L16	The Home & Furniture	debaixo de	underneath	prij								
+L16	The Home & Furniture	o porteiro	doorman	im	m	os porteiros						
+L16	The Home & Furniture	o condomínio	condominium	im	m	os condomínios						
+L16	The Home & Furniture	a faxina	cleaning	im	f	as faxinas						
+L16	The Home & Furniture	lavar a louça	to wash the dishes	izraz								
+L16	The Home & Furniture	varrer	to sweep	gl					2	varrido	varro · varre · varremos · varrem	varri · varreu
+L16	The Home & Furniture	passar roupa	to iron	izraz								
+L16	The Home & Furniture	arrumar a cama	to make the bed	izraz								
+L16	The Home & Furniture	tirar o lixo	to take out the rubbish	izraz								
+L16	The Home & Furniture	o lixo	rubbish	im	m	—						
+L16	The Home & Furniture	o aspirador	vacuum cleaner	im	m	os aspiradores						
+L16	The Home & Furniture	ajudar	to help	gl					1	ajudado	ajudo · ajuda · ajudamos · ajudam	ajudei · ajudou
+L16	The Home & Furniture	esvaziar	to empty	gl					1	esvaziado	esvazio · esvazia · esvaziamos · esvaziam	esvaziei · esvaziou
+L16	The Home & Furniture	encher	to fill	gl					2	enchido	encho · enche · enchemos · enchem	enchi · encheu
+L16	The Home & Furniture	consertar	to fix	gl					1	consertado	conserto · conserta · consertamos · consertam	consertei · consertou
+L16	The Home & Furniture	montar	to assemble	gl					1	montado	monto · monta · montamos · montam	montei · montou
+L16	The Home & Furniture	a reforma	renovation	im	f	as reformas						
+L16	The Home & Furniture	a tinta	paint	im	f	as tintas						
+L16	The Home & Furniture	espaçoso	spacious	pr			espaçosa	espaçosos / espaçosas				
+L16	The Home & Furniture	tranquilo	quiet	pr			tranquila	tranquilos / tranquilas				
+L16	The Home & Furniture	barulhento	noisy	pr			barulhenta	barulhentos / barulhentas				
+L16	The Home & Furniture	limpo	clean	pr			limpa	limpos / limpas				
+L16	The Home & Furniture	sujo	dirty	pr			suja	sujos / sujas				
+L16	The Home & Furniture	confortável	comfortable	pr			confortável	confortáveis / confortáveis				
+L16	The Home & Furniture	prático	practical	pr			prática	práticos / práticas				
+L16	The Home & Furniture	no fundo	at the back	izraz								
+L16	The Home & Furniture	em cima	upstairs; above	izraz								
+L16	The Home & Furniture	embaixo	downstairs; below	pril								
+L16	The Home & Furniture	a laje	flat roof	im	f	as lajes						
+L17	Town, Village & Nature	a serra	mountains; hills	im	f	as serras						
+L17	Town, Village & Nature	o interior	countryside; inland	im	m	—						
+L17	Town, Village & Nature	a fazenda	farm	im	f	as fazendas						
+L17	Town, Village & Nature	o sítio	small farm	im	m	os sítios						
+L17	Town, Village & Nature	a floresta	forest	im	f	as florestas						
+L17	Town, Village & Nature	a mata	woods	im	f	as matas						
+L17	Town, Village & Nature	a árvore	tree	im	f	as árvores						
+L17	Town, Village & Nature	o rio	river	im	m	os rios						
+L17	Town, Village & Nature	o morro	hill	im	m	os morros						
+L17	Town, Village & Nature	o vale	valley	im	m	os vales						
+L17	Town, Village & Nature	o topo	summit	im	m	os topos						
+L17	Town, Village & Nature	o caminho	path; way	im	m	os caminhos						
+L17	Town, Village & Nature	o pasto	pasture	im	m	os pastos						
+L17	Town, Village & Nature	a paisagem	landscape	im	f	as paisagens						
+L17	Town, Village & Nature	a natureza	nature	im	f	—						
+L17	Town, Village & Nature	a grama	grass	im	f	—						
+L17	Town, Village & Nature	a folha	leaf; sheet	im	f	as folhas						
+L17	Town, Village & Nature	a pedra	stone	im	f	as pedras						
+L17	Town, Village & Nature	o céu	sky	im	m	os céus						
+L17	Town, Village & Nature	a estrela	star	im	f	as estrelas						
+L17	Town, Village & Nature	a lua	moon	im	f	as luas						
+L17	Town, Village & Nature	o ar	air	im	m	—						
+L17	Town, Village & Nature	o animal	animal	im	m	os animais						
+L17	Town, Village & Nature	a vaca	cow	im	f	as vacas						
+L17	Town, Village & Nature	o cavalo	horse	im	m	os cavalos						
+L17	Town, Village & Nature	a ovelha	sheep	im	f	as ovelhas						
+L17	Town, Village & Nature	o porco	pig	im	m	os porcos						
+L17	Town, Village & Nature	a galinha	hen	im	f	as galinhas						
+L17	Town, Village & Nature	o pássaro	bird	im	m	os pássaros						
+L17	Town, Village & Nature	o coelho	rabbit	im	m	os coelhos						
+L17	Town, Village & Nature	o inseto	insect	im	m	os insetos						
+L17	Town, Village & Nature	o macaco	monkey	im	m	os macacos						
+L17	Town, Village & Nature	o agricultor, a agricultora	farmer	im	m,f	os agricultores, as agricultoras						
+L17	Town, Village & Nature	o barulho	noise	im	m	os barulhos						
+L17	Town, Village & Nature	a poluição	pollution	im	f	—						
+L17	Town, Village & Nature	o engarrafamento	traffic jam	im	m	os engarrafamentos						
+L17	Town, Village & Nature	o transporte público	public transport	izraz								
+L17	Town, Village & Nature	o arranha-céu	skyscraper	im	m	os arranha-céus						
+L17	Town, Village & Nature	a periferia	outskirts	im	f	as periferias						
+L17	Town, Village & Nature	a favela	favela	im	f	as favelas						
+L17	Town, Village & Nature	o morador, a moradora	resident	im	m,f	os moradores, as moradoras						
+L17	Town, Village & Nature	a vida	life	im	f	as vidas						
+L17	Town, Village & Nature	o mundo	world	im	m	os mundos						
+L17	Town, Village & Nature	a região	region	im	f	as regiões						
+L17	Town, Village & Nature	o meio ambiente	environment	izraz								
+L17	Town, Village & Nature	a reciclagem	recycling	im	f	—						
+L17	Town, Village & Nature	a lixeira	bin	im	f	as lixeiras						
+L17	Town, Village & Nature	comparar	to compare	gl					1	comparado	comparo · compara · comparamos · comparam	comparei · comparou
+L17	Town, Village & Nature	proteger	to protect	gl					2	protegido	protejo · protege · protegemos · protegem	protegi · protegeu
+L17	Town, Village & Nature	reciclar	to recycle	gl					1	reciclado	reciclo · recicla · reciclamos · reciclam	reciclei · reciclou
+L17	Town, Village & Nature	plantar	to plant	gl					1	plantado	planto · planta · plantamos · plantam	plantei · plantou
+L17	Town, Village & Nature	mais … do que	more … than	izraz								
+L17	Town, Village & Nature	menos … do que	less … than	izraz								
+L17	Town, Village & Nature	tão … quanto	as … as	izraz								
+L17	Town, Village & Nature	o melhor	the best	izraz								
+L17	Town, Village & Nature	o pior	the worst	izraz								
+L17	Town, Village & Nature	calmo	calm	pr			calma	calmos / calmas				
+L17	Town, Village & Nature	animado	lively	pr			animada	animados / animadas				
+L17	Town, Village & Nature	puro	pure; clean	pr			pura	puros / puras				
+L17	Town, Village & Nature	poluído	polluted	pr			poluída	poluídos / poluídas				
+L17	Town, Village & Nature	selvagem	wild	pr			selvagem	selvagens / selvagens				
+L17	Town, Village & Nature	isolado	isolated	pr			isolada	isolados / isoladas				
+L17	Town, Village & Nature	deslumbrante	stunning	pr			deslumbrante	deslumbrantes / deslumbrantes				
+L17	Town, Village & Nature	perigoso	dangerous	pr			perigosa	perigosos / perigosas				
+L17	Town, Village & Nature	moderno	modern	pr			moderna	modernos / modernas				
+L17	Town, Village & Nature	típico	typical	pr			típica	típicos / típicas				
+L17	Town, Village & Nature	ecológico	eco-friendly	pr			ecológica	ecológicos / ecológicas				
+L17	Town, Village & Nature	em todo lugar	everywhere	izraz								
+L17	Town, Village & Nature	em algum lugar	somewhere	izraz								
+L17	Town, Village & Nature	em nenhum lugar	nowhere	izraz								
+L17	Town, Village & Nature	longe	far	pril								
+L17	Town, Village & Nature	perto	near	pril								
+L17	Town, Village & Nature	em volta de	around	prij								
+L17	Town, Village & Nature	no meio de	in the middle of	prij								
+L17	Town, Village & Nature	o litoral	coast	im	m	os litorais						
+L17	Town, Village & Nature	a caverna	cave	im	f	as cavernas						
+L17	Town, Village & Nature	a colheita	harvest	im	f	as colheitas						
+L17	Town, Village & Nature	o riacho	stream	im	m	os riachos						
+L17	Town, Village & Nature	o mirante	viewpoint	im	m	os mirantes						
+L18	Work & Careers	a profissão	profession	im	f	as profissões						
+L18	Work & Careers	o emprego	job	im	m	os empregos						
+L18	Work & Careers	o desemprego	unemployment	im	m	—						
+L18	Work & Careers	a empresa	company	im	f	as empresas						
+L18	Work & Careers	o chefe, a chefe	boss	im	m,f	os chefes, as chefes						
+L18	Work & Careers	o diretor, a diretora	manager; director	im	m,f	os diretores, as diretoras						
+L18	Work & Careers	o funcionário, a funcionária	employee	im	m,f	os funcionários, as funcionárias						
+L18	Work & Careers	o salário	salary	im	m	os salários						
+L18	Work & Careers	o contrato	contract	im	m	os contratos						
+L18	Work & Careers	o currículo	CV	im	m	os currículos						
+L18	Work & Careers	a carta de apresentação	cover letter	izraz								
+L18	Work & Careers	a vaga	vacancy	im	f	as vagas						
+L18	Work & Careers	o candidato, a candidata	candidate	im	m,f	os candidatos, as candidatas						
+L18	Work & Careers	a candidatura	application	im	f	as candidaturas						
+L18	Work & Careers	a experiência	experience	im	f	as experiências						
+L18	Work & Careers	a formação	training	im	f	as formações						
+L18	Work & Careers	o diploma	degree; diploma	im	m	os diplomas						
+L18	Work & Careers	o estágio	internship	im	m	os estágios						
+L18	Work & Careers	o engenheiro, a engenheira	engineer	im	m,f	os engenheiros, as engenheiras						
+L18	Work & Careers	o advogado, a advogada	lawyer	im	m,f	os advogados, as advogadas						
+L18	Work & Careers	o cozinheiro, a cozinheira	cook	im	m,f	os cozinheiros, as cozinheiras						
+L18	Work & Careers	o policial, a policial	police officer	im	m,f	os policiais, as policiais						
+L18	Work & Careers	o jornalista, a jornalista	journalist	im	m,f	os jornalistas, as jornalistas						
+L18	Work & Careers	o programador, a programadora	programmer	im	m,f	os programadores, as programadoras						
+L18	Work & Careers	o arquiteto, a arquiteta	architect	im	m,f	os arquitetos, as arquitetas						
+L18	Work & Careers	o contador, a contadora	accountant	im	m,f	os contadores, as contadoras						
+L18	Work & Careers	o cabeleireiro, a cabeleireira	hairdresser	im	m,f	os cabeleireiros, as cabeleireiras						
+L18	Work & Careers	o padeiro, a padeira	baker	im	m,f	os padeiros, as padeiras						
+L18	Work & Careers	o carteiro, a carteira	postman; postwoman	im	m,f	os carteiros, as carteiras						
+L18	Work & Careers	o artista, a artista	artist	im	m,f	os artistas, as artistas						
+L18	Work & Careers	o ator, a atriz	actor; actress	im	m,f	os atores, as atrizes						
+L18	Work & Careers	o músico, a musicista	musician	im	m,f	os músicos, as musicistas						
+L18	Work & Careers	o encanador	plumber	im	m	os encanadores						
+L18	Work & Careers	o eletricista	electrician	im	m	os eletricistas						
+L18	Work & Careers	a fábrica	factory	im	f	as fábricas						
+L18	Work & Careers	o home office	working from home	im	m	—						
+L18	Work & Careers	o futuro	future	im	m	—						
+L18	Work & Careers	a carreira	career	im	f	as carreiras						
+L18	Work & Careers	o objetivo	goal	im	m	os objetivos						
+L18	Work & Careers	a aposentadoria	retirement	im	f	as aposentadorias						
+L18	Work & Careers	o aumento	pay rise	im	m	os aumentos						
+L18	Work & Careers	a promoção	promotion	im	f	as promoções						
+L18	Work & Careers	o sócio, a sócia	partner (business)	im	m,f	os sócios, as sócias						
+L18	Work & Careers	candidatar-se	to apply	gl					1	candidatado	me candidato · se candidata · nos candidatamos · se candidatam	me candidatei · se candidatou
+L18	Work & Careers	contratar	to hire	gl					1	contratado	contrato · contrata · contratamos · contratam	contratei · contratou
+L18	Work & Careers	demitir	to fire	gl					3	demitido	demito · demite · demitimos · demitem	demiti · demitiu
+L18	Work & Careers	gerenciar	to manage	gl					1	gerenciado	gerencio · gerencia · gerenciamos · gerenciam	gerenciei · gerenciou
+L18	Work & Careers	desenvolver	to develop	gl					2	desenvolvido	desenvolvo · desenvolve · desenvolvemos · desenvolvem	desenvolvi · desenvolveu
+L18	Work & Careers	criar	to create	gl					1	criado	crio · cria · criamos · criam	criei · criou
+L18	Work & Careers	tornar-se	to become	gl					1	tornado	me torno · se torna · nos tornamos · se tornam	me tornei · se tornou
+L18	Work & Careers	aposentar-se	to retire	gl					1	aposentado	me aposento · se aposenta · nos aposentamos · se aposentam	me aposentei · se aposentou
+L18	Work & Careers	ganhar a vida	to earn a living	izraz								
+L18	Work & Careers	conseguir	to manage; to get	gl					3	conseguido	consigo · consegue · conseguimos · conseguem	consegui · conseguiu
+L18	Work & Careers	se	if	vez								
+L18	Work & Careers	quando (futuro)	when (future)	izraz								
+L18	Work & Careers	daqui a cinco anos	in five years	izraz								
+L18	Work & Careers	um dia	one day	izraz								
+L18	Work & Careers	mais tarde	later	izraz								
+L18	Work & Careers	sério	serious	pr			séria	sérios / sérias				
+L18	Work & Careers	motivado	motivated	pr			motivada	motivados / motivadas				
+L18	Work & Careers	dinâmico	dynamic	pr			dinâmica	dinâmicos / dinâmicas				
+L18	Work & Careers	responsável	responsible	pr			responsável	responsáveis / responsáveis				
+L18	Work & Careers	organizado	organised	pr			organizada	organizados / organizadas				
+L18	Work & Careers	criativo	creative	pr			criativa	criativos / criativas				
+L18	Work & Careers	paciente	patient	pr			paciente	pacientes / pacientes				
+L18	Work & Careers	profissional	professional	pr			profissional	profissionais / profissionais				
+L18	Work & Careers	em tempo integral	full-time	izraz								
+L18	Work & Careers	meio período	part-time	izraz								
+L18	Work & Careers	bem pago	well paid	izraz								
+L18	Work & Careers	internacional	international	pr			internacional	internacionais / internacionais				
+L18	Work & Careers	o desafio	challenge	im	m	os desafios						
+L18	Work & Careers	o projeto	project	im	m	os projetos						
+L18	Work & Careers	a obra	building site; work	im	f	as obras						
+L18	Work & Careers	a equipe	team (work)	im	f	as equipes						
+L18	Work & Careers	a pasta	folder; file	im	f	as pastas						
+L18	Work & Careers	o projeto arquitetônico	architectural design	izraz								
+L18	Work & Careers	o carimbo	stamp	im	m	os carimbos						
+L19	Wishes & Advice	o sonho	dream	im	m	os sonhos						
+L19	Wishes & Advice	sonhar	to dream	gl					1	sonhado	sonho · sonha · sonhamos · sonham	sonhei · sonhou
+L19	Wishes & Advice	o desejo	wish	im	m	os desejos						
+L19	Wishes & Advice	o conselho	piece of advice	im	m	os conselhos						
+L19	Wishes & Advice	aconselhar	to advise	gl					1	aconselhado	aconselho · aconselha · aconselhamos · aconselham	aconselhei · aconselhou
+L19	Wishes & Advice	propor	to propose	gl					2	proposto	proponho · propõe · propomos · propõem	propus · propôs
+L19	Wishes & Advice	sugerir	to suggest	gl					3	sugerido	sugiro · sugere · sugerimos · sugerem	sugeri · sugeriu
+L19	Wishes & Advice	recomendar	to recommend	gl					1	recomendado	recomendo · recomenda · recomendamos · recomendam	recomendei · recomendou
+L19	Wishes & Advice	imaginar	to imagine	gl					1	imaginado	imagino · imagina · imaginamos · imaginam	imaginei · imaginou
+L19	Wishes & Advice	estar com vontade de	to feel like	izraz								
+L19	Wishes & Advice	ter medo de	to be afraid of	izraz								
+L19	Wishes & Advice	ter razão	to be right	izraz								
+L19	Wishes & Advice	ter tempo	to have time	izraz								
+L19	Wishes & Advice	a loteria	lottery	im	f	as loterias						
+L19	Wishes & Advice	ganhar na loteria	to win the lottery	izraz								
+L19	Wishes & Advice	o milhão	million	im	m	os milhões						
+L19	Wishes & Advice	rico	rich	pr			rica	ricos / ricas				
+L19	Wishes & Advice	pobre	poor	pr			pobre	pobres / pobres				
+L19	Wishes & Advice	a riqueza	wealth	im	f	—						
+L19	Wishes & Advice	o dinheiro	money	im	m	—						
+L19	Wishes & Advice	gastar	to spend (money)	gl					1	gasto	gasto · gasta · gastamos · gastam	gastei · gastou
+L19	Wishes & Advice	economizar	to save	gl					1	economizado	economizo · economiza · economizamos · economizam	economizei · economizou
+L19	Wishes & Advice	emprestar	to lend	gl					1	emprestado	empresto · empresta · emprestamos · emprestam	emprestei · emprestou
+L19	Wishes & Advice	pegar emprestado	to borrow	izraz								
+L19	Wishes & Advice	a volta ao mundo	round-the-world trip	izraz								
+L19	Wishes & Advice	o veleiro	sailing boat	im	m	os veleiros						
+L19	Wishes & Advice	o luxo	luxury	im	m	—						
+L19	Wishes & Advice	o cruzeiro	cruise	im	m	os cruzeiros						
+L19	Wishes & Advice	a liberdade	freedom	im	f	as liberdades						
+L19	Wishes & Advice	a felicidade	happiness	im	f	—						
+L19	Wishes & Advice	a sorte	luck	im	f	as sortes						
+L19	Wishes & Advice	a possibilidade	possibility	im	f	as possibilidades						
+L19	Wishes & Advice	a escolha	choice	im	f	as escolhas						
+L19	Wishes & Advice	a decisão	decision	im	f	as decisões						
+L19	Wishes & Advice	decidir	to decide	gl					3	decidido	decido · decide · decidimos · decidem	decidi · decidiu
+L19	Wishes & Advice	tentar	to try	gl					1	tentado	tento · tenta · tentamos · tentam	tentei · tentou
+L19	Wishes & Advice	parar de	to stop (doing)	izraz								
+L19	Wishes & Advice	começar a	to start (doing)	izraz								
+L19	Wishes & Advice	continuar a	to keep (doing)	izraz								
+L19	Wishes & Advice	você deveria	you should	izraz								
+L19	Wishes & Advice	seria melhor	it would be better	izraz								
+L19	Wishes & Advice	eu gostaria de	I would like to	izraz								
+L19	Wishes & Advice	no seu lugar	if I were you	izraz								
+L19	Wishes & Advice	de verdade	really	izraz								
+L19	Wishes & Advice	com certeza	certainly	izraz								
+L19	Wishes & Advice	provavelmente	probably	pril								
+L19	Wishes & Advice	senão	otherwise	vez								
+L19	Wishes & Advice	porém	however	vez								
+L19	Wishes & Advice	até	even; until	prij								
+L19	Wishes & Advice	a solução	solution	im	f	as soluções						
+L19	Wishes & Advice	a ideia	idea	im	f	as ideias						
+L19	Wishes & Advice	a meta	goal	im	f	as metas						
+L19	Wishes & Advice	a coragem	courage	im	f	—						
+L19	Wishes & Advice	a paciência	patience	im	f	—						
+L19	Wishes & Advice	a verdade	truth	im	f	as verdades						
+L19	Wishes & Advice	a esperança	hope	im	f	as esperanças						
+L19	Wishes & Advice	o orçamento	budget	im	m	os orçamentos						
+L19	Wishes & Advice	generoso	generous	pr			generosa	generosos / generosas				
+L19	Wishes & Advice	egoísta	selfish	pr			egoísta	egoístas / egoístas				
+L19	Wishes & Advice	cuidadoso	careful	pr			cuidadosa	cuidadosos / cuidadosas				
+L19	Wishes & Advice	possível	possible	pr			possível	possíveis / possíveis				
+L19	Wishes & Advice	impossível	impossible	pr			impossível	impossíveis / impossíveis				
+L19	Wishes & Advice	ideal	ideal	pr			ideal	ideais / ideais				
+L19	Wishes & Advice	perfeito	perfect	pr			perfeita	perfeitos / perfeitas				
+L19	Wishes & Advice	importante	important	pr			importante	importantes / importantes				
+L19	Wishes & Advice	necessário	necessary	pr			necessária	necessários / necessárias				
+L19	Wishes & Advice	a dúvida	doubt	im	f	as dúvidas						
+L19	Wishes & Advice	a oportunidade	opportunity	im	f	as oportunidades						
+L19	Wishes & Advice	a casa na praia	beach house	izraz								
+L19	Wishes & Advice	o voluntariado	volunteering	im	m	os voluntariados						
+L19	Wishes & Advice	doar	to donate	gl					1	doado	doo · doa · doamos · doam	doei · doou
+L19	Wishes & Advice	melhorar de vida	to improve one's life	izraz								
+L19	Wishes & Advice	o sossego	peace and quiet	im	m	—						
+L19	Wishes & Advice	a calma	calm	im	f	—						
+L19	Wishes & Advice	a casinha	little house	im	f	as casinhas						
+L19	Wishes & Advice	a vista para o mar	sea view	izraz								
+L19	Wishes & Advice	a rede	hammock; network	im	f	as redes						
+L20	Memories & the Future	a memória	memory	im	f	as memórias						
+L20	Memories & the Future	inesquecível	unforgettable	pr			inesquecível	inesquecíveis / inesquecíveis				
+L20	Memories & the Future	a volta	return	im	f	as voltas						
+L20	Memories & the Future	regressar	to return	gl					1	regressado	regresso · regressa · regressamos · regressam	regressei · regressou
+L20	Memories & the Future	deixar	to leave; to let	gl					1	deixado	deixo · deixa · deixamos · deixam	deixei · deixou
+L20	Memories & the Future	despedir-se	to say goodbye	gl					3	despedido	me despeço · se despede · nos despedimos · se despedem	me despedi · se despediu
+L20	Memories & the Future	sentir falta de	to miss	izraz								
+L20	Memories & the Future	estou com saudade	I miss (you)	izraz								
+L20	Memories & the Future	a saudade	longing; missing someone	im	f	as saudades						
+L20	Memories & the Future	sentir-se em casa	to feel at home	izraz								
+L20	Memories & the Future	a amizade	friendship	im	f	as amizades						
+L20	Memories & the Future	o amor	love	im	m	os amores						
+L20	Memories & the Future	o sentimento	feeling	im	m	os sentimentos						
+L20	Memories & the Future	a alegria	joy	im	f	as alegrias						
+L20	Memories & the Future	a tristeza	sadness	im	f	—						
+L20	Memories & the Future	a emoção	emotion	im	f	as emoções						
+L20	Memories & the Future	o fim	end	im	m	os fins						
+L20	Memories & the Future	o começo	beginning	im	m	os começos						
+L20	Memories & the Future	a transformação	transformation	im	f	as transformações						
+L20	Memories & the Future	o progresso	progress	im	m	os progressos						
+L20	Memories & the Future	o nível	level	im	m	os níveis						
+L20	Memories & the Future	o certificado	certificate	im	m	os certificados						
+L20	Memories & the Future	o sucesso	success	im	m	os sucessos						
+L20	Memories & the Future	a aventura	adventure	im	f	as aventuras						
+L20	Memories & the Future	o capítulo	chapter	im	m	os capítulos						
+L20	Memories & the Future	a etapa	stage	im	f	as etapas						
+L20	Memories & the Future	o ano que vem	next year	izraz								
+L20	Memories & the Future	o ano passado	last year	izraz								
+L20	Memories & the Future	há um ano	a year ago	izraz								
+L20	Memories & the Future	daqui a um ano	in a year	izraz								
+L20	Memories & the Future	para sempre	forever	izraz								
+L20	Memories & the Future	de novo	again	izraz								
+L20	Memories & the Future	que (relativo)	who; which; that	zam								
+L20	Memories & the Future	onde (relativo)	where	izraz								
+L20	Memories & the Future	o que (relativo)	what	izraz								
+L20	Memories & the Future	pensar	to think	gl					1	pensado	penso · pensa · pensamos · pensam	pensei · pensou
+L20	Memories & the Future	acreditar	to believe	gl					1	acreditado	acredito · acredita · acreditamos · acreditam	acreditei · acreditou
+L20	Memories & the Future	espero que	I hope that	izraz								
+L20	Memories & the Future	compartilhar	to share	gl					1	compartilhado	compartilho · compartilha · compartilhamos · compartilham	compartilhei · compartilhou
+L20	Memories & the Future	guardar	to keep	gl					1	guardado	guardo · guarda · guardamos · guardam	guardei · guardou
+L20	Memories & the Future	prometer	to promise	gl					2	prometido	prometo · promete · prometemos · prometem	prometi · prometeu
+L20	Memories & the Future	manter contato	to keep in touch	izraz								
+L20	Memories & the Future	permanecer	to remain	gl					2	permanecido	permaneço · permanece · permanecemos · permanecem	permaneci · permaneceu
+L20	Memories & the Future	graças a	thanks to	prij								
+L20	Memories & the Future	apesar de	despite	prij								
+L20	Memories & the Future	por causa de	because of	prij								
+L20	Memories & the Future	por isso	so; that's why	izraz								
+L20	Memories & the Future	enquanto	while	vez								
+L20	Memories & the Future	desde que	since	izraz								
+L20	Memories & the Future	desde	since; from	prij								
+L20	Memories & the Future	assim que	as soon as	izraz								
+L20	Memories & the Future	todo mundo	everyone	izraz								
+L20	Memories & the Future	algum	some; any	pr			alguma	alguns / algumas				
+L20	Memories & the Future	nenhum	no; none	pr			nenhuma	nenhuns / nenhumas				
+L20	Memories & the Future	cada um	each one	izraz								
+L20	Memories & the Future	tudo	everything	zam								
+L20	Memories & the Future	vários	several	pr			várias	vários / várias				
+L20	Memories & the Future	mesmo	same; even	pr			mesma	mesmos / mesmas				
+L20	Memories & the Future	diferente	different	pr			diferente	diferentes / diferentes				
+L20	Memories & the Future	outro	other; another	pr			outra	outros / outras				
+L20	Memories & the Future	querido	dear	pr			querida	queridos / queridas				
+L20	Memories & the Future	fiel	loyal	pr			fiel	fiéis / fiéis				
+L20	Memories & the Future	grato	grateful	pr			grata	gratos / gratas				
+L20	Memories & the Future	emocionante	exciting; moving	pr			emocionante	emocionantes / emocionantes				
+L20	Memories & the Future	a coisa	thing	im	f	as coisas						
+L20	Memories & the Future	o destino	fate	im	m	os destinos						
+L20	Memories & the Future	a sabedoria	wisdom	im	f	—						
+L20	Memories & the Future	a despedida	farewell	im	f	as despedidas						
+L20	Memories & the Future	o instante	instant	im	m	os instantes						
+L20	Memories & the Future	emocionado	moved	pr			emocionada	emocionados / emocionadas				
+L20	Memories & the Future	nunca mais	never again	izraz								
+L20	Memories & the Future	o álbum	album	im	m	os álbuns						
+L20	Memories & the Future	a formatura	graduation	im	f	as formaturas						
+L20	Memories & the Future	o reencontro	reunion	im	m	os reencontros						
+L20	Memories & the Future	o porvir	future	im	m	—						
+L20	Memories & the Future	realizar	to fulfil; to achieve	gl					1	realizado	realizo · realiza · realizamos · realizam	realizei · realizou
+L20	Memories & the Future	a gratidão	gratitude	im	f	—						
+L20	Memories & the Future	o carioca, a carioca	person from Rio	im	m,f	os cariocas, as cariocas						
+L20	Memories & the Future	a nostalgia	nostalgia	im	f	—						
+L20	Memories & the Future	o horizonte	horizon	im	m	os horizontes						
+L20	Memories & the Future	o pôr do sol	sunset	izraz								
+L20	Memories & the Future	o recomeço	new beginning	im	m	os recomeços						

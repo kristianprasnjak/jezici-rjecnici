@@ -51,4 +51,4 @@ Riječi: **1360** · greške: **0** · upozorenja: **0**
 |---|---|---:|
 | imenica | rod, mnozina | 717 / 717 |
 | pridjev | zenski, mnozina_pr | 148 / 148 |
-| glagol | gl_skupina, particip, prezent | 177 / 177 |
+| glagol | gl_skupina, particip, prezent, preterit | 177 / 177 |

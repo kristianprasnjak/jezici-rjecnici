@@ -57,7 +57,7 @@
 {"razina": 1, "tema": "Greetings & Countries", "pt": "e", "en": "and", "vrsta": "vez"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "meu nome é", "en": "my name is", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "prazer", "en": "nice to meet you", "vrsta": "izraz"}
-{"razina": 1, "tema": "Greetings & Countries", "pt": "ser", "en": "to be", "vrsta": "gl", "gl_skupina": "2", "particip": "sido", "prezent": "sou · é · somos · são"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "ser", "en": "to be", "vrsta": "gl", "gl_skupina": "2", "particip": "sido", "prezent": "sou · é · somos · são", "preterit": "fui · foi"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "eu", "en": "I", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "você", "en": "you", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "ele", "en": "he", "vrsta": "zam"}
@@ -140,28 +140,28 @@
 {"razina": 2, "tema": "The Flat & Colours", "pt": "iluminado", "en": "bright; well-lit", "vrsta": "pr", "zenski": "iluminada", "mnozina_pr": "iluminados / iluminadas"}
 {"razina": 2, "tema": "The Flat & Colours", "pt": "o ventilador", "en": "fan", "vrsta": "im", "rod": "m", "mnozina": "os ventiladores"}
 {"razina": 2, "tema": "The Flat & Colours", "pt": "mas", "en": "but", "vrsta": "vez"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "falar", "en": "to speak", "vrsta": "gl", "gl_skupina": "1", "particip": "falado", "prezent": "falo · fala · falamos · falam"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "trabalhar", "en": "to work", "vrsta": "gl", "gl_skupina": "1", "particip": "trabalhado", "prezent": "trabalho · trabalha · trabalhamos · trabalham"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "morar", "en": "to live (somewhere)", "vrsta": "gl", "gl_skupina": "1", "particip": "morado", "prezent": "moro · mora · moramos · moram"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "estudar", "en": "to study", "vrsta": "gl", "gl_skupina": "1", "particip": "estudado", "prezent": "estudo · estuda · estudamos · estudam"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "comer", "en": "to eat", "vrsta": "gl", "gl_skupina": "2", "particip": "comido", "prezent": "como · come · comemos · comem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "beber", "en": "to drink", "vrsta": "gl", "gl_skupina": "2", "particip": "bebido", "prezent": "bebo · bebe · bebemos · bebem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "olhar", "en": "to look", "vrsta": "gl", "gl_skupina": "1", "particip": "olhado", "prezent": "olho · olha · olhamos · olham"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ver", "en": "to see; to watch", "vrsta": "gl", "gl_skupina": "2", "particip": "visto", "prezent": "vejo · vê · vemos · veem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "assistir", "en": "to watch (TV)", "vrsta": "gl", "gl_skupina": "3", "particip": "assistido", "prezent": "assisto · assiste · assistimos · assistem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "escutar", "en": "to listen to", "vrsta": "gl", "gl_skupina": "1", "particip": "escutado", "prezent": "escuto · escuta · escutamos · escutam"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "cozinhar", "en": "to cook", "vrsta": "gl", "gl_skupina": "1", "particip": "cozinhado", "prezent": "cozinho · cozinha · cozinhamos · cozinham"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "cantar", "en": "to sing", "vrsta": "gl", "gl_skupina": "1", "particip": "cantado", "prezent": "canto · canta · cantamos · cantam"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "dançar", "en": "to dance", "vrsta": "gl", "gl_skupina": "1", "particip": "dançado", "prezent": "danço · dança · dançamos · dançam"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "andar", "en": "to walk", "vrsta": "gl", "gl_skupina": "1", "particip": "andado", "prezent": "ando · anda · andamos · andam"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ler", "en": "to read", "vrsta": "gl", "gl_skupina": "2", "particip": "lido", "prezent": "leio · lê · lemos · leem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "escrever", "en": "to write", "vrsta": "gl", "gl_skupina": "2", "particip": "escrito", "prezent": "escrevo · escreve · escrevemos · escrevem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "aprender", "en": "to learn", "vrsta": "gl", "gl_skupina": "2", "particip": "aprendido", "prezent": "aprendo · aprende · aprendemos · aprendem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "entender", "en": "to understand", "vrsta": "gl", "gl_skupina": "2", "particip": "entendido", "prezent": "entendo · entende · entendemos · entendem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "abrir", "en": "to open", "vrsta": "gl", "gl_skupina": "3", "particip": "aberto", "prezent": "abro · abre · abrimos · abrem"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ligar", "en": "to call; to switch on", "vrsta": "gl", "gl_skupina": "1", "particip": "ligado", "prezent": "ligo · liga · ligamos · ligam"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "tomar", "en": "to take; to drink", "vrsta": "gl", "gl_skupina": "1", "particip": "tomado", "prezent": "tomo · toma · tomamos · tomam"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "chegar", "en": "to arrive", "vrsta": "gl", "gl_skupina": "1", "particip": "chegado", "prezent": "chego · chega · chegamos · chegam"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "falar", "en": "to speak", "vrsta": "gl", "gl_skupina": "1", "particip": "falado", "prezent": "falo · fala · falamos · falam", "preterit": "falei · falou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "trabalhar", "en": "to work", "vrsta": "gl", "gl_skupina": "1", "particip": "trabalhado", "prezent": "trabalho · trabalha · trabalhamos · trabalham", "preterit": "trabalhei · trabalhou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "morar", "en": "to live (somewhere)", "vrsta": "gl", "gl_skupina": "1", "particip": "morado", "prezent": "moro · mora · moramos · moram", "preterit": "morei · morou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "estudar", "en": "to study", "vrsta": "gl", "gl_skupina": "1", "particip": "estudado", "prezent": "estudo · estuda · estudamos · estudam", "preterit": "estudei · estudou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "comer", "en": "to eat", "vrsta": "gl", "gl_skupina": "2", "particip": "comido", "prezent": "como · come · comemos · comem", "preterit": "comi · comeu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "beber", "en": "to drink", "vrsta": "gl", "gl_skupina": "2", "particip": "bebido", "prezent": "bebo · bebe · bebemos · bebem", "preterit": "bebi · bebeu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "olhar", "en": "to look", "vrsta": "gl", "gl_skupina": "1", "particip": "olhado", "prezent": "olho · olha · olhamos · olham", "preterit": "olhei · olhou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ver", "en": "to see; to watch", "vrsta": "gl", "gl_skupina": "2", "particip": "visto", "prezent": "vejo · vê · vemos · veem", "preterit": "vi · viu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "assistir", "en": "to watch (TV)", "vrsta": "gl", "gl_skupina": "3", "particip": "assistido", "prezent": "assisto · assiste · assistimos · assistem", "preterit": "assisti · assistiu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "escutar", "en": "to listen to", "vrsta": "gl", "gl_skupina": "1", "particip": "escutado", "prezent": "escuto · escuta · escutamos · escutam", "preterit": "escutei · escutou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "cozinhar", "en": "to cook", "vrsta": "gl", "gl_skupina": "1", "particip": "cozinhado", "prezent": "cozinho · cozinha · cozinhamos · cozinham", "preterit": "cozinhei · cozinhou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "cantar", "en": "to sing", "vrsta": "gl", "gl_skupina": "1", "particip": "cantado", "prezent": "canto · canta · cantamos · cantam", "preterit": "cantei · cantou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "dançar", "en": "to dance", "vrsta": "gl", "gl_skupina": "1", "particip": "dançado", "prezent": "danço · dança · dançamos · dançam", "preterit": "dancei · dançou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "andar", "en": "to walk", "vrsta": "gl", "gl_skupina": "1", "particip": "andado", "prezent": "ando · anda · andamos · andam", "preterit": "andei · andou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ler", "en": "to read", "vrsta": "gl", "gl_skupina": "2", "particip": "lido", "prezent": "leio · lê · lemos · leem", "preterit": "li · leu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "escrever", "en": "to write", "vrsta": "gl", "gl_skupina": "2", "particip": "escrito", "prezent": "escrevo · escreve · escrevemos · escrevem", "preterit": "escrevi · escreveu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "aprender", "en": "to learn", "vrsta": "gl", "gl_skupina": "2", "particip": "aprendido", "prezent": "aprendo · aprende · aprendemos · aprendem", "preterit": "aprendi · aprendeu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "entender", "en": "to understand", "vrsta": "gl", "gl_skupina": "2", "particip": "entendido", "prezent": "entendo · entende · entendemos · entendem", "preterit": "entendi · entendeu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "abrir", "en": "to open", "vrsta": "gl", "gl_skupina": "3", "particip": "aberto", "prezent": "abro · abre · abrimos · abrem", "preterit": "abri · abriu"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ligar", "en": "to call; to switch on", "vrsta": "gl", "gl_skupina": "1", "particip": "ligado", "prezent": "ligo · liga · ligamos · ligam", "preterit": "liguei · ligou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "tomar", "en": "to take; to drink", "vrsta": "gl", "gl_skupina": "1", "particip": "tomado", "prezent": "tomo · toma · tomamos · tomam", "preterit": "tomei · tomou"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "chegar", "en": "to arrive", "vrsta": "gl", "gl_skupina": "1", "particip": "chegado", "prezent": "chego · chega · chegamos · chegam", "preterit": "cheguei · chegou"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "precisar de", "en": "to need", "vrsta": "izraz"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "o dia", "en": "day", "vrsta": "im", "rod": "m", "mnozina": "os dias"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "a semana", "en": "week", "vrsta": "im", "rod": "f", "mnozina": "as semanas"}
@@ -223,7 +223,7 @@
 {"razina": 4, "tema": "Family & Age", "pt": "o cachorro", "en": "dog", "vrsta": "im", "rod": "m", "mnozina": "os cachorros"}
 {"razina": 4, "tema": "Family & Age", "pt": "o gato", "en": "cat", "vrsta": "im", "rod": "m", "mnozina": "os gatos"}
 {"razina": 4, "tema": "Family & Age", "pt": "o bebê", "en": "baby", "vrsta": "im", "rod": "m", "mnozina": "os bebês"}
-{"razina": 4, "tema": "Family & Age", "pt": "ter", "en": "to have", "vrsta": "gl", "gl_skupina": "2", "particip": "tido", "prezent": "tenho · tem · temos · têm"}
+{"razina": 4, "tema": "Family & Age", "pt": "ter", "en": "to have", "vrsta": "gl", "gl_skupina": "2", "particip": "tido", "prezent": "tenho · tem · temos · têm", "preterit": "tive · teve"}
 {"razina": 4, "tema": "Family & Age", "pt": "o ano", "en": "year", "vrsta": "im", "rod": "m", "mnozina": "os anos"}
 {"razina": 4, "tema": "Family & Age", "pt": "o aniversário", "en": "birthday", "vrsta": "im", "rod": "m", "mnozina": "os aniversários"}
 {"razina": 4, "tema": "Family & Age", "pt": "quantos anos você tem?", "en": "how old are you?", "vrsta": "izraz"}
@@ -294,9 +294,9 @@
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a verdura", "en": "vegetables", "vrsta": "im", "rod": "f", "mnozina": "as verduras"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "eu queria", "en": "I would like", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "quanto custa?", "en": "how much is it?", "vrsta": "izraz"}
-{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "comprar", "en": "to buy", "vrsta": "gl", "gl_skupina": "1", "particip": "comprado", "prezent": "compro · compra · compramos · compram"}
-{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "custar", "en": "to cost", "vrsta": "gl", "gl_skupina": "1", "particip": "custado", "prezent": "custo · custa · custamos · custam"}
-{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "pagar", "en": "to pay", "vrsta": "gl", "gl_skupina": "1", "particip": "pago", "prezent": "pago · paga · pagamos · pagam"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "comprar", "en": "to buy", "vrsta": "gl", "gl_skupina": "1", "particip": "comprado", "prezent": "compro · compra · compramos · compram", "preterit": "comprei · comprou"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "custar", "en": "to cost", "vrsta": "gl", "gl_skupina": "1", "particip": "custado", "prezent": "custo · custa · custamos · custam", "preterit": "custei · custou"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "pagar", "en": "to pay", "vrsta": "gl", "gl_skupina": "1", "particip": "pago", "prezent": "pago · paga · pagamos · pagam", "preterit": "paguei · pagou"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o centavo", "en": "cent", "vrsta": "im", "rod": "m", "mnozina": "os centavos"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o preço", "en": "price", "vrsta": "im", "rod": "m", "mnozina": "os preços"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "caro", "en": "expensive", "vrsta": "pr", "zenski": "cara", "mnozina_pr": "caros / caras"}
@@ -332,14 +332,14 @@
 {"razina": 6, "tema": "City & Directions", "pt": "a padaria", "en": "bakery", "vrsta": "im", "rod": "f", "mnozina": "as padarias"}
 {"razina": 6, "tema": "City & Directions", "pt": "a banca de jornal", "en": "newsstand", "vrsta": "izraz"}
 {"razina": 6, "tema": "City & Directions", "pt": "o metrô", "en": "underground", "vrsta": "im", "rod": "m", "mnozina": "os metrôs"}
-{"razina": 6, "tema": "City & Directions", "pt": "estar", "en": "to be (state, location)", "vrsta": "gl", "gl_skupina": "1", "particip": "estado", "prezent": "estou · está · estamos · estão"}
-{"razina": 6, "tema": "City & Directions", "pt": "ficar", "en": "to be located; to stay", "vrsta": "gl", "gl_skupina": "1", "particip": "ficado", "prezent": "fico · fica · ficamos · ficam"}
-{"razina": 6, "tema": "City & Directions", "pt": "ir", "en": "to go", "vrsta": "gl", "gl_skupina": "3", "particip": "ido", "prezent": "vou · vai · vamos · vão"}
-{"razina": 6, "tema": "City & Directions", "pt": "virar", "en": "to turn", "vrsta": "gl", "gl_skupina": "1", "particip": "virado", "prezent": "viro · vira · viramos · viram"}
-{"razina": 6, "tema": "City & Directions", "pt": "atravessar", "en": "to cross", "vrsta": "gl", "gl_skupina": "1", "particip": "atravessado", "prezent": "atravesso · atravessa · atravessamos · atravessam"}
-{"razina": 6, "tema": "City & Directions", "pt": "seguir", "en": "to follow; to continue", "vrsta": "gl", "gl_skupina": "3", "particip": "seguido", "prezent": "sigo · segue · seguimos · seguem"}
-{"razina": 6, "tema": "City & Directions", "pt": "procurar", "en": "to look for", "vrsta": "gl", "gl_skupina": "1", "particip": "procurado", "prezent": "procuro · procura · procuramos · procuram"}
-{"razina": 6, "tema": "City & Directions", "pt": "encontrar", "en": "to find; to meet", "vrsta": "gl", "gl_skupina": "1", "particip": "encontrado", "prezent": "encontro · encontra · encontramos · encontram"}
+{"razina": 6, "tema": "City & Directions", "pt": "estar", "en": "to be (state, location)", "vrsta": "gl", "gl_skupina": "1", "particip": "estado", "prezent": "estou · está · estamos · estão", "preterit": "estive · esteve"}
+{"razina": 6, "tema": "City & Directions", "pt": "ficar", "en": "to be located; to stay", "vrsta": "gl", "gl_skupina": "1", "particip": "ficado", "prezent": "fico · fica · ficamos · ficam", "preterit": "fiquei · ficou"}
+{"razina": 6, "tema": "City & Directions", "pt": "ir", "en": "to go", "vrsta": "gl", "gl_skupina": "3", "particip": "ido", "prezent": "vou · vai · vamos · vão", "preterit": "fui · foi"}
+{"razina": 6, "tema": "City & Directions", "pt": "virar", "en": "to turn", "vrsta": "gl", "gl_skupina": "1", "particip": "virado", "prezent": "viro · vira · viramos · viram", "preterit": "virei · virou"}
+{"razina": 6, "tema": "City & Directions", "pt": "atravessar", "en": "to cross", "vrsta": "gl", "gl_skupina": "1", "particip": "atravessado", "prezent": "atravesso · atravessa · atravessamos · atravessam", "preterit": "atravessei · atravessou"}
+{"razina": 6, "tema": "City & Directions", "pt": "seguir", "en": "to follow; to continue", "vrsta": "gl", "gl_skupina": "3", "particip": "seguido", "prezent": "sigo · segue · seguimos · seguem", "preterit": "segui · seguiu"}
+{"razina": 6, "tema": "City & Directions", "pt": "procurar", "en": "to look for", "vrsta": "gl", "gl_skupina": "1", "particip": "procurado", "prezent": "procuro · procura · procuramos · procuram", "preterit": "procurei · procurou"}
+{"razina": 6, "tema": "City & Directions", "pt": "encontrar", "en": "to find; to meet", "vrsta": "gl", "gl_skupina": "1", "particip": "encontrado", "prezent": "encontro · encontra · encontramos · encontram", "preterit": "encontrei · encontrou"}
 {"razina": 6, "tema": "City & Directions", "pt": "no, na", "en": "in the", "vrsta": "prij"}
 {"razina": 6, "tema": "City & Directions", "pt": "do, da", "en": "of the; from the", "vrsta": "prij"}
 {"razina": 6, "tema": "City & Directions", "pt": "ao, à", "en": "to the", "vrsta": "prij"}
@@ -376,23 +376,23 @@
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "o tempo livre", "en": "free time", "vrsta": "izraz"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "o hobby", "en": "hobby", "vrsta": "im", "rod": "m", "mnozina": "os hobbies"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "gostar de", "en": "to like", "vrsta": "izraz"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "adorar", "en": "to love", "vrsta": "gl", "gl_skupina": "1", "particip": "adorado", "prezent": "adoro · adora · adoramos · adoram"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "odiar", "en": "to hate", "vrsta": "gl", "gl_skupina": "1", "particip": "odiado", "prezent": "odeio · odeia · odiamos · odeiam"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "querer", "en": "to want", "vrsta": "gl", "gl_skupina": "2", "particip": "querido", "prezent": "quero · quer · queremos · querem"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "preferir", "en": "to prefer", "vrsta": "gl", "gl_skupina": "3", "particip": "preferido", "prezent": "prefiro · prefere · preferimos · preferem"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "poder", "en": "can; to be able to", "vrsta": "gl", "gl_skupina": "2", "particip": "podido", "prezent": "posso · pode · podemos · podem"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "fazer", "en": "to do; to make", "vrsta": "gl", "gl_skupina": "2", "particip": "feito", "prezent": "faço · faz · fazemos · fazem"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "sair", "en": "to go out", "vrsta": "gl", "gl_skupina": "3", "particip": "saído", "prezent": "saio · sai · saímos · saem"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "dormir", "en": "to sleep", "vrsta": "gl", "gl_skupina": "3", "particip": "dormido", "prezent": "durmo · dorme · dormimos · dormem"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "jogar", "en": "to play (a game)", "vrsta": "gl", "gl_skupina": "1", "particip": "jogado", "prezent": "jogo · joga · jogamos · jogam"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "tocar", "en": "to play (an instrument); to touch", "vrsta": "gl", "gl_skupina": "1", "particip": "tocado", "prezent": "toco · toca · tocamos · tocam"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "nadar", "en": "to swim", "vrsta": "gl", "gl_skupina": "1", "particip": "nadado", "prezent": "nado · nada · nadamos · nadam"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "correr", "en": "to run", "vrsta": "gl", "gl_skupina": "2", "particip": "corrido", "prezent": "corro · corre · corremos · correm"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "surfar", "en": "to surf", "vrsta": "gl", "gl_skupina": "1", "particip": "surfado", "prezent": "surfo · surfa · surfamos · surfam"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "viajar", "en": "to travel", "vrsta": "gl", "gl_skupina": "1", "particip": "viajado", "prezent": "viajo · viaja · viajamos · viajam"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "desenhar", "en": "to draw", "vrsta": "gl", "gl_skupina": "1", "particip": "desenhado", "prezent": "desenho · desenha · desenhamos · desenham"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "pintar", "en": "to paint", "vrsta": "gl", "gl_skupina": "1", "particip": "pintado", "prezent": "pinto · pinta · pintamos · pintam"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "passear", "en": "to go for a walk", "vrsta": "gl", "gl_skupina": "1", "particip": "passeado", "prezent": "passeio · passeia · passeamos · passeiam"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "adorar", "en": "to love", "vrsta": "gl", "gl_skupina": "1", "particip": "adorado", "prezent": "adoro · adora · adoramos · adoram", "preterit": "adorei · adorou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "odiar", "en": "to hate", "vrsta": "gl", "gl_skupina": "1", "particip": "odiado", "prezent": "odeio · odeia · odiamos · odeiam", "preterit": "odiei · odiou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "querer", "en": "to want", "vrsta": "gl", "gl_skupina": "2", "particip": "querido", "prezent": "quero · quer · queremos · querem", "preterit": "quis · quis"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "preferir", "en": "to prefer", "vrsta": "gl", "gl_skupina": "3", "particip": "preferido", "prezent": "prefiro · prefere · preferimos · preferem", "preterit": "preferi · preferiu"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "poder", "en": "can; to be able to", "vrsta": "gl", "gl_skupina": "2", "particip": "podido", "prezent": "posso · pode · podemos · podem", "preterit": "pude · pôde"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "fazer", "en": "to do; to make", "vrsta": "gl", "gl_skupina": "2", "particip": "feito", "prezent": "faço · faz · fazemos · fazem", "preterit": "fiz · fez"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "sair", "en": "to go out", "vrsta": "gl", "gl_skupina": "3", "particip": "saído", "prezent": "saio · sai · saímos · saem", "preterit": "saí · saiu"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "dormir", "en": "to sleep", "vrsta": "gl", "gl_skupina": "3", "particip": "dormido", "prezent": "durmo · dorme · dormimos · dormem", "preterit": "dormi · dormiu"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "jogar", "en": "to play (a game)", "vrsta": "gl", "gl_skupina": "1", "particip": "jogado", "prezent": "jogo · joga · jogamos · jogam", "preterit": "joguei · jogou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "tocar", "en": "to play (an instrument); to touch", "vrsta": "gl", "gl_skupina": "1", "particip": "tocado", "prezent": "toco · toca · tocamos · tocam", "preterit": "toquei · tocou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "nadar", "en": "to swim", "vrsta": "gl", "gl_skupina": "1", "particip": "nadado", "prezent": "nado · nada · nadamos · nadam", "preterit": "nadei · nadou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "correr", "en": "to run", "vrsta": "gl", "gl_skupina": "2", "particip": "corrido", "prezent": "corro · corre · corremos · correm", "preterit": "corri · correu"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "surfar", "en": "to surf", "vrsta": "gl", "gl_skupina": "1", "particip": "surfado", "prezent": "surfo · surfa · surfamos · surfam", "preterit": "surfei · surfou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "viajar", "en": "to travel", "vrsta": "gl", "gl_skupina": "1", "particip": "viajado", "prezent": "viajo · viaja · viajamos · viajam", "preterit": "viajei · viajou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "desenhar", "en": "to draw", "vrsta": "gl", "gl_skupina": "1", "particip": "desenhado", "prezent": "desenho · desenha · desenhamos · desenham", "preterit": "desenhei · desenhou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "pintar", "en": "to paint", "vrsta": "gl", "gl_skupina": "1", "particip": "pintado", "prezent": "pinto · pinta · pintamos · pintam", "preterit": "pintei · pintou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "passear", "en": "to go for a walk", "vrsta": "gl", "gl_skupina": "1", "particip": "passeado", "prezent": "passeio · passeia · passeamos · passeiam", "preterit": "passeei · passeou"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "andar de bicicleta", "en": "to ride a bike", "vrsta": "izraz"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "a bicicleta", "en": "bicycle", "vrsta": "im", "rod": "f", "mnozina": "as bicicletas"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "a natação", "en": "swimming", "vrsta": "im", "rod": "f", "mnozina": "—"}
@@ -427,33 +427,33 @@
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "cansado", "en": "tired", "vrsta": "pr", "zenski": "cansada", "mnozina_pr": "cansados / cansadas"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "cada", "en": "each; every", "vrsta": "pr", "zenski": "cada", "mnozina_pr": "— / —"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "também não", "en": "neither; not either", "vrsta": "izraz"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "ganhar", "en": "to win; to earn", "vrsta": "gl", "gl_skupina": "1", "particip": "ganho", "prezent": "ganho · ganha · ganhamos · ganham"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "perder", "en": "to lose; to miss", "vrsta": "gl", "gl_skupina": "2", "particip": "perdido", "prezent": "perco · perde · perdemos · perdem"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "ganhar", "en": "to win; to earn", "vrsta": "gl", "gl_skupina": "1", "particip": "ganho", "prezent": "ganho · ganha · ganhamos · ganham", "preterit": "ganhei · ganhou"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "perder", "en": "to lose; to miss", "vrsta": "gl", "gl_skupina": "2", "particip": "perdido", "prezent": "perco · perde · perdemos · perdem", "preterit": "perdi · perdeu"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "o campo", "en": "field; countryside", "vrsta": "im", "rod": "m", "mnozina": "os campos"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "cedo", "en": "early", "vrsta": "pril"}
-{"razina": 7, "tema": "Hobbies & Sport", "pt": "acordar", "en": "to wake up", "vrsta": "gl", "gl_skupina": "1", "particip": "acordado", "prezent": "acordo · acorda · acordamos · acordam"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "acordar", "en": "to wake up", "vrsta": "gl", "gl_skupina": "1", "particip": "acordado", "prezent": "acordo · acorda · acordamos · acordam", "preterit": "acordei · acordou"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "a festa", "en": "party", "vrsta": "im", "rod": "f", "mnozina": "as festas"}
-{"razina": 8, "tema": "Routine & Time", "pt": "levantar-se", "en": "to get up", "vrsta": "gl", "gl_skupina": "1", "particip": "levantado", "prezent": "me levanto · se levanta · nos levantamos · se levantam"}
-{"razina": 8, "tema": "Routine & Time", "pt": "lavar-se", "en": "to wash (oneself)", "vrsta": "gl", "gl_skupina": "1", "particip": "lavado", "prezent": "me lavo · se lava · nos lavamos · se lavam"}
+{"razina": 8, "tema": "Routine & Time", "pt": "levantar-se", "en": "to get up", "vrsta": "gl", "gl_skupina": "1", "particip": "levantado", "prezent": "me levanto · se levanta · nos levantamos · se levantam", "preterit": "me levantei · se levantou"}
+{"razina": 8, "tema": "Routine & Time", "pt": "lavar-se", "en": "to wash (oneself)", "vrsta": "gl", "gl_skupina": "1", "particip": "lavado", "prezent": "me lavo · se lava · nos lavamos · se lavam", "preterit": "me lavei · se lavou"}
 {"razina": 8, "tema": "Routine & Time", "pt": "tomar banho", "en": "to have a shower", "vrsta": "izraz"}
-{"razina": 8, "tema": "Routine & Time", "pt": "vestir-se", "en": "to get dressed", "vrsta": "gl", "gl_skupina": "3", "particip": "vestido", "prezent": "me visto · se veste · nos vestimos · se vestem"}
-{"razina": 8, "tema": "Routine & Time", "pt": "pentear-se", "en": "to comb one's hair", "vrsta": "gl", "gl_skupina": "1", "particip": "penteado", "prezent": "me penteio · se penteia · nos penteamos · se penteiam"}
-{"razina": 8, "tema": "Routine & Time", "pt": "maquiar-se", "en": "to put on make-up", "vrsta": "gl", "gl_skupina": "1", "particip": "maquiado", "prezent": "me maquio · se maquia · nos maquiamos · se maquiam"}
+{"razina": 8, "tema": "Routine & Time", "pt": "vestir-se", "en": "to get dressed", "vrsta": "gl", "gl_skupina": "3", "particip": "vestido", "prezent": "me visto · se veste · nos vestimos · se vestem", "preterit": "me vesti · se vestiu"}
+{"razina": 8, "tema": "Routine & Time", "pt": "pentear-se", "en": "to comb one's hair", "vrsta": "gl", "gl_skupina": "1", "particip": "penteado", "prezent": "me penteio · se penteia · nos penteamos · se penteiam", "preterit": "me penteei · se penteou"}
+{"razina": 8, "tema": "Routine & Time", "pt": "maquiar-se", "en": "to put on make-up", "vrsta": "gl", "gl_skupina": "1", "particip": "maquiado", "prezent": "me maquio · se maquia · nos maquiamos · se maquiam", "preterit": "me maquiei · se maquiou"}
 {"razina": 8, "tema": "Routine & Time", "pt": "fazer a barba", "en": "to shave", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine & Time", "pt": "escovar os dentes", "en": "to brush one's teeth", "vrsta": "izraz"}
-{"razina": 8, "tema": "Routine & Time", "pt": "deitar-se", "en": "to lie down; to go to bed", "vrsta": "gl", "gl_skupina": "1", "particip": "deitado", "prezent": "me deito · se deita · nos deitamos · se deitam"}
+{"razina": 8, "tema": "Routine & Time", "pt": "deitar-se", "en": "to lie down; to go to bed", "vrsta": "gl", "gl_skupina": "1", "particip": "deitado", "prezent": "me deito · se deita · nos deitamos · se deitam", "preterit": "me deitei · se deitou"}
 {"razina": 8, "tema": "Routine & Time", "pt": "dormir cedo", "en": "to go to bed early", "vrsta": "izraz"}
-{"razina": 8, "tema": "Routine & Time", "pt": "descansar", "en": "to rest", "vrsta": "gl", "gl_skupina": "1", "particip": "descansado", "prezent": "descanso · descansa · descansamos · descansam"}
-{"razina": 8, "tema": "Routine & Time", "pt": "apressar-se", "en": "to hurry", "vrsta": "gl", "gl_skupina": "1", "particip": "apressado", "prezent": "me apresso · se apressa · nos apressamos · se apressam"}
-{"razina": 8, "tema": "Routine & Time", "pt": "sentir-se", "en": "to feel", "vrsta": "gl", "gl_skupina": "3", "particip": "sentido", "prezent": "me sinto · se sente · nos sentimos · se sentem"}
-{"razina": 8, "tema": "Routine & Time", "pt": "chamar-se", "en": "to be called", "vrsta": "gl", "gl_skupina": "1", "particip": "chamado", "prezent": "me chamo · se chama · nos chamamos · se chamam"}
-{"razina": 8, "tema": "Routine & Time", "pt": "voltar", "en": "to come back", "vrsta": "gl", "gl_skupina": "1", "particip": "voltado", "prezent": "volto · volta · voltamos · voltam"}
+{"razina": 8, "tema": "Routine & Time", "pt": "descansar", "en": "to rest", "vrsta": "gl", "gl_skupina": "1", "particip": "descansado", "prezent": "descanso · descansa · descansamos · descansam", "preterit": "descansei · descansou"}
+{"razina": 8, "tema": "Routine & Time", "pt": "apressar-se", "en": "to hurry", "vrsta": "gl", "gl_skupina": "1", "particip": "apressado", "prezent": "me apresso · se apressa · nos apressamos · se apressam", "preterit": "me apressei · se apressou"}
+{"razina": 8, "tema": "Routine & Time", "pt": "sentir-se", "en": "to feel", "vrsta": "gl", "gl_skupina": "3", "particip": "sentido", "prezent": "me sinto · se sente · nos sentimos · se sentem", "preterit": "me senti · se sentiu"}
+{"razina": 8, "tema": "Routine & Time", "pt": "chamar-se", "en": "to be called", "vrsta": "gl", "gl_skupina": "1", "particip": "chamado", "prezent": "me chamo · se chama · nos chamamos · se chamam", "preterit": "me chamei · se chamou"}
+{"razina": 8, "tema": "Routine & Time", "pt": "voltar", "en": "to come back", "vrsta": "gl", "gl_skupina": "1", "particip": "voltado", "prezent": "volto · volta · voltamos · voltam", "preterit": "voltei · voltou"}
 {"razina": 8, "tema": "Routine & Time", "pt": "o café da manhã", "en": "breakfast", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine & Time", "pt": "o almoço", "en": "lunch", "vrsta": "im", "rod": "m", "mnozina": "os almoços"}
 {"razina": 8, "tema": "Routine & Time", "pt": "o jantar", "en": "dinner", "vrsta": "im", "rod": "m", "mnozina": "os jantares"}
 {"razina": 8, "tema": "Routine & Time", "pt": "tomar café da manhã", "en": "to have breakfast", "vrsta": "izraz"}
-{"razina": 8, "tema": "Routine & Time", "pt": "almoçar", "en": "to have lunch", "vrsta": "gl", "gl_skupina": "1", "particip": "almoçado", "prezent": "almoço · almoça · almoçamos · almoçam"}
-{"razina": 8, "tema": "Routine & Time", "pt": "jantar", "en": "to have dinner", "vrsta": "gl", "gl_skupina": "1", "particip": "jantado", "prezent": "janto · janta · jantamos · jantam"}
+{"razina": 8, "tema": "Routine & Time", "pt": "almoçar", "en": "to have lunch", "vrsta": "gl", "gl_skupina": "1", "particip": "almoçado", "prezent": "almoço · almoça · almoçamos · almoçam", "preterit": "almocei · almoçou"}
+{"razina": 8, "tema": "Routine & Time", "pt": "jantar", "en": "to have dinner", "vrsta": "gl", "gl_skupina": "1", "particip": "jantado", "prezent": "janto · janta · jantamos · jantam", "preterit": "jantei · jantou"}
 {"razina": 8, "tema": "Routine & Time", "pt": "a hora", "en": "hour", "vrsta": "im", "rod": "f", "mnozina": "as horas"}
 {"razina": 8, "tema": "Routine & Time", "pt": "a meia hora", "en": "half an hour", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine & Time", "pt": "que horas são?", "en": "what time is it?", "vrsta": "izraz"}
@@ -498,7 +498,7 @@
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "faz sol", "en": "it's sunny", "vrsta": "izraz"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "está chovendo", "en": "it's raining", "vrsta": "izraz"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "estar + gerúndio", "en": "to be doing", "vrsta": "izraz"}
-{"razina": 9, "tema": "Weather, Months & Dates", "pt": "chover", "en": "to rain", "vrsta": "gl", "gl_skupina": "2", "particip": "chovido", "prezent": "— · chove · — · —"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "chover", "en": "to rain", "vrsta": "gl", "gl_skupina": "2", "particip": "chovido", "prezent": "— · chove · — · —", "preterit": "— · choveu"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "o sol", "en": "sun", "vrsta": "im", "rod": "m", "mnozina": "os sóis"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "a chuva", "en": "rain", "vrsta": "im", "rod": "f", "mnozina": "as chuvas"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "o vento", "en": "wind", "vrsta": "im", "rod": "m", "mnozina": "os ventos"}
@@ -531,9 +531,9 @@
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "o plano", "en": "plan", "vrsta": "im", "rod": "m", "mnozina": "os planos"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "ir + infinitivo", "en": "to be going to", "vrsta": "izraz"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "ter que", "en": "to have to", "vrsta": "izraz"}
-{"razina": 9, "tema": "Weather, Months & Dates", "pt": "combinar", "en": "to arrange", "vrsta": "gl", "gl_skupina": "1", "particip": "combinado", "prezent": "combino · combina · combinamos · combinam"}
-{"razina": 9, "tema": "Weather, Months & Dates", "pt": "convidar", "en": "to invite", "vrsta": "gl", "gl_skupina": "1", "particip": "convidado", "prezent": "convido · convida · convidamos · convidam"}
-{"razina": 9, "tema": "Weather, Months & Dates", "pt": "esperar", "en": "to wait; to hope", "vrsta": "gl", "gl_skupina": "1", "particip": "esperado", "prezent": "espero · espera · esperamos · esperam"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "combinar", "en": "to arrange", "vrsta": "gl", "gl_skupina": "1", "particip": "combinado", "prezent": "combino · combina · combinamos · combinam", "preterit": "combinei · combinou"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "convidar", "en": "to invite", "vrsta": "gl", "gl_skupina": "1", "particip": "convidado", "prezent": "convido · convida · convidamos · convidam", "preterit": "convidei · convidou"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "esperar", "en": "to wait; to hope", "vrsta": "gl", "gl_skupina": "1", "particip": "esperado", "prezent": "espero · espera · esperamos · esperam", "preterit": "esperei · esperou"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "o encontro", "en": "meeting; date", "vrsta": "im", "rod": "m", "mnozina": "os encontros"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "tá bom", "en": "OK", "vrsta": "izraz"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "combinado", "en": "agreed; deal", "vrsta": "izraz"}
@@ -559,23 +559,23 @@
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "hoje de manhã", "en": "this morning", "vrsta": "izraz"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "já", "en": "already", "vrsta": "pril"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "ainda não", "en": "not yet", "vrsta": "izraz"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "limpar", "en": "to clean", "vrsta": "gl", "gl_skupina": "1", "particip": "limpado", "prezent": "limpo · limpa · limpamos · limpam"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "arrumar", "en": "to tidy", "vrsta": "gl", "gl_skupina": "1", "particip": "arrumado", "prezent": "arrumo · arruma · arrumamos · arrumam"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "limpar", "en": "to clean", "vrsta": "gl", "gl_skupina": "1", "particip": "limpado", "prezent": "limpo · limpa · limpamos · limpam", "preterit": "limpei · limpou"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "arrumar", "en": "to tidy", "vrsta": "gl", "gl_skupina": "1", "particip": "arrumado", "prezent": "arrumo · arruma · arrumamos · arrumam", "preterit": "arrumei · arrumou"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "fazer compras", "en": "to go shopping", "vrsta": "izraz"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "esquecer", "en": "to forget", "vrsta": "gl", "gl_skupina": "2", "particip": "esquecido", "prezent": "esqueço · esquece · esquecemos · esquecem"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "receber", "en": "to receive", "vrsta": "gl", "gl_skupina": "2", "particip": "recebido", "prezent": "recebo · recebe · recebemos · recebem"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "contar", "en": "to tell; to count", "vrsta": "gl", "gl_skupina": "1", "particip": "contado", "prezent": "conto · conta · contamos · contam"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "mostrar", "en": "to show", "vrsta": "gl", "gl_skupina": "1", "particip": "mostrado", "prezent": "mostro · mostra · mostramos · mostram"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "rir", "en": "to laugh", "vrsta": "gl", "gl_skupina": "3", "particip": "rido", "prezent": "rio · ri · rimos · riem"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "chorar", "en": "to cry", "vrsta": "gl", "gl_skupina": "1", "particip": "chorado", "prezent": "choro · chora · choramos · choram"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "fechar", "en": "to close", "vrsta": "gl", "gl_skupina": "1", "particip": "fechado", "prezent": "fecho · fecha · fechamos · fecham"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "responder", "en": "to answer", "vrsta": "gl", "gl_skupina": "2", "particip": "respondido", "prezent": "respondo · responde · respondemos · respondem"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "perguntar", "en": "to ask", "vrsta": "gl", "gl_skupina": "1", "particip": "perguntado", "prezent": "pergunto · pergunta · perguntamos · perguntam"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "terminar", "en": "to finish", "vrsta": "gl", "gl_skupina": "1", "particip": "terminado", "prezent": "termino · termina · terminamos · terminam"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "conhecer", "en": "to meet; to get to know", "vrsta": "gl", "gl_skupina": "2", "particip": "conhecido", "prezent": "conheço · conhece · conhecemos · conhecem"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "visitar", "en": "to visit", "vrsta": "gl", "gl_skupina": "1", "particip": "visitado", "prezent": "visito · visita · visitamos · visitam"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "esquecer", "en": "to forget", "vrsta": "gl", "gl_skupina": "2", "particip": "esquecido", "prezent": "esqueço · esquece · esquecemos · esquecem", "preterit": "esqueci · esqueceu"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "receber", "en": "to receive", "vrsta": "gl", "gl_skupina": "2", "particip": "recebido", "prezent": "recebo · recebe · recebemos · recebem", "preterit": "recebi · recebeu"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "contar", "en": "to tell; to count", "vrsta": "gl", "gl_skupina": "1", "particip": "contado", "prezent": "conto · conta · contamos · contam", "preterit": "contei · contou"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "mostrar", "en": "to show", "vrsta": "gl", "gl_skupina": "1", "particip": "mostrado", "prezent": "mostro · mostra · mostramos · mostram", "preterit": "mostrei · mostrou"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "rir", "en": "to laugh", "vrsta": "gl", "gl_skupina": "3", "particip": "rido", "prezent": "rio · ri · rimos · riem", "preterit": "ri · riu"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "chorar", "en": "to cry", "vrsta": "gl", "gl_skupina": "1", "particip": "chorado", "prezent": "choro · chora · choramos · choram", "preterit": "chorei · chorou"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "fechar", "en": "to close", "vrsta": "gl", "gl_skupina": "1", "particip": "fechado", "prezent": "fecho · fecha · fechamos · fecham", "preterit": "fechei · fechou"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "responder", "en": "to answer", "vrsta": "gl", "gl_skupina": "2", "particip": "respondido", "prezent": "respondo · responde · respondemos · respondem", "preterit": "respondi · respondeu"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "perguntar", "en": "to ask", "vrsta": "gl", "gl_skupina": "1", "particip": "perguntado", "prezent": "pergunto · pergunta · perguntamos · perguntam", "preterit": "perguntei · perguntou"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "terminar", "en": "to finish", "vrsta": "gl", "gl_skupina": "1", "particip": "terminado", "prezent": "termino · termina · terminamos · terminam", "preterit": "terminei · terminou"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "conhecer", "en": "to meet; to get to know", "vrsta": "gl", "gl_skupina": "2", "particip": "conhecido", "prezent": "conheço · conhece · conhecemos · conhecem", "preterit": "conheci · conheceu"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "visitar", "en": "to visit", "vrsta": "gl", "gl_skupina": "1", "particip": "visitado", "prezent": "visito · visita · visitamos · visitam", "preterit": "visitei · visitou"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "encontrar-se com", "en": "to meet up with", "vrsta": "izraz"}
-{"razina": 10, "tema": "Weekend & Past Time", "pt": "comemorar", "en": "to celebrate", "vrsta": "gl", "gl_skupina": "1", "particip": "comemorado", "prezent": "comemoro · comemora · comemoramos · comemoram"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "comemorar", "en": "to celebrate", "vrsta": "gl", "gl_skupina": "1", "particip": "comemorado", "prezent": "comemoro · comemora · comemoramos · comemoram", "preterit": "comemorei · comemorou"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "o jornal", "en": "newspaper", "vrsta": "im", "rod": "m", "mnozina": "os jornais"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "a revista", "en": "magazine", "vrsta": "im", "rod": "f", "mnozina": "as revistas"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "a carta", "en": "letter", "vrsta": "im", "rod": "f", "mnozina": "as cartas"}
@@ -651,22 +651,22 @@
 {"razina": 11, "tema": "Buses & Trips", "pt": "o sul", "en": "south", "vrsta": "im", "rod": "m", "mnozina": "—"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "o leste", "en": "east", "vrsta": "im", "rod": "m", "mnozina": "—"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "o oeste", "en": "west", "vrsta": "im", "rod": "m", "mnozina": "—"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "subir", "en": "to go up; to get on", "vrsta": "gl", "gl_skupina": "3", "particip": "subido", "prezent": "subo · sobe · subimos · sobem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "descer", "en": "to go down; to get off", "vrsta": "gl", "gl_skupina": "2", "particip": "descido", "prezent": "desço · desce · descemos · descem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "entrar", "en": "to enter", "vrsta": "gl", "gl_skupina": "1", "particip": "entrado", "prezent": "entro · entra · entramos · entram"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "cair", "en": "to fall", "vrsta": "gl", "gl_skupina": "3", "particip": "caído", "prezent": "caio · cai · caímos · caem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "nascer", "en": "to be born", "vrsta": "gl", "gl_skupina": "2", "particip": "nascido", "prezent": "nasço · nasce · nascemos · nascem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "morrer", "en": "to die", "vrsta": "gl", "gl_skupina": "2", "particip": "morrido", "prezent": "morro · morre · morremos · morrem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "dirigir", "en": "to drive", "vrsta": "gl", "gl_skupina": "3", "particip": "dirigido", "prezent": "dirijo · dirige · dirigimos · dirigem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "mudar", "en": "to change; to move", "vrsta": "gl", "gl_skupina": "1", "particip": "mudado", "prezent": "mudo · muda · mudamos · mudam"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "alugar", "en": "to rent; to hire", "vrsta": "gl", "gl_skupina": "1", "particip": "alugado", "prezent": "alugo · aluga · alugamos · alugam"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "reservar", "en": "to book", "vrsta": "gl", "gl_skupina": "1", "particip": "reservado", "prezent": "reservo · reserva · reservamos · reservam"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "trazer", "en": "to bring", "vrsta": "gl", "gl_skupina": "2", "particip": "trazido", "prezent": "trago · traz · trazemos · trazem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "dar", "en": "to give", "vrsta": "gl", "gl_skupina": "1", "particip": "dado", "prezent": "dou · dá · damos · dão"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "dizer", "en": "to say", "vrsta": "gl", "gl_skupina": "2", "particip": "dito", "prezent": "digo · diz · dizemos · dizem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "pôr", "en": "to put", "vrsta": "gl", "gl_skupina": "2", "particip": "posto", "prezent": "ponho · põe · pomos · põem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "saber", "en": "to know", "vrsta": "gl", "gl_skupina": "2", "particip": "sabido", "prezent": "sei · sabe · sabemos · sabem"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "vir", "en": "to come", "vrsta": "gl", "gl_skupina": "3", "particip": "vindo", "prezent": "venho · vem · vimos · vêm"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "subir", "en": "to go up; to get on", "vrsta": "gl", "gl_skupina": "3", "particip": "subido", "prezent": "subo · sobe · subimos · sobem", "preterit": "subi · subiu"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "descer", "en": "to go down; to get off", "vrsta": "gl", "gl_skupina": "2", "particip": "descido", "prezent": "desço · desce · descemos · descem", "preterit": "desci · desceu"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "entrar", "en": "to enter", "vrsta": "gl", "gl_skupina": "1", "particip": "entrado", "prezent": "entro · entra · entramos · entram", "preterit": "entrei · entrou"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "cair", "en": "to fall", "vrsta": "gl", "gl_skupina": "3", "particip": "caído", "prezent": "caio · cai · caímos · caem", "preterit": "caí · caiu"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "nascer", "en": "to be born", "vrsta": "gl", "gl_skupina": "2", "particip": "nascido", "prezent": "nasço · nasce · nascemos · nascem", "preterit": "nasci · nasceu"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "morrer", "en": "to die", "vrsta": "gl", "gl_skupina": "2", "particip": "morrido", "prezent": "morro · morre · morremos · morrem", "preterit": "morri · morreu"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "dirigir", "en": "to drive", "vrsta": "gl", "gl_skupina": "3", "particip": "dirigido", "prezent": "dirijo · dirige · dirigimos · dirigem", "preterit": "dirigi · dirigiu"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "mudar", "en": "to change; to move", "vrsta": "gl", "gl_skupina": "1", "particip": "mudado", "prezent": "mudo · muda · mudamos · mudam", "preterit": "mudei · mudou"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "alugar", "en": "to rent; to hire", "vrsta": "gl", "gl_skupina": "1", "particip": "alugado", "prezent": "alugo · aluga · alugamos · alugam", "preterit": "aluguei · alugou"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "reservar", "en": "to book", "vrsta": "gl", "gl_skupina": "1", "particip": "reservado", "prezent": "reservo · reserva · reservamos · reservam", "preterit": "reservei · reservou"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "trazer", "en": "to bring", "vrsta": "gl", "gl_skupina": "2", "particip": "trazido", "prezent": "trago · traz · trazemos · trazem", "preterit": "trouxe · trouxe"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "dar", "en": "to give", "vrsta": "gl", "gl_skupina": "1", "particip": "dado", "prezent": "dou · dá · damos · dão", "preterit": "dei · deu"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "dizer", "en": "to say", "vrsta": "gl", "gl_skupina": "2", "particip": "dito", "prezent": "digo · diz · dizemos · dizem", "preterit": "disse · disse"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "pôr", "en": "to put", "vrsta": "gl", "gl_skupina": "2", "particip": "posto", "prezent": "ponho · põe · pomos · põem", "preterit": "pus · pôs"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "saber", "en": "to know", "vrsta": "gl", "gl_skupina": "2", "particip": "sabido", "prezent": "sei · sabe · sabemos · sabem", "preterit": "soube · soube"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "vir", "en": "to come", "vrsta": "gl", "gl_skupina": "3", "particip": "vindo", "prezent": "venho · vem · vimos · vêm", "preterit": "vim · veio"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "sair de férias", "en": "to go on holiday", "vrsta": "izraz"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "de carro", "en": "by car", "vrsta": "izraz"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "de avião", "en": "by plane", "vrsta": "izraz"}
@@ -709,10 +709,10 @@
 {"razina": 12, "tema": "Clothes & Shops", "pt": "o desconto", "en": "discount", "vrsta": "im", "rod": "m", "mnozina": "os descontos"}
 {"razina": 12, "tema": "Clothes & Shops", "pt": "o cartão", "en": "card", "vrsta": "im", "rod": "m", "mnozina": "os cartões"}
 {"razina": 12, "tema": "Clothes & Shops", "pt": "o recibo", "en": "receipt", "vrsta": "im", "rod": "m", "mnozina": "os recibos"}
-{"razina": 12, "tema": "Clothes & Shops", "pt": "experimentar", "en": "to try on", "vrsta": "gl", "gl_skupina": "1", "particip": "experimentado", "prezent": "experimento · experimenta · experimentamos · experimentam"}
-{"razina": 12, "tema": "Clothes & Shops", "pt": "usar", "en": "to wear; to use", "vrsta": "gl", "gl_skupina": "1", "particip": "usado", "prezent": "uso · usa · usamos · usam"}
-{"razina": 12, "tema": "Clothes & Shops", "pt": "vestir", "en": "to put on; to wear", "vrsta": "gl", "gl_skupina": "3", "particip": "vestido", "prezent": "visto · veste · vestimos · vestem"}
-{"razina": 12, "tema": "Clothes & Shops", "pt": "tirar", "en": "to take off", "vrsta": "gl", "gl_skupina": "1", "particip": "tirado", "prezent": "tiro · tira · tiramos · tiram"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "experimentar", "en": "to try on", "vrsta": "gl", "gl_skupina": "1", "particip": "experimentado", "prezent": "experimento · experimenta · experimentamos · experimentam", "preterit": "experimentei · experimentou"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "usar", "en": "to wear; to use", "vrsta": "gl", "gl_skupina": "1", "particip": "usado", "prezent": "uso · usa · usamos · usam", "preterit": "usei · usou"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "vestir", "en": "to put on; to wear", "vrsta": "gl", "gl_skupina": "3", "particip": "vestido", "prezent": "visto · veste · vestimos · vestem", "preterit": "vesti · vestiu"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "tirar", "en": "to take off", "vrsta": "gl", "gl_skupina": "1", "particip": "tirado", "prezent": "tiro · tira · tiramos · tiram", "preterit": "tirei · tirou"}
 {"razina": 12, "tema": "Clothes & Shops", "pt": "ficar bem", "en": "to suit; to look good", "vrsta": "izraz"}
 {"razina": 12, "tema": "Clothes & Shops", "pt": "comprido", "en": "long", "vrsta": "pr", "zenski": "comprida", "mnozina_pr": "compridos / compridas"}
 {"razina": 12, "tema": "Clothes & Shops", "pt": "curto", "en": "short", "vrsta": "pr", "zenski": "curta", "mnozina_pr": "curtos / curtas"}
@@ -780,7 +780,7 @@
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "a dor", "en": "pain", "vrsta": "im", "rod": "f", "mnozina": "as dores"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "estar com dor de", "en": "to have a pain in", "vrsta": "izraz"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "estar com dor de cabeça", "en": "to have a headache", "vrsta": "izraz"}
-{"razina": 13, "tema": "The Body & the Doctor", "pt": "doer", "en": "to hurt", "vrsta": "gl", "gl_skupina": "2", "particip": "doído", "prezent": "— · dói · — · doem"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "doer", "en": "to hurt", "vrsta": "gl", "gl_skupina": "2", "particip": "doído", "prezent": "— · dói · — · doem", "preterit": "— · doeu"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "o machucado", "en": "injury", "vrsta": "im", "rod": "m", "mnozina": "os machucados"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "o remédio", "en": "medicine", "vrsta": "im", "rod": "m", "mnozina": "os remédios"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "o comprimido", "en": "tablet", "vrsta": "im", "rod": "m", "mnozina": "os comprimidos"}
@@ -790,11 +790,11 @@
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "a emergência", "en": "emergency", "vrsta": "im", "rod": "f", "mnozina": "as emergências"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "a ambulância", "en": "ambulance", "vrsta": "im", "rod": "f", "mnozina": "as ambulâncias"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "o sintoma", "en": "symptom", "vrsta": "im", "rod": "m", "mnozina": "os sintomas"}
-{"razina": 13, "tema": "The Body & the Doctor", "pt": "tossir", "en": "to cough", "vrsta": "gl", "gl_skupina": "3", "particip": "tossido", "prezent": "tusso · tosse · tossimos · tossem"}
-{"razina": 13, "tema": "The Body & the Doctor", "pt": "quebrar", "en": "to break", "vrsta": "gl", "gl_skupina": "1", "particip": "quebrado", "prezent": "quebro · quebra · quebramos · quebram"}
-{"razina": 13, "tema": "The Body & the Doctor", "pt": "machucar-se", "en": "to hurt oneself", "vrsta": "gl", "gl_skupina": "1", "particip": "machucado", "prezent": "me machuco · se machuca · nos machucamos · se machucam"}
-{"razina": 13, "tema": "The Body & the Doctor", "pt": "melhorar", "en": "to get better", "vrsta": "gl", "gl_skupina": "1", "particip": "melhorado", "prezent": "melhoro · melhora · melhoramos · melhoram"}
-{"razina": 13, "tema": "The Body & the Doctor", "pt": "respirar", "en": "to breathe", "vrsta": "gl", "gl_skupina": "1", "particip": "respirado", "prezent": "respiro · respira · respiramos · respiram"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "tossir", "en": "to cough", "vrsta": "gl", "gl_skupina": "3", "particip": "tossido", "prezent": "tusso · tosse · tossimos · tossem", "preterit": "tossi · tossiu"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "quebrar", "en": "to break", "vrsta": "gl", "gl_skupina": "1", "particip": "quebrado", "prezent": "quebro · quebra · quebramos · quebram", "preterit": "quebrei · quebrou"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "machucar-se", "en": "to hurt oneself", "vrsta": "gl", "gl_skupina": "1", "particip": "machucado", "prezent": "me machuco · se machuca · nos machucamos · se machucam", "preterit": "me machuquei · se machucou"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "melhorar", "en": "to get better", "vrsta": "gl", "gl_skupina": "1", "particip": "melhorado", "prezent": "melhoro · melhora · melhoramos · melhoram", "preterit": "melhorei · melhorou"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "respirar", "en": "to breathe", "vrsta": "gl", "gl_skupina": "1", "particip": "respirado", "prezent": "respiro · respira · respiramos · respiram", "preterit": "respirei · respirou"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "ficar em casa", "en": "to stay at home", "vrsta": "izraz"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "grave", "en": "serious", "vrsta": "pr", "zenski": "grave", "mnozina_pr": "graves / graves"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "saudável", "en": "healthy", "vrsta": "pr", "zenski": "saudável", "mnozina_pr": "saudáveis / saudáveis"}
@@ -820,19 +820,19 @@
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "a insolação", "en": "sunstroke", "vrsta": "im", "rod": "f", "mnozina": "as insolações"}
 {"razina": 13, "tema": "The Body & the Doctor", "pt": "o repelente", "en": "insect repellent", "vrsta": "im", "rod": "m", "mnozina": "os repelentes"}
 {"razina": 14, "tema": "Parties & Presents", "pt": "o presente", "en": "present; gift", "vrsta": "im", "rod": "m", "mnozina": "os presentes"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "presentear", "en": "to give a present", "vrsta": "gl", "gl_skupina": "1", "particip": "presenteado", "prezent": "presenteio · presenteia · presenteamos · presenteiam"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "mandar", "en": "to send", "vrsta": "gl", "gl_skupina": "1", "particip": "mandado", "prezent": "mando · manda · mandamos · mandam"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "enviar", "en": "to send", "vrsta": "gl", "gl_skupina": "1", "particip": "enviado", "prezent": "envio · envia · enviamos · enviam"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "embrulhar", "en": "to wrap", "vrsta": "gl", "gl_skupina": "1", "particip": "embrulhado", "prezent": "embrulho · embrulha · embrulhamos · embrulham"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "agradecer", "en": "to thank", "vrsta": "gl", "gl_skupina": "2", "particip": "agradecido", "prezent": "agradeço · agradece · agradecemos · agradecem"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "desejar", "en": "to wish", "vrsta": "gl", "gl_skupina": "1", "particip": "desejado", "prezent": "desejo · deseja · desejamos · desejam"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "organizar", "en": "to organise", "vrsta": "gl", "gl_skupina": "1", "particip": "organizado", "prezent": "organizo · organiza · organizamos · organizam"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "decorar", "en": "to decorate", "vrsta": "gl", "gl_skupina": "1", "particip": "decorado", "prezent": "decoro · decora · decoramos · decoram"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "preparar", "en": "to prepare", "vrsta": "gl", "gl_skupina": "1", "particip": "preparado", "prezent": "preparo · prepara · preparamos · preparam"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "celebrar", "en": "to celebrate", "vrsta": "gl", "gl_skupina": "1", "particip": "celebrado", "prezent": "celebro · celebra · celebramos · celebram"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "brindar", "en": "to toast", "vrsta": "gl", "gl_skupina": "1", "particip": "brindado", "prezent": "brindo · brinda · brindamos · brindam"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "aplaudir", "en": "to clap", "vrsta": "gl", "gl_skupina": "3", "particip": "aplaudido", "prezent": "aplaudo · aplaude · aplaudimos · aplaudem"}
-{"razina": 14, "tema": "Parties & Presents", "pt": "parabenizar", "en": "to congratulate", "vrsta": "gl", "gl_skupina": "1", "particip": "parabenizado", "prezent": "parabenizo · parabeniza · parabenizamos · parabenizam"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "presentear", "en": "to give a present", "vrsta": "gl", "gl_skupina": "1", "particip": "presenteado", "prezent": "presenteio · presenteia · presenteamos · presenteiam", "preterit": "presenteei · presenteou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "mandar", "en": "to send", "vrsta": "gl", "gl_skupina": "1", "particip": "mandado", "prezent": "mando · manda · mandamos · mandam", "preterit": "mandei · mandou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "enviar", "en": "to send", "vrsta": "gl", "gl_skupina": "1", "particip": "enviado", "prezent": "envio · envia · enviamos · enviam", "preterit": "enviei · enviou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "embrulhar", "en": "to wrap", "vrsta": "gl", "gl_skupina": "1", "particip": "embrulhado", "prezent": "embrulho · embrulha · embrulhamos · embrulham", "preterit": "embrulhei · embrulhou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "agradecer", "en": "to thank", "vrsta": "gl", "gl_skupina": "2", "particip": "agradecido", "prezent": "agradeço · agradece · agradecemos · agradecem", "preterit": "agradeci · agradeceu"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "desejar", "en": "to wish", "vrsta": "gl", "gl_skupina": "1", "particip": "desejado", "prezent": "desejo · deseja · desejamos · desejam", "preterit": "desejei · desejou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "organizar", "en": "to organise", "vrsta": "gl", "gl_skupina": "1", "particip": "organizado", "prezent": "organizo · organiza · organizamos · organizam", "preterit": "organizei · organizou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "decorar", "en": "to decorate", "vrsta": "gl", "gl_skupina": "1", "particip": "decorado", "prezent": "decoro · decora · decoramos · decoram", "preterit": "decorei · decorou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "preparar", "en": "to prepare", "vrsta": "gl", "gl_skupina": "1", "particip": "preparado", "prezent": "preparo · prepara · preparamos · preparam", "preterit": "preparei · preparou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "celebrar", "en": "to celebrate", "vrsta": "gl", "gl_skupina": "1", "particip": "celebrado", "prezent": "celebro · celebra · celebramos · celebram", "preterit": "celebrei · celebrou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "brindar", "en": "to toast", "vrsta": "gl", "gl_skupina": "1", "particip": "brindado", "prezent": "brindo · brinda · brindamos · brindam", "preterit": "brindei · brindou"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "aplaudir", "en": "to clap", "vrsta": "gl", "gl_skupina": "3", "particip": "aplaudido", "prezent": "aplaudo · aplaude · aplaudimos · aplaudem", "preterit": "aplaudi · aplaudiu"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "parabenizar", "en": "to congratulate", "vrsta": "gl", "gl_skupina": "1", "particip": "parabenizado", "prezent": "parabenizo · parabeniza · parabenizamos · parabenizam", "preterit": "parabenizei · parabenizou"}
 {"razina": 14, "tema": "Parties & Presents", "pt": "parabéns!", "en": "happy birthday!; congratulations!", "vrsta": "izraz"}
 {"razina": 14, "tema": "Parties & Presents", "pt": "feliz Natal!", "en": "merry Christmas!", "vrsta": "izraz"}
 {"razina": 14, "tema": "Parties & Presents", "pt": "feliz Ano-Novo!", "en": "happy New Year!", "vrsta": "izraz"}
@@ -936,16 +936,16 @@
 {"razina": 15, "tema": "Childhood & School", "pt": "o carrinho", "en": "toy car; trolley", "vrsta": "im", "rod": "m", "mnozina": "os carrinhos"}
 {"razina": 15, "tema": "Childhood & School", "pt": "a bola de gude", "en": "marble", "vrsta": "izraz"}
 {"razina": 15, "tema": "Childhood & School", "pt": "o pega-pega", "en": "tag (game)", "vrsta": "im", "rod": "m", "mnozina": "—"}
-{"razina": 15, "tema": "Childhood & School", "pt": "brincar", "en": "to play (children)", "vrsta": "gl", "gl_skupina": "1", "particip": "brincado", "prezent": "brinco · brinca · brincamos · brincam"}
-{"razina": 15, "tema": "Childhood & School", "pt": "ensinar", "en": "to teach", "vrsta": "gl", "gl_skupina": "1", "particip": "ensinado", "prezent": "ensino · ensina · ensinamos · ensinam"}
-{"razina": 15, "tema": "Childhood & School", "pt": "repetir", "en": "to repeat", "vrsta": "gl", "gl_skupina": "3", "particip": "repetido", "prezent": "repito · repete · repetimos · repetem"}
-{"razina": 15, "tema": "Childhood & School", "pt": "explicar", "en": "to explain", "vrsta": "gl", "gl_skupina": "1", "particip": "explicado", "prezent": "explico · explica · explicamos · explicam"}
-{"razina": 15, "tema": "Childhood & School", "pt": "revisar", "en": "to revise", "vrsta": "gl", "gl_skupina": "1", "particip": "revisado", "prezent": "reviso · revisa · revisamos · revisam"}
-{"razina": 15, "tema": "Childhood & School", "pt": "crescer", "en": "to grow up", "vrsta": "gl", "gl_skupina": "2", "particip": "crescido", "prezent": "cresço · cresce · crescemos · crescem"}
-{"razina": 15, "tema": "Childhood & School", "pt": "lembrar", "en": "to remember", "vrsta": "gl", "gl_skupina": "1", "particip": "lembrado", "prezent": "lembro · lembra · lembramos · lembram"}
+{"razina": 15, "tema": "Childhood & School", "pt": "brincar", "en": "to play (children)", "vrsta": "gl", "gl_skupina": "1", "particip": "brincado", "prezent": "brinco · brinca · brincamos · brincam", "preterit": "brinquei · brincou"}
+{"razina": 15, "tema": "Childhood & School", "pt": "ensinar", "en": "to teach", "vrsta": "gl", "gl_skupina": "1", "particip": "ensinado", "prezent": "ensino · ensina · ensinamos · ensinam", "preterit": "ensinei · ensinou"}
+{"razina": 15, "tema": "Childhood & School", "pt": "repetir", "en": "to repeat", "vrsta": "gl", "gl_skupina": "3", "particip": "repetido", "prezent": "repito · repete · repetimos · repetem", "preterit": "repeti · repetiu"}
+{"razina": 15, "tema": "Childhood & School", "pt": "explicar", "en": "to explain", "vrsta": "gl", "gl_skupina": "1", "particip": "explicado", "prezent": "explico · explica · explicamos · explicam", "preterit": "expliquei · explicou"}
+{"razina": 15, "tema": "Childhood & School", "pt": "revisar", "en": "to revise", "vrsta": "gl", "gl_skupina": "1", "particip": "revisado", "prezent": "reviso · revisa · revisamos · revisam", "preterit": "revisei · revisou"}
+{"razina": 15, "tema": "Childhood & School", "pt": "crescer", "en": "to grow up", "vrsta": "gl", "gl_skupina": "2", "particip": "crescido", "prezent": "cresço · cresce · crescemos · crescem", "preterit": "cresci · cresceu"}
+{"razina": 15, "tema": "Childhood & School", "pt": "lembrar", "en": "to remember", "vrsta": "gl", "gl_skupina": "1", "particip": "lembrado", "prezent": "lembro · lembra · lembramos · lembram", "preterit": "lembrei · lembrou"}
 {"razina": 15, "tema": "Childhood & School", "pt": "lembrar-se de", "en": "to remember", "vrsta": "izraz"}
-{"razina": 15, "tema": "Childhood & School", "pt": "castigar", "en": "to punish", "vrsta": "gl", "gl_skupina": "1", "particip": "castigado", "prezent": "castigo · castiga · castigamos · castigam"}
-{"razina": 15, "tema": "Childhood & School", "pt": "costumar", "en": "to usually do", "vrsta": "gl", "gl_skupina": "1", "particip": "costumado", "prezent": "costumo · costuma · costumamos · costumam"}
+{"razina": 15, "tema": "Childhood & School", "pt": "castigar", "en": "to punish", "vrsta": "gl", "gl_skupina": "1", "particip": "castigado", "prezent": "castigo · castiga · castigamos · castigam", "preterit": "castiguei · castigou"}
+{"razina": 15, "tema": "Childhood & School", "pt": "costumar", "en": "to usually do", "vrsta": "gl", "gl_skupina": "1", "particip": "costumado", "prezent": "costumo · costuma · costumamos · costumam", "preterit": "costumei · costumou"}
 {"razina": 15, "tema": "Childhood & School", "pt": "ser bom em", "en": "to be good at", "vrsta": "izraz"}
 {"razina": 15, "tema": "Childhood & School", "pt": "quando eu era criança", "en": "when I was a child", "vrsta": "izraz"}
 {"razina": 15, "tema": "Childhood & School", "pt": "antigamente", "en": "in the old days", "vrsta": "pril"}
@@ -970,7 +970,7 @@
 {"razina": 15, "tema": "Childhood & School", "pt": "a terra", "en": "earth; soil; land", "vrsta": "im", "rod": "f", "mnozina": "as terras"}
 {"razina": 15, "tema": "Childhood & School", "pt": "o quintal", "en": "backyard", "vrsta": "im", "rod": "m", "mnozina": "os quintais"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "a mudança", "en": "move (house); change", "vrsta": "im", "rod": "f", "mnozina": "as mudanças"}
-{"razina": 16, "tema": "The Home & Furniture", "pt": "mudar-se", "en": "to move house", "vrsta": "gl", "gl_skupina": "1", "particip": "mudado", "prezent": "me mudo · se muda · nos mudamos · se mudam"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "mudar-se", "en": "to move house", "vrsta": "gl", "gl_skupina": "1", "particip": "mudado", "prezent": "me mudo · se muda · nos mudamos · se mudam", "preterit": "me mudei · se mudou"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "a caixa de papelão", "en": "cardboard box", "vrsta": "izraz"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "o caminhão", "en": "lorry", "vrsta": "im", "rod": "m", "mnozina": "os caminhões"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "o aluguel", "en": "rent", "vrsta": "im", "rod": "m", "mnozina": "os aluguéis"}
@@ -1019,17 +1019,17 @@
 {"razina": 16, "tema": "The Home & Furniture", "pt": "o condomínio", "en": "condominium", "vrsta": "im", "rod": "m", "mnozina": "os condomínios"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "a faxina", "en": "cleaning", "vrsta": "im", "rod": "f", "mnozina": "as faxinas"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "lavar a louça", "en": "to wash the dishes", "vrsta": "izraz"}
-{"razina": 16, "tema": "The Home & Furniture", "pt": "varrer", "en": "to sweep", "vrsta": "gl", "gl_skupina": "2", "particip": "varrido", "prezent": "varro · varre · varremos · varrem"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "varrer", "en": "to sweep", "vrsta": "gl", "gl_skupina": "2", "particip": "varrido", "prezent": "varro · varre · varremos · varrem", "preterit": "varri · varreu"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "passar roupa", "en": "to iron", "vrsta": "izraz"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "arrumar a cama", "en": "to make the bed", "vrsta": "izraz"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "tirar o lixo", "en": "to take out the rubbish", "vrsta": "izraz"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "o lixo", "en": "rubbish", "vrsta": "im", "rod": "m", "mnozina": "—"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "o aspirador", "en": "vacuum cleaner", "vrsta": "im", "rod": "m", "mnozina": "os aspiradores"}
-{"razina": 16, "tema": "The Home & Furniture", "pt": "ajudar", "en": "to help", "vrsta": "gl", "gl_skupina": "1", "particip": "ajudado", "prezent": "ajudo · ajuda · ajudamos · ajudam"}
-{"razina": 16, "tema": "The Home & Furniture", "pt": "esvaziar", "en": "to empty", "vrsta": "gl", "gl_skupina": "1", "particip": "esvaziado", "prezent": "esvazio · esvazia · esvaziamos · esvaziam"}
-{"razina": 16, "tema": "The Home & Furniture", "pt": "encher", "en": "to fill", "vrsta": "gl", "gl_skupina": "2", "particip": "enchido", "prezent": "encho · enche · enchemos · enchem"}
-{"razina": 16, "tema": "The Home & Furniture", "pt": "consertar", "en": "to fix", "vrsta": "gl", "gl_skupina": "1", "particip": "consertado", "prezent": "conserto · conserta · consertamos · consertam"}
-{"razina": 16, "tema": "The Home & Furniture", "pt": "montar", "en": "to assemble", "vrsta": "gl", "gl_skupina": "1", "particip": "montado", "prezent": "monto · monta · montamos · montam"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "ajudar", "en": "to help", "vrsta": "gl", "gl_skupina": "1", "particip": "ajudado", "prezent": "ajudo · ajuda · ajudamos · ajudam", "preterit": "ajudei · ajudou"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "esvaziar", "en": "to empty", "vrsta": "gl", "gl_skupina": "1", "particip": "esvaziado", "prezent": "esvazio · esvazia · esvaziamos · esvaziam", "preterit": "esvaziei · esvaziou"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "encher", "en": "to fill", "vrsta": "gl", "gl_skupina": "2", "particip": "enchido", "prezent": "encho · enche · enchemos · enchem", "preterit": "enchi · encheu"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "consertar", "en": "to fix", "vrsta": "gl", "gl_skupina": "1", "particip": "consertado", "prezent": "conserto · conserta · consertamos · consertam", "preterit": "consertei · consertou"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "montar", "en": "to assemble", "vrsta": "gl", "gl_skupina": "1", "particip": "montado", "prezent": "monto · monta · montamos · montam", "preterit": "montei · montou"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "a reforma", "en": "renovation", "vrsta": "im", "rod": "f", "mnozina": "as reformas"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "a tinta", "en": "paint", "vrsta": "im", "rod": "f", "mnozina": "as tintas"}
 {"razina": 16, "tema": "The Home & Furniture", "pt": "espaçoso", "en": "spacious", "vrsta": "pr", "zenski": "espaçosa", "mnozina_pr": "espaçosos / espaçosas"}
@@ -1090,10 +1090,10 @@
 {"razina": 17, "tema": "Town, Village & Nature", "pt": "o meio ambiente", "en": "environment", "vrsta": "izraz"}
 {"razina": 17, "tema": "Town, Village & Nature", "pt": "a reciclagem", "en": "recycling", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 17, "tema": "Town, Village & Nature", "pt": "a lixeira", "en": "bin", "vrsta": "im", "rod": "f", "mnozina": "as lixeiras"}
-{"razina": 17, "tema": "Town, Village & Nature", "pt": "comparar", "en": "to compare", "vrsta": "gl", "gl_skupina": "1", "particip": "comparado", "prezent": "comparo · compara · comparamos · comparam"}
-{"razina": 17, "tema": "Town, Village & Nature", "pt": "proteger", "en": "to protect", "vrsta": "gl", "gl_skupina": "2", "particip": "protegido", "prezent": "protejo · protege · protegemos · protegem"}
-{"razina": 17, "tema": "Town, Village & Nature", "pt": "reciclar", "en": "to recycle", "vrsta": "gl", "gl_skupina": "1", "particip": "reciclado", "prezent": "reciclo · recicla · reciclamos · reciclam"}
-{"razina": 17, "tema": "Town, Village & Nature", "pt": "plantar", "en": "to plant", "vrsta": "gl", "gl_skupina": "1", "particip": "plantado", "prezent": "planto · planta · plantamos · plantam"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "comparar", "en": "to compare", "vrsta": "gl", "gl_skupina": "1", "particip": "comparado", "prezent": "comparo · compara · comparamos · comparam", "preterit": "comparei · comparou"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "proteger", "en": "to protect", "vrsta": "gl", "gl_skupina": "2", "particip": "protegido", "prezent": "protejo · protege · protegemos · protegem", "preterit": "protegi · protegeu"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "reciclar", "en": "to recycle", "vrsta": "gl", "gl_skupina": "1", "particip": "reciclado", "prezent": "reciclo · recicla · reciclamos · reciclam", "preterit": "reciclei · reciclou"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "plantar", "en": "to plant", "vrsta": "gl", "gl_skupina": "1", "particip": "plantado", "prezent": "planto · planta · plantamos · plantam", "preterit": "plantei · plantou"}
 {"razina": 17, "tema": "Town, Village & Nature", "pt": "mais … do que", "en": "more … than", "vrsta": "izraz"}
 {"razina": 17, "tema": "Town, Village & Nature", "pt": "menos … do que", "en": "less … than", "vrsta": "izraz"}
 {"razina": 17, "tema": "Town, Village & Nature", "pt": "tão … quanto", "en": "as … as", "vrsta": "izraz"}
@@ -1165,16 +1165,16 @@
 {"razina": 18, "tema": "Work & Careers", "pt": "o aumento", "en": "pay rise", "vrsta": "im", "rod": "m", "mnozina": "os aumentos"}
 {"razina": 18, "tema": "Work & Careers", "pt": "a promoção", "en": "promotion", "vrsta": "im", "rod": "f", "mnozina": "as promoções"}
 {"razina": 18, "tema": "Work & Careers", "pt": "o sócio, a sócia", "en": "partner (business)", "vrsta": "im", "rod": "m,f", "mnozina": "os sócios, as sócias"}
-{"razina": 18, "tema": "Work & Careers", "pt": "candidatar-se", "en": "to apply", "vrsta": "gl", "gl_skupina": "1", "particip": "candidatado", "prezent": "me candidato · se candidata · nos candidatamos · se candidatam"}
-{"razina": 18, "tema": "Work & Careers", "pt": "contratar", "en": "to hire", "vrsta": "gl", "gl_skupina": "1", "particip": "contratado", "prezent": "contrato · contrata · contratamos · contratam"}
-{"razina": 18, "tema": "Work & Careers", "pt": "demitir", "en": "to fire", "vrsta": "gl", "gl_skupina": "3", "particip": "demitido", "prezent": "demito · demite · demitimos · demitem"}
-{"razina": 18, "tema": "Work & Careers", "pt": "gerenciar", "en": "to manage", "vrsta": "gl", "gl_skupina": "1", "particip": "gerenciado", "prezent": "gerencio · gerencia · gerenciamos · gerenciam"}
-{"razina": 18, "tema": "Work & Careers", "pt": "desenvolver", "en": "to develop", "vrsta": "gl", "gl_skupina": "2", "particip": "desenvolvido", "prezent": "desenvolvo · desenvolve · desenvolvemos · desenvolvem"}
-{"razina": 18, "tema": "Work & Careers", "pt": "criar", "en": "to create", "vrsta": "gl", "gl_skupina": "1", "particip": "criado", "prezent": "crio · cria · criamos · criam"}
-{"razina": 18, "tema": "Work & Careers", "pt": "tornar-se", "en": "to become", "vrsta": "gl", "gl_skupina": "1", "particip": "tornado", "prezent": "me torno · se torna · nos tornamos · se tornam"}
-{"razina": 18, "tema": "Work & Careers", "pt": "aposentar-se", "en": "to retire", "vrsta": "gl", "gl_skupina": "1", "particip": "aposentado", "prezent": "me aposento · se aposenta · nos aposentamos · se aposentam"}
+{"razina": 18, "tema": "Work & Careers", "pt": "candidatar-se", "en": "to apply", "vrsta": "gl", "gl_skupina": "1", "particip": "candidatado", "prezent": "me candidato · se candidata · nos candidatamos · se candidatam", "preterit": "me candidatei · se candidatou"}
+{"razina": 18, "tema": "Work & Careers", "pt": "contratar", "en": "to hire", "vrsta": "gl", "gl_skupina": "1", "particip": "contratado", "prezent": "contrato · contrata · contratamos · contratam", "preterit": "contratei · contratou"}
+{"razina": 18, "tema": "Work & Careers", "pt": "demitir", "en": "to fire", "vrsta": "gl", "gl_skupina": "3", "particip": "demitido", "prezent": "demito · demite · demitimos · demitem", "preterit": "demiti · demitiu"}
+{"razina": 18, "tema": "Work & Careers", "pt": "gerenciar", "en": "to manage", "vrsta": "gl", "gl_skupina": "1", "particip": "gerenciado", "prezent": "gerencio · gerencia · gerenciamos · gerenciam", "preterit": "gerenciei · gerenciou"}
+{"razina": 18, "tema": "Work & Careers", "pt": "desenvolver", "en": "to develop", "vrsta": "gl", "gl_skupina": "2", "particip": "desenvolvido", "prezent": "desenvolvo · desenvolve · desenvolvemos · desenvolvem", "preterit": "desenvolvi · desenvolveu"}
+{"razina": 18, "tema": "Work & Careers", "pt": "criar", "en": "to create", "vrsta": "gl", "gl_skupina": "1", "particip": "criado", "prezent": "crio · cria · criamos · criam", "preterit": "criei · criou"}
+{"razina": 18, "tema": "Work & Careers", "pt": "tornar-se", "en": "to become", "vrsta": "gl", "gl_skupina": "1", "particip": "tornado", "prezent": "me torno · se torna · nos tornamos · se tornam", "preterit": "me tornei · se tornou"}
+{"razina": 18, "tema": "Work & Careers", "pt": "aposentar-se", "en": "to retire", "vrsta": "gl", "gl_skupina": "1", "particip": "aposentado", "prezent": "me aposento · se aposenta · nos aposentamos · se aposentam", "preterit": "me aposentei · se aposentou"}
 {"razina": 18, "tema": "Work & Careers", "pt": "ganhar a vida", "en": "to earn a living", "vrsta": "izraz"}
-{"razina": 18, "tema": "Work & Careers", "pt": "conseguir", "en": "to manage; to get", "vrsta": "gl", "gl_skupina": "3", "particip": "conseguido", "prezent": "consigo · consegue · conseguimos · conseguem"}
+{"razina": 18, "tema": "Work & Careers", "pt": "conseguir", "en": "to manage; to get", "vrsta": "gl", "gl_skupina": "3", "particip": "conseguido", "prezent": "consigo · consegue · conseguimos · conseguem", "preterit": "consegui · conseguiu"}
 {"razina": 18, "tema": "Work & Careers", "pt": "se", "en": "if", "vrsta": "vez"}
 {"razina": 18, "tema": "Work & Careers", "pt": "quando (futuro)", "en": "when (future)", "vrsta": "izraz"}
 {"razina": 18, "tema": "Work & Careers", "pt": "daqui a cinco anos", "en": "in five years", "vrsta": "izraz"}
@@ -1200,14 +1200,14 @@
 {"razina": 18, "tema": "Work & Careers", "pt": "o projeto arquitetônico", "en": "architectural design", "vrsta": "izraz"}
 {"razina": 18, "tema": "Work & Careers", "pt": "o carimbo", "en": "stamp", "vrsta": "im", "rod": "m", "mnozina": "os carimbos"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "o sonho", "en": "dream", "vrsta": "im", "rod": "m", "mnozina": "os sonhos"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "sonhar", "en": "to dream", "vrsta": "gl", "gl_skupina": "1", "particip": "sonhado", "prezent": "sonho · sonha · sonhamos · sonham"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "sonhar", "en": "to dream", "vrsta": "gl", "gl_skupina": "1", "particip": "sonhado", "prezent": "sonho · sonha · sonhamos · sonham", "preterit": "sonhei · sonhou"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "o desejo", "en": "wish", "vrsta": "im", "rod": "m", "mnozina": "os desejos"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "o conselho", "en": "piece of advice", "vrsta": "im", "rod": "m", "mnozina": "os conselhos"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "aconselhar", "en": "to advise", "vrsta": "gl", "gl_skupina": "1", "particip": "aconselhado", "prezent": "aconselho · aconselha · aconselhamos · aconselham"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "propor", "en": "to propose", "vrsta": "gl", "gl_skupina": "2", "particip": "proposto", "prezent": "proponho · propõe · propomos · propõem"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "sugerir", "en": "to suggest", "vrsta": "gl", "gl_skupina": "3", "particip": "sugerido", "prezent": "sugiro · sugere · sugerimos · sugerem"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "recomendar", "en": "to recommend", "vrsta": "gl", "gl_skupina": "1", "particip": "recomendado", "prezent": "recomendo · recomenda · recomendamos · recomendam"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "imaginar", "en": "to imagine", "vrsta": "gl", "gl_skupina": "1", "particip": "imaginado", "prezent": "imagino · imagina · imaginamos · imaginam"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "aconselhar", "en": "to advise", "vrsta": "gl", "gl_skupina": "1", "particip": "aconselhado", "prezent": "aconselho · aconselha · aconselhamos · aconselham", "preterit": "aconselhei · aconselhou"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "propor", "en": "to propose", "vrsta": "gl", "gl_skupina": "2", "particip": "proposto", "prezent": "proponho · propõe · propomos · propõem", "preterit": "propus · propôs"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "sugerir", "en": "to suggest", "vrsta": "gl", "gl_skupina": "3", "particip": "sugerido", "prezent": "sugiro · sugere · sugerimos · sugerem", "preterit": "sugeri · sugeriu"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "recomendar", "en": "to recommend", "vrsta": "gl", "gl_skupina": "1", "particip": "recomendado", "prezent": "recomendo · recomenda · recomendamos · recomendam", "preterit": "recomendei · recomendou"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "imaginar", "en": "to imagine", "vrsta": "gl", "gl_skupina": "1", "particip": "imaginado", "prezent": "imagino · imagina · imaginamos · imaginam", "preterit": "imaginei · imaginou"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "estar com vontade de", "en": "to feel like", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "ter medo de", "en": "to be afraid of", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "ter razão", "en": "to be right", "vrsta": "izraz"}
@@ -1219,9 +1219,9 @@
 {"razina": 19, "tema": "Wishes & Advice", "pt": "pobre", "en": "poor", "vrsta": "pr", "zenski": "pobre", "mnozina_pr": "pobres / pobres"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "a riqueza", "en": "wealth", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "o dinheiro", "en": "money", "vrsta": "im", "rod": "m", "mnozina": "—"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "gastar", "en": "to spend (money)", "vrsta": "gl", "gl_skupina": "1", "particip": "gasto", "prezent": "gasto · gasta · gastamos · gastam"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "economizar", "en": "to save", "vrsta": "gl", "gl_skupina": "1", "particip": "economizado", "prezent": "economizo · economiza · economizamos · economizam"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "emprestar", "en": "to lend", "vrsta": "gl", "gl_skupina": "1", "particip": "emprestado", "prezent": "empresto · empresta · emprestamos · emprestam"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "gastar", "en": "to spend (money)", "vrsta": "gl", "gl_skupina": "1", "particip": "gasto", "prezent": "gasto · gasta · gastamos · gastam", "preterit": "gastei · gastou"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "economizar", "en": "to save", "vrsta": "gl", "gl_skupina": "1", "particip": "economizado", "prezent": "economizo · economiza · economizamos · economizam", "preterit": "economizei · economizou"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "emprestar", "en": "to lend", "vrsta": "gl", "gl_skupina": "1", "particip": "emprestado", "prezent": "empresto · empresta · emprestamos · emprestam", "preterit": "emprestei · emprestou"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "pegar emprestado", "en": "to borrow", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "a volta ao mundo", "en": "round-the-world trip", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "o veleiro", "en": "sailing boat", "vrsta": "im", "rod": "m", "mnozina": "os veleiros"}
@@ -1233,8 +1233,8 @@
 {"razina": 19, "tema": "Wishes & Advice", "pt": "a possibilidade", "en": "possibility", "vrsta": "im", "rod": "f", "mnozina": "as possibilidades"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "a escolha", "en": "choice", "vrsta": "im", "rod": "f", "mnozina": "as escolhas"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "a decisão", "en": "decision", "vrsta": "im", "rod": "f", "mnozina": "as decisões"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "decidir", "en": "to decide", "vrsta": "gl", "gl_skupina": "3", "particip": "decidido", "prezent": "decido · decide · decidimos · decidem"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "tentar", "en": "to try", "vrsta": "gl", "gl_skupina": "1", "particip": "tentado", "prezent": "tento · tenta · tentamos · tentam"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "decidir", "en": "to decide", "vrsta": "gl", "gl_skupina": "3", "particip": "decidido", "prezent": "decido · decide · decidimos · decidem", "preterit": "decidi · decidiu"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "tentar", "en": "to try", "vrsta": "gl", "gl_skupina": "1", "particip": "tentado", "prezent": "tento · tenta · tentamos · tentam", "preterit": "tentei · tentou"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "parar de", "en": "to stop (doing)", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "começar a", "en": "to start (doing)", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "continuar a", "en": "to keep (doing)", "vrsta": "izraz"}
@@ -1269,7 +1269,7 @@
 {"razina": 19, "tema": "Wishes & Advice", "pt": "a oportunidade", "en": "opportunity", "vrsta": "im", "rod": "f", "mnozina": "as oportunidades"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "a casa na praia", "en": "beach house", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "o voluntariado", "en": "volunteering", "vrsta": "im", "rod": "m", "mnozina": "os voluntariados"}
-{"razina": 19, "tema": "Wishes & Advice", "pt": "doar", "en": "to donate", "vrsta": "gl", "gl_skupina": "1", "particip": "doado", "prezent": "doo · doa · doamos · doam"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "doar", "en": "to donate", "vrsta": "gl", "gl_skupina": "1", "particip": "doado", "prezent": "doo · doa · doamos · doam", "preterit": "doei · doou"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "melhorar de vida", "en": "to improve one's life", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "o sossego", "en": "peace and quiet", "vrsta": "im", "rod": "m", "mnozina": "—"}
 {"razina": 19, "tema": "Wishes & Advice", "pt": "a calma", "en": "calm", "vrsta": "im", "rod": "f", "mnozina": "—"}
@@ -1279,9 +1279,9 @@
 {"razina": 20, "tema": "Memories & the Future", "pt": "a memória", "en": "memory", "vrsta": "im", "rod": "f", "mnozina": "as memórias"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "inesquecível", "en": "unforgettable", "vrsta": "pr", "zenski": "inesquecível", "mnozina_pr": "inesquecíveis / inesquecíveis"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "a volta", "en": "return", "vrsta": "im", "rod": "f", "mnozina": "as voltas"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "regressar", "en": "to return", "vrsta": "gl", "gl_skupina": "1", "particip": "regressado", "prezent": "regresso · regressa · regressamos · regressam"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "deixar", "en": "to leave; to let", "vrsta": "gl", "gl_skupina": "1", "particip": "deixado", "prezent": "deixo · deixa · deixamos · deixam"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "despedir-se", "en": "to say goodbye", "vrsta": "gl", "gl_skupina": "3", "particip": "despedido", "prezent": "me despeço · se despede · nos despedimos · se despedem"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "regressar", "en": "to return", "vrsta": "gl", "gl_skupina": "1", "particip": "regressado", "prezent": "regresso · regressa · regressamos · regressam", "preterit": "regressei · regressou"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "deixar", "en": "to leave; to let", "vrsta": "gl", "gl_skupina": "1", "particip": "deixado", "prezent": "deixo · deixa · deixamos · deixam", "preterit": "deixei · deixou"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "despedir-se", "en": "to say goodbye", "vrsta": "gl", "gl_skupina": "3", "particip": "despedido", "prezent": "me despeço · se despede · nos despedimos · se despedem", "preterit": "me despedi · se despediu"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "sentir falta de", "en": "to miss", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "estou com saudade", "en": "I miss (you)", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "a saudade", "en": "longing; missing someone", "vrsta": "im", "rod": "f", "mnozina": "as saudades"}
@@ -1311,14 +1311,14 @@
 {"razina": 20, "tema": "Memories & the Future", "pt": "que (relativo)", "en": "who; which; that", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "onde (relativo)", "en": "where", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "o que (relativo)", "en": "what", "vrsta": "izraz"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "pensar", "en": "to think", "vrsta": "gl", "gl_skupina": "1", "particip": "pensado", "prezent": "penso · pensa · pensamos · pensam"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "acreditar", "en": "to believe", "vrsta": "gl", "gl_skupina": "1", "particip": "acreditado", "prezent": "acredito · acredita · acreditamos · acreditam"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "pensar", "en": "to think", "vrsta": "gl", "gl_skupina": "1", "particip": "pensado", "prezent": "penso · pensa · pensamos · pensam", "preterit": "pensei · pensou"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "acreditar", "en": "to believe", "vrsta": "gl", "gl_skupina": "1", "particip": "acreditado", "prezent": "acredito · acredita · acreditamos · acreditam", "preterit": "acreditei · acreditou"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "espero que", "en": "I hope that", "vrsta": "izraz"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "compartilhar", "en": "to share", "vrsta": "gl", "gl_skupina": "1", "particip": "compartilhado", "prezent": "compartilho · compartilha · compartilhamos · compartilham"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "guardar", "en": "to keep", "vrsta": "gl", "gl_skupina": "1", "particip": "guardado", "prezent": "guardo · guarda · guardamos · guardam"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "prometer", "en": "to promise", "vrsta": "gl", "gl_skupina": "2", "particip": "prometido", "prezent": "prometo · promete · prometemos · prometem"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "compartilhar", "en": "to share", "vrsta": "gl", "gl_skupina": "1", "particip": "compartilhado", "prezent": "compartilho · compartilha · compartilhamos · compartilham", "preterit": "compartilhei · compartilhou"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "guardar", "en": "to keep", "vrsta": "gl", "gl_skupina": "1", "particip": "guardado", "prezent": "guardo · guarda · guardamos · guardam", "preterit": "guardei · guardou"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "prometer", "en": "to promise", "vrsta": "gl", "gl_skupina": "2", "particip": "prometido", "prezent": "prometo · promete · prometemos · prometem", "preterit": "prometi · prometeu"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "manter contato", "en": "to keep in touch", "vrsta": "izraz"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "permanecer", "en": "to remain", "vrsta": "gl", "gl_skupina": "2", "particip": "permanecido", "prezent": "permaneço · permanece · permanecemos · permanecem"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "permanecer", "en": "to remain", "vrsta": "gl", "gl_skupina": "2", "particip": "permanecido", "prezent": "permaneço · permanece · permanecemos · permanecem", "preterit": "permaneci · permaneceu"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "graças a", "en": "thanks to", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "apesar de", "en": "despite", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "por causa de", "en": "because of", "vrsta": "prij"}
@@ -1351,7 +1351,7 @@
 {"razina": 20, "tema": "Memories & the Future", "pt": "a formatura", "en": "graduation", "vrsta": "im", "rod": "f", "mnozina": "as formaturas"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "o reencontro", "en": "reunion", "vrsta": "im", "rod": "m", "mnozina": "os reencontros"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "o porvir", "en": "future", "vrsta": "im", "rod": "m", "mnozina": "—"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "realizar", "en": "to fulfil; to achieve", "vrsta": "gl", "gl_skupina": "1", "particip": "realizado", "prezent": "realizo · realiza · realizamos · realizam"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "realizar", "en": "to fulfil; to achieve", "vrsta": "gl", "gl_skupina": "1", "particip": "realizado", "prezent": "realizo · realiza · realizamos · realizam", "preterit": "realizei · realizou"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "a gratidão", "en": "gratitude", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "o carioca, a carioca", "en": "person from Rio", "vrsta": "im", "rod": "m,f", "mnozina": "os cariocas, as cariocas"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "a nostalgia", "en": "nostalgia", "vrsta": "im", "rod": "f", "mnozina": "—"}

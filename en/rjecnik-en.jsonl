@@ -57,7 +57,7 @@
 {"razina": 1, "tema": "Greetings & Countries", "en": "nice to meet you", "hr": "drago mi je", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "my name is", "hr": "zovem se", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "name", "hr": "ime", "vrsta": "im", "mnozina": "names"}
-{"razina": 1, "tema": "Greetings & Countries", "en": "be", "hr": "biti", "vrsta": "gl", "preterit": "was / were", "particip": "been"}
+{"razina": 1, "tema": "Greetings & Countries", "en": "be", "hr": "biti", "vrsta": "gl", "preterit": "was / were", "particip": "been", "ing": "being"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "I", "hr": "ja", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "you", "hr": "ti; vi", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "he", "hr": "on", "vrsta": "zam"}
@@ -155,31 +155,31 @@
 {"razina": 2, "tema": "The Flat & Colours", "en": "eleven", "hr": "jedanaest", "vrsta": "broj"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "twelve", "hr": "dvanaest", "vrsta": "broj"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "twenty", "hr": "dvadeset", "vrsta": "broj"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "work", "hr": "raditi", "vrsta": "gl", "preterit": "worked", "particip": "worked"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "live", "hr": "živjeti; stanovati", "vrsta": "gl", "preterit": "lived", "particip": "lived"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "speak", "hr": "govoriti", "vrsta": "gl", "preterit": "spoke", "particip": "spoken"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "study", "hr": "učiti; studirati", "vrsta": "gl", "preterit": "studied", "particip": "studied"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "eat", "hr": "jesti", "vrsta": "gl", "preterit": "ate", "particip": "eaten"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "drink", "hr": "piti", "vrsta": "gl", "preterit": "drank", "particip": "drunk"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "watch", "hr": "gledati", "vrsta": "gl", "preterit": "watched", "particip": "watched"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "listen", "hr": "slušati", "vrsta": "gl", "preterit": "listened", "particip": "listened"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "cook", "hr": "kuhati", "vrsta": "gl", "preterit": "cooked", "particip": "cooked"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "play", "hr": "igrati; svirati", "vrsta": "gl", "preterit": "played", "particip": "played"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "sing", "hr": "pjevati", "vrsta": "gl", "preterit": "sang", "particip": "sung"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "dance", "hr": "plesati", "vrsta": "gl", "preterit": "danced", "particip": "danced"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "walk", "hr": "hodati", "vrsta": "gl", "preterit": "walked", "particip": "walked"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "read", "hr": "čitati", "vrsta": "gl", "preterit": "read", "particip": "read"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "write", "hr": "pisati", "vrsta": "gl", "preterit": "wrote", "particip": "written"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "learn", "hr": "učiti (nešto novo)", "vrsta": "gl", "preterit": "learnt / learned", "particip": "learnt / learned"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "know", "hr": "znati", "vrsta": "gl", "preterit": "knew", "particip": "known"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "go", "hr": "ići", "vrsta": "gl", "preterit": "went", "particip": "gone"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "get up", "hr": "ustati", "vrsta": "gl", "preterit": "got up", "particip": "got up"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "start", "hr": "početi", "vrsta": "gl", "preterit": "started", "particip": "started"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "finish", "hr": "završiti", "vrsta": "gl", "preterit": "finished", "particip": "finished"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "do", "hr": "raditi, činiti", "vrsta": "gl", "preterit": "did", "particip": "done"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "make", "hr": "napraviti", "vrsta": "gl", "preterit": "made", "particip": "made"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "like", "hr": "voljeti, sviđati se", "vrsta": "gl", "preterit": "liked", "particip": "liked"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "want", "hr": "htjeti", "vrsta": "gl", "preterit": "wanted", "particip": "wanted"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "work", "hr": "raditi", "vrsta": "gl", "preterit": "worked", "particip": "worked", "ing": "working"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "live", "hr": "živjeti; stanovati", "vrsta": "gl", "preterit": "lived", "particip": "lived", "ing": "living"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "speak", "hr": "govoriti", "vrsta": "gl", "preterit": "spoke", "particip": "spoken", "ing": "speaking"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "study", "hr": "učiti; studirati", "vrsta": "gl", "preterit": "studied", "particip": "studied", "ing": "studying"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "eat", "hr": "jesti", "vrsta": "gl", "preterit": "ate", "particip": "eaten", "ing": "eating"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "drink", "hr": "piti", "vrsta": "gl", "preterit": "drank", "particip": "drunk", "ing": "drinking"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "watch", "hr": "gledati", "vrsta": "gl", "preterit": "watched", "particip": "watched", "ing": "watching"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "listen", "hr": "slušati", "vrsta": "gl", "preterit": "listened", "particip": "listened", "ing": "listening"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "cook", "hr": "kuhati", "vrsta": "gl", "preterit": "cooked", "particip": "cooked", "ing": "cooking"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "play", "hr": "igrati; svirati", "vrsta": "gl", "preterit": "played", "particip": "played", "ing": "playing"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "sing", "hr": "pjevati", "vrsta": "gl", "preterit": "sang", "particip": "sung", "ing": "singing"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "dance", "hr": "plesati", "vrsta": "gl", "preterit": "danced", "particip": "danced", "ing": "dancing"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "walk", "hr": "hodati", "vrsta": "gl", "preterit": "walked", "particip": "walked", "ing": "walking"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "read", "hr": "čitati", "vrsta": "gl", "preterit": "read", "particip": "read", "ing": "reading"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "write", "hr": "pisati", "vrsta": "gl", "preterit": "wrote", "particip": "written", "ing": "writing"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "learn", "hr": "učiti (nešto novo)", "vrsta": "gl", "preterit": "learnt / learned", "particip": "learnt / learned", "ing": "learning"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "know", "hr": "znati", "vrsta": "gl", "preterit": "knew", "particip": "known", "ing": "knowing"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "go", "hr": "ići", "vrsta": "gl", "preterit": "went", "particip": "gone", "ing": "going"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "get up", "hr": "ustati", "vrsta": "gl", "preterit": "got up", "particip": "got up", "ing": "getting up"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "start", "hr": "početi", "vrsta": "gl", "preterit": "started", "particip": "started", "ing": "starting"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "finish", "hr": "završiti", "vrsta": "gl", "preterit": "finished", "particip": "finished", "ing": "finishing"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "do", "hr": "raditi, činiti", "vrsta": "gl", "preterit": "did", "particip": "done", "ing": "doing"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "make", "hr": "napraviti", "vrsta": "gl", "preterit": "made", "particip": "made", "ing": "making"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "like", "hr": "voljeti, sviđati se", "vrsta": "gl", "preterit": "liked", "particip": "liked", "ing": "liking"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "want", "hr": "htjeti", "vrsta": "gl", "preterit": "wanted", "particip": "wanted", "ing": "wanting"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "day", "hr": "dan", "vrsta": "im", "mnozina": "days"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "week", "hr": "tjedan", "vrsta": "im", "mnozina": "weeks"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "Monday", "hr": "ponedjeljak", "vrsta": "im", "mnozina": "Mondays"}
@@ -217,7 +217,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "on", "hr": "na", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "with", "hr": "s, sa", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "very", "hr": "vrlo", "vrsta": "pril"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "wash", "hr": "prati", "vrsta": "gl", "preterit": "washed", "particip": "washed"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "wash", "hr": "prati", "vrsta": "gl", "preterit": "washed", "particip": "washed", "ing": "washing"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "come home", "hr": "doći kući", "vrsta": "izraz"}
 {"razina": 4, "tema": "Family & Age", "en": "mother", "hr": "majka", "vrsta": "im", "mnozina": "mothers"}
 {"razina": 4, "tema": "Family & Age", "en": "mum", "hr": "mama", "vrsta": "im", "mnozina": "mums"}
@@ -255,7 +255,7 @@
 {"razina": 4, "tema": "Family & Age", "en": "cat", "hr": "mačka", "vrsta": "im", "mnozina": "cats"}
 {"razina": 4, "tema": "Family & Age", "en": "pet", "hr": "kućni ljubimac", "vrsta": "im", "mnozina": "pets"}
 {"razina": 4, "tema": "Family & Age", "en": "have got", "hr": "imati", "vrsta": "izraz"}
-{"razina": 4, "tema": "Family & Age", "en": "have", "hr": "imati", "vrsta": "gl", "preterit": "had", "particip": "had"}
+{"razina": 4, "tema": "Family & Age", "en": "have", "hr": "imati", "vrsta": "gl", "preterit": "had", "particip": "had", "ing": "having"}
 {"razina": 4, "tema": "Family & Age", "en": "age", "hr": "dob", "vrsta": "im", "mnozina": "ages"}
 {"razina": 4, "tema": "Family & Age", "en": "year", "hr": "godina", "vrsta": "im", "mnozina": "years"}
 {"razina": 4, "tema": "Family & Age", "en": "birthday", "hr": "rođendan", "vrsta": "im", "mnozina": "birthdays"}
@@ -336,9 +336,9 @@
 {"razina": 5, "tema": "Food & Quantities", "en": "how many?", "hr": "koliko (komada)?", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food & Quantities", "en": "I'd like", "hr": "želio bih, htio bih", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food & Quantities", "en": "would you like …?", "hr": "želite li …?", "vrsta": "izraz"}
-{"razina": 5, "tema": "Food & Quantities", "en": "buy", "hr": "kupiti", "vrsta": "gl", "preterit": "bought", "particip": "bought"}
-{"razina": 5, "tema": "Food & Quantities", "en": "cost", "hr": "koštati", "vrsta": "gl", "preterit": "cost", "particip": "cost"}
-{"razina": 5, "tema": "Food & Quantities", "en": "pay", "hr": "platiti", "vrsta": "gl", "preterit": "paid", "particip": "paid"}
+{"razina": 5, "tema": "Food & Quantities", "en": "buy", "hr": "kupiti", "vrsta": "gl", "preterit": "bought", "particip": "bought", "ing": "buying"}
+{"razina": 5, "tema": "Food & Quantities", "en": "cost", "hr": "koštati", "vrsta": "gl", "preterit": "cost", "particip": "cost", "ing": "costing"}
+{"razina": 5, "tema": "Food & Quantities", "en": "pay", "hr": "platiti", "vrsta": "gl", "preterit": "paid", "particip": "paid", "ing": "paying"}
 {"razina": 5, "tema": "Food & Quantities", "en": "pound", "hr": "funta", "vrsta": "im", "mnozina": "pounds"}
 {"razina": 5, "tema": "Food & Quantities", "en": "penny", "hr": "peni", "vrsta": "im", "mnozina": "pence"}
 {"razina": 5, "tema": "Food & Quantities", "en": "price", "hr": "cijena", "vrsta": "im", "mnozina": "prices"}
@@ -378,13 +378,13 @@
 {"razina": 6, "tema": "City & Directions", "en": "cathedral", "hr": "katedrala", "vrsta": "im", "mnozina": "cathedrals"}
 {"razina": 6, "tema": "City & Directions", "en": "river", "hr": "rijeka", "vrsta": "im", "mnozina": "rivers"}
 {"razina": 6, "tema": "City & Directions", "en": "entrance", "hr": "ulaz", "vrsta": "im", "mnozina": "entrances"}
-{"razina": 6, "tema": "City & Directions", "en": "turn", "hr": "skrenuti", "vrsta": "gl", "preterit": "turned", "particip": "turned"}
-{"razina": 6, "tema": "City & Directions", "en": "cross", "hr": "prijeći", "vrsta": "gl", "preterit": "crossed", "particip": "crossed"}
+{"razina": 6, "tema": "City & Directions", "en": "turn", "hr": "skrenuti", "vrsta": "gl", "preterit": "turned", "particip": "turned", "ing": "turning"}
+{"razina": 6, "tema": "City & Directions", "en": "cross", "hr": "prijeći", "vrsta": "gl", "preterit": "crossed", "particip": "crossed", "ing": "crossing"}
 {"razina": 6, "tema": "City & Directions", "en": "go straight on", "hr": "ići ravno", "vrsta": "izraz"}
-{"razina": 6, "tema": "City & Directions", "en": "take", "hr": "uzeti; povesti", "vrsta": "gl", "preterit": "took", "particip": "taken"}
-{"razina": 6, "tema": "City & Directions", "en": "find", "hr": "naći", "vrsta": "gl", "preterit": "found", "particip": "found"}
+{"razina": 6, "tema": "City & Directions", "en": "take", "hr": "uzeti; povesti", "vrsta": "gl", "preterit": "took", "particip": "taken", "ing": "taking"}
+{"razina": 6, "tema": "City & Directions", "en": "find", "hr": "naći", "vrsta": "gl", "preterit": "found", "particip": "found", "ing": "finding"}
 {"razina": 6, "tema": "City & Directions", "en": "look for", "hr": "tražiti", "vrsta": "izraz"}
-{"razina": 6, "tema": "City & Directions", "en": "come", "hr": "doći", "vrsta": "gl", "preterit": "came", "particip": "come"}
+{"razina": 6, "tema": "City & Directions", "en": "come", "hr": "doći", "vrsta": "gl", "preterit": "came", "particip": "come", "ing": "coming"}
 {"razina": 6, "tema": "City & Directions", "en": "let's", "hr": "hajdemo", "vrsta": "izraz"}
 {"razina": 6, "tema": "City & Directions", "en": "left", "hr": "lijevo", "vrsta": "pril"}
 {"razina": 6, "tema": "City & Directions", "en": "right", "hr": "desno", "vrsta": "pril"}
@@ -425,19 +425,19 @@
 {"razina": 6, "tema": "City & Directions", "en": "petrol station", "hr": "benzinska postaja", "vrsta": "im", "mnozina": "petrol stations"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "free time", "hr": "slobodno vrijeme", "vrsta": "izraz"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "hobby", "hr": "hobi", "vrsta": "im", "mnozina": "hobbies"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "love", "hr": "voljeti, obožavati", "vrsta": "gl", "preterit": "loved", "particip": "loved"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "hate", "hr": "mrziti", "vrsta": "gl", "preterit": "hated", "particip": "hated"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "enjoy", "hr": "uživati", "vrsta": "gl", "preterit": "enjoyed", "particip": "enjoyed"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "need", "hr": "trebati", "vrsta": "gl", "preterit": "needed", "particip": "needed"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "swim", "hr": "plivati", "vrsta": "gl", "preterit": "swam", "particip": "swum"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "run", "hr": "trčati", "vrsta": "gl", "preterit": "ran", "particip": "run"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "ride", "hr": "voziti (bicikl, konja)", "vrsta": "gl", "preterit": "rode", "particip": "ridden"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "travel", "hr": "putovati", "vrsta": "gl", "preterit": "travelled", "particip": "travelled"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "draw", "hr": "crtati", "vrsta": "gl", "preterit": "drew", "particip": "drawn"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "paint", "hr": "slikati", "vrsta": "gl", "preterit": "painted", "particip": "painted"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "love", "hr": "voljeti, obožavati", "vrsta": "gl", "preterit": "loved", "particip": "loved", "ing": "loving"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "hate", "hr": "mrziti", "vrsta": "gl", "preterit": "hated", "particip": "hated", "ing": "hating"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "enjoy", "hr": "uživati", "vrsta": "gl", "preterit": "enjoyed", "particip": "enjoyed", "ing": "enjoying"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "need", "hr": "trebati", "vrsta": "gl", "preterit": "needed", "particip": "needed", "ing": "needing"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "swim", "hr": "plivati", "vrsta": "gl", "preterit": "swam", "particip": "swum", "ing": "swimming"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "run", "hr": "trčati", "vrsta": "gl", "preterit": "ran", "particip": "run", "ing": "running"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "ride", "hr": "voziti (bicikl, konja)", "vrsta": "gl", "preterit": "rode", "particip": "ridden", "ing": "riding"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "travel", "hr": "putovati", "vrsta": "gl", "preterit": "travelled", "particip": "travelled", "ing": "travelling"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "draw", "hr": "crtati", "vrsta": "gl", "preterit": "drew", "particip": "drawn", "ing": "drawing"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "paint", "hr": "slikati", "vrsta": "gl", "preterit": "painted", "particip": "painted", "ing": "painting"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "class", "hr": "sat; razred", "vrsta": "im", "mnozina": "classes"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "go out", "hr": "izaći", "vrsta": "izraz"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "meet", "hr": "sresti; naći se", "vrsta": "gl", "preterit": "met", "particip": "met"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "meet", "hr": "sresti; naći se", "vrsta": "gl", "preterit": "met", "particip": "met", "ing": "meeting"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "always", "hr": "uvijek", "vrsta": "pril"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "usually", "hr": "obično", "vrsta": "pril"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "often", "hr": "često", "vrsta": "pril"}
@@ -486,13 +486,13 @@
 {"razina": 7, "tema": "Hobbies & Sport", "en": "alone", "hr": "sam", "vrsta": "pril"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "also", "hr": "također", "vrsta": "pril"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "too", "hr": "također; previše", "vrsta": "pril"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "win", "hr": "pobijediti", "vrsta": "gl", "preterit": "won", "particip": "won"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "lose", "hr": "izgubiti", "vrsta": "gl", "preterit": "lost", "particip": "lost"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "win", "hr": "pobijediti", "vrsta": "gl", "preterit": "won", "particip": "won", "ing": "winning"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "lose", "hr": "izgubiti", "vrsta": "gl", "preterit": "lost", "particip": "lost", "ing": "losing"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "hiking", "hr": "planinarenje", "vrsta": "im", "mnozina": "—"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "skiing", "hr": "skijanje", "vrsta": "im", "mnozina": "—"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "cycling", "hr": "biciklizam", "vrsta": "im", "mnozina": "—"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "climbing", "hr": "penjanje", "vrsta": "im", "mnozina": "—"}
-{"razina": 7, "tema": "Hobbies & Sport", "en": "practise", "hr": "vježbati", "vrsta": "gl", "preterit": "practised", "particip": "practised"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "practise", "hr": "vježbati", "vrsta": "gl", "preterit": "practised", "particip": "practised", "ing": "practising"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "wake up", "hr": "probuditi se", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "have a shower", "hr": "istuširati se", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "have a bath", "hr": "okupati se", "vrsta": "izraz"}
@@ -503,13 +503,13 @@
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "have dinner", "hr": "večerati", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "go to bed", "hr": "ići na spavanje", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "go to work", "hr": "ići na posao", "vrsta": "izraz"}
-{"razina": 8, "tema": "Routine, Time & Dates", "en": "leave", "hr": "otići; napustiti", "vrsta": "gl", "preterit": "left", "particip": "left"}
-{"razina": 8, "tema": "Routine, Time & Dates", "en": "arrive", "hr": "stići", "vrsta": "gl", "preterit": "arrived", "particip": "arrived"}
+{"razina": 8, "tema": "Routine, Time & Dates", "en": "leave", "hr": "otići; napustiti", "vrsta": "gl", "preterit": "left", "particip": "left", "ing": "leaving"}
+{"razina": 8, "tema": "Routine, Time & Dates", "en": "arrive", "hr": "stići", "vrsta": "gl", "preterit": "arrived", "particip": "arrived", "ing": "arriving"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "get home", "hr": "doći kući", "vrsta": "izraz"}
-{"razina": 8, "tema": "Routine, Time & Dates", "en": "sleep", "hr": "spavati", "vrsta": "gl", "preterit": "slept", "particip": "slept"}
-{"razina": 8, "tema": "Routine, Time & Dates", "en": "rest", "hr": "odmarati se", "vrsta": "gl", "preterit": "rested", "particip": "rested"}
-{"razina": 8, "tema": "Routine, Time & Dates", "en": "hurry", "hr": "žuriti", "vrsta": "gl", "preterit": "hurried", "particip": "hurried"}
-{"razina": 8, "tema": "Routine, Time & Dates", "en": "can", "hr": "moći, znati", "vrsta": "gl", "preterit": "could", "particip": "—"}
+{"razina": 8, "tema": "Routine, Time & Dates", "en": "sleep", "hr": "spavati", "vrsta": "gl", "preterit": "slept", "particip": "slept", "ing": "sleeping"}
+{"razina": 8, "tema": "Routine, Time & Dates", "en": "rest", "hr": "odmarati se", "vrsta": "gl", "preterit": "rested", "particip": "rested", "ing": "resting"}
+{"razina": 8, "tema": "Routine, Time & Dates", "en": "hurry", "hr": "žuriti", "vrsta": "gl", "preterit": "hurried", "particip": "hurried", "ing": "hurrying"}
+{"razina": 8, "tema": "Routine, Time & Dates", "en": "can", "hr": "moći, znati", "vrsta": "gl", "preterit": "could", "particip": "—", "ing": "—"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "can't", "hr": "ne moći", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "breakfast", "hr": "doručak", "vrsta": "im", "mnozina": "breakfasts"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "lunch", "hr": "ručak", "vrsta": "im", "mnozina": "lunches"}
@@ -597,16 +597,16 @@
 {"razina": 9, "tema": "Weather & Seasons", "en": "winter", "hr": "zima", "vrsta": "im", "mnozina": "winters"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "umbrella", "hr": "kišobran", "vrsta": "im", "mnozina": "umbrellas"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "raincoat", "hr": "kabanica", "vrsta": "im", "mnozina": "raincoats"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "wear", "hr": "nositi (odjeću)", "vrsta": "gl", "preterit": "wore", "particip": "worn"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "wait", "hr": "čekati", "vrsta": "gl", "preterit": "waited", "particip": "waited"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "look", "hr": "gledati; izgledati", "vrsta": "gl", "preterit": "looked", "particip": "looked"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "talk", "hr": "razgovarati", "vrsta": "gl", "preterit": "talked", "particip": "talked"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "call", "hr": "nazvati", "vrsta": "gl", "preterit": "called", "particip": "called"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "help", "hr": "pomoći", "vrsta": "gl", "preterit": "helped", "particip": "helped"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "sit", "hr": "sjediti", "vrsta": "gl", "preterit": "sat", "particip": "sat"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "stand", "hr": "stajati", "vrsta": "gl", "preterit": "stood", "particip": "stood"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "smile", "hr": "smiješiti se", "vrsta": "gl", "preterit": "smiled", "particip": "smiled"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "carry", "hr": "nositi", "vrsta": "gl", "preterit": "carried", "particip": "carried"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "wear", "hr": "nositi (odjeću)", "vrsta": "gl", "preterit": "wore", "particip": "worn", "ing": "wearing"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "wait", "hr": "čekati", "vrsta": "gl", "preterit": "waited", "particip": "waited", "ing": "waiting"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "look", "hr": "gledati; izgledati", "vrsta": "gl", "preterit": "looked", "particip": "looked", "ing": "looking"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "talk", "hr": "razgovarati", "vrsta": "gl", "preterit": "talked", "particip": "talked", "ing": "talking"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "call", "hr": "nazvati", "vrsta": "gl", "preterit": "called", "particip": "called", "ing": "calling"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "help", "hr": "pomoći", "vrsta": "gl", "preterit": "helped", "particip": "helped", "ing": "helping"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "sit", "hr": "sjediti", "vrsta": "gl", "preterit": "sat", "particip": "sat", "ing": "sitting"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "stand", "hr": "stajati", "vrsta": "gl", "preterit": "stood", "particip": "stood", "ing": "standing"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "smile", "hr": "smiješiti se", "vrsta": "gl", "preterit": "smiled", "particip": "smiled", "ing": "smiling"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "carry", "hr": "nositi", "vrsta": "gl", "preterit": "carried", "particip": "carried", "ing": "carrying"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "slowly", "hr": "polako", "vrsta": "pril"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "quickly", "hr": "brzo", "vrsta": "pril"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "well", "hr": "dobro", "vrsta": "pril"}
@@ -632,7 +632,7 @@
 {"razina": 9, "tema": "Weather & Seasons", "en": "busy", "hr": "zauzet", "vrsta": "pr", "komparativ": "busier", "superlativ": "busiest"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "heatwave", "hr": "toplinski val", "vrsta": "im", "mnozina": "heatwaves"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "frost", "hr": "mraz", "vrsta": "im", "mnozina": "frosts"}
-{"razina": 9, "tema": "Weather & Seasons", "en": "shine", "hr": "sjati", "vrsta": "gl", "preterit": "shone", "particip": "shone"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "shine", "hr": "sjati", "vrsta": "gl", "preterit": "shone", "particip": "shone", "ing": "shining"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "was, were", "hr": "bio, bila, bili", "vrsta": "izraz"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "yesterday", "hr": "jučer", "vrsta": "pril"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "last", "hr": "prošli", "vrsta": "pr", "komparativ": "—", "superlativ": "—"}
@@ -641,36 +641,36 @@
 {"razina": 10, "tema": "Weekend & Past Time", "en": "ago", "hr": "prije (vremenski)", "vrsta": "pril"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "the day before yesterday", "hr": "prekjučer", "vrsta": "izraz"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "barbecue", "hr": "roštilj", "vrsta": "im", "mnozina": "barbecues"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "visit", "hr": "posjetiti", "vrsta": "gl", "preterit": "visited", "particip": "visited"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "clean", "hr": "čistiti", "vrsta": "gl", "preterit": "cleaned", "particip": "cleaned"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "tidy", "hr": "pospremiti", "vrsta": "gl", "preterit": "tidied", "particip": "tidied"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "visit", "hr": "posjetiti", "vrsta": "gl", "preterit": "visited", "particip": "visited", "ing": "visiting"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "clean", "hr": "čistiti", "vrsta": "gl", "preterit": "cleaned", "particip": "cleaned", "ing": "cleaning"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "tidy", "hr": "pospremiti", "vrsta": "gl", "preterit": "tidied", "particip": "tidied", "ing": "tidying"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "do the shopping", "hr": "kupovati namirnice", "vrsta": "izraz"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "stay", "hr": "ostati", "vrsta": "gl", "preterit": "stayed", "particip": "stayed"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "relax", "hr": "opustiti se", "vrsta": "gl", "preterit": "relaxed", "particip": "relaxed"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "stay", "hr": "ostati", "vrsta": "gl", "preterit": "stayed", "particip": "stayed", "ing": "staying"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "relax", "hr": "opustiti se", "vrsta": "gl", "preterit": "relaxed", "particip": "relaxed", "ing": "relaxing"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "watch TV", "hr": "gledati televiziju", "vrsta": "izraz"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "open", "hr": "otvoriti", "vrsta": "gl", "preterit": "opened", "particip": "opened"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "shut", "hr": "zatvoriti", "vrsta": "gl", "preterit": "shut", "particip": "shut"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "answer", "hr": "odgovoriti", "vrsta": "gl", "preterit": "answered", "particip": "answered"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "ask", "hr": "pitati", "vrsta": "gl", "preterit": "asked", "particip": "asked"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "show", "hr": "pokazati", "vrsta": "gl", "preterit": "showed", "particip": "shown"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "laugh", "hr": "smijati se", "vrsta": "gl", "preterit": "laughed", "particip": "laughed"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "cry", "hr": "plakati", "vrsta": "gl", "preterit": "cried", "particip": "cried"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "try", "hr": "pokušati", "vrsta": "gl", "preterit": "tried", "particip": "tried"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "stop", "hr": "zaustaviti; prestati", "vrsta": "gl", "preterit": "stopped", "particip": "stopped"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "plan", "hr": "planirati; plan", "vrsta": "gl", "preterit": "planned", "particip": "planned"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "move", "hr": "pomaknuti; preseliti se", "vrsta": "gl", "preterit": "moved", "particip": "moved"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "went", "hr": "otišao (prošlo od go)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "had", "hr": "imao (prošlo od have)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "saw", "hr": "vidio (prošlo od see)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "got", "hr": "dobio; postao (prošlo od get)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "did", "hr": "učinio (prošlo od do)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "made", "hr": "napravio (prošlo od make)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "came", "hr": "došao (prošlo od come)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "ate", "hr": "jeo (prošlo od eat)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "bought", "hr": "kupio (prošlo od buy)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "met", "hr": "sreo (prošlo od meet)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "see", "hr": "vidjeti", "vrsta": "gl", "preterit": "saw", "particip": "seen"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "get", "hr": "dobiti; postati", "vrsta": "gl", "preterit": "got", "particip": "got"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "open", "hr": "otvoriti", "vrsta": "gl", "preterit": "opened", "particip": "opened", "ing": "opening"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "shut", "hr": "zatvoriti", "vrsta": "gl", "preterit": "shut", "particip": "shut", "ing": "shutting"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "answer", "hr": "odgovoriti", "vrsta": "gl", "preterit": "answered", "particip": "answered", "ing": "answering"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "ask", "hr": "pitati", "vrsta": "gl", "preterit": "asked", "particip": "asked", "ing": "asking"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "show", "hr": "pokazati", "vrsta": "gl", "preterit": "showed", "particip": "shown", "ing": "showing"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "laugh", "hr": "smijati se", "vrsta": "gl", "preterit": "laughed", "particip": "laughed", "ing": "laughing"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "cry", "hr": "plakati", "vrsta": "gl", "preterit": "cried", "particip": "cried", "ing": "crying"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "try", "hr": "pokušati", "vrsta": "gl", "preterit": "tried", "particip": "tried", "ing": "trying"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "stop", "hr": "zaustaviti; prestati", "vrsta": "gl", "preterit": "stopped", "particip": "stopped", "ing": "stopping"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "plan", "hr": "planirati; plan", "vrsta": "gl", "preterit": "planned", "particip": "planned", "ing": "planning"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "move", "hr": "pomaknuti; preseliti se", "vrsta": "gl", "preterit": "moved", "particip": "moved", "ing": "moving"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "went", "hr": "otišao (prošlo od go)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "had", "hr": "imao (prošlo od have)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "saw", "hr": "vidio (prošlo od see)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "got", "hr": "dobio; postao (prošlo od get)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "did", "hr": "učinio (prošlo od do)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "made", "hr": "napravio (prošlo od make)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "came", "hr": "došao (prošlo od come)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "ate", "hr": "jeo (prošlo od eat)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "bought", "hr": "kupio (prošlo od buy)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "met", "hr": "sreo (prošlo od meet)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "see", "hr": "vidjeti", "vrsta": "gl", "preterit": "saw", "particip": "seen", "ing": "seeing"}
+{"razina": 10, "tema": "Weekend & Past Time", "en": "get", "hr": "dobiti; postati", "vrsta": "gl", "preterit": "got", "particip": "got", "ing": "getting"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "party", "hr": "zabava", "vrsta": "im", "mnozina": "parties"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "newspaper", "hr": "novine", "vrsta": "im", "mnozina": "newspapers"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "magazine", "hr": "časopis", "vrsta": "im", "mnozina": "magazines"}
@@ -747,15 +747,15 @@
 {"razina": 11, "tema": "Trains & Trips", "en": "west", "hr": "zapad", "vrsta": "im", "mnozina": "wests"}
 {"razina": 11, "tema": "Trains & Trips", "en": "get on", "hr": "ući (u vozilo)", "vrsta": "izraz"}
 {"razina": 11, "tema": "Trains & Trips", "en": "get off", "hr": "izaći (iz vozila)", "vrsta": "izraz"}
-{"razina": 11, "tema": "Trains & Trips", "en": "fly", "hr": "letjeti", "vrsta": "gl", "preterit": "flew", "particip": "flown"}
-{"razina": 11, "tema": "Trains & Trips", "en": "drive", "hr": "voziti", "vrsta": "gl", "preterit": "drove", "particip": "driven"}
-{"razina": 11, "tema": "Trains & Trips", "en": "catch", "hr": "uhvatiti", "vrsta": "gl", "preterit": "caught", "particip": "caught"}
-{"razina": 11, "tema": "Trains & Trips", "en": "miss", "hr": "propustiti; nedostajati", "vrsta": "gl", "preterit": "missed", "particip": "missed"}
-{"razina": 11, "tema": "Trains & Trips", "en": "book", "hr": "rezervirati", "vrsta": "gl", "preterit": "booked", "particip": "booked"}
-{"razina": 11, "tema": "Trains & Trips", "en": "hire", "hr": "unajmiti", "vrsta": "gl", "preterit": "hired", "particip": "hired"}
-{"razina": 11, "tema": "Trains & Trips", "en": "pack", "hr": "spakirati", "vrsta": "gl", "preterit": "packed", "particip": "packed"}
+{"razina": 11, "tema": "Trains & Trips", "en": "fly", "hr": "letjeti", "vrsta": "gl", "preterit": "flew", "particip": "flown", "ing": "flying"}
+{"razina": 11, "tema": "Trains & Trips", "en": "drive", "hr": "voziti", "vrsta": "gl", "preterit": "drove", "particip": "driven", "ing": "driving"}
+{"razina": 11, "tema": "Trains & Trips", "en": "catch", "hr": "uhvatiti", "vrsta": "gl", "preterit": "caught", "particip": "caught", "ing": "catching"}
+{"razina": 11, "tema": "Trains & Trips", "en": "miss", "hr": "propustiti; nedostajati", "vrsta": "gl", "preterit": "missed", "particip": "missed", "ing": "missing"}
+{"razina": 11, "tema": "Trains & Trips", "en": "book", "hr": "rezervirati", "vrsta": "gl", "preterit": "booked", "particip": "booked", "ing": "booking"}
+{"razina": 11, "tema": "Trains & Trips", "en": "hire", "hr": "unajmiti", "vrsta": "gl", "preterit": "hired", "particip": "hired", "ing": "hiring"}
+{"razina": 11, "tema": "Trains & Trips", "en": "pack", "hr": "spakirati", "vrsta": "gl", "preterit": "packed", "particip": "packed", "ing": "packing"}
 {"razina": 11, "tema": "Trains & Trips", "en": "check in", "hr": "prijaviti se (u hotel, na let)", "vrsta": "izraz"}
-{"razina": 11, "tema": "Trains & Trips", "en": "could", "hr": "mogao", "vrsta": "gl", "preterit": "—", "particip": "—"}
+{"razina": 11, "tema": "Trains & Trips", "en": "could", "hr": "mogao", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
 {"razina": 11, "tema": "Trains & Trips", "en": "couldn't", "hr": "nije mogao", "vrsta": "izraz"}
 {"razina": 11, "tema": "Trains & Trips", "en": "something", "hr": "nešto", "vrsta": "zam"}
 {"razina": 11, "tema": "Trains & Trips", "en": "anything", "hr": "išta; bilo što", "vrsta": "zam"}
@@ -815,8 +815,8 @@
 {"razina": 12, "tema": "Clothes & Shops", "en": "try on", "hr": "isprobati", "vrsta": "izraz"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "put on", "hr": "obući", "vrsta": "izraz"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "take off", "hr": "skinuti", "vrsta": "izraz"}
-{"razina": 12, "tema": "Clothes & Shops", "en": "fit", "hr": "pristajati (veličinom)", "vrsta": "gl", "preterit": "fitted", "particip": "fitted"}
-{"razina": 12, "tema": "Clothes & Shops", "en": "suit", "hr": "pristajati (stilom)", "vrsta": "gl", "preterit": "suited", "particip": "suited"}
+{"razina": 12, "tema": "Clothes & Shops", "en": "fit", "hr": "pristajati (veličinom)", "vrsta": "gl", "preterit": "fitted", "particip": "fitted", "ing": "fitting"}
+{"razina": 12, "tema": "Clothes & Shops", "en": "suit", "hr": "pristajati (stilom)", "vrsta": "gl", "preterit": "suited", "particip": "suited", "ing": "suiting"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "long", "hr": "dug", "vrsta": "pr", "komparativ": "longer", "superlativ": "longest"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "loose", "hr": "širok, labav", "vrsta": "pr", "komparativ": "looser", "superlativ": "loosest"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "tight", "hr": "uzak, tijesan", "vrsta": "pr", "komparativ": "tighter", "superlativ": "tightest"}
@@ -853,7 +853,7 @@
 {"razina": 12, "tema": "Clothes & Shops", "en": "button", "hr": "gumb", "vrsta": "im", "mnozina": "buttons"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "zip", "hr": "patentni zatvarač", "vrsta": "im", "mnozina": "zips"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "online shopping", "hr": "internetska kupnja", "vrsta": "izraz"}
-{"razina": 12, "tema": "Clothes & Shops", "en": "return", "hr": "vratiti (se)", "vrsta": "gl", "preterit": "returned", "particip": "returned"}
+{"razina": 12, "tema": "Clothes & Shops", "en": "return", "hr": "vratiti (se)", "vrsta": "gl", "preterit": "returned", "particip": "returned", "ing": "returning"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "refund", "hr": "povrat novca", "vrsta": "im", "mnozina": "refunds"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "pretty", "hr": "lijep, zgodan; prilično", "vrsta": "pr", "komparativ": "prettier", "superlativ": "prettiest"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "department store", "hr": "robna kuća", "vrsta": "im", "mnozina": "department stores"}
@@ -899,7 +899,7 @@
 {"razina": 13, "tema": "The Body & the Doctor", "en": "headache", "hr": "glavobolja", "vrsta": "im", "mnozina": "headaches"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "toothache", "hr": "zubobolja", "vrsta": "im", "mnozina": "toothaches"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "stomach ache", "hr": "bol u trbuhu", "vrsta": "im", "mnozina": "stomach aches"}
-{"razina": 13, "tema": "The Body & the Doctor", "en": "hurt", "hr": "boljeti; ozlijediti", "vrsta": "gl", "preterit": "hurt", "particip": "hurt"}
+{"razina": 13, "tema": "The Body & the Doctor", "en": "hurt", "hr": "boljeti; ozlijediti", "vrsta": "gl", "preterit": "hurt", "particip": "hurt", "ing": "hurting"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "injury", "hr": "ozljeda", "vrsta": "im", "mnozina": "injuries"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "medicine", "hr": "lijek", "vrsta": "im", "mnozina": "medicines"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "tablet", "hr": "tableta", "vrsta": "im", "mnozina": "tablets"}
@@ -909,16 +909,16 @@
 {"razina": 13, "tema": "The Body & the Doctor", "en": "ambulance", "hr": "hitna pomoć (vozilo)", "vrsta": "im", "mnozina": "ambulances"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "A&E", "hr": "hitni prijem", "vrsta": "im", "mnozina": "—"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "symptom", "hr": "simptom", "vrsta": "im", "mnozina": "symptoms"}
-{"razina": 13, "tema": "The Body & the Doctor", "en": "break", "hr": "slomiti", "vrsta": "gl", "preterit": "broke", "particip": "broken"}
-{"razina": 13, "tema": "The Body & the Doctor", "en": "feel", "hr": "osjećati (se)", "vrsta": "gl", "preterit": "felt", "particip": "felt"}
+{"razina": 13, "tema": "The Body & the Doctor", "en": "break", "hr": "slomiti", "vrsta": "gl", "preterit": "broke", "particip": "broken", "ing": "breaking"}
+{"razina": 13, "tema": "The Body & the Doctor", "en": "feel", "hr": "osjećati (se)", "vrsta": "gl", "preterit": "felt", "particip": "felt", "ing": "feeling"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "get better", "hr": "oporaviti se", "vrsta": "izraz"}
-{"razina": 13, "tema": "The Body & the Doctor", "en": "breathe", "hr": "disati", "vrsta": "gl", "preterit": "breathed", "particip": "breathed"}
-{"razina": 13, "tema": "The Body & the Doctor", "en": "should", "hr": "trebao bi", "vrsta": "gl", "preterit": "—", "particip": "—"}
+{"razina": 13, "tema": "The Body & the Doctor", "en": "breathe", "hr": "disati", "vrsta": "gl", "preterit": "breathed", "particip": "breathed", "ing": "breathing"}
+{"razina": 13, "tema": "The Body & the Doctor", "en": "should", "hr": "trebao bi", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "shouldn't", "hr": "ne bi trebao", "vrsta": "izraz"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "have to", "hr": "morati", "vrsta": "izraz"}
-{"razina": 13, "tema": "The Body & the Doctor", "en": "must", "hr": "morati", "vrsta": "gl", "preterit": "—", "particip": "—"}
+{"razina": 13, "tema": "The Body & the Doctor", "en": "must", "hr": "morati", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "mustn't", "hr": "ne smjeti", "vrsta": "izraz"}
-{"razina": 13, "tema": "The Body & the Doctor", "en": "might", "hr": "možda (će)", "vrsta": "gl", "preterit": "—", "particip": "—"}
+{"razina": 13, "tema": "The Body & the Doctor", "en": "might", "hr": "možda (će)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "serious", "hr": "ozbiljan", "vrsta": "pr", "komparativ": "more serious", "superlativ": "most serious"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "healthy", "hr": "zdrav", "vrsta": "pr", "komparativ": "healthier", "superlativ": "healthiest"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "of course", "hr": "naravno", "vrsta": "izraz"}
@@ -937,9 +937,9 @@
 {"razina": 13, "tema": "The Body & the Doctor", "en": "exercise", "hr": "tjelovježba", "vrsta": "im", "mnozina": "exercises"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "diet", "hr": "prehrana", "vrsta": "im", "mnozina": "diets"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "temperature (fever)", "hr": "povišena temperatura", "vrsta": "izraz"}
-{"razina": 13, "tema": "The Body & the Doctor", "en": "sneeze", "hr": "kihati", "vrsta": "gl", "preterit": "sneezed", "particip": "sneezed"}
+{"razina": 13, "tema": "The Body & the Doctor", "en": "sneeze", "hr": "kihati", "vrsta": "gl", "preterit": "sneezed", "particip": "sneezed", "ing": "sneezing"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "going to", "hr": "namjeravati (buduće)", "vrsta": "izraz"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "will", "hr": "budući pomoćni glagol (ću, ćeš…)", "vrsta": "gl", "preterit": "would", "particip": "—"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "will", "hr": "budući pomoćni glagol (ću, ćeš…)", "vrsta": "gl", "preterit": "would", "particip": "—", "ing": "—"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "won't", "hr": "neću, nećeš…", "vrsta": "izraz"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "tomorrow", "hr": "sutra", "vrsta": "pril"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "next", "hr": "sljedeći", "vrsta": "pr", "komparativ": "—", "superlativ": "—"}
@@ -950,17 +950,17 @@
 {"razina": 14, "tema": "Plans & Celebrations", "en": "plan", "hr": "plan", "vrsta": "im", "mnozina": "plans"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "celebration", "hr": "proslava", "vrsta": "im", "mnozina": "celebrations"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "present", "hr": "poklon", "vrsta": "im", "mnozina": "presents"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "give", "hr": "dati", "vrsta": "gl", "preterit": "gave", "particip": "given"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "send", "hr": "poslati", "vrsta": "gl", "preterit": "sent", "particip": "sent"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "wrap", "hr": "zamotati", "vrsta": "gl", "preterit": "wrapped", "particip": "wrapped"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "thank", "hr": "zahvaliti", "vrsta": "gl", "preterit": "thanked", "particip": "thanked"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "wish", "hr": "željeti; želja", "vrsta": "gl", "preterit": "wished", "particip": "wished"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "organise", "hr": "organizirati", "vrsta": "gl", "preterit": "organised", "particip": "organised"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "decorate", "hr": "ukrasiti", "vrsta": "gl", "preterit": "decorated", "particip": "decorated"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "prepare", "hr": "pripremiti", "vrsta": "gl", "preterit": "prepared", "particip": "prepared"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "celebrate", "hr": "slaviti", "vrsta": "gl", "preterit": "celebrated", "particip": "celebrated"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "invite", "hr": "pozvati", "vrsta": "gl", "preterit": "invited", "particip": "invited"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "bring", "hr": "donijeti", "vrsta": "gl", "preterit": "brought", "particip": "brought"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "give", "hr": "dati", "vrsta": "gl", "preterit": "gave", "particip": "given", "ing": "giving"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "send", "hr": "poslati", "vrsta": "gl", "preterit": "sent", "particip": "sent", "ing": "sending"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "wrap", "hr": "zamotati", "vrsta": "gl", "preterit": "wrapped", "particip": "wrapped", "ing": "wrapping"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "thank", "hr": "zahvaliti", "vrsta": "gl", "preterit": "thanked", "particip": "thanked", "ing": "thanking"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "wish", "hr": "željeti; želja", "vrsta": "gl", "preterit": "wished", "particip": "wished", "ing": "wishing"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "organise", "hr": "organizirati", "vrsta": "gl", "preterit": "organised", "particip": "organised", "ing": "organising"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "decorate", "hr": "ukrasiti", "vrsta": "gl", "preterit": "decorated", "particip": "decorated", "ing": "decorating"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "prepare", "hr": "pripremiti", "vrsta": "gl", "preterit": "prepared", "particip": "prepared", "ing": "preparing"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "celebrate", "hr": "slaviti", "vrsta": "gl", "preterit": "celebrated", "particip": "celebrated", "ing": "celebrating"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "invite", "hr": "pozvati", "vrsta": "gl", "preterit": "invited", "particip": "invited", "ing": "inviting"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "bring", "hr": "donijeti", "vrsta": "gl", "preterit": "brought", "particip": "brought", "ing": "bringing"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "happy birthday", "hr": "sretan rođendan", "vrsta": "izraz"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "congratulations", "hr": "čestitam", "vrsta": "izraz"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "merry Christmas", "hr": "sretan Božić", "vrsta": "izraz"}
@@ -1004,11 +1004,11 @@
 {"razina": 14, "tema": "Plans & Celebrations", "en": "perhaps", "hr": "možda", "vrsta": "pril"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "I think", "hr": "mislim", "vrsta": "izraz"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "I hope", "hr": "nadam se", "vrsta": "izraz"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "predict", "hr": "predvidjeti", "vrsta": "gl", "preterit": "predicted", "particip": "predicted"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "promise", "hr": "obećati", "vrsta": "gl", "preterit": "promised", "particip": "promised"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "decide", "hr": "odlučiti", "vrsta": "gl", "preterit": "decided", "particip": "decided"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "arrange", "hr": "dogovoriti", "vrsta": "gl", "preterit": "arranged", "particip": "arranged"}
-{"razina": 14, "tema": "Plans & Celebrations", "en": "rehearse", "hr": "probati, uvježbavati", "vrsta": "gl", "preterit": "rehearsed", "particip": "rehearsed"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "predict", "hr": "predvidjeti", "vrsta": "gl", "preterit": "predicted", "particip": "predicted", "ing": "predicting"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "promise", "hr": "obećati", "vrsta": "gl", "preterit": "promised", "particip": "promised", "ing": "promising"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "decide", "hr": "odlučiti", "vrsta": "gl", "preterit": "decided", "particip": "decided", "ing": "deciding"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "arrange", "hr": "dogovoriti", "vrsta": "gl", "preterit": "arranged", "particip": "arranged", "ing": "arranging"}
+{"razina": 14, "tema": "Plans & Celebrations", "en": "rehearse", "hr": "probati, uvježbavati", "vrsta": "gl", "preterit": "rehearsed", "particip": "rehearsed", "ing": "rehearsing"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "the future", "hr": "budućnost", "vrsta": "im", "mnozina": "—"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "festival", "hr": "festival", "vrsta": "im", "mnozina": "festivals"}
 {"razina": 14, "tema": "Plans & Celebrations", "en": "crowd", "hr": "gužva, mnoštvo", "vrsta": "im", "mnozina": "crowds"}
@@ -1023,24 +1023,24 @@
 {"razina": 15, "tema": "Experiences & Travel", "en": "just", "hr": "upravo, tek", "vrsta": "pril"}
 {"razina": 15, "tema": "Experiences & Travel", "en": "already", "hr": "već", "vrsta": "pril"}
 {"razina": 15, "tema": "Experiences & Travel", "en": "yet", "hr": "još (u pitanju i nijekanju)", "vrsta": "pril"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "been", "hr": "bio (particip od be)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "gone", "hr": "otišao (particip od go)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "seen", "hr": "vidio (particip od see)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "done", "hr": "učinio (particip od do)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "eaten", "hr": "jeo (particip od eat)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "tried", "hr": "probao", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "visited", "hr": "posjetio", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "travelled", "hr": "putovao", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "flown", "hr": "letio (particip od fly)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "written", "hr": "napisao (particip od write)", "vrsta": "gl", "preterit": "—", "particip": "—"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "climb", "hr": "penjati se", "vrsta": "gl", "preterit": "climbed", "particip": "climbed"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "jump", "hr": "skočiti", "vrsta": "gl", "preterit": "jumped", "particip": "jumped"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "taste", "hr": "kušati", "vrsta": "gl", "preterit": "tasted", "particip": "tasted"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "explore", "hr": "istraživati", "vrsta": "gl", "preterit": "explored", "particip": "explored"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "discover", "hr": "otkriti", "vrsta": "gl", "preterit": "discovered", "particip": "discovered"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "forget", "hr": "zaboraviti", "vrsta": "gl", "preterit": "forgot", "particip": "forgotten"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "remember", "hr": "sjetiti se, pamtiti", "vrsta": "gl", "preterit": "remembered", "particip": "remembered"}
-{"razina": 15, "tema": "Experiences & Travel", "en": "drop", "hr": "ispustiti", "vrsta": "gl", "preterit": "dropped", "particip": "dropped"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "been", "hr": "bio (particip od be)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "gone", "hr": "otišao (particip od go)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "seen", "hr": "vidio (particip od see)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "done", "hr": "učinio (particip od do)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "eaten", "hr": "jeo (particip od eat)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "tried", "hr": "probao", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "visited", "hr": "posjetio", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "travelled", "hr": "putovao", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "flown", "hr": "letio (particip od fly)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "written", "hr": "napisao (particip od write)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "climb", "hr": "penjati se", "vrsta": "gl", "preterit": "climbed", "particip": "climbed", "ing": "climbing"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "jump", "hr": "skočiti", "vrsta": "gl", "preterit": "jumped", "particip": "jumped", "ing": "jumping"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "taste", "hr": "kušati", "vrsta": "gl", "preterit": "tasted", "particip": "tasted", "ing": "tasting"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "explore", "hr": "istraživati", "vrsta": "gl", "preterit": "explored", "particip": "explored", "ing": "exploring"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "discover", "hr": "otkriti", "vrsta": "gl", "preterit": "discovered", "particip": "discovered", "ing": "discovering"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "forget", "hr": "zaboraviti", "vrsta": "gl", "preterit": "forgot", "particip": "forgotten", "ing": "forgetting"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "remember", "hr": "sjetiti se, pamtiti", "vrsta": "gl", "preterit": "remembered", "particip": "remembered", "ing": "remembering"}
+{"razina": 15, "tema": "Experiences & Travel", "en": "drop", "hr": "ispustiti", "vrsta": "gl", "preterit": "dropped", "particip": "dropped", "ing": "dropping"}
 {"razina": 15, "tema": "Experiences & Travel", "en": "break a record", "hr": "oboriti rekord", "vrsta": "izraz"}
 {"razina": 15, "tema": "Experiences & Travel", "en": "in my life", "hr": "u životu", "vrsta": "izraz"}
 {"razina": 15, "tema": "Experiences & Travel", "en": "adventure", "hr": "pustolovina", "vrsta": "im", "mnozina": "adventures"}
@@ -1145,17 +1145,17 @@
 {"razina": 16, "tema": "The Home & Furniture", "en": "freezer", "hr": "zamrzivač", "vrsta": "im", "mnozina": "freezers"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "housework", "hr": "kućanski poslovi", "vrsta": "im", "mnozina": "—"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "do the washing-up", "hr": "oprati posuđe", "vrsta": "izraz"}
-{"razina": 16, "tema": "The Home & Furniture", "en": "hoover", "hr": "usisavati; usisavač", "vrsta": "gl", "preterit": "hoovered", "particip": "hoovered"}
-{"razina": 16, "tema": "The Home & Furniture", "en": "iron", "hr": "glačati; glačalo", "vrsta": "gl", "preterit": "ironed", "particip": "ironed"}
+{"razina": 16, "tema": "The Home & Furniture", "en": "hoover", "hr": "usisavati; usisavač", "vrsta": "gl", "preterit": "hoovered", "particip": "hoovered", "ing": "hoovering"}
+{"razina": 16, "tema": "The Home & Furniture", "en": "iron", "hr": "glačati; glačalo", "vrsta": "gl", "preterit": "ironed", "particip": "ironed", "ing": "ironing"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "make the bed", "hr": "namjestiti krevet", "vrsta": "izraz"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "take out the rubbish", "hr": "iznijeti smeće", "vrsta": "izraz"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "rubbish", "hr": "smeće", "vrsta": "im", "mnozina": "—"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "cardboard", "hr": "karton", "vrsta": "im", "mnozina": "—"}
-{"razina": 16, "tema": "The Home & Furniture", "en": "fix", "hr": "popraviti", "vrsta": "gl", "preterit": "fixed", "particip": "fixed"}
-{"razina": 16, "tema": "The Home & Furniture", "en": "build", "hr": "graditi", "vrsta": "gl", "preterit": "built", "particip": "built"}
-{"razina": 16, "tema": "The Home & Furniture", "en": "grow", "hr": "rasti; uzgajati", "vrsta": "gl", "preterit": "grew", "particip": "grown"}
-{"razina": 16, "tema": "The Home & Furniture", "en": "improve", "hr": "poboljšati", "vrsta": "gl", "preterit": "improved", "particip": "improved"}
-{"razina": 16, "tema": "The Home & Furniture", "en": "become", "hr": "postati", "vrsta": "gl", "preterit": "became", "particip": "become"}
+{"razina": 16, "tema": "The Home & Furniture", "en": "fix", "hr": "popraviti", "vrsta": "gl", "preterit": "fixed", "particip": "fixed", "ing": "fixing"}
+{"razina": 16, "tema": "The Home & Furniture", "en": "build", "hr": "graditi", "vrsta": "gl", "preterit": "built", "particip": "built", "ing": "building"}
+{"razina": 16, "tema": "The Home & Furniture", "en": "grow", "hr": "rasti; uzgajati", "vrsta": "gl", "preterit": "grew", "particip": "grown", "ing": "growing"}
+{"razina": 16, "tema": "The Home & Furniture", "en": "improve", "hr": "poboljšati", "vrsta": "gl", "preterit": "improved", "particip": "improved", "ing": "improving"}
+{"razina": 16, "tema": "The Home & Furniture", "en": "become", "hr": "postati", "vrsta": "gl", "preterit": "became", "particip": "become", "ing": "becoming"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "spacious", "hr": "prostran", "vrsta": "pr", "komparativ": "more spacious", "superlativ": "most spacious"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "quiet", "hr": "tih, miran", "vrsta": "pr", "komparativ": "quieter", "superlativ": "quietest"}
 {"razina": 16, "tema": "The Home & Furniture", "en": "noisy", "hr": "bučan", "vrsta": "pr", "komparativ": "noisier", "superlativ": "noisiest"}
@@ -1218,9 +1218,9 @@
 {"razina": 17, "tema": "Town, Village & Nature", "en": "environment", "hr": "okoliš", "vrsta": "im", "mnozina": "—"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "recycling", "hr": "recikliranje", "vrsta": "im", "mnozina": "—"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "bin", "hr": "kanta za smeće", "vrsta": "im", "mnozina": "bins"}
-{"razina": 17, "tema": "Town, Village & Nature", "en": "compare", "hr": "usporediti", "vrsta": "gl", "preterit": "compared", "particip": "compared"}
-{"razina": 17, "tema": "Town, Village & Nature", "en": "protect", "hr": "zaštititi", "vrsta": "gl", "preterit": "protected", "particip": "protected"}
-{"razina": 17, "tema": "Town, Village & Nature", "en": "recycle", "hr": "reciklirati", "vrsta": "gl", "preterit": "recycled", "particip": "recycled"}
+{"razina": 17, "tema": "Town, Village & Nature", "en": "compare", "hr": "usporediti", "vrsta": "gl", "preterit": "compared", "particip": "compared", "ing": "comparing"}
+{"razina": 17, "tema": "Town, Village & Nature", "en": "protect", "hr": "zaštititi", "vrsta": "gl", "preterit": "protected", "particip": "protected", "ing": "protecting"}
+{"razina": 17, "tema": "Town, Village & Nature", "en": "recycle", "hr": "reciklirati", "vrsta": "gl", "preterit": "recycled", "particip": "recycled", "ing": "recycling"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "the best", "hr": "najbolji", "vrsta": "izraz"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "the worst", "hr": "najgori", "vrsta": "izraz"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "the most", "hr": "najviše; naj-", "vrsta": "izraz"}
@@ -1300,13 +1300,13 @@
 {"razina": 18, "tema": "Childhood & School", "en": "as a child", "hr": "kao dijete", "vrsta": "izraz"}
 {"razina": 18, "tema": "Childhood & School", "en": "in those days", "hr": "u ono vrijeme", "vrsta": "izraz"}
 {"razina": 18, "tema": "Childhood & School", "en": "grow up", "hr": "odrasti", "vrsta": "izraz"}
-{"razina": 18, "tema": "Childhood & School", "en": "teach", "hr": "poučavati", "vrsta": "gl", "preterit": "taught", "particip": "taught"}
-{"razina": 18, "tema": "Childhood & School", "en": "repeat", "hr": "ponoviti", "vrsta": "gl", "preterit": "repeated", "particip": "repeated"}
-{"razina": 18, "tema": "Childhood & School", "en": "explain", "hr": "objasniti", "vrsta": "gl", "preterit": "explained", "particip": "explained"}
-{"razina": 18, "tema": "Childhood & School", "en": "revise", "hr": "ponavljati gradivo", "vrsta": "gl", "preterit": "revised", "particip": "revised"}
-{"razina": 18, "tema": "Childhood & School", "en": "punish", "hr": "kazniti", "vrsta": "gl", "preterit": "punished", "particip": "punished"}
-{"razina": 18, "tema": "Childhood & School", "en": "pass", "hr": "položiti; proći", "vrsta": "gl", "preterit": "passed", "particip": "passed"}
-{"razina": 18, "tema": "Childhood & School", "en": "fail", "hr": "pasti (ispit)", "vrsta": "gl", "preterit": "failed", "particip": "failed"}
+{"razina": 18, "tema": "Childhood & School", "en": "teach", "hr": "poučavati", "vrsta": "gl", "preterit": "taught", "particip": "taught", "ing": "teaching"}
+{"razina": 18, "tema": "Childhood & School", "en": "repeat", "hr": "ponoviti", "vrsta": "gl", "preterit": "repeated", "particip": "repeated", "ing": "repeating"}
+{"razina": 18, "tema": "Childhood & School", "en": "explain", "hr": "objasniti", "vrsta": "gl", "preterit": "explained", "particip": "explained", "ing": "explaining"}
+{"razina": 18, "tema": "Childhood & School", "en": "revise", "hr": "ponavljati gradivo", "vrsta": "gl", "preterit": "revised", "particip": "revised", "ing": "revising"}
+{"razina": 18, "tema": "Childhood & School", "en": "punish", "hr": "kazniti", "vrsta": "gl", "preterit": "punished", "particip": "punished", "ing": "punishing"}
+{"razina": 18, "tema": "Childhood & School", "en": "pass", "hr": "položiti; proći", "vrsta": "gl", "preterit": "passed", "particip": "passed", "ing": "passing"}
+{"razina": 18, "tema": "Childhood & School", "en": "fail", "hr": "pasti (ispit)", "vrsta": "gl", "preterit": "failed", "particip": "failed", "ing": "failing"}
 {"razina": 18, "tema": "Childhood & School", "en": "be good at", "hr": "biti dobar u", "vrsta": "izraz"}
 {"razina": 18, "tema": "Childhood & School", "en": "naughty", "hr": "nestašan", "vrsta": "pr", "komparativ": "naughtier", "superlativ": "naughtiest"}
 {"razina": 18, "tema": "Childhood & School", "en": "shy", "hr": "sramežljiv", "vrsta": "pr", "komparativ": "shyer", "superlativ": "shyest"}
@@ -1339,11 +1339,11 @@
 {"razina": 19, "tema": "Wishes & Advice", "en": "dream", "hr": "san", "vrsta": "im", "mnozina": "dreams"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "wish", "hr": "želja", "vrsta": "im", "mnozina": "wishes"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "advice", "hr": "savjet", "vrsta": "im", "mnozina": "—"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "advise", "hr": "savjetovati", "vrsta": "gl", "preterit": "advised", "particip": "advised"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "suggest", "hr": "predložiti", "vrsta": "gl", "preterit": "suggested", "particip": "suggested"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "recommend", "hr": "preporučiti", "vrsta": "gl", "preterit": "recommended", "particip": "recommended"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "imagine", "hr": "zamisliti", "vrsta": "gl", "preterit": "imagined", "particip": "imagined"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "would", "hr": "bi (kondicional)", "vrsta": "gl", "preterit": "—", "particip": "—"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "advise", "hr": "savjetovati", "vrsta": "gl", "preterit": "advised", "particip": "advised", "ing": "advising"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "suggest", "hr": "predložiti", "vrsta": "gl", "preterit": "suggested", "particip": "suggested", "ing": "suggesting"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "recommend", "hr": "preporučiti", "vrsta": "gl", "preterit": "recommended", "particip": "recommended", "ing": "recommending"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "imagine", "hr": "zamisliti", "vrsta": "gl", "preterit": "imagined", "particip": "imagined", "ing": "imagining"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "would", "hr": "bi (kondicional)", "vrsta": "gl", "preterit": "—", "particip": "—", "ing": "—"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "wouldn't", "hr": "ne bi", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "if I were you", "hr": "da sam na tvom mjestu", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "I'd rather", "hr": "radije bih", "vrsta": "izraz"}
@@ -1357,10 +1357,10 @@
 {"razina": 19, "tema": "Wishes & Advice", "en": "rich", "hr": "bogat", "vrsta": "pr", "komparativ": "richer", "superlativ": "richest"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "poor", "hr": "siromašan", "vrsta": "pr", "komparativ": "poorer", "superlativ": "poorest"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "money", "hr": "novac", "vrsta": "im", "mnozina": "—"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "spend", "hr": "potrošiti; provesti", "vrsta": "gl", "preterit": "spent", "particip": "spent"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "save", "hr": "uštedjeti; spasiti", "vrsta": "gl", "preterit": "saved", "particip": "saved"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "lend", "hr": "posuditi (nekome)", "vrsta": "gl", "preterit": "lent", "particip": "lent"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "borrow", "hr": "posuditi (od nekoga)", "vrsta": "gl", "preterit": "borrowed", "particip": "borrowed"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "spend", "hr": "potrošiti; provesti", "vrsta": "gl", "preterit": "spent", "particip": "spent", "ing": "spending"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "save", "hr": "uštedjeti; spasiti", "vrsta": "gl", "preterit": "saved", "particip": "saved", "ing": "saving"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "lend", "hr": "posuditi (nekome)", "vrsta": "gl", "preterit": "lent", "particip": "lent", "ing": "lending"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "borrow", "hr": "posuditi (od nekoga)", "vrsta": "gl", "preterit": "borrowed", "particip": "borrowed", "ing": "borrowing"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "around the world", "hr": "oko svijeta", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "sailing boat", "hr": "jedrilica", "vrsta": "im", "mnozina": "sailing boats"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "luxury", "hr": "luksuz", "vrsta": "im", "mnozina": "luxuries"}
@@ -1371,7 +1371,7 @@
 {"razina": 19, "tema": "Wishes & Advice", "en": "chance", "hr": "prilika; šansa", "vrsta": "im", "mnozina": "chances"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "choice", "hr": "izbor", "vrsta": "im", "mnozina": "choices"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "decision", "hr": "odluka", "vrsta": "im", "mnozina": "decisions"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "choose", "hr": "izabrati", "vrsta": "gl", "preterit": "chose", "particip": "chosen"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "choose", "hr": "izabrati", "vrsta": "gl", "preterit": "chose", "particip": "chosen", "ing": "choosing"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "stop doing", "hr": "prestati raditi", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "keep doing", "hr": "nastaviti raditi", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "it would be better", "hr": "bilo bi bolje", "vrsta": "izraz"}
@@ -1402,10 +1402,10 @@
 {"razina": 19, "tema": "Wishes & Advice", "en": "doubt", "hr": "sumnja", "vrsta": "im", "mnozina": "doubts"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "opportunity", "hr": "prilika", "vrsta": "im", "mnozina": "opportunities"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "volunteering", "hr": "volontiranje", "vrsta": "im", "mnozina": "—"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "donate", "hr": "donirati", "vrsta": "gl", "preterit": "donated", "particip": "donated"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "donate", "hr": "donirati", "vrsta": "gl", "preterit": "donated", "particip": "donated", "ing": "donating"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "charity", "hr": "dobrotvorna organizacija", "vrsta": "im", "mnozina": "charities"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "own", "hr": "posjedovati", "vrsta": "gl", "preterit": "owned", "particip": "owned"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "quit", "hr": "dati otkaz; prestati", "vrsta": "gl", "preterit": "quit", "particip": "quit"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "own", "hr": "posjedovati", "vrsta": "gl", "preterit": "owned", "particip": "owned", "ing": "owning"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "quit", "hr": "dati otkaz; prestati", "vrsta": "gl", "preterit": "quit", "particip": "quit", "ing": "quitting"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "career", "hr": "karijera", "vrsta": "im", "mnozina": "careers"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "salary", "hr": "plaća", "vrsta": "im", "mnozina": "salaries"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "boss", "hr": "šef, šefica", "vrsta": "im", "mnozina": "bosses"}
@@ -1414,7 +1414,7 @@
 {"razina": 19, "tema": "Wishes & Advice", "en": "dream job", "hr": "posao iz snova", "vrsta": "izraz"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "promotion", "hr": "promaknuće", "vrsta": "im", "mnozina": "promotions"}
 {"razina": 19, "tema": "Wishes & Advice", "en": "win", "hr": "pobjeda", "vrsta": "im", "mnozina": "wins"}
-{"razina": 19, "tema": "Wishes & Advice", "en": "retire", "hr": "umiroviti se", "vrsta": "gl", "preterit": "retired", "particip": "retired"}
+{"razina": 19, "tema": "Wishes & Advice", "en": "retire", "hr": "umiroviti se", "vrsta": "gl", "preterit": "retired", "particip": "retired", "ing": "retiring"}
 {"razina": 20, "tema": "Memories & the Future", "en": "whom", "hr": "koga, kojem (službeno)", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "en": "which", "hr": "koji (za stvari)", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "en": "phrasal verb", "hr": "frazni glagol", "vrsta": "im", "mnozina": "phrasal verbs"}
@@ -1455,10 +1455,10 @@
 {"razina": 20, "tema": "Memories & the Future", "en": "in a year", "hr": "za godinu dana", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "en": "forever", "hr": "zauvijek", "vrsta": "pril"}
 {"razina": 20, "tema": "Memories & the Future", "en": "again", "hr": "ponovno", "vrsta": "pril"}
-{"razina": 20, "tema": "Memories & the Future", "en": "think", "hr": "misliti", "vrsta": "gl", "preterit": "thought", "particip": "thought"}
-{"razina": 20, "tema": "Memories & the Future", "en": "believe", "hr": "vjerovati", "vrsta": "gl", "preterit": "believed", "particip": "believed"}
-{"razina": 20, "tema": "Memories & the Future", "en": "share", "hr": "dijeliti", "vrsta": "gl", "preterit": "shared", "particip": "shared"}
-{"razina": 20, "tema": "Memories & the Future", "en": "keep", "hr": "zadržati; čuvati", "vrsta": "gl", "preterit": "kept", "particip": "kept"}
+{"razina": 20, "tema": "Memories & the Future", "en": "think", "hr": "misliti", "vrsta": "gl", "preterit": "thought", "particip": "thought", "ing": "thinking"}
+{"razina": 20, "tema": "Memories & the Future", "en": "believe", "hr": "vjerovati", "vrsta": "gl", "preterit": "believed", "particip": "believed", "ing": "believing"}
+{"razina": 20, "tema": "Memories & the Future", "en": "share", "hr": "dijeliti", "vrsta": "gl", "preterit": "shared", "particip": "shared", "ing": "sharing"}
+{"razina": 20, "tema": "Memories & the Future", "en": "keep", "hr": "zadržati; čuvati", "vrsta": "gl", "preterit": "kept", "particip": "kept", "ing": "keeping"}
 {"razina": 20, "tema": "Memories & the Future", "en": "thanks to", "hr": "zahvaljujući", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "en": "despite", "hr": "unatoč", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "en": "because of", "hr": "zbog", "vrsta": "izraz"}
@@ -1482,7 +1482,7 @@
 {"razina": 20, "tema": "Memories & the Future", "en": "proud of", "hr": "ponosan na", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "en": "graduation", "hr": "diploma (svečanost)", "vrsta": "im", "mnozina": "graduations"}
 {"razina": 20, "tema": "Memories & the Future", "en": "reunion", "hr": "ponovni susret", "vrsta": "im", "mnozina": "reunions"}
-{"razina": 20, "tema": "Memories & the Future", "en": "achieve", "hr": "postići", "vrsta": "gl", "preterit": "achieved", "particip": "achieved"}
+{"razina": 20, "tema": "Memories & the Future", "en": "achieve", "hr": "postići", "vrsta": "gl", "preterit": "achieved", "particip": "achieved", "ing": "achieving"}
 {"razina": 20, "tema": "Memories & the Future", "en": "gratitude", "hr": "zahvalnost", "vrsta": "im", "mnozina": "—"}
 {"razina": 20, "tema": "Memories & the Future", "en": "memories", "hr": "uspomene", "vrsta": "im", "mnozina": "memories"}
 {"razina": 20, "tema": "Memories & the Future", "en": "toast", "hr": "zdravica", "vrsta": "im", "mnozina": "toasts"}
