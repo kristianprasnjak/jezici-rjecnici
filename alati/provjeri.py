@@ -40,7 +40,7 @@ VRIJEDNOSTI = {
     'vid': {'isv': {'ipf', 'pf', 'ipf,pf'}},
     'prelaznost': {'eo': {'tr', 'ntr', 'tr,ntr'}},
 }
-PREZENT_LICA = {'pt': 4, 'isv': 1}   # ostali jezici: 6 (ja · ti · on · mi · vi · oni)
+PREZENT_LICA = {'pt': 4, 'isv': 2}   # pt: eu · você/ele · nós · vocês/eles; isv: ja · on; ostali: 6
 NEMA = '—'   # oblik se ne koristi (nebrojivo, bezlični glagol …)
 
 

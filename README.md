@@ -22,7 +22,8 @@ Njemački rječnik je u Crolandu (`deutsch/rjecnik/`).
 ## Faze
 
 1. **A — popis riječi + engleski** (sada): riječ, prijevod, vrsta riječi, razina i tema.
-2. **B — oblici**: množina, rod, ključni glagolski oblici. Gotovo: **fr**, **it**. Sljedeći: es, pt.
+2. **B — oblici**: množina, rod, ključni glagolski oblici. Gotovo za **sve jezike** (stupci se
+   razlikuju po jeziku, vidi „Faza B“).
 3. **C — hrvatski prijevod i ključevi slika** (po potrebi primjeri).
 
 ## Datoteke u mapi jezika
@@ -50,9 +51,23 @@ Stupci TSV-a: `razina | tema | XX | en | vrsta` (za engleski tečaj `razina | te
 
 ## Faza B — oblici (obrazac: francuski)
 
-Stupci oblika dodaju se **iza** pet osnovnih, u ovom redoslijedu. Svaki stupac pripada jednoj
-vrsti riječi: za nju je obavezan, za sve ostale vrste (pril, prij, vez, zam, izraz, broj, čest,
-čl, usk) ostaje prazan. `—` znači „oblik se ne koristi“ (nije isto što i prazno polje).
+Stupci oblika dodaju se **iza** pet osnovnih. Svaki stupac pripada jednoj vrsti riječi (im, pr ili
+gl; `deklinacija` u latinskom i im i pr): za nju je obavezan, za sve ostale vrste (pril, prij, vez,
+zam, izraz, broj, čest, čl, usk, afiks) ostaje prazan. `—` znači „oblik se ne koristi / ne postoji“
+(nije isto što i prazno polje). Jezik uzima samo stupce koji mu trebaju:
+
+| Jezik | Imenice | Pridjevi | Glagoli |
+|---|---|---|---|
+| fr | rod, mnozina | zenski, mnozina_pr | gl_skupina, pomocni, particip, prezent (6) |
+| it | rod, mnozina (s članom) | zenski, mnozina_pr | gl_skupina, pomocni, particip, prezent (6) |
+| es | rod, mnozina (s članom) | zenski, mnozina_pr | gl_skupina, particip, prezent (6) |
+| pt | rod, mnozina (s članom) | zenski, mnozina_pr | gl_skupina, particip, prezent (4) |
+| en | mnozina | komparativ, superlativ | preterit, particip |
+| la | rod, genitiv, deklinacija | oblici_pr, deklinacija | konjugacija, glavni_oblici |
+| eo | — | — | prelaznost |
+| isv | rod | — | vid, prezent (2) |
+
+Dolje je francuski kao obrazac, zatim razlike po jezicima.
 
 | Stupac | Vrsta | Sadržaj (fr) | Primjer |
 |---|---|---|---|
@@ -80,10 +95,11 @@ Pravila:
 - Glagoli koji mogu imati oba pomoćna (`monter`, `sortir`, `passer` …) dobivaju pomoćni za
   značenje u stupcu `en` (`monter` „to go up“ → `être`; `passer` „to spend (time)“ → `avoir`).
 
-`provjeri.py` provjerava: stupac postoji → popunjen za svoju vrstu i prazan za ostale; `rod` je
-`m`/`f`/`m,f`; dvorodna riječ ima `m,f` i jednak broj oblika množine (`(m/f)`: jedan ili dva); `mnozina_pr` je `m / ž`;
-`gl_skupina` je 1–3; `pomocni` iz popisa jezika (`POMOCNI` u skripti); `prezent` ima 6 oblika.
-Jezici bez tih stupaca prolaze kao i prije.
+`provjeri.py` provjerava: stupac postoji → popunjen za svoju vrstu i prazan za ostale; vrijednost
+je iz popisa jezika (`VRIJEDNOSTI`: `rod`, `gl_skupina`, `pomocni`, `konjugacija`, `deklinacija`,
+`vid`, `prelaznost`); dvorodna riječ ima `m,f` i jednak broj oblika množine (`(m/f)`: jedan ili
+dva); `mnozina_pr` je `m / ž`; `prezent` ima propisani broj oblika (`PREZENT_LICA`, inače 6);
+`glavni_oblici` ima 1–3 dijela.
 
 ### Talijanski — razlike od francuskog
 
@@ -101,8 +117,69 @@ Isti stupci, s ovim razlikama:
 - `pomocni`: `avere` / `essere`; povratni i bezlični glagoli (`piovere`, `nevicare`) = `essere`.
 - `prezent`: io · tu · lui · noi · voi · loro; povratni sa zamjenicom (`mi alzo · ti alzi …`).
 
-**Za es i pt** isti obrazac; `pomocni` se izostavlja (uvijek haber / ter), `gl_skupina` po
-infinitivu (-ar/-er/-ir). Za novi pomoćni dodati vrijednosti u `POMOCNI`; nove stupce u `OBLICI`.
+### Španjolski (Španjolska)
+
+- Kao talijanski: `mnozina` s članom (`los libros`, `las aguas` za `el agua (f)`), dvorodne
+  `los niños, las niñas`, bez člana `lunes` → `los lunes`; mjeseci, zemlje i nebrojive `—`.
+- `pomocni` se izostavlja (uvijek *haber*). `gl_skupina`: `1` -ar, `2` -er, `3` -ir/-ír.
+- `prezent`: yo · tú · él · nosotros · vosotros · ellos (europski, s *vosotros*); povratni sa
+  zamjenicom (`me levanto · te levantas …`); promjena osnove vidi se u oblicima (`pienso`, `puedo`).
+- `particip`: participio (m. jd.): `hecho`, `escrito`, `leído`.
+- Boje `rosa`, `naranja` kao pridjevi slažu se u broju (`rosas / rosas`, prema DPD-u).
+
+### Portugalski (brazilski)
+
+- Isto kao španjolski (`mnozina` s članom, `—` za nebrojive), `pomocni` se izostavlja (*ter*).
+- `prezent` ima **4 oblika**: eu · você/ele · nós · vocês/eles (oblici koji se u Brazilu stvarno
+  koriste; *tu* i *vós* izostavljeni). Povratni glagoli s **proklizom** (`me levanto · se levanta …`).
+- `cinza`, `rosa`, `laranja` kao pridjevi su nepromjenjivi (`rosa / rosa`).
+- Pravopis po Ortografskom sporazumu 1990. (`veem`, `doo`, `ideia`).
+
+### Engleski (britanski)
+
+- Nema roda; `mnozina` za imenice (`children`, `knives`, `potatoes`, `—` za nebrojive,
+  `trousers` → `trousers`).
+- Pridjevi: `komparativ` i `superlativ` bez *the* (`bigger` / `biggest`, `more interesting` /
+  `most interesting`, `good` → `better` / `best`); nestupnjevani (`married`, nacionalnosti,
+  `perfect`) `—`.
+- Glagoli: `preterit` (past simple) i `particip` (past participle), britanski pravopis
+  (`travelled`, `learnt / learned`). Riječi koje su same oblik drugog glagola (`went`, `been`) i
+  modalni glagoli (`must`, `should`) imaju `—`; `can` → `could` / `—`.
+
+### Latinski (klasični, makroni)
+
+- `rod`: `m` / `f` / `n` / `m,f` (zajednički rod: `cīvis`, `canis`, `comes`).
+- `genitiv`: cijeli oblik genitiva jednine (`rosae`, `rēgis`, `diēī`); za riječi samo u množini
+  genitiv množine (`castrōrum`, `līberōrum`, `Īduum`).
+- `deklinacija`: `1`–`5` za imenice; za pridjeve `1-2` ili `3`.
+- `oblici_pr`: rječnički oblik — tri završetka `bonus, bona, bonum` / `ācer, ācris, ācre`, dva
+  `fortis, forte`, jedan s genitivom `fēlīx, gen. fēlīcis`; komparativi `maior, maius`.
+- `konjugacija`: `1`, `2`, `3`, `3io` (*capiō*), `4`, `nepr` (*sum, eō, ferō, volō* … i riječi
+  koje su oblik drugog glagola: `est`, `fuī`).
+- `glavni_oblici`: infinitiv, perfekt, supin (`amāre, amāvī, amātum`); deponenti
+  `loquī, locūtus sum`; bez supina dva oblika (`timēre, timuī`); oblici drugog glagola `—`.
+
+### Esperanto
+
+Imenice, pridjevi i glagoli potpuno su pravilni (-oj, -n, -as/-is/-os), pa im oblici ne trebaju.
+Jedini stupac je `prelaznost` glagola (`tr` / `ntr` / `tr,ntr`, prema PIV-u), jer o njoj ovisi
+akuzativ i tvorba s -igi / -iĝi (-iĝi je uvijek `ntr`, -igi uvijek `tr`).
+
+### Interslavenski
+
+- `rod` (`m` / `f` / `n`) i `vid` (`ipf` / `pf` / `ipf,pf`) uzimaju se iz zaključane baze
+  (odluka ISV2); dvoznačne natuknice riješene ručno prema značenju u stupcu `en`.
+- `prezent`: **2 oblika**, ja · on, po školskom standardu ISV1 (1. lice na -m, kratki oblici):
+  `dělam · děla`, `vidim · vidi`, `pišem · piše`, `kupujem · kupuje`; povratni `učim se · uči se`.
+  Nepravilna osnova iz baze (polje *addition*: `piše`, `ide`, `vȯzme` → `vozme`), inače po
+  pravilu (-ati → -a, -ovati → -uje, -iti/-ěti s osnovom na -i → -i, -ěti → -ěje, -nuti → -ne).
+- Imenice i pridjevi su pravilni; nepravilnosti (*člověk – ljudi, oko – oči*) uče se kao riječi.
+
+### Novi jezik
+
+Stupci se biraju po tome što učenik mora naučiti napamet (ono što ne slijedi iz pravila).
+Novi stupac dodati u `OBLICI` (vrste riječi) i po potrebi u `VRIJEDNOSTI` (dopuštene vrijednosti
+po jeziku) i `PREZENT_LICA` u `provjeri.py`; `gradi.py` prenosi sve stupce bez izmjena.
 
 ## Alati
 

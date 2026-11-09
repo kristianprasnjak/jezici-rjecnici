@@ -43,3 +43,9 @@ Riječi: **1429** · greške: **0** · upozorenja: **0**
 | veznik | 11 |
 | čestica | 8 |
 | član | 1 |
+
+## Faza B — oblici
+
+| Vrsta | Stupci | Popunjeno |
+|---|---|---:|
+| glagol | prelaznost | 228 / 228 |

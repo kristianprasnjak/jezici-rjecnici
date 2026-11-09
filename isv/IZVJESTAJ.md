@@ -39,3 +39,10 @@ Riječi: **1357** · greške: **0** · upozorenja: **0**
 | prijedlog | 20 |
 | veznik | 13 |
 | čestica | 5 |
+
+## Faza B — oblici
+
+| Vrsta | Stupci | Popunjeno |
+|---|---|---:|
+| imenica | rod | 753 / 753 |
+| glagol | vid, prezent | 184 / 184 |

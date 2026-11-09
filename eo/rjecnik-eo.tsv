@@ -1,1430 +1,1430 @@
-razina	tema	eo	en	vrsta
-L0	Sounds & Familiar Words	hotelo	hotel	im
-L0	Sounds & Familiar Words	taksio	taxi	im
-L0	Sounds & Familiar Words	aŭtobuso	bus	im
-L0	Sounds & Familiar Words	trajno	train	im
-L0	Sounds & Familiar Words	kafo	coffee	im
-L0	Sounds & Familiar Words	teo	tea	im
-L0	Sounds & Familiar Words	ĉokolado	chocolate	im
-L0	Sounds & Familiar Words	pico	pizza	im
-L0	Sounds & Familiar Words	banano	banana	im
-L0	Sounds & Familiar Words	muziko	music	im
-L0	Sounds & Familiar Words	futbalo	football	im
-L0	Sounds & Familiar Words	teniso	tennis	im
-L0	Sounds & Familiar Words	kinejo	cinema	im
-L0	Sounds & Familiar Words	teatro	theatre	im
-L0	Sounds & Familiar Words	filmo	film	im
-L0	Sounds & Familiar Words	radio	radio	im
-L0	Sounds & Familiar Words	televido	television	im
-L0	Sounds & Familiar Words	telefono	telephone	im
-L0	Sounds & Familiar Words	foto	photo	im
-L0	Sounds & Familiar Words	parko	park	im
-L0	Sounds & Familiar Words	restoracio	restaurant	im
-L0	Sounds & Familiar Words	banko	bank	im
-L0	Sounds & Familiar Words	kuracisto	doctor	im
-L0	Sounds & Familiar Words	polico	police	im
-L0	Sounds & Familiar Words	sporto	sport	im
-L0	Sounds & Familiar Words	menuo	menu	im
-L0	Sounds & Familiar Words	momento	moment	im
-L0	Sounds & Familiar Words	familio	family	im
-L0	Sounds & Familiar Words	komputilo	computer	im
-L0	Sounds & Familiar Words	problemo	problem	im
-L0	Sounds & Familiar Words	universitato	university	im
-L0	Sounds & Familiar Words	interreto	internet	im
-L0	Sounds & Familiar Words	kongreso	congress	im
-L0	Sounds & Familiar Words	lingvo	language	im
-L0	Sounds & Familiar Words	esperanto	Esperanto	im
-L0	Sounds & Familiar Words	ĝardeno	garden	im
-L0	Sounds & Familiar Words	papero	paper	im
-L0	Sounds & Familiar Words	salato	salad	im
-L0	Sounds & Familiar Words	akvo	water	im
-L0	Sounds & Familiar Words	lampo	lamp	im
-L1	Greetings & Countries	saluton	hello	izraz
-L1	Greetings & Countries	bonan tagon	good day	izraz
-L1	Greetings & Countries	bonan matenon	good morning	izraz
-L1	Greetings & Countries	bonan vesperon	good evening	izraz
-L1	Greetings & Countries	bonan nokton	good night	izraz
-L1	Greetings & Countries	ĝis revido	goodbye	izraz
-L1	Greetings & Countries	ĝis	bye; see you	izraz
-L1	Greetings & Countries	dankon	thank you	izraz
-L1	Greetings & Countries	ne dankinde	you're welcome	izraz
-L1	Greetings & Countries	bonvolu	please	izraz
-L1	Greetings & Countries	pardonu	sorry; excuse me	izraz
-L1	Greetings & Countries	jes	yes	čest
-L1	Greetings & Countries	ne	no; not	čest
-L1	Greetings & Countries	sinjoro	Mr; sir	im
-L1	Greetings & Countries	sinjorino	Mrs; madam	im
-L1	Greetings & Countries	kiel vi fartas?	how are you?	izraz
-L1	Greetings & Countries	bone	well; fine	pril
-L1	Greetings & Countries	tre	very	pril
-L1	Greetings & Countries	kaj	and	vez
-L1	Greetings & Countries	mia nomo estas	my name is	izraz
-L1	Greetings & Countries	nomo	name	im
-L1	Greetings & Countries	esti	to be	gl
-L1	Greetings & Countries	mi	I	zam
-L1	Greetings & Countries	vi	you	zam
-L1	Greetings & Countries	li	he	zam
-L1	Greetings & Countries	ŝi	she	zam
-L1	Greetings & Countries	ĝi	it	zam
-L1	Greetings & Countries	ni	we	zam
-L1	Greetings & Countries	ili	they	zam
-L1	Greetings & Countries	la	the	čl
-L1	Greetings & Countries	lando	country	im
-L1	Greetings & Countries	Kroatio	Croatia	im
-L1	Greetings & Countries	Meksiko	Mexico	im
-L1	Greetings & Countries	Pollando	Poland	im
-L1	Greetings & Countries	Japanio	Japan	im
-L1	Greetings & Countries	Germanio	Germany	im
-L1	Greetings & Countries	Ganao	Ghana	im
-L1	Greetings & Countries	kroato	Croat	im
-L1	Greetings & Countries	meksikano	Mexican (person)	im
-L1	Greetings & Countries	polo	Pole	im
-L1	Greetings & Countries	japano	Japanese (person)	im
-L1	Greetings & Countries	germano	German (person)	im
-L1	Greetings & Countries	de	of; from	prij
-L1	Greetings & Countries	el	from; out of	prij
-L1	Greetings & Countries	kie	where	pril
-L1	Greetings & Countries	kio	what	zam
-L1	Greetings & Countries	kiu	who; which	zam
-L1	Greetings & Countries	nun	now	pril
-L1	Greetings & Countries	urbo	town; city	im
-L1	Greetings & Countries	amiko	friend	im
-L1	Greetings & Countries	samideano	fellow Esperantist	im
-L1	Greetings & Countries	gasto	guest	im
-L1	Greetings & Countries	gastiganto	host	im
-L1	Greetings & Countries	paroli	to speak	gl
-L1	Greetings & Countries	nomiĝi	to be called	gl
-L2	The Room & Colours	ĉambro	room	im
-L2	The Room & Colours	domo	house	im
-L2	The Room & Colours	loĝejo	flat; home	im
-L2	The Room & Colours	kuirejo	kitchen	im
-L2	The Room & Colours	banejo	bathroom	im
-L2	The Room & Colours	dormoĉambro	bedroom	im
-L2	The Room & Colours	pordo	door	im
-L2	The Room & Colours	fenestro	window	im
-L2	The Room & Colours	muro	wall	im
-L2	The Room & Colours	lito	bed	im
-L2	The Room & Colours	seĝo	chair	im
-L2	The Room & Colours	tablo	table	im
-L2	The Room & Colours	sofo	sofa	im
-L2	The Room & Colours	ŝranko	wardrobe; cupboard	im
-L2	The Room & Colours	libro	book	im
-L2	The Room & Colours	skribilo	pen	im
-L2	The Room & Colours	krajono	pencil	im
-L2	The Room & Colours	sako	bag	im
-L2	The Room & Colours	ŝlosilo	key	im
-L2	The Room & Colours	spegulo	mirror	im
-L2	The Room & Colours	tapiŝo	carpet	im
-L2	The Room & Colours	floro	flower	im
-L2	The Room & Colours	planto	plant	im
-L2	The Room & Colours	skatolo	box	im
-L2	The Room & Colours	kajero	notebook	im
-L2	The Room & Colours	taso	cup	im
-L2	The Room & Colours	glaso	glass	im
-L2	The Room & Colours	horloĝo	clock	im
-L2	The Room & Colours	bildo	picture	im
-L2	The Room & Colours	breto	shelf	im
-L2	The Room & Colours	koloro	colour	im
-L2	The Room & Colours	blanka	white	pr
-L2	The Room & Colours	nigra	black	pr
-L2	The Room & Colours	ruĝa	red	pr
-L2	The Room & Colours	blua	blue	pr
-L2	The Room & Colours	verda	green	pr
-L2	The Room & Colours	flava	yellow	pr
-L2	The Room & Colours	griza	grey	pr
-L2	The Room & Colours	bruna	brown	pr
-L2	The Room & Colours	rozkolora	pink	pr
-L2	The Room & Colours	oranĝa	orange	pr
-L2	The Room & Colours	violkolora	purple	pr
-L2	The Room & Colours	granda	big	pr
-L2	The Room & Colours	malgranda	small	pr
-L2	The Room & Colours	bela	beautiful	pr
-L2	The Room & Colours	malbela	ugly	pr
-L2	The Room & Colours	nova	new	pr
-L2	The Room & Colours	malnova	old (thing)	pr
-L2	The Room & Colours	hela	bright; light	pr
-L2	The Room & Colours	malhela	dark	pr
-L2	The Room & Colours	pura	clean	pr
-L2	The Room & Colours	malpura	dirty	pr
-L2	The Room & Colours	bona	good	pr
-L2	The Room & Colours	malbona	bad	pr
-L2	The Room & Colours	mal-	opposite (prefix)	afiks
-L2	The Room & Colours	ĉu	(question particle); whether	čest
-L2	The Room & Colours	jen	here is; look	čest
-L2	The Room & Colours	ankaŭ	also	pril
-L2	The Room & Colours	sed	but	vez
-L2	The Room & Colours	en	in	prij
-L2	The Room & Colours	sur	on	prij
-L2	The Room & Colours	sub	under	prij
-L2	The Room & Colours	apud	next to	prij
-L2	The Room & Colours	antaŭ	in front of; before	prij
-L2	The Room & Colours	malantaŭ	behind	prij
-L3	Everyday Verbs & the Week	labori	to work	gl
-L3	Everyday Verbs & the Week	loĝi	to live (somewhere)	gl
-L3	Everyday Verbs & the Week	lerni	to learn	gl
-L3	Everyday Verbs & the Week	studi	to study	gl
-L3	Everyday Verbs & the Week	manĝi	to eat	gl
-L3	Everyday Verbs & the Week	trinki	to drink	gl
-L3	Everyday Verbs & the Week	rigardi	to look at; to watch	gl
-L3	Everyday Verbs & the Week	aŭskulti	to listen to	gl
-L3	Everyday Verbs & the Week	kuiri	to cook	gl
-L3	Everyday Verbs & the Week	ludi	to play	gl
-L3	Everyday Verbs & the Week	kanti	to sing	gl
-L3	Everyday Verbs & the Week	danci	to dance	gl
-L3	Everyday Verbs & the Week	iri	to go	gl
-L3	Everyday Verbs & the Week	veni	to come	gl
-L3	Everyday Verbs & the Week	legi	to read	gl
-L3	Everyday Verbs & the Week	skribi	to write	gl
-L3	Everyday Verbs & the Week	vidi	to see	gl
-L3	Everyday Verbs & the Week	aĉeti	to buy	gl
-L3	Everyday Verbs & the Week	fari	to do; to make	gl
-L3	Everyday Verbs & the Week	havi	to have	gl
-L3	Everyday Verbs & the Week	voli	to want	gl
-L3	Everyday Verbs & the Week	povi	can; to be able to	gl
-L3	Everyday Verbs & the Week	devi	must; to have to	gl
-L3	Everyday Verbs & the Week	ŝati	to like	gl
-L3	Everyday Verbs & the Week	ami	to love	gl
-L3	Everyday Verbs & the Week	kompreni	to understand	gl
-L3	Everyday Verbs & the Week	scii	to know	gl
-L3	Everyday Verbs & the Week	dormi	to sleep	gl
-L3	Everyday Verbs & the Week	tago	day	im
-L3	Everyday Verbs & the Week	semajno	week	im
-L3	Everyday Verbs & the Week	lundo	Monday	im
-L3	Everyday Verbs & the Week	mardo	Tuesday	im
-L3	Everyday Verbs & the Week	merkredo	Wednesday	im
-L3	Everyday Verbs & the Week	ĵaŭdo	Thursday	im
-L3	Everyday Verbs & the Week	vendredo	Friday	im
-L3	Everyday Verbs & the Week	sabato	Saturday	im
-L3	Everyday Verbs & the Week	dimanĉo	Sunday	im
-L3	Everyday Verbs & the Week	semajnfino	weekend	im
-L3	Everyday Verbs & the Week	mateno	morning	im
-L3	Everyday Verbs & the Week	posttagmezo	afternoon	im
-L3	Everyday Verbs & the Week	vespero	evening	im
-L3	Everyday Verbs & the Week	nokto	night	im
-L3	Everyday Verbs & the Week	hodiaŭ	today	pril
-L3	Everyday Verbs & the Week	ofte	often	pril
-L3	Everyday Verbs & the Week	ĉiam	always	pril
-L3	Everyday Verbs & the Week	kelkfoje	sometimes	pril
-L3	Everyday Verbs & the Week	kial	why	pril
-L3	Everyday Verbs & the Week	ĉar	because	vez
-L3	Everyday Verbs & the Week	kiam	when	pril
-L3	Everyday Verbs & the Week	kiel	how; like	pril
-L3	Everyday Verbs & the Week	laboro	work	im
-L3	Everyday Verbs & the Week	lernejo	school	im
-L3	Everyday Verbs & the Week	oficejo	office	im
-L3	Everyday Verbs & the Week	instruisto	teacher	im
-L3	Everyday Verbs & the Week	ĵurnalo	newspaper	im
-L3	Everyday Verbs & the Week	letero	letter	im
-L3	Everyday Verbs & the Week	mesaĝo	message	im
-L3	Everyday Verbs & the Week	ĉiutage	every day	pril
-L3	Everyday Verbs & the Week	multe	a lot	pril
-L3	Everyday Verbs & the Week	iom	a little	pril
-L3	Everyday Verbs & the Week	al	to	prij
-L3	Everyday Verbs & the Week	kun	with	prij
-L3	Everyday Verbs & the Week	lavi la telerojn	to wash the dishes	izraz
-L3	Everyday Verbs & the Week	purigi	to clean	gl
-L3	Everyday Verbs & the Week	telero	plate	im
-L4	Family & People	patro	father	im
-L4	Family & People	patrino	mother	im
-L4	Family & People	gepatroj	parents	im
-L4	Family & People	frato	brother	im
-L4	Family & People	fratino	sister	im
-L4	Family & People	gefratoj	siblings	im
-L4	Family & People	filo	son	im
-L4	Family & People	filino	daughter	im
-L4	Family & People	infano	child	im
-L4	Family & People	bebo	baby	im
-L4	Family & People	edzo	husband	im
-L4	Family & People	edzino	wife	im
-L4	Family & People	geedzoj	married couple	im
-L4	Family & People	viro	man	im
-L4	Family & People	virino	woman	im
-L4	Family & People	knabo	boy	im
-L4	Family & People	knabino	girl	im
-L4	Family & People	avo	grandfather	im
-L4	Family & People	avino	grandmother	im
-L4	Family & People	geavoj	grandparents	im
-L4	Family & People	onklo	uncle	im
-L4	Family & People	onklino	aunt	im
-L4	Family & People	kuzo	cousin (m)	im
-L4	Family & People	kuzino	cousin (f)	im
-L4	Family & People	nevo	nephew	im
-L4	Family & People	nevino	niece	im
-L4	Family & People	nepo	grandson	im
-L4	Family & People	nepino	granddaughter	im
-L4	Family & People	amikino	friend (f)	im
-L4	Family & People	najbaro	neighbour	im
-L4	Family & People	hundo	dog	im
-L4	Family & People	kato	cat	im
-L4	Family & People	-in-	female (suffix)	afiks
-L4	Family & People	ge-	both sexes (prefix)	afiks
-L4	Family & People	homo	human; person	im
-L4	Family & People	persono	person	im
-L4	Family & People	popolo	people; nation	im
-L4	Family & People	jaro	year	im
-L4	Family & People	aĝo	age	im
-L4	Family & People	naskiĝtago	birthday	im
-L4	Family & People	juna	young	pr
-L4	Family & People	maljuna	old (person)	pr
-L4	Family & People	edziĝinta	married	pr
-L4	Family & People	fraŭla	single	pr
-L4	Family & People	mia	my	zam
-L4	Family & People	via	your	zam
-L4	Family & People	lia	his	zam
-L4	Family & People	ŝia	her	zam
-L4	Family & People	nia	our	zam
-L4	Family & People	ilia	their	zam
-L4	Family & People	ĝia	its	zam
-L4	Family & People	afabla	kind	pr
-L4	Family & People	simpatia	nice; likeable	pr
-L4	Family & People	alta	tall; high	pr
-L4	Family & People	malalta	short; low	pr
-L4	Family & People	gaja	cheerful	pr
-L4	Family & People	serioza	serious	pr
-L4	Family & People	inteligenta	intelligent	pr
-L4	Family & People	kara	dear	pr
-L4	Family & People	riĉa	rich	pr
-L4	Family & People	malriĉa	poor	pr
-L4	Family & People	feliĉa	happy	pr
-L4	Family & People	trista	sad	pr
-L4	Family & People	laca	tired	pr
-L4	Family & People	okupata	busy	pr
-L4	Family & People	kiom da jaroj vi havas?	how old are you?	izraz
-L4	Family & People	naskiĝi	to be born	gl
-L4	Family & People	edziĝi	to get married	gl
-L4	Family & People	viziti	to visit	gl
-L4	Family & People	koni	to know (someone)	gl
-L4	Family & People	helpi	to help	gl
-L5	Food & Quantities	bazaro	market	im
-L5	Food & Quantities	pano	bread	im
-L5	Food & Quantities	fromaĝo	cheese	im
-L5	Food & Quantities	butero	butter	im
-L5	Food & Quantities	lakto	milk	im
-L5	Food & Quantities	ovo	egg	im
-L5	Food & Quantities	viando	meat	im
-L5	Food & Quantities	kokaĵo	chicken (meat)	im
-L5	Food & Quantities	fiŝo	fish	im
-L5	Food & Quantities	ŝinko	ham	im
-L5	Food & Quantities	pomo	apple	im
-L5	Food & Quantities	piro	pear	im
-L5	Food & Quantities	oranĝo	orange	im
-L5	Food & Quantities	frago	strawberry	im
-L5	Food & Quantities	vinbero	grape	im
-L5	Food & Quantities	citrono	lemon	im
-L5	Food & Quantities	tomato	tomato	im
-L5	Food & Quantities	terpomo	potato	im
-L5	Food & Quantities	karoto	carrot	im
-L5	Food & Quantities	cepo	onion	im
-L5	Food & Quantities	rizo	rice	im
-L5	Food & Quantities	pasto	pasta; dough	im
-L5	Food & Quantities	sukero	sugar	im
-L5	Food & Quantities	salo	salt	im
-L5	Food & Quantities	oleo	oil	im
-L5	Food & Quantities	kuko	cake	im
-L5	Food & Quantities	suko	juice	im
-L5	Food & Quantities	vino	wine	im
-L5	Food & Quantities	biero	beer	im
-L5	Food & Quantities	frukto	fruit	im
-L5	Food & Quantities	legomo	vegetable	im
-L5	Food & Quantities	manĝaĵo	food	im
-L5	Food & Quantities	trinkaĵo	drink	im
-L5	Food & Quantities	dolĉaĵo	sweet	im
-L5	Food & Quantities	-aĵ-	thing made of / thing (suffix)	afiks
-L5	Food & Quantities	kilogramo	kilogram	im
-L5	Food & Quantities	gramo	gram	im
-L5	Food & Quantities	litro	litre	im
-L5	Food & Quantities	botelo	bottle	im
-L5	Food & Quantities	peco	piece	im
-L5	Food & Quantities	pako	packet	im
-L5	Food & Quantities	butiko	shop	im
-L5	Food & Quantities	vendisto	seller	im
-L5	Food & Quantities	kliento	customer	im
-L5	Food & Quantities	prezo	price	im
-L5	Food & Quantities	mono	money	im
-L5	Food & Quantities	eŭro	euro	im
-L5	Food & Quantities	cendo	cent	im
-L5	Food & Quantities	kosti	to cost	gl
-L5	Food & Quantities	pagi	to pay	gl
-L5	Food & Quantities	vendi	to sell	gl
-L5	Food & Quantities	kiom	how much; how many	pril
-L5	Food & Quantities	multe da	a lot of	izraz
-L5	Food & Quantities	iom da	some; a little	izraz
-L5	Food & Quantities	tro	too; too much	pril
-L5	Food & Quantities	sufiĉe	enough	pril
-L5	Food & Quantities	multekosta	expensive	pr
-L5	Food & Quantities	malmultekosta	cheap	pr
-L5	Food & Quantities	freŝa	fresh	pr
-L5	Food & Quantities	bongusta	tasty	pr
-L5	Food & Quantities	nulo	zero	broj
-L5	Food & Quantities	unu	one	broj
-L5	Food & Quantities	du	two	broj
-L5	Food & Quantities	tri	three	broj
-L5	Food & Quantities	kvar	four	broj
-L5	Food & Quantities	kvin	five	broj
-L5	Food & Quantities	ses	six	broj
-L5	Food & Quantities	sep	seven	broj
-L5	Food & Quantities	ok	eight	broj
-L5	Food & Quantities	naŭ	nine	broj
-L5	Food & Quantities	dek	ten	broj
-L5	Food & Quantities	cent	hundred	broj
-L5	Food & Quantities	mil	thousand	broj
-L5	Food & Quantities	unua	first	broj
-L5	Food & Quantities	dua	second	broj
-L5	Food & Quantities	tria	third	broj
-L6	City & Directions	strato	street	im
-L6	City & Directions	placo	square	im
-L6	City & Directions	centro	centre	im
-L6	City & Directions	stacidomo	railway station	im
-L6	City & Directions	haltejo	stop	im
-L6	City & Directions	muzeo	museum	im
-L6	City & Directions	preĝejo	church	im
-L6	City & Directions	hospitalo	hospital	im
-L6	City & Directions	poŝtoficejo	post office	im
-L6	City & Directions	biblioteko	library	im
-L6	City & Directions	ponto	bridge	im
-L6	City & Directions	semaforo	traffic light	im
-L6	City & Directions	angulo	corner	im
-L6	City & Directions	mapo	map	im
-L6	City & Directions	panejo	bakery	im
-L6	City & Directions	apoteko	chemist's	im
-L6	City & Directions	metroo	underground	im
-L6	City & Directions	konstruaĵo	building	im
-L6	City & Directions	kvartalo	district	im
-L6	City & Directions	vojo	road; way	im
-L6	City & Directions	-ej-	place (suffix)	afiks
-L6	City & Directions	turni	to turn	gl
-L6	City & Directions	transiri	to cross	gl
-L6	City & Directions	serĉi	to look for	gl
-L6	City & Directions	trovi	to find	gl
-L6	City & Directions	promeni	to walk; to stroll	gl
-L6	City & Directions	veturi	to travel (by vehicle)	gl
-L6	City & Directions	kien	where to	pril
-L6	City & Directions	tie	there	pril
-L6	City & Directions	tien	to there	pril
-L6	City & Directions	ĉi tie	here	pril
-L6	City & Directions	dekstre	on the right	pril
-L6	City & Directions	maldekstre	on the left	pril
-L6	City & Directions	rekte	straight on	pril
-L6	City & Directions	proksime	near	pril
-L6	City & Directions	malproksime	far	pril
-L6	City & Directions	inter	between	prij
-L6	City & Directions	ĉe	at	prij
-L6	City & Directions	tra	through	prij
-L6	City & Directions	ĝis la angulo	as far as the corner	izraz
-L6	City & Directions	trans	across; on the other side	prij
-L6	City & Directions	ĉirkaŭ	around	prij
-L6	City & Directions	super	above	prij
-L6	City & Directions	kontraŭ	opposite; against	prij
-L6	City & Directions	laŭ	along; according to	prij
-L6	City & Directions	post	after; behind	prij
-L6	City & Directions	por	for	prij
-L6	City & Directions	pri	about	prij
-L6	City & Directions	oni	one; people	zam
-L6	City & Directions	piede	on foot	pril
-L6	City & Directions	per aŭtobuso	by bus	izraz
-L6	City & Directions	perdita	lost	pr
-L6	City & Directions	kie estas …?	where is …?	izraz
-L6	City & Directions	ĉu estas malproksime?	is it far?	izraz
-L6	City & Directions	turisto	tourist	im
-L6	City & Directions	gvidisto	guide	im
-L6	City & Directions	parkejo	car park	im
-L6	City & Directions	katedralo	cathedral	im
-L6	City & Directions	rivero	river	im
-L6	City & Directions	monumento	monument	im
-L6	City & Directions	urbodomo	town hall	im
-L6	City & Directions	vendejo	shop	im
-L6	City & Directions	superbazaro	supermarket	im
-L6	City & Directions	kafejo	café	im
-L6	City & Directions	manĝejo	eatery; canteen	im
-L6	City & Directions	trinkejo	bar	im
-L6	City & Directions	lernejano	pupil	im
-L6	City & Directions	loĝanto	inhabitant	im
-L6	City & Directions	urbocentro	town centre	im
-L6	City & Directions	avenuo	avenue	im
-L6	City & Directions	trotuaro	pavement	im
-L6	City & Directions	konstrui	to build	gl
-L6	City & Directions	fontano	fountain	im
-L6	City & Directions	stratlampo	street lamp	im
-L7	Past & Future Time	hieraŭ	yesterday	pril
-L7	Past & Future Time	morgaŭ	tomorrow	pril
-L7	Past & Future Time	antaŭhieraŭ	the day before yesterday	pril
-L7	Past & Future Time	postmorgaŭ	the day after tomorrow	pril
-L7	Past & Future Time	pasinta	past; last	pr
-L7	Past & Future Time	venonta	next; coming	pr
-L7	Past & Future Time	estinteco	the past	im
-L7	Past & Future Time	estonteco	the future	im
-L7	Past & Future Time	ke	that (conjunction)	vez
-L7	Past & Future Time	diri	to say	gl
-L7	Past & Future Time	rakonti	to tell	gl
-L7	Past & Future Time	pensi	to think	gl
-L7	Past & Future Time	kredi	to believe	gl
-L7	Past & Future Time	esperi	to hope	gl
-L7	Past & Future Time	plani	to plan	gl
-L7	Past & Future Time	renkonti	to meet	gl
-L7	Past & Future Time	atendi	to wait	gl
-L7	Past & Future Time	resti	to stay	gl
-L7	Past & Future Time	reveni	to come back	gl
-L7	Past & Future Time	forgesi	to forget	gl
-L7	Past & Future Time	memori	to remember	gl
-L7	Past & Future Time	festi	to celebrate	gl
-L7	Past & Future Time	vojaĝi	to travel	gl
-L7	Past & Future Time	alveni	to arrive	gl
-L7	Past & Future Time	foriri	to leave	gl
-L7	Past & Future Time	-ad-	continuous action (suffix)	afiks
-L7	Past & Future Time	dato	date	im
-L7	Past & Future Time	monato	month	im
-L7	Past & Future Time	januaro	January	im
-L7	Past & Future Time	februaro	February	im
-L7	Past & Future Time	marto	March	im
-L7	Past & Future Time	aprilo	April	im
-L7	Past & Future Time	majo	May	im
-L7	Past & Future Time	junio	June	im
-L7	Past & Future Time	julio	July	im
-L7	Past & Future Time	aŭgusto	August	im
-L7	Past & Future Time	septembro	September	im
-L7	Past & Future Time	oktobro	October	im
-L7	Past & Future Time	novembro	November	im
-L7	Past & Future Time	decembro	December	im
-L7	Past & Future Time	sezono	season	im
-L7	Past & Future Time	printempo	spring	im
-L7	Past & Future Time	somero	summer	im
-L7	Past & Future Time	aŭtuno	autumn	im
-L7	Past & Future Time	vintro	winter	im
-L7	Past & Future Time	vetero	weather	im
-L7	Past & Future Time	pluvo	rain	im
-L7	Past & Future Time	neĝo	snow	im
-L7	Past & Future Time	suno	sun	im
-L7	Past & Future Time	vento	wind	im
-L7	Past & Future Time	pluvi	to rain	gl
-L7	Past & Future Time	neĝi	to snow	gl
-L7	Past & Future Time	varma	warm	pr
-L7	Past & Future Time	malvarma	cold	pr
-L7	Past & Future Time	baldaŭ	soon	pril
-L7	Past & Future Time	poste	later; afterwards	pril
-L7	Past & Future Time	antaŭe	before; earlier	pril
-L7	Past & Future Time	jam	already	pril
-L7	Past & Future Time	ankoraŭ	still	pril
-L7	Past & Future Time	ankoraŭ ne	not yet	izraz
-L7	Past & Future Time	iam	once; ever	pril
-L7	Past & Future Time	foje	once; one time	pril
-L7	Past & Future Time	lastatempe	recently	pril
-L7	Past & Future Time	venontsemajne	next week	pril
-L7	Past & Future Time	pasintjare	last year	pril
-L7	Past & Future Time	vojaĝo	journey	im
-L7	Past & Future Time	festo	celebration; party	im
-L7	Past & Future Time	ferioj	holidays	im
-L7	Past & Future Time	plano	plan	im
-L7	Past & Future Time	promeso	promise	im
-L7	Past & Future Time	promesi	to promise	gl
-L7	Past & Future Time	okazi	to happen	gl
-L7	Past & Future Time	evento	event	im
-L8	Routine & Time	vekiĝi	to wake up	gl
-L8	Routine & Time	veki	to wake (someone)	gl
-L8	Routine & Time	leviĝi	to get up	gl
-L8	Routine & Time	levi	to lift	gl
-L8	Routine & Time	lavi	to wash	gl
-L8	Routine & Time	lavi sin	to wash (oneself)	izraz
-L8	Routine & Time	duŝi sin	to have a shower	izraz
-L8	Routine & Time	vesti sin	to get dressed	izraz
-L8	Routine & Time	kombi sin	to comb one's hair	izraz
-L8	Routine & Time	razi sin	to shave	izraz
-L8	Routine & Time	brosi la dentojn	to brush one's teeth	izraz
-L8	Routine & Time	enlitiĝi	to go to bed	gl
-L8	Routine & Time	endormiĝi	to fall asleep	gl
-L8	Routine & Time	ripozi	to rest	gl
-L8	Routine & Time	rapidi	to hurry	gl
-L8	Routine & Time	senti sin	to feel	izraz
-L8	Routine & Time	komenci	to begin	gl
-L8	Routine & Time	komenciĝi	to start (by itself)	gl
-L8	Routine & Time	fini	to finish	gl
-L8	Routine & Time	finiĝi	to end	gl
-L8	Routine & Time	-iĝ-	to become; to get (suffix)	afiks
-L8	Routine & Time	-ig-	to make; to cause (suffix)	afiks
-L8	Routine & Time	si	oneself	zam
-L8	Routine & Time	sia	one's own	zam
-L8	Routine & Time	matenmanĝo	breakfast	im
-L8	Routine & Time	tagmanĝo	lunch	im
-L8	Routine & Time	vespermanĝo	dinner	im
-L8	Routine & Time	matenmanĝi	to have breakfast	gl
-L8	Routine & Time	tagmanĝi	to have lunch	gl
-L8	Routine & Time	vespermanĝi	to have dinner	gl
-L8	Routine & Time	horo	hour	im
-L8	Routine & Time	duonhoro	half an hour	im
-L8	Routine & Time	minuto	minute	im
-L8	Routine & Time	sekundo	second	im
-L8	Routine & Time	kioma horo estas?	what time is it?	izraz
-L8	Routine & Time	je la oka	at eight o'clock	izraz
-L8	Routine & Time	kaj duono	half past	izraz
-L8	Routine & Time	kaj kvarono	quarter past	izraz
-L8	Routine & Time	tagmezo	midday	im
-L8	Routine & Time	noktomezo	midnight	im
-L8	Routine & Time	vekhorloĝo	alarm clock	im
-L8	Routine & Time	duŝo	shower	im
-L8	Routine & Time	sapo	soap	im
-L8	Routine & Time	dentobroso	toothbrush	im
-L8	Routine & Time	mantuko	towel	im
-L8	Routine & Time	frue	early	pril
-L8	Routine & Time	malfrue	late	pril
-L8	Routine & Time	ĝustatempe	on time	pril
-L8	Routine & Time	rapide	quickly	pril
-L8	Routine & Time	malrapide	slowly	pril
-L8	Routine & Time	kutime	usually	pril
-L8	Routine & Time	ĉiumatene	every morning	pril
-L8	Routine & Time	dum	during; while	prij
-L8	Routine & Time	antaŭ ol	before (doing)	izraz
-L8	Routine & Time	post kiam	after (conjunction)	izraz
-L8	Routine & Time	kolego	colleague	im
-L8	Routine & Time	rutino	routine	im
-L8	Routine & Time	horaro	timetable	im
-L8	Routine & Time	dento	tooth	im
-L8	Routine & Time	haroj	hair	im
-L8	Routine & Time	vestaĵo	piece of clothing	im
-L8	Routine & Time	ŝuo	shoe	im
-L8	Routine & Time	pantalono	trousers	im
-L8	Routine & Time	ĉemizo	shirt	im
-L8	Routine & Time	jako	jacket	im
-L8	Routine & Time	mantelo	coat	im
-L8	Routine & Time	robo	dress	im
-L8	Routine & Time	jupo	skirt	im
-L8	Routine & Time	ŝtrumpo	sock	im
-L8	Routine & Time	ĉapelo	hat	im
-L8	Routine & Time	okulvitroj	glasses	im
-L8	Routine & Time	surmeti	to put on	gl
-L8	Routine & Time	demeti	to take off	gl
-L8	Routine & Time	porti	to carry; to wear	gl
-L8	Routine & Time	kombilo	comb	im
-L9	Word Families	-ist-	professional (suffix)	afiks
-L9	Word Families	-et-	small (suffix)	afiks
-L9	Word Families	-eg-	big; intense (suffix)	afiks
-L9	Word Families	-ul-	person (with a quality) (suffix)	afiks
-L9	Word Families	-an-	member (suffix)	afiks
-L9	Word Families	-ar-	group (suffix)	afiks
-L9	Word Families	-il-	tool (suffix)	afiks
-L9	Word Families	dentisto	dentist	im
-L9	Word Families	instruistino	teacher (f)	im
-L9	Word Families	kuiristo	cook	im
-L9	Word Families	ŝoforo	driver	im
-L9	Word Families	artisto	artist	im
-L9	Word Families	verkisto	writer	im
-L9	Word Families	muzikisto	musician	im
-L9	Word Families	sciencisto	scientist	im
-L9	Word Families	ĵurnalisto	journalist	im
-L9	Word Families	inĝeniero	engineer	im
-L9	Word Families	advokato	lawyer	im
-L9	Word Families	vendistino	saleswoman	im
-L9	Word Families	dometo	small house	im
-L9	Word Families	domego	mansion	im
-L9	Word Families	libreto	booklet	im
-L9	Word Families	urbeto	small town	im
-L9	Word Families	varmega	hot	pr
-L9	Word Families	malvarmeta	chilly	pr
-L9	Word Families	grandega	huge	pr
-L9	Word Families	ridi	to laugh	gl
-L9	Word Families	rideti	to smile	gl
-L9	Word Families	ridegi	to roar with laughter	gl
-L9	Word Families	pluvegi	to pour (rain)	gl
-L9	Word Families	junulo	young person	im
-L9	Word Families	maljunulo	old person	im
-L9	Word Families	riĉulo	rich person	im
-L9	Word Families	malsanulo	sick person	im
-L9	Word Families	fremdulo	stranger; foreigner	im
-L9	Word Families	grandulo	big person	im
-L9	Word Families	membro	member	im
-L9	Word Families	kristano	Christian	im
-L9	Word Families	klubano	club member	im
-L9	Word Families	familiano	family member	im
-L9	Word Families	urbano	city dweller	im
-L9	Word Families	vortaro	dictionary	im
-L9	Word Families	arbaro	forest	im
-L9	Word Families	homaro	humanity	im
-L9	Word Families	ŝtuparo	staircase	im
-L9	Word Families	ŝtupo	step	im
-L9	Word Families	vorto	word	im
-L9	Word Families	arbo	tree	im
-L9	Word Families	tranĉilo	knife	im
-L9	Word Families	tranĉi	to cut	gl
-L9	Word Families	ludilo	toy	im
-L9	Word Families	flugilo	wing	im
-L9	Word Families	flugi	to fly	gl
-L9	Word Families	flugmaŝino	aeroplane	im
-L9	Word Families	kudrilo	needle	im
-L9	Word Families	kudri	to sew	gl
-L9	Word Families	tondilo	scissors	im
-L9	Word Families	segilo	saw	im
-L9	Word Families	martelo	hammer	im
-L9	Word Families	ŝlosi	to lock	gl
-L9	Word Families	malŝlosi	to unlock	gl
-L9	Word Families	fermi	to close	gl
-L9	Word Families	malfermi	to open	gl
-L9	Word Families	vorto-familio	word family	izraz
-L9	Word Families	radiko	root	im
-L9	Word Families	finaĵo	ending	im
-L9	Word Families	prefikso	prefix	im
-L9	Word Families	sufikso	suffix	im
-L9	Word Families	kunmetaĵo	compound word	im
-L9	Word Families	signifo	meaning	im
-L9	Word Families	signifi	to mean	gl
-L9	Word Families	ekzemplo	example	im
-L9	Word Families	ekzemple	for example	pril
-L9	Word Families	klubo	club	im
-L9	Word Families	grupo	group	im
-L9	Word Families	kunveno	meeting	im
-L9	Word Families	lernanto	learner; pupil	im
-L9	Word Families	instrui	to teach	gl
-L9	Word Families	traduki	to translate	gl
-L9	Word Families	tradukisto	translator	im
-L10	Questions & Answers	kiuj	who; which (plural)	zam
-L10	Questions & Answers	tiu	that (one)	zam
-L10	Questions & Answers	tiu ĉi	this (one)	zam
-L10	Questions & Answers	ĉiu	everyone; each	zam
-L10	Questions & Answers	neniu	nobody; no one	zam
-L10	Questions & Answers	iu	someone	zam
-L10	Questions & Answers	tio	that (thing)	zam
-L10	Questions & Answers	ĉio	everything	zam
-L10	Questions & Answers	nenio	nothing	zam
-L10	Questions & Answers	io	something	zam
-L10	Questions & Answers	ĉie	everywhere	pril
-L10	Questions & Answers	nenie	nowhere	pril
-L10	Questions & Answers	ie	somewhere	pril
-L10	Questions & Answers	pardoni	to forgive	gl
-L10	Questions & Answers	tial	therefore; for that reason	pril
-L10	Questions & Answers	ĉial	for every reason	pril
-L10	Questions & Answers	nenial	for no reason	pril
-L10	Questions & Answers	ial	for some reason	pril
-L10	Questions & Answers	demando	question	im
-L10	Questions & Answers	respondo	answer	im
-L10	Questions & Answers	demandi	to ask	gl
-L10	Questions & Answers	respondi	to answer	gl
-L10	Questions & Answers	klarigi	to explain	gl
-L10	Questions & Answers	klara	clear	pr
-L10	Questions & Answers	ĝusta	correct	pr
-L10	Questions & Answers	malĝusta	wrong	pr
-L10	Questions & Answers	vera	true	pr
-L10	Questions & Answers	malvera	false	pr
-L10	Questions & Answers	certa	certain	pr
-L10	Questions & Answers	eble	maybe	pril
-L10	Questions & Answers	certe	certainly	pril
-L10	Questions & Answers	kompreneble	of course	pril
-L10	Questions & Answers	tute	completely	pril
-L10	Questions & Answers	tute ne	not at all	izraz
-L10	Questions & Answers	nek … nek	neither … nor	izraz
-L10	Questions & Answers	aŭ	or	vez
-L10	Questions & Answers	aŭ … aŭ	either … or	izraz
-L10	Questions & Answers	se	if	vez
-L10	Questions & Answers	do	so; then	vez
-L10	Questions & Answers	tamen	however	vez
-L10	Questions & Answers	ja	indeed	čest
-L10	Questions & Answers	eĉ	even	čest
-L10	Questions & Answers	nur	only	čest
-L10	Questions & Answers	precipe	especially	pril
-L10	Questions & Answers	almenaŭ	at least	pril
-L10	Questions & Answers	preskaŭ	almost	pril
-L10	Questions & Answers	demandosigno	question mark	im
-L10	Questions & Answers	opinio	opinion	im
-L10	Questions & Answers	ideo	idea	im
-L10	Questions & Answers	kialo	reason	im
-L10	Questions & Answers	kaŭzo	cause	im
-L10	Questions & Answers	diskuti	to discuss	gl
-L10	Questions & Answers	diskuto	discussion	im
-L10	Questions & Answers	konsenti	to agree	gl
-L10	Questions & Answers	malkonsenti	to disagree	gl
-L10	Questions & Answers	interesa	interesting	pr
-L10	Questions & Answers	enuiga	boring	pr
-L10	Questions & Answers	grava	important	pr
-L10	Questions & Answers	facila	easy	pr
-L10	Questions & Answers	malfacila	difficult	pr
-L10	Questions & Answers	simpla	simple	pr
-L10	Questions & Answers	komplika	complicated	pr
-L10	Questions & Answers	interkompreniĝo	mutual understanding	im
-L10	Questions & Answers	kompreneble ne	of course not	izraz
-L10	Questions & Answers	mi ne scias	I don't know	izraz
-L10	Questions & Answers	kion vi volas diri?	what do you mean?	izraz
-L10	Questions & Answers	ripeti	to repeat	gl
-L10	Questions & Answers	bonvolu ripeti	please repeat	izraz
-L10	Questions & Answers	kiel oni diras …?	how do you say …?	izraz
-L10	Questions & Answers	paroli malrapide	to speak slowly	izraz
-L10	Questions & Answers	interparoli	to converse	gl
-L10	Questions & Answers	interparolo	conversation	im
-L10	Questions & Answers	voĉo	voice	im
-L10	Questions & Answers	laŭte	loudly	pril
-L10	Questions & Answers	mallaŭte	quietly	pril
-L10	Questions & Answers	dialogo	dialogue	im
-L10	Questions & Answers	vortfarado	word formation	im
-L11	Transport & Trips	ĉiutaga	daily; everyday	pr
-L11	Transport & Trips	tiam	then	pril
-L11	Transport & Trips	ĉiufoje	every time	pril
-L11	Transport & Trips	neniam	never	pril
-L11	Transport & Trips	foje kaj foje	from time to time	izraz
-L11	Transport & Trips	malsimila	dissimilar	pr
-L11	Transport & Trips	tiel	so; in that way	pril
-L11	Transport & Trips	ĉiel	in every way	pril
-L11	Transport & Trips	neniel	in no way	pril
-L11	Transport & Trips	iel	somehow	pril
-L11	Transport & Trips	kalkuli	to count; to calculate	gl
-L11	Transport & Trips	tiom	so much	pril
-L11	Transport & Trips	ĉiom	all of it	pril
-L11	Transport & Trips	neniom	none at all	pril
-L11	Transport & Trips	kia	what kind of	pr
-L11	Transport & Trips	tia	such; that kind of	pr
-L11	Transport & Trips	ĉia	every kind of	pr
-L11	Transport & Trips	nenia	no kind of	pr
-L11	Transport & Trips	ia	some kind of	pr
-L11	Transport & Trips	kies	whose	zam
-L11	Transport & Trips	ties	that one's	zam
-L11	Transport & Trips	ĉies	everyone's	zam
-L11	Transport & Trips	nenies	nobody's	zam
-L11	Transport & Trips	ies	someone's	zam
-L11	Transport & Trips	aŭto	car	im
-L11	Transport & Trips	aviadilo	aeroplane	im
-L11	Transport & Trips	ŝipo	ship	im
-L11	Transport & Trips	boato	boat	im
-L11	Transport & Trips	pramo	ferry	im
-L11	Transport & Trips	tramo	tram	im
-L11	Transport & Trips	biciklo	bicycle	im
-L11	Transport & Trips	bileto	ticket	im
-L11	Transport & Trips	irbileto	single ticket	im
-L11	Transport & Trips	revenbileto	return ticket	im
-L11	Transport & Trips	kajo	platform	im
-L11	Transport & Trips	biletvendejo	ticket office	im
-L11	Transport & Trips	foriro	departure	im
-L11	Transport & Trips	alveno	arrival	im
-L11	Transport & Trips	malfruo	delay	im
-L11	Transport & Trips	valizo	suitcase	im
-L11	Transport & Trips	dorsosako	rucksack	im
-L11	Transport & Trips	pasporto	passport	im
-L11	Transport & Trips	flughaveno	airport	im
-L11	Transport & Trips	flugo	flight	im
-L11	Transport & Trips	pasaĝero	passenger	im
-L11	Transport & Trips	vojaĝanto	traveller	im
-L11	Transport & Trips	rezervi	to book	gl
-L11	Transport & Trips	rezervo	reservation	im
-L11	Transport & Trips	akceptejo	reception	im
-L11	Transport & Trips	lago	lake	im
-L11	Transport & Trips	kastelo	castle	im
-L11	Transport & Trips	vido	view	im
-L11	Transport & Trips	landlimo	border	im
-L11	Transport & Trips	poŝtkarto	postcard	im
-L11	Transport & Trips	kilometro	kilometre	im
-L11	Transport & Trips	nordo	north	im
-L11	Transport & Trips	sudo	south	im
-L11	Transport & Trips	oriento	east	im
-L11	Transport & Trips	okcidento	west	im
-L11	Transport & Trips	eniri	to enter; to get on	gl
-L11	Transport & Trips	eliri	to go out; to get off	gl
-L11	Transport & Trips	stiri	to steer; to drive	gl
-L11	Transport & Trips	ŝanĝi	to change	gl
-L11	Transport & Trips	lui	to rent	gl
-L11	Transport & Trips	paki	to pack	gl
-L11	Transport & Trips	per	by means of	prij
-L11	Transport & Trips	eksterlande	abroad	pril
-L11	Transport & Trips	gastigi	to host	gl
-L11	Transport & Trips	vagono	carriage (train)	im
-L11	Transport & Trips	sidloko	seat	im
-L11	Transport & Trips	ŝoseo	motorway; main road	im
-L11	Transport & Trips	benzinejo	petrol station	im
-L11	Transport & Trips	mapoaplikaĵo	map app	im
-L11	Transport & Trips	gvidlibro	guidebook	im
-L11	Transport & Trips	tendo	tent	im
-L11	Transport & Trips	kampadi	to camp	gl
-L11	Transport & Trips	hotelĉambro	hotel room	im
-L11	Transport & Trips	ripozejo	rest stop	im
-L11	Transport & Trips	pejzaĝo	landscape	im
-L11	Transport & Trips	montaro	mountain range	im
-L11	Transport & Trips	monto	mountain	im
-L11	Transport & Trips	maro	sea	im
-L11	Transport & Trips	plaĝo	beach	im
-L12	The Body & the Doctor	korpo	body	im
-L12	The Body & the Doctor	kapo	head	im
-L12	The Body & the Doctor	vizaĝo	face	im
-L12	The Body & the Doctor	okulo	eye	im
-L12	The Body & the Doctor	nazo	nose	im
-L12	The Body & the Doctor	buŝo	mouth	im
-L12	The Body & the Doctor	orelo	ear	im
-L12	The Body & the Doctor	kolo	neck	im
-L12	The Body & the Doctor	gorĝo	throat	im
-L12	The Body & the Doctor	ŝultro	shoulder	im
-L12	The Body & the Doctor	brako	arm	im
-L12	The Body & the Doctor	mano	hand	im
-L12	The Body & the Doctor	fingro	finger	im
-L12	The Body & the Doctor	dorso	back	im
-L12	The Body & the Doctor	ventro	belly	im
-L12	The Body & the Doctor	stomako	stomach	im
-L12	The Body & the Doctor	koro	heart	im
-L12	The Body & the Doctor	kruro	leg	im
-L12	The Body & the Doctor	genuo	knee	im
-L12	The Body & the Doctor	piedo	foot	im
-L12	The Body & the Doctor	haŭto	skin	im
-L12	The Body & the Doctor	sango	blood	im
-L12	The Body & the Doctor	flegisto	nurse	im
-L12	The Body & the Doctor	kuracejo	clinic	im
-L12	The Body & the Doctor	paciento	patient	im
-L12	The Body & the Doctor	malsano	illness	im
-L12	The Body & the Doctor	malsana	ill	pr
-L12	The Body & the Doctor	sana	healthy	pr
-L12	The Body & the Doctor	sano	health	im
-L12	The Body & the Doctor	gripo	flu	im
-L12	The Body & the Doctor	malvarmumo	cold	im
-L12	The Body & the Doctor	febro	fever	im
-L12	The Body & the Doctor	tuso	cough	im
-L12	The Body & the Doctor	doloro	pain	im
-L12	The Body & the Doctor	dolori	to hurt	gl
-L12	The Body & the Doctor	kapdoloro	headache	im
-L12	The Body & the Doctor	vundo	wound	im
-L12	The Body & the Doctor	medikamento	medicine	im
-L12	The Body & the Doctor	tablojdo	tablet	im
-L12	The Body & the Doctor	recepto	prescription	im
-L12	The Body & the Doctor	ambulanco	ambulance	im
-L12	The Body & the Doctor	urĝa	urgent	pr
-L12	The Body & the Doctor	simptomo	symptom	im
-L12	The Body & the Doctor	tusi	to cough	gl
-L12	The Body & the Doctor	rompi	to break	gl
-L12	The Body & the Doctor	vundi	to wound	gl
-L12	The Body & the Doctor	resaniĝi	to recover	gl
-L12	The Body & the Doctor	kuraci	to treat	gl
-L12	The Body & the Doctor	spiri	to breathe	gl
-L12	The Body & the Doctor	ripozu!	rest!	izraz
-L12	The Body & the Doctor	-u	volitive ending (command, wish)	afiks
-L12	The Body & the Doctor	-ebl-	possible (suffix)	afiks
-L12	The Body & the Doctor	ebla	possible	pr
-L12	The Body & the Doctor	neebla	impossible	pr
-L12	The Body & the Doctor	manĝebla	edible	pr
-L12	The Body & the Doctor	trinkebla	drinkable	pr
-L12	The Body & the Doctor	legebla	legible	pr
-L12	The Body & the Doctor	videbla	visible	pr
-L12	The Body & the Doctor	komprenebla	understandable	pr
-L12	The Body & the Doctor	grave	seriously	pril
-L12	The Body & the Doctor	pli bone	better	izraz
-L12	The Body & the Doctor	malbone	badly	pril
-L12	The Body & the Doctor	ne zorgu	don't worry	izraz
-L12	The Body & the Doctor	resaniĝu baldaŭ!	get well soon!	izraz
-L12	The Body & the Doctor	sanon!	bless you!	izraz
-L12	The Body & the Doctor	streso	stress	im
-L12	The Body & the Doctor	alergio	allergy	im
-L12	The Body & the Doctor	plastro	plaster	im
-L12	The Body & the Doctor	apotekisto	pharmacist	im
-L12	The Body & the Doctor	forta	strong	pr
-L12	The Body & the Doctor	malforta	weak	pr
-L12	The Body & the Doctor	peza	heavy	pr
-L12	The Body & the Doctor	kapturniĝo	dizziness	im
-L12	The Body & the Doctor	termometro	thermometer	im
-L12	The Body & the Doctor	vizito	visit	im
-L12	The Body & the Doctor	devus	should	izraz
-L12	The Body & the Doctor	cerbo	brain	im
-L12	The Body & the Doctor	osto	bone	im
-L12	The Body & the Doctor	lango	tongue	im
-L12	The Body & the Doctor	lipo	lip	im
-L12	The Body & the Doctor	brusto	chest	im
-L12	The Body & the Doctor	pulmo	lung	im
-L12	The Body & the Doctor	dentokuracisto	dentist (doctor)	im
-L12	The Body & the Doctor	injekto	injection	im
-L12	The Body & the Doctor	operacio	operation	im
-L12	The Body & the Doctor	ekzameni	to examine	gl
-L13	People & Character	pli	more	pril
-L13	People & Character	malpli	less	pril
-L13	People & Character	plej	most	pril
-L13	People & Character	malplej	least	pril
-L13	People & Character	ol	than	vez
-L13	People & Character	tiel … kiel	as … as	izraz
-L13	People & Character	ju … des	the … the	izraz
-L13	People & Character	-ec-	quality (suffix)	afiks
-L13	People & Character	-em-	tendency (suffix)	afiks
-L13	People & Character	-obl-	multiple (suffix)	afiks
-L13	People & Character	-on-	fraction (suffix)	afiks
-L13	People & Character	-op-	group of (number) (suffix)	afiks
-L13	People & Character	beleco	beauty	im
-L13	People & Character	boneco	goodness	im
-L13	People & Character	amikeco	friendship	im
-L13	People & Character	libereco	freedom	im
-L13	People & Character	egaleco	equality	im
-L13	People & Character	juneco	youth	im
-L13	People & Character	laborema	hard-working	pr
-L13	People & Character	parolema	talkative	pr
-L13	People & Character	dormema	sleepy	pr
-L13	People & Character	ŝparema	thrifty	pr
-L13	People & Character	helpema	helpful	pr
-L13	People & Character	kolerema	irritable	pr
-L13	People & Character	ludema	playful	pr
-L13	People & Character	duobla	double	pr
-L13	People & Character	triobla	triple	pr
-L13	People & Character	duono	half	im
-L13	People & Character	kvarono	quarter	im
-L13	People & Character	triono	third	im
-L13	People & Character	duope	in pairs	pril
-L13	People & Character	triope	in threes	pril
-L13	People & Character	karaktero	character	im
-L13	People & Character	kvalito	quality	im
-L13	People & Character	eco	quality; trait	im
-L13	People & Character	honesta	honest	pr
-L13	People & Character	malhonesta	dishonest	pr
-L13	People & Character	kuraĝa	brave	pr
-L13	People & Character	timema	timid	pr
-L13	People & Character	ĝentila	polite	pr
-L13	People & Character	malĝentila	rude	pr
-L13	People & Character	pacienca	patient	pr
-L13	People & Character	malpacienca	impatient	pr
-L13	People & Character	saĝa	wise	pr
-L13	People & Character	stulta	stupid	pr
-L13	People & Character	lerta	skilful	pr
-L13	People & Character	mallerta	clumsy	pr
-L13	People & Character	diligenta	diligent	pr
-L13	People & Character	maldiligenta	lazy	pr
-L13	People & Character	modesta	modest	pr
-L13	People & Character	fiera	proud	pr
-L13	People & Character	ĵaluza	jealous	pr
-L13	People & Character	amuza	funny	pr
-L13	People & Character	kurioza	curious; odd	pr
-L13	People & Character	scivolema	curious (inquisitive)	pr
-L13	People & Character	optimisma	optimistic	pr
-L13	People & Character	pesimisma	pessimistic	pr
-L13	People & Character	skeptika	sceptical	pr
-L13	People & Character	fidinda	trustworthy	pr
-L13	People & Character	aspekti	to look; to seem	gl
-L13	People & Character	ŝajni	to seem	gl
-L13	People & Character	kompari	to compare	gl
-L13	People & Character	komparo	comparison	im
-L13	People & Character	diferenco	difference	im
-L13	People & Character	simila	similar	pr
-L13	People & Character	malsama	different	pr
-L13	People & Character	sama	same	pr
-L13	People & Character	same	likewise	pril
-L13	People & Character	alie	otherwise	pril
-L13	People & Character	pli ol	more than	izraz
-L13	People & Character	malpli ol	less than	izraz
-L13	People & Character	la plej bona	the best	izraz
-L13	People & Character	plej multe	the most	izraz
-L13	People & Character	pli kaj pli	more and more	izraz
-L13	People & Character	ĉiam pli	ever more	izraz
-L13	People & Character	virineca	feminine	pr
-L13	People & Character	vireca	masculine	pr
-L13	People & Character	infaneca	childish	pr
-L13	People & Character	homa	human	pr
-L13	People & Character	nacio	nation	im
-L13	People & Character	internacia	international	pr
-L13	People & Character	internaciismo	internationalism	im
-L13	People & Character	movado	movement	im
-L13	People & Character	esperantisto	Esperantist	im
-L13	People & Character	ideala	ideal	pr
-L13	People & Character	egala	equal	pr
-L13	People & Character	neŭtrala	neutral	pr
-L13	People & Character	justa	fair	pr
-L13	People & Character	maljusta	unfair	pr
-L14	Change & Feelings	re-	again; back (prefix)	afiks
-L14	Change & Feelings	ek-	sudden start (prefix)	afiks
-L14	Change & Feelings	el-	out; thoroughly (prefix)	afiks
-L14	Change & Feelings	dis-	apart (prefix)	afiks
-L14	Change & Feelings	eks-	former (prefix)	afiks
-L14	Change & Feelings	mis-	wrongly (prefix)	afiks
-L14	Change & Feelings	pra-	ancient; great- (prefix)	afiks
-L14	Change & Feelings	bo-	in-law (prefix)	afiks
-L14	Change & Feelings	fi-	nasty (prefix)	afiks
-L14	Change & Feelings	-estr-	leader (suffix)	afiks
-L14	Change & Feelings	-uj-	container; country (suffix)	afiks
-L14	Change & Feelings	-id-	offspring (suffix)	afiks
-L14	Change & Feelings	-er-	small part (suffix)	afiks
-L14	Change & Feelings	-ĉj-	affectionate (m) (suffix)	afiks
-L14	Change & Feelings	-nj-	affectionate (f) (suffix)	afiks
-L14	Change & Feelings	refari	to redo	gl
-L14	Change & Feelings	relegi	to reread	gl
-L14	Change & Feelings	rekomenci	to start again	gl
-L14	Change & Feelings	ekiri	to set off	gl
-L14	Change & Feelings	ekdormi	to fall asleep	gl
-L14	Change & Feelings	ekvidi	to catch sight of	gl
-L14	Change & Feelings	ekscii	to find out	gl
-L14	Change & Feelings	elpensi	to invent; to think up	gl
-L14	Change & Feelings	eltrovi	to discover	gl
-L14	Change & Feelings	ellerni	to learn thoroughly	gl
-L14	Change & Feelings	disiri	to part; to separate	gl
-L14	Change & Feelings	dissendi	to broadcast; to distribute	gl
-L14	Change & Feelings	eksedzo	ex-husband	im
-L14	Change & Feelings	eksedzino	ex-wife	im
-L14	Change & Feelings	miskompreni	to misunderstand	gl
-L14	Change & Feelings	miskompreno	misunderstanding	im
-L14	Change & Feelings	praavo	great-grandfather	im
-L14	Change & Feelings	prahomo	prehistoric human	im
-L14	Change & Feelings	bopatro	father-in-law	im
-L14	Change & Feelings	bopatrino	mother-in-law	im
-L14	Change & Feelings	bofrato	brother-in-law	im
-L14	Change & Feelings	fihomo	scoundrel	im
-L14	Change & Feelings	urbestro	mayor	im
-L14	Change & Feelings	lernejestro	head teacher	im
-L14	Change & Feelings	monujo	purse; wallet	im
-L14	Change & Feelings	sukerujo	sugar bowl	im
-L14	Change & Feelings	sendi	to send	gl
-L14	Change & Feelings	hundido	puppy	im
-L14	Change & Feelings	katido	kitten	im
-L14	Change & Feelings	neĝero	snowflake	im
-L14	Change & Feelings	sablero	grain of sand	im
-L14	Change & Feelings	paĉjo	dad	im
-L14	Change & Feelings	panjo	mum	im
-L14	Change & Feelings	ŝanĝiĝi	to change (by itself)	gl
-L14	Change & Feelings	ŝanĝo	change	im
-L14	Change & Feelings	pliboniĝi	to get better	gl
-L14	Change & Feelings	plibonigi	to improve	gl
-L14	Change & Feelings	fariĝi	to become	gl
-L14	Change & Feelings	kreski	to grow	gl
-L14	Change & Feelings	maljuniĝi	to grow old	gl
-L14	Change & Feelings	edziĝo	wedding	im
-L14	Change & Feelings	sento	feeling	im
-L14	Change & Feelings	senti	to feel	gl
-L14	Change & Feelings	emocio	emotion	im
-L14	Change & Feelings	ĝojo	joy	im
-L14	Change & Feelings	ĝoja	joyful	pr
-L14	Change & Feelings	ĝoji	to be glad	gl
-L14	Change & Feelings	malĝojo	sorrow	im
-L14	Change & Feelings	malĝoja	sad	pr
-L14	Change & Feelings	timo	fear	im
-L14	Change & Feelings	timi	to fear	gl
-L14	Change & Feelings	kolero	anger	im
-L14	Change & Feelings	kolera	angry	pr
-L14	Change & Feelings	koleriĝi	to get angry	gl
-L14	Change & Feelings	surprizo	surprise	im
-L14	Change & Feelings	surprizi	to surprise	gl
-L14	Change & Feelings	seniluziiĝo	disappointment	im
-L14	Change & Feelings	espero	hope	im
-L14	Change & Feelings	nervoza	nervous	pr
-L14	Change & Feelings	trankvila	calm	pr
-L14	Change & Feelings	trankviliĝi	to calm down	gl
-L14	Change & Feelings	enamiĝi	to fall in love	gl
-L14	Change & Feelings	amo	love	im
-L14	Change & Feelings	hejmsopiro	homesickness	im
-L14	Change & Feelings	soleca	lonely	pr
-L14	Change & Feelings	kontenta	satisfied	pr
-L14	Change & Feelings	dankema	grateful	pr
-L14	Change & Feelings	ekscitita	excited	pr
-L14	Change & Feelings	embarasita	embarrassed	pr
-L14	Change & Feelings	ĉagreni	to upset	gl
-L14	Change & Feelings	ĉagrenita	upset	pr
-L15	Wishes & Advice	-us	conditional ending	afiks
-L15	Wishes & Advice	se mi estus	if I were	izraz
-L15	Wishes & Advice	mi ŝatus	I would like	izraz
-L15	Wishes & Advice	estus bone	it would be good	izraz
-L15	Wishes & Advice	ajn	ever (any…)	čest
-L15	Wishes & Advice	kio ajn	whatever	izraz
-L15	Wishes & Advice	kiu ajn	whoever; whichever	izraz
-L15	Wishes & Advice	kie ajn	wherever	izraz
-L15	Wishes & Advice	kiam ajn	whenever	izraz
-L15	Wishes & Advice	revo	dream; daydream	im
-L15	Wishes & Advice	revi	to dream (of)	gl
-L15	Wishes & Advice	sonĝo	dream (sleep)	im
-L15	Wishes & Advice	sonĝi	to dream (in sleep)	gl
-L15	Wishes & Advice	deziro	wish	im
-L15	Wishes & Advice	deziri	to wish	gl
-L15	Wishes & Advice	konsilo	piece of advice	im
-L15	Wishes & Advice	konsili	to advise	gl
-L15	Wishes & Advice	proponi	to propose	gl
-L15	Wishes & Advice	propono	proposal	im
-L15	Wishes & Advice	rekomendi	to recommend	gl
-L15	Wishes & Advice	imagi	to imagine	gl
-L15	Wishes & Advice	fantazio	imagination	im
-L15	Wishes & Advice	loterio	lottery	im
-L15	Wishes & Advice	gajni	to win	gl
-L15	Wishes & Advice	miliono	million	im
-L15	Wishes & Advice	riĉeco	wealth	im
-L15	Wishes & Advice	elspezi	to spend (money)	gl
-L15	Wishes & Advice	ŝpari	to save	gl
-L15	Wishes & Advice	pruntedoni	to lend	gl
-L15	Wishes & Advice	prunti	to borrow	gl
-L15	Wishes & Advice	ĉirkaŭ la mondo	around the world	izraz
-L15	Wishes & Advice	mondo	world	im
-L15	Wishes & Advice	insulo	island	im
-L15	Wishes & Advice	velŝipo	sailing ship	im
-L15	Wishes & Advice	lukso	luxury	im
-L15	Wishes & Advice	feliĉo	happiness	im
-L15	Wishes & Advice	ŝanco	chance	im
-L15	Wishes & Advice	bonŝanco	good luck	im
-L15	Wishes & Advice	malbonŝanco	bad luck	im
-L15	Wishes & Advice	eblo	possibility	im
-L15	Wishes & Advice	elekto	choice	im
-L15	Wishes & Advice	elekti	to choose	gl
-L15	Wishes & Advice	decido	decision	im
-L15	Wishes & Advice	decidi	to decide	gl
-L15	Wishes & Advice	provi	to try	gl
-L15	Wishes & Advice	ĉesi	to stop	gl
-L15	Wishes & Advice	daŭrigi	to continue	gl
-L15	Wishes & Advice	daŭri	to last	gl
-L15	Wishes & Advice	se mi estus vi	if I were you	izraz
-L15	Wishes & Advice	vi devus	you should	izraz
-L15	Wishes & Advice	pli bone estus	it would be better	izraz
-L15	Wishes & Advice	vere	really	pril
-L15	Wishes & Advice	absolute	absolutely	pril
-L15	Wishes & Advice	probable	probably	pril
-L15	Wishes & Advice	verŝajne	probably; likely	pril
-L15	Wishes & Advice	solvo	solution	im
-L15	Wishes & Advice	solvi	to solve	gl
-L15	Wishes & Advice	celo	aim; goal	im
-L15	Wishes & Advice	celi	to aim	gl
-L15	Wishes & Advice	kuraĝo	courage	im
-L15	Wishes & Advice	pacienco	patience	im
-L15	Wishes & Advice	vero	truth	im
-L15	Wishes & Advice	buĝeto	budget	im
-L15	Wishes & Advice	malavara	generous	pr
-L15	Wishes & Advice	avara	stingy	pr
-L15	Wishes & Advice	egoisma	selfish	pr
-L15	Wishes & Advice	singarda	careful	pr
-L15	Wishes & Advice	perfekta	perfect	pr
-L15	Wishes & Advice	necesa	necessary	pr
-L15	Wishes & Advice	dubo	doubt	im
-L15	Wishes & Advice	dubi	to doubt	gl
-L15	Wishes & Advice	okazo	occasion; opportunity	im
-L15	Wishes & Advice	volontulo	volunteer	im
-L15	Wishes & Advice	donaci	to donate; to give	gl
-L15	Wishes & Advice	donaco	present; gift	im
-L15	Wishes & Advice	utopio	utopia	im
-L15	Wishes & Advice	mondpaco	world peace	im
-L15	Wishes & Advice	paco	peace	im
-L15	Wishes & Advice	milito	war	im
-L15	Wishes & Advice	komuna	common; shared	pr
-L15	Wishes & Advice	lingvobaro	language barrier	im
-L15	Wishes & Advice	skeptikulo	sceptic	im
-L15	Wishes & Advice	argumento	argument	im
-L15	Wishes & Advice	konvinki	to convince	gl
-L16	Events & Stories	-ant-	-ing (present active participle)	afiks
-L16	Events & Stories	-int-	having done (past active participle)	afiks
-L16	Events & Stories	-ont-	about to (future active participle)	afiks
-L16	Events & Stories	-ante	while doing	afiks
-L16	Events & Stories	-inte	having done	afiks
-L16	Events & Stories	-onte	being about to	afiks
-L16	Events & Stories	parolanto	speaker	im
-L16	Events & Stories	vojaĝinto	one who has travelled	im
-L16	Events & Stories	komencanto	beginner	im
-L16	Events & Stories	partoprenanto	participant	im
-L16	Events & Stories	partopreni	to take part	gl
-L16	Events & Stories	ĉeestanto	attendee	im
-L16	Events & Stories	ĉeesti	to attend	gl
-L16	Events & Stories	prezidanto	president; chair	im
-L16	Events & Stories	prezidi	to preside	gl
-L16	Events & Stories	studento	student	im
-L16	Events & Stories	loĝantaro	population	im
-L16	Events & Stories	estonta	future	pr
-L16	Events & Stories	pasinteco	past (time)	im
-L16	Events & Stories	historio	history; story	im
-L16	Events & Stories	rakonto	story	im
-L16	Events & Stories	fabelo	fairy tale	im
-L16	Events & Stories	okazaĵo	event; incident	im
-L16	Events & Stories	aventuro	adventure	im
-L16	Events & Stories	heroo	hero	im
-L16	Events & Stories	fino	end	im
-L16	Events & Stories	komenco	beginning	im
-L16	Events & Stories	subite	suddenly	pril
-L16	Events & Stories	fine	finally	pril
-L16	Events & Stories	unue	first	pril
-L16	Events & Stories	due	secondly	pril
-L16	Events & Stories	sekve	consequently	pril
-L16	Events & Stories	intertempe	meanwhile	pril
-L16	Events & Stories	tuj	immediately	pril
-L16	Events & Stories	iom post iom	little by little	izraz
-L16	Events & Stories	iun tagon	one day	izraz
-L16	Events & Stories	antaŭ longe	long ago	izraz
-L16	Events & Stories	vojaĝplano	itinerary	im
-L16	Events & Stories	kongresano	congress participant	im
-L16	Events & Stories	kongresejo	congress venue	im
-L16	Events & Stories	programo	programme	im
-L16	Events & Stories	prelego	lecture	im
-L16	Events & Stories	preleganto	lecturer	im
-L16	Events & Stories	koncerto	concert	im
-L16	Events & Stories	ekskurso	excursion	im
-L16	Events & Stories	balo	ball (dance)	im
-L16	Events & Stories	teatraĵo	play	im
-L16	Events & Stories	aktoro	actor	im
-L16	Events & Stories	kantisto	singer	im
-L16	Events & Stories	spektanto	spectator	im
-L16	Events & Stories	aplaŭdi	to applaud	gl
-L16	Events & Stories	fotografi	to photograph	gl
-L16	Events & Stories	registri	to register; to record	gl
-L16	Events & Stories	aliĝi	to join; to register	gl
-L16	Events & Stories	aliĝilo	registration form	im
-L16	Events & Stories	organizi	to organise	gl
-L16	Events & Stories	organizanto	organiser	im
-L16	Events & Stories	kunveni	to meet; to gather	gl
-L16	Events & Stories	salutvorto	welcome speech	im
-L16	Events & Stories	festivalo	festival	im
-L16	Events & Stories	foiro	fair	im
-L16	Events & Stories	infanvartejo	crèche	im
-L16	Events & Stories	kuniĝi	to unite	gl
-L16	Events & Stories	disiĝi	to separate	gl
-L16	Events & Stories	ĉeesto	attendance	im
-L16	Events & Stories	pasporta servo	Pasporta Servo (hosting network)	izraz
-L16	Events & Stories	gastigantino	hostess	im
-L16	Events & Stories	vagonaro	train (set of carriages)	im
-L16	Events & Stories	rapidtrajno	express train	im
-L16	Events & Stories	konatiĝi	to get acquainted	gl
-L16	Events & Stories	konato	acquaintance	im
-L16	Events & Stories	amikiĝi	to make friends	gl
-L16	Events & Stories	falo	fall	im
-L16	Events & Stories	fali	to fall	gl
-L16	Events & Stories	kuri	to run	gl
-L16	Events & Stories	kuro	run	im
-L16	Events & Stories	saluti	to greet	gl
-L16	Events & Stories	adiaŭi	to say goodbye	gl
-L16	Events & Stories	adiaŭ	farewell	izraz
-L16	Events & Stories	memoraĵo	souvenir	im
-L16	Events & Stories	festotago	holiday (festive day)	im
-L16	Events & Stories	rememori	to recall	gl
-L16	Events & Stories	travivi	to experience; to live through	gl
-L17	News & Media	-at-	being done (present passive participle)	afiks
-L17	News & Media	-it-	done (past passive participle)	afiks
-L17	News & Media	-ot-	to be done (future passive participle)	afiks
-L17	News & Media	-end-	must be done (suffix)	afiks
-L17	News & Media	-ind-	worthy of (suffix)	afiks
-L17	News & Media	farita	done	pr
-L17	News & Media	skribita	written	pr
-L17	News & Media	amata	loved	pr
-L17	News & Media	konata	known	pr
-L17	News & Media	nekonata	unknown	pr
-L17	News & Media	legenda	to be read	pr
-L17	News & Media	leginda	worth reading	pr
-L17	News & Media	vidinda	worth seeing	pr
-L17	News & Media	rimarkinda	remarkable	pr
-L17	News & Media	laŭdinda	praiseworthy	pr
-L17	News & Media	novaĵo	piece of news	im
-L17	News & Media	novaĵoj	news	izraz
-L17	News & Media	gazeto	magazine	im
-L17	News & Media	revuo	magazine; journal	im
-L17	News & Media	artikolo	article	im
-L17	News & Media	titolo	headline; title	im
-L17	News & Media	raporto	report	im
-L17	News & Media	raporti	to report	gl
-L17	News & Media	ĵurnalismo	journalism	im
-L17	News & Media	amaskomunikiloj	mass media	im
-L17	News & Media	elsendo	broadcast	im
-L17	News & Media	elsendi	to broadcast	gl
-L17	News & Media	radiostacio	radio station	im
-L17	News & Media	televidilo	TV set	im
-L17	News & Media	retejo	website	im
-L17	News & Media	retpoŝto	email	im
-L17	News & Media	retpoŝtadreso	email address	im
-L17	News & Media	blogo	blog	im
-L17	News & Media	podkasto	podcast	im
-L17	News & Media	filmeto	short video	im
-L17	News & Media	sociaj retoj	social media	izraz
-L17	News & Media	afiŝi	to post	gl
-L17	News & Media	afiŝo	poster; post	im
-L17	News & Media	komento	comment	im
-L17	News & Media	komenti	to comment	gl
-L17	News & Media	abonanto	subscriber	im
-L17	News & Media	aboni	to subscribe	gl
-L17	News & Media	eldoni	to publish	gl
-L17	News & Media	eldonejo	publishing house	im
-L17	News & Media	presi	to print	gl
-L17	News & Media	fonto	source	im
-L17	News & Media	fakto	fact	im
-L17	News & Media	informo	information	im
-L17	News & Media	informi	to inform	gl
-L17	News & Media	intervjuo	interview	im
-L17	News & Media	intervjui	to interview	gl
-L17	News & Media	redaktoro	editor	im
-L17	News & Media	redakti	to edit	gl
-L17	News & Media	publiko	public	im
-L17	News & Media	publika	public	pr
-L17	News & Media	privata	private	pr
-L17	News & Media	politiko	politics	im
-L17	News & Media	politikisto	politician	im
-L17	News & Media	registaro	government	im
-L17	News & Media	leĝo	law	im
-L17	News & Media	balotado	election	im
-L17	News & Media	voĉdoni	to vote	gl
-L17	News & Media	ekonomio	economy	im
-L17	News & Media	scienco	science	im
-L17	News & Media	kulturo	culture	im
-L17	News & Media	ekzisti	to exist	gl
-L17	News & Media	anonci	to announce	gl
-L17	News & Media	anonco	advertisement; announcement	im
-L17	News & Media	reklamo	advertising	im
-L17	News & Media	aktuala	current	pr
-L17	News & Media	ĉefa	main	pr
-L17	News & Media	falsa	fake	pr
-L17	News & Media	oficiala	official	pr
-L17	News & Media	mondfama	world-famous	pr
-L17	News & Media	tradukita	translated	pr
-L17	News & Media	estas dirite, ke	it is said that	izraz
-L17	News & Media	oni diras, ke	they say that	izraz
-L17	News & Media	laŭ	according to	izraz
-L17	News & Media	kolumno	column	im
-L17	News & Media	gazetisto	journalist (press)	im
-L17	News & Media	cenzuro	censorship	im
-L17	News & Media	kritiki	to criticise	gl
-L17	News & Media	opinii	to be of the opinion	gl
-L17	News & Media	diskonigi	to make known	gl
-L18	Memories & the Future	por ke	so that	izraz
-L18	Memories & the Future	sen	without	prij
-L18	Memories & the Future	anstataŭ	instead of	prij
-L18	Memories & the Future	krom	except; besides	prij
-L18	Memories & the Future	malgraŭ	despite	prij
-L18	Memories & the Future	pro	because of	prij
-L18	Memories & the Future	dank' al	thanks to	izraz
-L18	Memories & the Future	kvankam	although	vez
-L18	Memories & the Future	dum ke	while (conjunction)	izraz
-L18	Memories & the Future	ĝis kiam	until (conjunction)	izraz
-L18	Memories & the Future	kvazaŭ	as if	vez
-L18	Memories & the Future	apenaŭ	barely; hardly	pril
-L18	Memories & the Future	estis farinta	had done	izraz
-L18	Memories & the Future	memoro	memory	im
-L18	Memories & the Future	memorinda	memorable	pr
-L18	Memories & the Future	neforgesebla	unforgettable	pr
-L18	Memories & the Future	reveno	return	im
-L18	Memories & the Future	reiri	to go back	gl
-L18	Memories & the Future	lasi	to leave; to let	gl
-L18	Memories & the Future	sopiri	to long for	gl
-L18	Memories & the Future	mi sopiros pri vi	I will miss you	izraz
-L18	Memories & the Future	senti sin hejme	to feel at home	izraz
-L18	Memories & the Future	hejmo	home	im
-L18	Memories & the Future	hejme	at home	pril
-L18	Memories & the Future	amikaro	circle of friends	im
-L18	Memories & the Future	progreso	progress	im
-L18	Memories & the Future	nivelo	level	im
-L18	Memories & the Future	atestilo	certificate	im
-L18	Memories & the Future	sukceso	success	im
-L18	Memories & the Future	sukcesi	to succeed	gl
-L18	Memories & the Future	ĉapitro	chapter	im
-L18	Memories & the Future	etapo	stage	im
-L18	Memories & the Future	venontjare	next year	pril
-L18	Memories & the Future	antaŭ unu jaro	a year ago	izraz
-L18	Memories & the Future	post unu jaro	in a year	izraz
-L18	Memories & the Future	por ĉiam	forever	izraz
-L18	Memories & the Future	denove	again	pril
-L18	Memories & the Future	konservi	to keep	gl
-L18	Memories & the Future	dividi	to share; to divide	gl
-L18	Memories & the Future	resti en kontakto	to keep in touch	izraz
-L18	Memories & the Future	korespondi	to correspond	gl
-L18	Memories & the Future	korespondanto	pen pal	im
-L18	Memories & the Future	ĉiuj	everyone; all	zam
-L18	Memories & the Future	kelkaj	some; a few	pr
-L18	Memories & the Future	pluraj	several	pr
-L18	Memories & the Future	alia	other	pr
-L18	Memories & the Future	fidela	loyal	pr
-L18	Memories & the Future	dankon pro ĉio	thanks for everything	izraz
-L18	Memories & the Future	kortuŝa	moving	pr
-L18	Memories & the Future	afero	thing; matter	im
-L18	Memories & the Future	destino	fate	im
-L18	Memories & the Future	saĝeco	wisdom	im
-L18	Memories & the Future	adiaŭo	farewell	im
-L18	Memories & the Future	hejmeniro	going home	im
-L18	Memories & the Future	ĝis la revido	until we meet again	izraz
-L18	Memories & the Future	somere	in summer	pril
-L18	Memories & the Future	planado	planning	im
-L18	Memories & the Future	la Universala Kongreso	the World Esperanto Congress	izraz
-L18	Memories & the Future	lasta	last	pr
-L18	Memories & the Future	emociita	moved	pr
-L18	Memories & the Future	neniam plu	never again	izraz
-L18	Memories & the Future	albumo	album	im
-L18	Memories & the Future	reviziti	to revisit	gl
-L18	Memories & the Future	retrovi	to find again	gl
-L18	Memories & the Future	renkontiĝo	meeting; get-together	im
-L18	Memories & the Future	dankemo	gratitude	im
-L18	Memories & the Future	atingi	to achieve; to reach	gl
-L18	Memories & the Future	atingo	achievement	im
-L18	Memories & the Future	eĉ se	even if	izraz
-L18	Memories & the Future	tiel ke	so that (result)	izraz
-L18	Memories & the Future	la vivo	life	im
-L18	Memories & the Future	vivi	to live	gl
-L18	Memories & the Future	estonte	in the future	pril
-L18	Memories & the Future	pasinte	in the past	pril
-L18	Memories & the Future	mondcivitano	world citizen	im
-L18	Memories & the Future	tutmonda	worldwide	pr
-L18	Memories & the Future	lingva	linguistic	pr
-L18	Memories & the Future	dankesprimo	expression of thanks	im
-L18	Memories & the Future	lingvopolitiko	language policy	im
-L18	Memories & the Future	mondŝanĝo	change in the world	im
-L18	Memories & the Future	plenumi	to fulfil	gl
-L18	Memories & the Future	revenonta	returning; coming back	pr
-L18	Memories & the Future	vojaĝkamarado	travel companion	im
+razina	tema	eo	en	vrsta	prelaznost
+L0	Sounds & Familiar Words	hotelo	hotel	im	
+L0	Sounds & Familiar Words	taksio	taxi	im	
+L0	Sounds & Familiar Words	aŭtobuso	bus	im	
+L0	Sounds & Familiar Words	trajno	train	im	
+L0	Sounds & Familiar Words	kafo	coffee	im	
+L0	Sounds & Familiar Words	teo	tea	im	
+L0	Sounds & Familiar Words	ĉokolado	chocolate	im	
+L0	Sounds & Familiar Words	pico	pizza	im	
+L0	Sounds & Familiar Words	banano	banana	im	
+L0	Sounds & Familiar Words	muziko	music	im	
+L0	Sounds & Familiar Words	futbalo	football	im	
+L0	Sounds & Familiar Words	teniso	tennis	im	
+L0	Sounds & Familiar Words	kinejo	cinema	im	
+L0	Sounds & Familiar Words	teatro	theatre	im	
+L0	Sounds & Familiar Words	filmo	film	im	
+L0	Sounds & Familiar Words	radio	radio	im	
+L0	Sounds & Familiar Words	televido	television	im	
+L0	Sounds & Familiar Words	telefono	telephone	im	
+L0	Sounds & Familiar Words	foto	photo	im	
+L0	Sounds & Familiar Words	parko	park	im	
+L0	Sounds & Familiar Words	restoracio	restaurant	im	
+L0	Sounds & Familiar Words	banko	bank	im	
+L0	Sounds & Familiar Words	kuracisto	doctor	im	
+L0	Sounds & Familiar Words	polico	police	im	
+L0	Sounds & Familiar Words	sporto	sport	im	
+L0	Sounds & Familiar Words	menuo	menu	im	
+L0	Sounds & Familiar Words	momento	moment	im	
+L0	Sounds & Familiar Words	familio	family	im	
+L0	Sounds & Familiar Words	komputilo	computer	im	
+L0	Sounds & Familiar Words	problemo	problem	im	
+L0	Sounds & Familiar Words	universitato	university	im	
+L0	Sounds & Familiar Words	interreto	internet	im	
+L0	Sounds & Familiar Words	kongreso	congress	im	
+L0	Sounds & Familiar Words	lingvo	language	im	
+L0	Sounds & Familiar Words	esperanto	Esperanto	im	
+L0	Sounds & Familiar Words	ĝardeno	garden	im	
+L0	Sounds & Familiar Words	papero	paper	im	
+L0	Sounds & Familiar Words	salato	salad	im	
+L0	Sounds & Familiar Words	akvo	water	im	
+L0	Sounds & Familiar Words	lampo	lamp	im	
+L1	Greetings & Countries	saluton	hello	izraz	
+L1	Greetings & Countries	bonan tagon	good day	izraz	
+L1	Greetings & Countries	bonan matenon	good morning	izraz	
+L1	Greetings & Countries	bonan vesperon	good evening	izraz	
+L1	Greetings & Countries	bonan nokton	good night	izraz	
+L1	Greetings & Countries	ĝis revido	goodbye	izraz	
+L1	Greetings & Countries	ĝis	bye; see you	izraz	
+L1	Greetings & Countries	dankon	thank you	izraz	
+L1	Greetings & Countries	ne dankinde	you're welcome	izraz	
+L1	Greetings & Countries	bonvolu	please	izraz	
+L1	Greetings & Countries	pardonu	sorry; excuse me	izraz	
+L1	Greetings & Countries	jes	yes	čest	
+L1	Greetings & Countries	ne	no; not	čest	
+L1	Greetings & Countries	sinjoro	Mr; sir	im	
+L1	Greetings & Countries	sinjorino	Mrs; madam	im	
+L1	Greetings & Countries	kiel vi fartas?	how are you?	izraz	
+L1	Greetings & Countries	bone	well; fine	pril	
+L1	Greetings & Countries	tre	very	pril	
+L1	Greetings & Countries	kaj	and	vez	
+L1	Greetings & Countries	mia nomo estas	my name is	izraz	
+L1	Greetings & Countries	nomo	name	im	
+L1	Greetings & Countries	esti	to be	gl	ntr
+L1	Greetings & Countries	mi	I	zam	
+L1	Greetings & Countries	vi	you	zam	
+L1	Greetings & Countries	li	he	zam	
+L1	Greetings & Countries	ŝi	she	zam	
+L1	Greetings & Countries	ĝi	it	zam	
+L1	Greetings & Countries	ni	we	zam	
+L1	Greetings & Countries	ili	they	zam	
+L1	Greetings & Countries	la	the	čl	
+L1	Greetings & Countries	lando	country	im	
+L1	Greetings & Countries	Kroatio	Croatia	im	
+L1	Greetings & Countries	Meksiko	Mexico	im	
+L1	Greetings & Countries	Pollando	Poland	im	
+L1	Greetings & Countries	Japanio	Japan	im	
+L1	Greetings & Countries	Germanio	Germany	im	
+L1	Greetings & Countries	Ganao	Ghana	im	
+L1	Greetings & Countries	kroato	Croat	im	
+L1	Greetings & Countries	meksikano	Mexican (person)	im	
+L1	Greetings & Countries	polo	Pole	im	
+L1	Greetings & Countries	japano	Japanese (person)	im	
+L1	Greetings & Countries	germano	German (person)	im	
+L1	Greetings & Countries	de	of; from	prij	
+L1	Greetings & Countries	el	from; out of	prij	
+L1	Greetings & Countries	kie	where	pril	
+L1	Greetings & Countries	kio	what	zam	
+L1	Greetings & Countries	kiu	who; which	zam	
+L1	Greetings & Countries	nun	now	pril	
+L1	Greetings & Countries	urbo	town; city	im	
+L1	Greetings & Countries	amiko	friend	im	
+L1	Greetings & Countries	samideano	fellow Esperantist	im	
+L1	Greetings & Countries	gasto	guest	im	
+L1	Greetings & Countries	gastiganto	host	im	
+L1	Greetings & Countries	paroli	to speak	gl	ntr
+L1	Greetings & Countries	nomiĝi	to be called	gl	ntr
+L2	The Room & Colours	ĉambro	room	im	
+L2	The Room & Colours	domo	house	im	
+L2	The Room & Colours	loĝejo	flat; home	im	
+L2	The Room & Colours	kuirejo	kitchen	im	
+L2	The Room & Colours	banejo	bathroom	im	
+L2	The Room & Colours	dormoĉambro	bedroom	im	
+L2	The Room & Colours	pordo	door	im	
+L2	The Room & Colours	fenestro	window	im	
+L2	The Room & Colours	muro	wall	im	
+L2	The Room & Colours	lito	bed	im	
+L2	The Room & Colours	seĝo	chair	im	
+L2	The Room & Colours	tablo	table	im	
+L2	The Room & Colours	sofo	sofa	im	
+L2	The Room & Colours	ŝranko	wardrobe; cupboard	im	
+L2	The Room & Colours	libro	book	im	
+L2	The Room & Colours	skribilo	pen	im	
+L2	The Room & Colours	krajono	pencil	im	
+L2	The Room & Colours	sako	bag	im	
+L2	The Room & Colours	ŝlosilo	key	im	
+L2	The Room & Colours	spegulo	mirror	im	
+L2	The Room & Colours	tapiŝo	carpet	im	
+L2	The Room & Colours	floro	flower	im	
+L2	The Room & Colours	planto	plant	im	
+L2	The Room & Colours	skatolo	box	im	
+L2	The Room & Colours	kajero	notebook	im	
+L2	The Room & Colours	taso	cup	im	
+L2	The Room & Colours	glaso	glass	im	
+L2	The Room & Colours	horloĝo	clock	im	
+L2	The Room & Colours	bildo	picture	im	
+L2	The Room & Colours	breto	shelf	im	
+L2	The Room & Colours	koloro	colour	im	
+L2	The Room & Colours	blanka	white	pr	
+L2	The Room & Colours	nigra	black	pr	
+L2	The Room & Colours	ruĝa	red	pr	
+L2	The Room & Colours	blua	blue	pr	
+L2	The Room & Colours	verda	green	pr	
+L2	The Room & Colours	flava	yellow	pr	
+L2	The Room & Colours	griza	grey	pr	
+L2	The Room & Colours	bruna	brown	pr	
+L2	The Room & Colours	rozkolora	pink	pr	
+L2	The Room & Colours	oranĝa	orange	pr	
+L2	The Room & Colours	violkolora	purple	pr	
+L2	The Room & Colours	granda	big	pr	
+L2	The Room & Colours	malgranda	small	pr	
+L2	The Room & Colours	bela	beautiful	pr	
+L2	The Room & Colours	malbela	ugly	pr	
+L2	The Room & Colours	nova	new	pr	
+L2	The Room & Colours	malnova	old (thing)	pr	
+L2	The Room & Colours	hela	bright; light	pr	
+L2	The Room & Colours	malhela	dark	pr	
+L2	The Room & Colours	pura	clean	pr	
+L2	The Room & Colours	malpura	dirty	pr	
+L2	The Room & Colours	bona	good	pr	
+L2	The Room & Colours	malbona	bad	pr	
+L2	The Room & Colours	mal-	opposite (prefix)	afiks	
+L2	The Room & Colours	ĉu	(question particle); whether	čest	
+L2	The Room & Colours	jen	here is; look	čest	
+L2	The Room & Colours	ankaŭ	also	pril	
+L2	The Room & Colours	sed	but	vez	
+L2	The Room & Colours	en	in	prij	
+L2	The Room & Colours	sur	on	prij	
+L2	The Room & Colours	sub	under	prij	
+L2	The Room & Colours	apud	next to	prij	
+L2	The Room & Colours	antaŭ	in front of; before	prij	
+L2	The Room & Colours	malantaŭ	behind	prij	
+L3	Everyday Verbs & the Week	labori	to work	gl	ntr
+L3	Everyday Verbs & the Week	loĝi	to live (somewhere)	gl	ntr
+L3	Everyday Verbs & the Week	lerni	to learn	gl	tr
+L3	Everyday Verbs & the Week	studi	to study	gl	tr
+L3	Everyday Verbs & the Week	manĝi	to eat	gl	tr
+L3	Everyday Verbs & the Week	trinki	to drink	gl	tr
+L3	Everyday Verbs & the Week	rigardi	to look at; to watch	gl	tr
+L3	Everyday Verbs & the Week	aŭskulti	to listen to	gl	tr
+L3	Everyday Verbs & the Week	kuiri	to cook	gl	tr
+L3	Everyday Verbs & the Week	ludi	to play	gl	tr,ntr
+L3	Everyday Verbs & the Week	kanti	to sing	gl	tr,ntr
+L3	Everyday Verbs & the Week	danci	to dance	gl	tr,ntr
+L3	Everyday Verbs & the Week	iri	to go	gl	ntr
+L3	Everyday Verbs & the Week	veni	to come	gl	ntr
+L3	Everyday Verbs & the Week	legi	to read	gl	tr
+L3	Everyday Verbs & the Week	skribi	to write	gl	tr
+L3	Everyday Verbs & the Week	vidi	to see	gl	tr
+L3	Everyday Verbs & the Week	aĉeti	to buy	gl	tr
+L3	Everyday Verbs & the Week	fari	to do; to make	gl	tr
+L3	Everyday Verbs & the Week	havi	to have	gl	tr
+L3	Everyday Verbs & the Week	voli	to want	gl	tr
+L3	Everyday Verbs & the Week	povi	can; to be able to	gl	tr
+L3	Everyday Verbs & the Week	devi	must; to have to	gl	tr
+L3	Everyday Verbs & the Week	ŝati	to like	gl	tr
+L3	Everyday Verbs & the Week	ami	to love	gl	tr
+L3	Everyday Verbs & the Week	kompreni	to understand	gl	tr
+L3	Everyday Verbs & the Week	scii	to know	gl	tr
+L3	Everyday Verbs & the Week	dormi	to sleep	gl	ntr
+L3	Everyday Verbs & the Week	tago	day	im	
+L3	Everyday Verbs & the Week	semajno	week	im	
+L3	Everyday Verbs & the Week	lundo	Monday	im	
+L3	Everyday Verbs & the Week	mardo	Tuesday	im	
+L3	Everyday Verbs & the Week	merkredo	Wednesday	im	
+L3	Everyday Verbs & the Week	ĵaŭdo	Thursday	im	
+L3	Everyday Verbs & the Week	vendredo	Friday	im	
+L3	Everyday Verbs & the Week	sabato	Saturday	im	
+L3	Everyday Verbs & the Week	dimanĉo	Sunday	im	
+L3	Everyday Verbs & the Week	semajnfino	weekend	im	
+L3	Everyday Verbs & the Week	mateno	morning	im	
+L3	Everyday Verbs & the Week	posttagmezo	afternoon	im	
+L3	Everyday Verbs & the Week	vespero	evening	im	
+L3	Everyday Verbs & the Week	nokto	night	im	
+L3	Everyday Verbs & the Week	hodiaŭ	today	pril	
+L3	Everyday Verbs & the Week	ofte	often	pril	
+L3	Everyday Verbs & the Week	ĉiam	always	pril	
+L3	Everyday Verbs & the Week	kelkfoje	sometimes	pril	
+L3	Everyday Verbs & the Week	kial	why	pril	
+L3	Everyday Verbs & the Week	ĉar	because	vez	
+L3	Everyday Verbs & the Week	kiam	when	pril	
+L3	Everyday Verbs & the Week	kiel	how; like	pril	
+L3	Everyday Verbs & the Week	laboro	work	im	
+L3	Everyday Verbs & the Week	lernejo	school	im	
+L3	Everyday Verbs & the Week	oficejo	office	im	
+L3	Everyday Verbs & the Week	instruisto	teacher	im	
+L3	Everyday Verbs & the Week	ĵurnalo	newspaper	im	
+L3	Everyday Verbs & the Week	letero	letter	im	
+L3	Everyday Verbs & the Week	mesaĝo	message	im	
+L3	Everyday Verbs & the Week	ĉiutage	every day	pril	
+L3	Everyday Verbs & the Week	multe	a lot	pril	
+L3	Everyday Verbs & the Week	iom	a little	pril	
+L3	Everyday Verbs & the Week	al	to	prij	
+L3	Everyday Verbs & the Week	kun	with	prij	
+L3	Everyday Verbs & the Week	lavi la telerojn	to wash the dishes	izraz	
+L3	Everyday Verbs & the Week	purigi	to clean	gl	tr
+L3	Everyday Verbs & the Week	telero	plate	im	
+L4	Family & People	patro	father	im	
+L4	Family & People	patrino	mother	im	
+L4	Family & People	gepatroj	parents	im	
+L4	Family & People	frato	brother	im	
+L4	Family & People	fratino	sister	im	
+L4	Family & People	gefratoj	siblings	im	
+L4	Family & People	filo	son	im	
+L4	Family & People	filino	daughter	im	
+L4	Family & People	infano	child	im	
+L4	Family & People	bebo	baby	im	
+L4	Family & People	edzo	husband	im	
+L4	Family & People	edzino	wife	im	
+L4	Family & People	geedzoj	married couple	im	
+L4	Family & People	viro	man	im	
+L4	Family & People	virino	woman	im	
+L4	Family & People	knabo	boy	im	
+L4	Family & People	knabino	girl	im	
+L4	Family & People	avo	grandfather	im	
+L4	Family & People	avino	grandmother	im	
+L4	Family & People	geavoj	grandparents	im	
+L4	Family & People	onklo	uncle	im	
+L4	Family & People	onklino	aunt	im	
+L4	Family & People	kuzo	cousin (m)	im	
+L4	Family & People	kuzino	cousin (f)	im	
+L4	Family & People	nevo	nephew	im	
+L4	Family & People	nevino	niece	im	
+L4	Family & People	nepo	grandson	im	
+L4	Family & People	nepino	granddaughter	im	
+L4	Family & People	amikino	friend (f)	im	
+L4	Family & People	najbaro	neighbour	im	
+L4	Family & People	hundo	dog	im	
+L4	Family & People	kato	cat	im	
+L4	Family & People	-in-	female (suffix)	afiks	
+L4	Family & People	ge-	both sexes (prefix)	afiks	
+L4	Family & People	homo	human; person	im	
+L4	Family & People	persono	person	im	
+L4	Family & People	popolo	people; nation	im	
+L4	Family & People	jaro	year	im	
+L4	Family & People	aĝo	age	im	
+L4	Family & People	naskiĝtago	birthday	im	
+L4	Family & People	juna	young	pr	
+L4	Family & People	maljuna	old (person)	pr	
+L4	Family & People	edziĝinta	married	pr	
+L4	Family & People	fraŭla	single	pr	
+L4	Family & People	mia	my	zam	
+L4	Family & People	via	your	zam	
+L4	Family & People	lia	his	zam	
+L4	Family & People	ŝia	her	zam	
+L4	Family & People	nia	our	zam	
+L4	Family & People	ilia	their	zam	
+L4	Family & People	ĝia	its	zam	
+L4	Family & People	afabla	kind	pr	
+L4	Family & People	simpatia	nice; likeable	pr	
+L4	Family & People	alta	tall; high	pr	
+L4	Family & People	malalta	short; low	pr	
+L4	Family & People	gaja	cheerful	pr	
+L4	Family & People	serioza	serious	pr	
+L4	Family & People	inteligenta	intelligent	pr	
+L4	Family & People	kara	dear	pr	
+L4	Family & People	riĉa	rich	pr	
+L4	Family & People	malriĉa	poor	pr	
+L4	Family & People	feliĉa	happy	pr	
+L4	Family & People	trista	sad	pr	
+L4	Family & People	laca	tired	pr	
+L4	Family & People	okupata	busy	pr	
+L4	Family & People	kiom da jaroj vi havas?	how old are you?	izraz	
+L4	Family & People	naskiĝi	to be born	gl	ntr
+L4	Family & People	edziĝi	to get married	gl	ntr
+L4	Family & People	viziti	to visit	gl	tr
+L4	Family & People	koni	to know (someone)	gl	tr
+L4	Family & People	helpi	to help	gl	tr
+L5	Food & Quantities	bazaro	market	im	
+L5	Food & Quantities	pano	bread	im	
+L5	Food & Quantities	fromaĝo	cheese	im	
+L5	Food & Quantities	butero	butter	im	
+L5	Food & Quantities	lakto	milk	im	
+L5	Food & Quantities	ovo	egg	im	
+L5	Food & Quantities	viando	meat	im	
+L5	Food & Quantities	kokaĵo	chicken (meat)	im	
+L5	Food & Quantities	fiŝo	fish	im	
+L5	Food & Quantities	ŝinko	ham	im	
+L5	Food & Quantities	pomo	apple	im	
+L5	Food & Quantities	piro	pear	im	
+L5	Food & Quantities	oranĝo	orange	im	
+L5	Food & Quantities	frago	strawberry	im	
+L5	Food & Quantities	vinbero	grape	im	
+L5	Food & Quantities	citrono	lemon	im	
+L5	Food & Quantities	tomato	tomato	im	
+L5	Food & Quantities	terpomo	potato	im	
+L5	Food & Quantities	karoto	carrot	im	
+L5	Food & Quantities	cepo	onion	im	
+L5	Food & Quantities	rizo	rice	im	
+L5	Food & Quantities	pasto	pasta; dough	im	
+L5	Food & Quantities	sukero	sugar	im	
+L5	Food & Quantities	salo	salt	im	
+L5	Food & Quantities	oleo	oil	im	
+L5	Food & Quantities	kuko	cake	im	
+L5	Food & Quantities	suko	juice	im	
+L5	Food & Quantities	vino	wine	im	
+L5	Food & Quantities	biero	beer	im	
+L5	Food & Quantities	frukto	fruit	im	
+L5	Food & Quantities	legomo	vegetable	im	
+L5	Food & Quantities	manĝaĵo	food	im	
+L5	Food & Quantities	trinkaĵo	drink	im	
+L5	Food & Quantities	dolĉaĵo	sweet	im	
+L5	Food & Quantities	-aĵ-	thing made of / thing (suffix)	afiks	
+L5	Food & Quantities	kilogramo	kilogram	im	
+L5	Food & Quantities	gramo	gram	im	
+L5	Food & Quantities	litro	litre	im	
+L5	Food & Quantities	botelo	bottle	im	
+L5	Food & Quantities	peco	piece	im	
+L5	Food & Quantities	pako	packet	im	
+L5	Food & Quantities	butiko	shop	im	
+L5	Food & Quantities	vendisto	seller	im	
+L5	Food & Quantities	kliento	customer	im	
+L5	Food & Quantities	prezo	price	im	
+L5	Food & Quantities	mono	money	im	
+L5	Food & Quantities	eŭro	euro	im	
+L5	Food & Quantities	cendo	cent	im	
+L5	Food & Quantities	kosti	to cost	gl	ntr
+L5	Food & Quantities	pagi	to pay	gl	tr
+L5	Food & Quantities	vendi	to sell	gl	tr
+L5	Food & Quantities	kiom	how much; how many	pril	
+L5	Food & Quantities	multe da	a lot of	izraz	
+L5	Food & Quantities	iom da	some; a little	izraz	
+L5	Food & Quantities	tro	too; too much	pril	
+L5	Food & Quantities	sufiĉe	enough	pril	
+L5	Food & Quantities	multekosta	expensive	pr	
+L5	Food & Quantities	malmultekosta	cheap	pr	
+L5	Food & Quantities	freŝa	fresh	pr	
+L5	Food & Quantities	bongusta	tasty	pr	
+L5	Food & Quantities	nulo	zero	broj	
+L5	Food & Quantities	unu	one	broj	
+L5	Food & Quantities	du	two	broj	
+L5	Food & Quantities	tri	three	broj	
+L5	Food & Quantities	kvar	four	broj	
+L5	Food & Quantities	kvin	five	broj	
+L5	Food & Quantities	ses	six	broj	
+L5	Food & Quantities	sep	seven	broj	
+L5	Food & Quantities	ok	eight	broj	
+L5	Food & Quantities	naŭ	nine	broj	
+L5	Food & Quantities	dek	ten	broj	
+L5	Food & Quantities	cent	hundred	broj	
+L5	Food & Quantities	mil	thousand	broj	
+L5	Food & Quantities	unua	first	broj	
+L5	Food & Quantities	dua	second	broj	
+L5	Food & Quantities	tria	third	broj	
+L6	City & Directions	strato	street	im	
+L6	City & Directions	placo	square	im	
+L6	City & Directions	centro	centre	im	
+L6	City & Directions	stacidomo	railway station	im	
+L6	City & Directions	haltejo	stop	im	
+L6	City & Directions	muzeo	museum	im	
+L6	City & Directions	preĝejo	church	im	
+L6	City & Directions	hospitalo	hospital	im	
+L6	City & Directions	poŝtoficejo	post office	im	
+L6	City & Directions	biblioteko	library	im	
+L6	City & Directions	ponto	bridge	im	
+L6	City & Directions	semaforo	traffic light	im	
+L6	City & Directions	angulo	corner	im	
+L6	City & Directions	mapo	map	im	
+L6	City & Directions	panejo	bakery	im	
+L6	City & Directions	apoteko	chemist's	im	
+L6	City & Directions	metroo	underground	im	
+L6	City & Directions	konstruaĵo	building	im	
+L6	City & Directions	kvartalo	district	im	
+L6	City & Directions	vojo	road; way	im	
+L6	City & Directions	-ej-	place (suffix)	afiks	
+L6	City & Directions	turni	to turn	gl	tr
+L6	City & Directions	transiri	to cross	gl	tr
+L6	City & Directions	serĉi	to look for	gl	tr
+L6	City & Directions	trovi	to find	gl	tr
+L6	City & Directions	promeni	to walk; to stroll	gl	ntr
+L6	City & Directions	veturi	to travel (by vehicle)	gl	ntr
+L6	City & Directions	kien	where to	pril	
+L6	City & Directions	tie	there	pril	
+L6	City & Directions	tien	to there	pril	
+L6	City & Directions	ĉi tie	here	pril	
+L6	City & Directions	dekstre	on the right	pril	
+L6	City & Directions	maldekstre	on the left	pril	
+L6	City & Directions	rekte	straight on	pril	
+L6	City & Directions	proksime	near	pril	
+L6	City & Directions	malproksime	far	pril	
+L6	City & Directions	inter	between	prij	
+L6	City & Directions	ĉe	at	prij	
+L6	City & Directions	tra	through	prij	
+L6	City & Directions	ĝis la angulo	as far as the corner	izraz	
+L6	City & Directions	trans	across; on the other side	prij	
+L6	City & Directions	ĉirkaŭ	around	prij	
+L6	City & Directions	super	above	prij	
+L6	City & Directions	kontraŭ	opposite; against	prij	
+L6	City & Directions	laŭ	along; according to	prij	
+L6	City & Directions	post	after; behind	prij	
+L6	City & Directions	por	for	prij	
+L6	City & Directions	pri	about	prij	
+L6	City & Directions	oni	one; people	zam	
+L6	City & Directions	piede	on foot	pril	
+L6	City & Directions	per aŭtobuso	by bus	izraz	
+L6	City & Directions	perdita	lost	pr	
+L6	City & Directions	kie estas …?	where is …?	izraz	
+L6	City & Directions	ĉu estas malproksime?	is it far?	izraz	
+L6	City & Directions	turisto	tourist	im	
+L6	City & Directions	gvidisto	guide	im	
+L6	City & Directions	parkejo	car park	im	
+L6	City & Directions	katedralo	cathedral	im	
+L6	City & Directions	rivero	river	im	
+L6	City & Directions	monumento	monument	im	
+L6	City & Directions	urbodomo	town hall	im	
+L6	City & Directions	vendejo	shop	im	
+L6	City & Directions	superbazaro	supermarket	im	
+L6	City & Directions	kafejo	café	im	
+L6	City & Directions	manĝejo	eatery; canteen	im	
+L6	City & Directions	trinkejo	bar	im	
+L6	City & Directions	lernejano	pupil	im	
+L6	City & Directions	loĝanto	inhabitant	im	
+L6	City & Directions	urbocentro	town centre	im	
+L6	City & Directions	avenuo	avenue	im	
+L6	City & Directions	trotuaro	pavement	im	
+L6	City & Directions	konstrui	to build	gl	tr
+L6	City & Directions	fontano	fountain	im	
+L6	City & Directions	stratlampo	street lamp	im	
+L7	Past & Future Time	hieraŭ	yesterday	pril	
+L7	Past & Future Time	morgaŭ	tomorrow	pril	
+L7	Past & Future Time	antaŭhieraŭ	the day before yesterday	pril	
+L7	Past & Future Time	postmorgaŭ	the day after tomorrow	pril	
+L7	Past & Future Time	pasinta	past; last	pr	
+L7	Past & Future Time	venonta	next; coming	pr	
+L7	Past & Future Time	estinteco	the past	im	
+L7	Past & Future Time	estonteco	the future	im	
+L7	Past & Future Time	ke	that (conjunction)	vez	
+L7	Past & Future Time	diri	to say	gl	tr
+L7	Past & Future Time	rakonti	to tell	gl	tr
+L7	Past & Future Time	pensi	to think	gl	ntr
+L7	Past & Future Time	kredi	to believe	gl	tr
+L7	Past & Future Time	esperi	to hope	gl	tr
+L7	Past & Future Time	plani	to plan	gl	tr
+L7	Past & Future Time	renkonti	to meet	gl	tr
+L7	Past & Future Time	atendi	to wait	gl	tr
+L7	Past & Future Time	resti	to stay	gl	ntr
+L7	Past & Future Time	reveni	to come back	gl	ntr
+L7	Past & Future Time	forgesi	to forget	gl	tr
+L7	Past & Future Time	memori	to remember	gl	tr
+L7	Past & Future Time	festi	to celebrate	gl	tr
+L7	Past & Future Time	vojaĝi	to travel	gl	ntr
+L7	Past & Future Time	alveni	to arrive	gl	ntr
+L7	Past & Future Time	foriri	to leave	gl	ntr
+L7	Past & Future Time	-ad-	continuous action (suffix)	afiks	
+L7	Past & Future Time	dato	date	im	
+L7	Past & Future Time	monato	month	im	
+L7	Past & Future Time	januaro	January	im	
+L7	Past & Future Time	februaro	February	im	
+L7	Past & Future Time	marto	March	im	
+L7	Past & Future Time	aprilo	April	im	
+L7	Past & Future Time	majo	May	im	
+L7	Past & Future Time	junio	June	im	
+L7	Past & Future Time	julio	July	im	
+L7	Past & Future Time	aŭgusto	August	im	
+L7	Past & Future Time	septembro	September	im	
+L7	Past & Future Time	oktobro	October	im	
+L7	Past & Future Time	novembro	November	im	
+L7	Past & Future Time	decembro	December	im	
+L7	Past & Future Time	sezono	season	im	
+L7	Past & Future Time	printempo	spring	im	
+L7	Past & Future Time	somero	summer	im	
+L7	Past & Future Time	aŭtuno	autumn	im	
+L7	Past & Future Time	vintro	winter	im	
+L7	Past & Future Time	vetero	weather	im	
+L7	Past & Future Time	pluvo	rain	im	
+L7	Past & Future Time	neĝo	snow	im	
+L7	Past & Future Time	suno	sun	im	
+L7	Past & Future Time	vento	wind	im	
+L7	Past & Future Time	pluvi	to rain	gl	ntr
+L7	Past & Future Time	neĝi	to snow	gl	ntr
+L7	Past & Future Time	varma	warm	pr	
+L7	Past & Future Time	malvarma	cold	pr	
+L7	Past & Future Time	baldaŭ	soon	pril	
+L7	Past & Future Time	poste	later; afterwards	pril	
+L7	Past & Future Time	antaŭe	before; earlier	pril	
+L7	Past & Future Time	jam	already	pril	
+L7	Past & Future Time	ankoraŭ	still	pril	
+L7	Past & Future Time	ankoraŭ ne	not yet	izraz	
+L7	Past & Future Time	iam	once; ever	pril	
+L7	Past & Future Time	foje	once; one time	pril	
+L7	Past & Future Time	lastatempe	recently	pril	
+L7	Past & Future Time	venontsemajne	next week	pril	
+L7	Past & Future Time	pasintjare	last year	pril	
+L7	Past & Future Time	vojaĝo	journey	im	
+L7	Past & Future Time	festo	celebration; party	im	
+L7	Past & Future Time	ferioj	holidays	im	
+L7	Past & Future Time	plano	plan	im	
+L7	Past & Future Time	promeso	promise	im	
+L7	Past & Future Time	promesi	to promise	gl	tr
+L7	Past & Future Time	okazi	to happen	gl	ntr
+L7	Past & Future Time	evento	event	im	
+L8	Routine & Time	vekiĝi	to wake up	gl	ntr
+L8	Routine & Time	veki	to wake (someone)	gl	tr
+L8	Routine & Time	leviĝi	to get up	gl	ntr
+L8	Routine & Time	levi	to lift	gl	tr
+L8	Routine & Time	lavi	to wash	gl	tr
+L8	Routine & Time	lavi sin	to wash (oneself)	izraz	
+L8	Routine & Time	duŝi sin	to have a shower	izraz	
+L8	Routine & Time	vesti sin	to get dressed	izraz	
+L8	Routine & Time	kombi sin	to comb one's hair	izraz	
+L8	Routine & Time	razi sin	to shave	izraz	
+L8	Routine & Time	brosi la dentojn	to brush one's teeth	izraz	
+L8	Routine & Time	enlitiĝi	to go to bed	gl	ntr
+L8	Routine & Time	endormiĝi	to fall asleep	gl	ntr
+L8	Routine & Time	ripozi	to rest	gl	ntr
+L8	Routine & Time	rapidi	to hurry	gl	ntr
+L8	Routine & Time	senti sin	to feel	izraz	
+L8	Routine & Time	komenci	to begin	gl	tr
+L8	Routine & Time	komenciĝi	to start (by itself)	gl	ntr
+L8	Routine & Time	fini	to finish	gl	tr
+L8	Routine & Time	finiĝi	to end	gl	ntr
+L8	Routine & Time	-iĝ-	to become; to get (suffix)	afiks	
+L8	Routine & Time	-ig-	to make; to cause (suffix)	afiks	
+L8	Routine & Time	si	oneself	zam	
+L8	Routine & Time	sia	one's own	zam	
+L8	Routine & Time	matenmanĝo	breakfast	im	
+L8	Routine & Time	tagmanĝo	lunch	im	
+L8	Routine & Time	vespermanĝo	dinner	im	
+L8	Routine & Time	matenmanĝi	to have breakfast	gl	ntr
+L8	Routine & Time	tagmanĝi	to have lunch	gl	ntr
+L8	Routine & Time	vespermanĝi	to have dinner	gl	ntr
+L8	Routine & Time	horo	hour	im	
+L8	Routine & Time	duonhoro	half an hour	im	
+L8	Routine & Time	minuto	minute	im	
+L8	Routine & Time	sekundo	second	im	
+L8	Routine & Time	kioma horo estas?	what time is it?	izraz	
+L8	Routine & Time	je la oka	at eight o'clock	izraz	
+L8	Routine & Time	kaj duono	half past	izraz	
+L8	Routine & Time	kaj kvarono	quarter past	izraz	
+L8	Routine & Time	tagmezo	midday	im	
+L8	Routine & Time	noktomezo	midnight	im	
+L8	Routine & Time	vekhorloĝo	alarm clock	im	
+L8	Routine & Time	duŝo	shower	im	
+L8	Routine & Time	sapo	soap	im	
+L8	Routine & Time	dentobroso	toothbrush	im	
+L8	Routine & Time	mantuko	towel	im	
+L8	Routine & Time	frue	early	pril	
+L8	Routine & Time	malfrue	late	pril	
+L8	Routine & Time	ĝustatempe	on time	pril	
+L8	Routine & Time	rapide	quickly	pril	
+L8	Routine & Time	malrapide	slowly	pril	
+L8	Routine & Time	kutime	usually	pril	
+L8	Routine & Time	ĉiumatene	every morning	pril	
+L8	Routine & Time	dum	during; while	prij	
+L8	Routine & Time	antaŭ ol	before (doing)	izraz	
+L8	Routine & Time	post kiam	after (conjunction)	izraz	
+L8	Routine & Time	kolego	colleague	im	
+L8	Routine & Time	rutino	routine	im	
+L8	Routine & Time	horaro	timetable	im	
+L8	Routine & Time	dento	tooth	im	
+L8	Routine & Time	haroj	hair	im	
+L8	Routine & Time	vestaĵo	piece of clothing	im	
+L8	Routine & Time	ŝuo	shoe	im	
+L8	Routine & Time	pantalono	trousers	im	
+L8	Routine & Time	ĉemizo	shirt	im	
+L8	Routine & Time	jako	jacket	im	
+L8	Routine & Time	mantelo	coat	im	
+L8	Routine & Time	robo	dress	im	
+L8	Routine & Time	jupo	skirt	im	
+L8	Routine & Time	ŝtrumpo	sock	im	
+L8	Routine & Time	ĉapelo	hat	im	
+L8	Routine & Time	okulvitroj	glasses	im	
+L8	Routine & Time	surmeti	to put on	gl	tr
+L8	Routine & Time	demeti	to take off	gl	tr
+L8	Routine & Time	porti	to carry; to wear	gl	tr
+L8	Routine & Time	kombilo	comb	im	
+L9	Word Families	-ist-	professional (suffix)	afiks	
+L9	Word Families	-et-	small (suffix)	afiks	
+L9	Word Families	-eg-	big; intense (suffix)	afiks	
+L9	Word Families	-ul-	person (with a quality) (suffix)	afiks	
+L9	Word Families	-an-	member (suffix)	afiks	
+L9	Word Families	-ar-	group (suffix)	afiks	
+L9	Word Families	-il-	tool (suffix)	afiks	
+L9	Word Families	dentisto	dentist	im	
+L9	Word Families	instruistino	teacher (f)	im	
+L9	Word Families	kuiristo	cook	im	
+L9	Word Families	ŝoforo	driver	im	
+L9	Word Families	artisto	artist	im	
+L9	Word Families	verkisto	writer	im	
+L9	Word Families	muzikisto	musician	im	
+L9	Word Families	sciencisto	scientist	im	
+L9	Word Families	ĵurnalisto	journalist	im	
+L9	Word Families	inĝeniero	engineer	im	
+L9	Word Families	advokato	lawyer	im	
+L9	Word Families	vendistino	saleswoman	im	
+L9	Word Families	dometo	small house	im	
+L9	Word Families	domego	mansion	im	
+L9	Word Families	libreto	booklet	im	
+L9	Word Families	urbeto	small town	im	
+L9	Word Families	varmega	hot	pr	
+L9	Word Families	malvarmeta	chilly	pr	
+L9	Word Families	grandega	huge	pr	
+L9	Word Families	ridi	to laugh	gl	ntr
+L9	Word Families	rideti	to smile	gl	ntr
+L9	Word Families	ridegi	to roar with laughter	gl	ntr
+L9	Word Families	pluvegi	to pour (rain)	gl	ntr
+L9	Word Families	junulo	young person	im	
+L9	Word Families	maljunulo	old person	im	
+L9	Word Families	riĉulo	rich person	im	
+L9	Word Families	malsanulo	sick person	im	
+L9	Word Families	fremdulo	stranger; foreigner	im	
+L9	Word Families	grandulo	big person	im	
+L9	Word Families	membro	member	im	
+L9	Word Families	kristano	Christian	im	
+L9	Word Families	klubano	club member	im	
+L9	Word Families	familiano	family member	im	
+L9	Word Families	urbano	city dweller	im	
+L9	Word Families	vortaro	dictionary	im	
+L9	Word Families	arbaro	forest	im	
+L9	Word Families	homaro	humanity	im	
+L9	Word Families	ŝtuparo	staircase	im	
+L9	Word Families	ŝtupo	step	im	
+L9	Word Families	vorto	word	im	
+L9	Word Families	arbo	tree	im	
+L9	Word Families	tranĉilo	knife	im	
+L9	Word Families	tranĉi	to cut	gl	tr
+L9	Word Families	ludilo	toy	im	
+L9	Word Families	flugilo	wing	im	
+L9	Word Families	flugi	to fly	gl	ntr
+L9	Word Families	flugmaŝino	aeroplane	im	
+L9	Word Families	kudrilo	needle	im	
+L9	Word Families	kudri	to sew	gl	tr
+L9	Word Families	tondilo	scissors	im	
+L9	Word Families	segilo	saw	im	
+L9	Word Families	martelo	hammer	im	
+L9	Word Families	ŝlosi	to lock	gl	tr
+L9	Word Families	malŝlosi	to unlock	gl	tr
+L9	Word Families	fermi	to close	gl	tr
+L9	Word Families	malfermi	to open	gl	tr
+L9	Word Families	vorto-familio	word family	izraz	
+L9	Word Families	radiko	root	im	
+L9	Word Families	finaĵo	ending	im	
+L9	Word Families	prefikso	prefix	im	
+L9	Word Families	sufikso	suffix	im	
+L9	Word Families	kunmetaĵo	compound word	im	
+L9	Word Families	signifo	meaning	im	
+L9	Word Families	signifi	to mean	gl	tr
+L9	Word Families	ekzemplo	example	im	
+L9	Word Families	ekzemple	for example	pril	
+L9	Word Families	klubo	club	im	
+L9	Word Families	grupo	group	im	
+L9	Word Families	kunveno	meeting	im	
+L9	Word Families	lernanto	learner; pupil	im	
+L9	Word Families	instrui	to teach	gl	tr
+L9	Word Families	traduki	to translate	gl	tr
+L9	Word Families	tradukisto	translator	im	
+L10	Questions & Answers	kiuj	who; which (plural)	zam	
+L10	Questions & Answers	tiu	that (one)	zam	
+L10	Questions & Answers	tiu ĉi	this (one)	zam	
+L10	Questions & Answers	ĉiu	everyone; each	zam	
+L10	Questions & Answers	neniu	nobody; no one	zam	
+L10	Questions & Answers	iu	someone	zam	
+L10	Questions & Answers	tio	that (thing)	zam	
+L10	Questions & Answers	ĉio	everything	zam	
+L10	Questions & Answers	nenio	nothing	zam	
+L10	Questions & Answers	io	something	zam	
+L10	Questions & Answers	ĉie	everywhere	pril	
+L10	Questions & Answers	nenie	nowhere	pril	
+L10	Questions & Answers	ie	somewhere	pril	
+L10	Questions & Answers	pardoni	to forgive	gl	tr
+L10	Questions & Answers	tial	therefore; for that reason	pril	
+L10	Questions & Answers	ĉial	for every reason	pril	
+L10	Questions & Answers	nenial	for no reason	pril	
+L10	Questions & Answers	ial	for some reason	pril	
+L10	Questions & Answers	demando	question	im	
+L10	Questions & Answers	respondo	answer	im	
+L10	Questions & Answers	demandi	to ask	gl	tr
+L10	Questions & Answers	respondi	to answer	gl	tr,ntr
+L10	Questions & Answers	klarigi	to explain	gl	tr
+L10	Questions & Answers	klara	clear	pr	
+L10	Questions & Answers	ĝusta	correct	pr	
+L10	Questions & Answers	malĝusta	wrong	pr	
+L10	Questions & Answers	vera	true	pr	
+L10	Questions & Answers	malvera	false	pr	
+L10	Questions & Answers	certa	certain	pr	
+L10	Questions & Answers	eble	maybe	pril	
+L10	Questions & Answers	certe	certainly	pril	
+L10	Questions & Answers	kompreneble	of course	pril	
+L10	Questions & Answers	tute	completely	pril	
+L10	Questions & Answers	tute ne	not at all	izraz	
+L10	Questions & Answers	nek … nek	neither … nor	izraz	
+L10	Questions & Answers	aŭ	or	vez	
+L10	Questions & Answers	aŭ … aŭ	either … or	izraz	
+L10	Questions & Answers	se	if	vez	
+L10	Questions & Answers	do	so; then	vez	
+L10	Questions & Answers	tamen	however	vez	
+L10	Questions & Answers	ja	indeed	čest	
+L10	Questions & Answers	eĉ	even	čest	
+L10	Questions & Answers	nur	only	čest	
+L10	Questions & Answers	precipe	especially	pril	
+L10	Questions & Answers	almenaŭ	at least	pril	
+L10	Questions & Answers	preskaŭ	almost	pril	
+L10	Questions & Answers	demandosigno	question mark	im	
+L10	Questions & Answers	opinio	opinion	im	
+L10	Questions & Answers	ideo	idea	im	
+L10	Questions & Answers	kialo	reason	im	
+L10	Questions & Answers	kaŭzo	cause	im	
+L10	Questions & Answers	diskuti	to discuss	gl	tr
+L10	Questions & Answers	diskuto	discussion	im	
+L10	Questions & Answers	konsenti	to agree	gl	ntr
+L10	Questions & Answers	malkonsenti	to disagree	gl	ntr
+L10	Questions & Answers	interesa	interesting	pr	
+L10	Questions & Answers	enuiga	boring	pr	
+L10	Questions & Answers	grava	important	pr	
+L10	Questions & Answers	facila	easy	pr	
+L10	Questions & Answers	malfacila	difficult	pr	
+L10	Questions & Answers	simpla	simple	pr	
+L10	Questions & Answers	komplika	complicated	pr	
+L10	Questions & Answers	interkompreniĝo	mutual understanding	im	
+L10	Questions & Answers	kompreneble ne	of course not	izraz	
+L10	Questions & Answers	mi ne scias	I don't know	izraz	
+L10	Questions & Answers	kion vi volas diri?	what do you mean?	izraz	
+L10	Questions & Answers	ripeti	to repeat	gl	tr
+L10	Questions & Answers	bonvolu ripeti	please repeat	izraz	
+L10	Questions & Answers	kiel oni diras …?	how do you say …?	izraz	
+L10	Questions & Answers	paroli malrapide	to speak slowly	izraz	
+L10	Questions & Answers	interparoli	to converse	gl	ntr
+L10	Questions & Answers	interparolo	conversation	im	
+L10	Questions & Answers	voĉo	voice	im	
+L10	Questions & Answers	laŭte	loudly	pril	
+L10	Questions & Answers	mallaŭte	quietly	pril	
+L10	Questions & Answers	dialogo	dialogue	im	
+L10	Questions & Answers	vortfarado	word formation	im	
+L11	Transport & Trips	ĉiutaga	daily; everyday	pr	
+L11	Transport & Trips	tiam	then	pril	
+L11	Transport & Trips	ĉiufoje	every time	pril	
+L11	Transport & Trips	neniam	never	pril	
+L11	Transport & Trips	foje kaj foje	from time to time	izraz	
+L11	Transport & Trips	malsimila	dissimilar	pr	
+L11	Transport & Trips	tiel	so; in that way	pril	
+L11	Transport & Trips	ĉiel	in every way	pril	
+L11	Transport & Trips	neniel	in no way	pril	
+L11	Transport & Trips	iel	somehow	pril	
+L11	Transport & Trips	kalkuli	to count; to calculate	gl	tr
+L11	Transport & Trips	tiom	so much	pril	
+L11	Transport & Trips	ĉiom	all of it	pril	
+L11	Transport & Trips	neniom	none at all	pril	
+L11	Transport & Trips	kia	what kind of	pr	
+L11	Transport & Trips	tia	such; that kind of	pr	
+L11	Transport & Trips	ĉia	every kind of	pr	
+L11	Transport & Trips	nenia	no kind of	pr	
+L11	Transport & Trips	ia	some kind of	pr	
+L11	Transport & Trips	kies	whose	zam	
+L11	Transport & Trips	ties	that one's	zam	
+L11	Transport & Trips	ĉies	everyone's	zam	
+L11	Transport & Trips	nenies	nobody's	zam	
+L11	Transport & Trips	ies	someone's	zam	
+L11	Transport & Trips	aŭto	car	im	
+L11	Transport & Trips	aviadilo	aeroplane	im	
+L11	Transport & Trips	ŝipo	ship	im	
+L11	Transport & Trips	boato	boat	im	
+L11	Transport & Trips	pramo	ferry	im	
+L11	Transport & Trips	tramo	tram	im	
+L11	Transport & Trips	biciklo	bicycle	im	
+L11	Transport & Trips	bileto	ticket	im	
+L11	Transport & Trips	irbileto	single ticket	im	
+L11	Transport & Trips	revenbileto	return ticket	im	
+L11	Transport & Trips	kajo	platform	im	
+L11	Transport & Trips	biletvendejo	ticket office	im	
+L11	Transport & Trips	foriro	departure	im	
+L11	Transport & Trips	alveno	arrival	im	
+L11	Transport & Trips	malfruo	delay	im	
+L11	Transport & Trips	valizo	suitcase	im	
+L11	Transport & Trips	dorsosako	rucksack	im	
+L11	Transport & Trips	pasporto	passport	im	
+L11	Transport & Trips	flughaveno	airport	im	
+L11	Transport & Trips	flugo	flight	im	
+L11	Transport & Trips	pasaĝero	passenger	im	
+L11	Transport & Trips	vojaĝanto	traveller	im	
+L11	Transport & Trips	rezervi	to book	gl	tr
+L11	Transport & Trips	rezervo	reservation	im	
+L11	Transport & Trips	akceptejo	reception	im	
+L11	Transport & Trips	lago	lake	im	
+L11	Transport & Trips	kastelo	castle	im	
+L11	Transport & Trips	vido	view	im	
+L11	Transport & Trips	landlimo	border	im	
+L11	Transport & Trips	poŝtkarto	postcard	im	
+L11	Transport & Trips	kilometro	kilometre	im	
+L11	Transport & Trips	nordo	north	im	
+L11	Transport & Trips	sudo	south	im	
+L11	Transport & Trips	oriento	east	im	
+L11	Transport & Trips	okcidento	west	im	
+L11	Transport & Trips	eniri	to enter; to get on	gl	tr,ntr
+L11	Transport & Trips	eliri	to go out; to get off	gl	ntr
+L11	Transport & Trips	stiri	to steer; to drive	gl	tr
+L11	Transport & Trips	ŝanĝi	to change	gl	tr
+L11	Transport & Trips	lui	to rent	gl	tr
+L11	Transport & Trips	paki	to pack	gl	tr
+L11	Transport & Trips	per	by means of	prij	
+L11	Transport & Trips	eksterlande	abroad	pril	
+L11	Transport & Trips	gastigi	to host	gl	tr
+L11	Transport & Trips	vagono	carriage (train)	im	
+L11	Transport & Trips	sidloko	seat	im	
+L11	Transport & Trips	ŝoseo	motorway; main road	im	
+L11	Transport & Trips	benzinejo	petrol station	im	
+L11	Transport & Trips	mapoaplikaĵo	map app	im	
+L11	Transport & Trips	gvidlibro	guidebook	im	
+L11	Transport & Trips	tendo	tent	im	
+L11	Transport & Trips	kampadi	to camp	gl	ntr
+L11	Transport & Trips	hotelĉambro	hotel room	im	
+L11	Transport & Trips	ripozejo	rest stop	im	
+L11	Transport & Trips	pejzaĝo	landscape	im	
+L11	Transport & Trips	montaro	mountain range	im	
+L11	Transport & Trips	monto	mountain	im	
+L11	Transport & Trips	maro	sea	im	
+L11	Transport & Trips	plaĝo	beach	im	
+L12	The Body & the Doctor	korpo	body	im	
+L12	The Body & the Doctor	kapo	head	im	
+L12	The Body & the Doctor	vizaĝo	face	im	
+L12	The Body & the Doctor	okulo	eye	im	
+L12	The Body & the Doctor	nazo	nose	im	
+L12	The Body & the Doctor	buŝo	mouth	im	
+L12	The Body & the Doctor	orelo	ear	im	
+L12	The Body & the Doctor	kolo	neck	im	
+L12	The Body & the Doctor	gorĝo	throat	im	
+L12	The Body & the Doctor	ŝultro	shoulder	im	
+L12	The Body & the Doctor	brako	arm	im	
+L12	The Body & the Doctor	mano	hand	im	
+L12	The Body & the Doctor	fingro	finger	im	
+L12	The Body & the Doctor	dorso	back	im	
+L12	The Body & the Doctor	ventro	belly	im	
+L12	The Body & the Doctor	stomako	stomach	im	
+L12	The Body & the Doctor	koro	heart	im	
+L12	The Body & the Doctor	kruro	leg	im	
+L12	The Body & the Doctor	genuo	knee	im	
+L12	The Body & the Doctor	piedo	foot	im	
+L12	The Body & the Doctor	haŭto	skin	im	
+L12	The Body & the Doctor	sango	blood	im	
+L12	The Body & the Doctor	flegisto	nurse	im	
+L12	The Body & the Doctor	kuracejo	clinic	im	
+L12	The Body & the Doctor	paciento	patient	im	
+L12	The Body & the Doctor	malsano	illness	im	
+L12	The Body & the Doctor	malsana	ill	pr	
+L12	The Body & the Doctor	sana	healthy	pr	
+L12	The Body & the Doctor	sano	health	im	
+L12	The Body & the Doctor	gripo	flu	im	
+L12	The Body & the Doctor	malvarmumo	cold	im	
+L12	The Body & the Doctor	febro	fever	im	
+L12	The Body & the Doctor	tuso	cough	im	
+L12	The Body & the Doctor	doloro	pain	im	
+L12	The Body & the Doctor	dolori	to hurt	gl	ntr
+L12	The Body & the Doctor	kapdoloro	headache	im	
+L12	The Body & the Doctor	vundo	wound	im	
+L12	The Body & the Doctor	medikamento	medicine	im	
+L12	The Body & the Doctor	tablojdo	tablet	im	
+L12	The Body & the Doctor	recepto	prescription	im	
+L12	The Body & the Doctor	ambulanco	ambulance	im	
+L12	The Body & the Doctor	urĝa	urgent	pr	
+L12	The Body & the Doctor	simptomo	symptom	im	
+L12	The Body & the Doctor	tusi	to cough	gl	ntr
+L12	The Body & the Doctor	rompi	to break	gl	tr
+L12	The Body & the Doctor	vundi	to wound	gl	tr
+L12	The Body & the Doctor	resaniĝi	to recover	gl	ntr
+L12	The Body & the Doctor	kuraci	to treat	gl	tr
+L12	The Body & the Doctor	spiri	to breathe	gl	tr,ntr
+L12	The Body & the Doctor	ripozu!	rest!	izraz	
+L12	The Body & the Doctor	-u	volitive ending (command, wish)	afiks	
+L12	The Body & the Doctor	-ebl-	possible (suffix)	afiks	
+L12	The Body & the Doctor	ebla	possible	pr	
+L12	The Body & the Doctor	neebla	impossible	pr	
+L12	The Body & the Doctor	manĝebla	edible	pr	
+L12	The Body & the Doctor	trinkebla	drinkable	pr	
+L12	The Body & the Doctor	legebla	legible	pr	
+L12	The Body & the Doctor	videbla	visible	pr	
+L12	The Body & the Doctor	komprenebla	understandable	pr	
+L12	The Body & the Doctor	grave	seriously	pril	
+L12	The Body & the Doctor	pli bone	better	izraz	
+L12	The Body & the Doctor	malbone	badly	pril	
+L12	The Body & the Doctor	ne zorgu	don't worry	izraz	
+L12	The Body & the Doctor	resaniĝu baldaŭ!	get well soon!	izraz	
+L12	The Body & the Doctor	sanon!	bless you!	izraz	
+L12	The Body & the Doctor	streso	stress	im	
+L12	The Body & the Doctor	alergio	allergy	im	
+L12	The Body & the Doctor	plastro	plaster	im	
+L12	The Body & the Doctor	apotekisto	pharmacist	im	
+L12	The Body & the Doctor	forta	strong	pr	
+L12	The Body & the Doctor	malforta	weak	pr	
+L12	The Body & the Doctor	peza	heavy	pr	
+L12	The Body & the Doctor	kapturniĝo	dizziness	im	
+L12	The Body & the Doctor	termometro	thermometer	im	
+L12	The Body & the Doctor	vizito	visit	im	
+L12	The Body & the Doctor	devus	should	izraz	
+L12	The Body & the Doctor	cerbo	brain	im	
+L12	The Body & the Doctor	osto	bone	im	
+L12	The Body & the Doctor	lango	tongue	im	
+L12	The Body & the Doctor	lipo	lip	im	
+L12	The Body & the Doctor	brusto	chest	im	
+L12	The Body & the Doctor	pulmo	lung	im	
+L12	The Body & the Doctor	dentokuracisto	dentist (doctor)	im	
+L12	The Body & the Doctor	injekto	injection	im	
+L12	The Body & the Doctor	operacio	operation	im	
+L12	The Body & the Doctor	ekzameni	to examine	gl	tr
+L13	People & Character	pli	more	pril	
+L13	People & Character	malpli	less	pril	
+L13	People & Character	plej	most	pril	
+L13	People & Character	malplej	least	pril	
+L13	People & Character	ol	than	vez	
+L13	People & Character	tiel … kiel	as … as	izraz	
+L13	People & Character	ju … des	the … the	izraz	
+L13	People & Character	-ec-	quality (suffix)	afiks	
+L13	People & Character	-em-	tendency (suffix)	afiks	
+L13	People & Character	-obl-	multiple (suffix)	afiks	
+L13	People & Character	-on-	fraction (suffix)	afiks	
+L13	People & Character	-op-	group of (number) (suffix)	afiks	
+L13	People & Character	beleco	beauty	im	
+L13	People & Character	boneco	goodness	im	
+L13	People & Character	amikeco	friendship	im	
+L13	People & Character	libereco	freedom	im	
+L13	People & Character	egaleco	equality	im	
+L13	People & Character	juneco	youth	im	
+L13	People & Character	laborema	hard-working	pr	
+L13	People & Character	parolema	talkative	pr	
+L13	People & Character	dormema	sleepy	pr	
+L13	People & Character	ŝparema	thrifty	pr	
+L13	People & Character	helpema	helpful	pr	
+L13	People & Character	kolerema	irritable	pr	
+L13	People & Character	ludema	playful	pr	
+L13	People & Character	duobla	double	pr	
+L13	People & Character	triobla	triple	pr	
+L13	People & Character	duono	half	im	
+L13	People & Character	kvarono	quarter	im	
+L13	People & Character	triono	third	im	
+L13	People & Character	duope	in pairs	pril	
+L13	People & Character	triope	in threes	pril	
+L13	People & Character	karaktero	character	im	
+L13	People & Character	kvalito	quality	im	
+L13	People & Character	eco	quality; trait	im	
+L13	People & Character	honesta	honest	pr	
+L13	People & Character	malhonesta	dishonest	pr	
+L13	People & Character	kuraĝa	brave	pr	
+L13	People & Character	timema	timid	pr	
+L13	People & Character	ĝentila	polite	pr	
+L13	People & Character	malĝentila	rude	pr	
+L13	People & Character	pacienca	patient	pr	
+L13	People & Character	malpacienca	impatient	pr	
+L13	People & Character	saĝa	wise	pr	
+L13	People & Character	stulta	stupid	pr	
+L13	People & Character	lerta	skilful	pr	
+L13	People & Character	mallerta	clumsy	pr	
+L13	People & Character	diligenta	diligent	pr	
+L13	People & Character	maldiligenta	lazy	pr	
+L13	People & Character	modesta	modest	pr	
+L13	People & Character	fiera	proud	pr	
+L13	People & Character	ĵaluza	jealous	pr	
+L13	People & Character	amuza	funny	pr	
+L13	People & Character	kurioza	curious; odd	pr	
+L13	People & Character	scivolema	curious (inquisitive)	pr	
+L13	People & Character	optimisma	optimistic	pr	
+L13	People & Character	pesimisma	pessimistic	pr	
+L13	People & Character	skeptika	sceptical	pr	
+L13	People & Character	fidinda	trustworthy	pr	
+L13	People & Character	aspekti	to look; to seem	gl	ntr
+L13	People & Character	ŝajni	to seem	gl	ntr
+L13	People & Character	kompari	to compare	gl	tr
+L13	People & Character	komparo	comparison	im	
+L13	People & Character	diferenco	difference	im	
+L13	People & Character	simila	similar	pr	
+L13	People & Character	malsama	different	pr	
+L13	People & Character	sama	same	pr	
+L13	People & Character	same	likewise	pril	
+L13	People & Character	alie	otherwise	pril	
+L13	People & Character	pli ol	more than	izraz	
+L13	People & Character	malpli ol	less than	izraz	
+L13	People & Character	la plej bona	the best	izraz	
+L13	People & Character	plej multe	the most	izraz	
+L13	People & Character	pli kaj pli	more and more	izraz	
+L13	People & Character	ĉiam pli	ever more	izraz	
+L13	People & Character	virineca	feminine	pr	
+L13	People & Character	vireca	masculine	pr	
+L13	People & Character	infaneca	childish	pr	
+L13	People & Character	homa	human	pr	
+L13	People & Character	nacio	nation	im	
+L13	People & Character	internacia	international	pr	
+L13	People & Character	internaciismo	internationalism	im	
+L13	People & Character	movado	movement	im	
+L13	People & Character	esperantisto	Esperantist	im	
+L13	People & Character	ideala	ideal	pr	
+L13	People & Character	egala	equal	pr	
+L13	People & Character	neŭtrala	neutral	pr	
+L13	People & Character	justa	fair	pr	
+L13	People & Character	maljusta	unfair	pr	
+L14	Change & Feelings	re-	again; back (prefix)	afiks	
+L14	Change & Feelings	ek-	sudden start (prefix)	afiks	
+L14	Change & Feelings	el-	out; thoroughly (prefix)	afiks	
+L14	Change & Feelings	dis-	apart (prefix)	afiks	
+L14	Change & Feelings	eks-	former (prefix)	afiks	
+L14	Change & Feelings	mis-	wrongly (prefix)	afiks	
+L14	Change & Feelings	pra-	ancient; great- (prefix)	afiks	
+L14	Change & Feelings	bo-	in-law (prefix)	afiks	
+L14	Change & Feelings	fi-	nasty (prefix)	afiks	
+L14	Change & Feelings	-estr-	leader (suffix)	afiks	
+L14	Change & Feelings	-uj-	container; country (suffix)	afiks	
+L14	Change & Feelings	-id-	offspring (suffix)	afiks	
+L14	Change & Feelings	-er-	small part (suffix)	afiks	
+L14	Change & Feelings	-ĉj-	affectionate (m) (suffix)	afiks	
+L14	Change & Feelings	-nj-	affectionate (f) (suffix)	afiks	
+L14	Change & Feelings	refari	to redo	gl	tr
+L14	Change & Feelings	relegi	to reread	gl	tr
+L14	Change & Feelings	rekomenci	to start again	gl	tr
+L14	Change & Feelings	ekiri	to set off	gl	ntr
+L14	Change & Feelings	ekdormi	to fall asleep	gl	ntr
+L14	Change & Feelings	ekvidi	to catch sight of	gl	tr
+L14	Change & Feelings	ekscii	to find out	gl	tr
+L14	Change & Feelings	elpensi	to invent; to think up	gl	tr
+L14	Change & Feelings	eltrovi	to discover	gl	tr
+L14	Change & Feelings	ellerni	to learn thoroughly	gl	tr
+L14	Change & Feelings	disiri	to part; to separate	gl	ntr
+L14	Change & Feelings	dissendi	to broadcast; to distribute	gl	tr
+L14	Change & Feelings	eksedzo	ex-husband	im	
+L14	Change & Feelings	eksedzino	ex-wife	im	
+L14	Change & Feelings	miskompreni	to misunderstand	gl	tr
+L14	Change & Feelings	miskompreno	misunderstanding	im	
+L14	Change & Feelings	praavo	great-grandfather	im	
+L14	Change & Feelings	prahomo	prehistoric human	im	
+L14	Change & Feelings	bopatro	father-in-law	im	
+L14	Change & Feelings	bopatrino	mother-in-law	im	
+L14	Change & Feelings	bofrato	brother-in-law	im	
+L14	Change & Feelings	fihomo	scoundrel	im	
+L14	Change & Feelings	urbestro	mayor	im	
+L14	Change & Feelings	lernejestro	head teacher	im	
+L14	Change & Feelings	monujo	purse; wallet	im	
+L14	Change & Feelings	sukerujo	sugar bowl	im	
+L14	Change & Feelings	sendi	to send	gl	tr
+L14	Change & Feelings	hundido	puppy	im	
+L14	Change & Feelings	katido	kitten	im	
+L14	Change & Feelings	neĝero	snowflake	im	
+L14	Change & Feelings	sablero	grain of sand	im	
+L14	Change & Feelings	paĉjo	dad	im	
+L14	Change & Feelings	panjo	mum	im	
+L14	Change & Feelings	ŝanĝiĝi	to change (by itself)	gl	ntr
+L14	Change & Feelings	ŝanĝo	change	im	
+L14	Change & Feelings	pliboniĝi	to get better	gl	ntr
+L14	Change & Feelings	plibonigi	to improve	gl	tr
+L14	Change & Feelings	fariĝi	to become	gl	ntr
+L14	Change & Feelings	kreski	to grow	gl	ntr
+L14	Change & Feelings	maljuniĝi	to grow old	gl	ntr
+L14	Change & Feelings	edziĝo	wedding	im	
+L14	Change & Feelings	sento	feeling	im	
+L14	Change & Feelings	senti	to feel	gl	tr
+L14	Change & Feelings	emocio	emotion	im	
+L14	Change & Feelings	ĝojo	joy	im	
+L14	Change & Feelings	ĝoja	joyful	pr	
+L14	Change & Feelings	ĝoji	to be glad	gl	ntr
+L14	Change & Feelings	malĝojo	sorrow	im	
+L14	Change & Feelings	malĝoja	sad	pr	
+L14	Change & Feelings	timo	fear	im	
+L14	Change & Feelings	timi	to fear	gl	tr
+L14	Change & Feelings	kolero	anger	im	
+L14	Change & Feelings	kolera	angry	pr	
+L14	Change & Feelings	koleriĝi	to get angry	gl	ntr
+L14	Change & Feelings	surprizo	surprise	im	
+L14	Change & Feelings	surprizi	to surprise	gl	tr
+L14	Change & Feelings	seniluziiĝo	disappointment	im	
+L14	Change & Feelings	espero	hope	im	
+L14	Change & Feelings	nervoza	nervous	pr	
+L14	Change & Feelings	trankvila	calm	pr	
+L14	Change & Feelings	trankviliĝi	to calm down	gl	ntr
+L14	Change & Feelings	enamiĝi	to fall in love	gl	ntr
+L14	Change & Feelings	amo	love	im	
+L14	Change & Feelings	hejmsopiro	homesickness	im	
+L14	Change & Feelings	soleca	lonely	pr	
+L14	Change & Feelings	kontenta	satisfied	pr	
+L14	Change & Feelings	dankema	grateful	pr	
+L14	Change & Feelings	ekscitita	excited	pr	
+L14	Change & Feelings	embarasita	embarrassed	pr	
+L14	Change & Feelings	ĉagreni	to upset	gl	tr
+L14	Change & Feelings	ĉagrenita	upset	pr	
+L15	Wishes & Advice	-us	conditional ending	afiks	
+L15	Wishes & Advice	se mi estus	if I were	izraz	
+L15	Wishes & Advice	mi ŝatus	I would like	izraz	
+L15	Wishes & Advice	estus bone	it would be good	izraz	
+L15	Wishes & Advice	ajn	ever (any…)	čest	
+L15	Wishes & Advice	kio ajn	whatever	izraz	
+L15	Wishes & Advice	kiu ajn	whoever; whichever	izraz	
+L15	Wishes & Advice	kie ajn	wherever	izraz	
+L15	Wishes & Advice	kiam ajn	whenever	izraz	
+L15	Wishes & Advice	revo	dream; daydream	im	
+L15	Wishes & Advice	revi	to dream (of)	gl	ntr
+L15	Wishes & Advice	sonĝo	dream (sleep)	im	
+L15	Wishes & Advice	sonĝi	to dream (in sleep)	gl	tr,ntr
+L15	Wishes & Advice	deziro	wish	im	
+L15	Wishes & Advice	deziri	to wish	gl	tr
+L15	Wishes & Advice	konsilo	piece of advice	im	
+L15	Wishes & Advice	konsili	to advise	gl	tr
+L15	Wishes & Advice	proponi	to propose	gl	tr
+L15	Wishes & Advice	propono	proposal	im	
+L15	Wishes & Advice	rekomendi	to recommend	gl	tr
+L15	Wishes & Advice	imagi	to imagine	gl	tr
+L15	Wishes & Advice	fantazio	imagination	im	
+L15	Wishes & Advice	loterio	lottery	im	
+L15	Wishes & Advice	gajni	to win	gl	tr
+L15	Wishes & Advice	miliono	million	im	
+L15	Wishes & Advice	riĉeco	wealth	im	
+L15	Wishes & Advice	elspezi	to spend (money)	gl	tr
+L15	Wishes & Advice	ŝpari	to save	gl	tr
+L15	Wishes & Advice	pruntedoni	to lend	gl	tr
+L15	Wishes & Advice	prunti	to borrow	gl	tr
+L15	Wishes & Advice	ĉirkaŭ la mondo	around the world	izraz	
+L15	Wishes & Advice	mondo	world	im	
+L15	Wishes & Advice	insulo	island	im	
+L15	Wishes & Advice	velŝipo	sailing ship	im	
+L15	Wishes & Advice	lukso	luxury	im	
+L15	Wishes & Advice	feliĉo	happiness	im	
+L15	Wishes & Advice	ŝanco	chance	im	
+L15	Wishes & Advice	bonŝanco	good luck	im	
+L15	Wishes & Advice	malbonŝanco	bad luck	im	
+L15	Wishes & Advice	eblo	possibility	im	
+L15	Wishes & Advice	elekto	choice	im	
+L15	Wishes & Advice	elekti	to choose	gl	tr
+L15	Wishes & Advice	decido	decision	im	
+L15	Wishes & Advice	decidi	to decide	gl	tr
+L15	Wishes & Advice	provi	to try	gl	tr
+L15	Wishes & Advice	ĉesi	to stop	gl	ntr
+L15	Wishes & Advice	daŭrigi	to continue	gl	tr
+L15	Wishes & Advice	daŭri	to last	gl	ntr
+L15	Wishes & Advice	se mi estus vi	if I were you	izraz	
+L15	Wishes & Advice	vi devus	you should	izraz	
+L15	Wishes & Advice	pli bone estus	it would be better	izraz	
+L15	Wishes & Advice	vere	really	pril	
+L15	Wishes & Advice	absolute	absolutely	pril	
+L15	Wishes & Advice	probable	probably	pril	
+L15	Wishes & Advice	verŝajne	probably; likely	pril	
+L15	Wishes & Advice	solvo	solution	im	
+L15	Wishes & Advice	solvi	to solve	gl	tr
+L15	Wishes & Advice	celo	aim; goal	im	
+L15	Wishes & Advice	celi	to aim	gl	tr,ntr
+L15	Wishes & Advice	kuraĝo	courage	im	
+L15	Wishes & Advice	pacienco	patience	im	
+L15	Wishes & Advice	vero	truth	im	
+L15	Wishes & Advice	buĝeto	budget	im	
+L15	Wishes & Advice	malavara	generous	pr	
+L15	Wishes & Advice	avara	stingy	pr	
+L15	Wishes & Advice	egoisma	selfish	pr	
+L15	Wishes & Advice	singarda	careful	pr	
+L15	Wishes & Advice	perfekta	perfect	pr	
+L15	Wishes & Advice	necesa	necessary	pr	
+L15	Wishes & Advice	dubo	doubt	im	
+L15	Wishes & Advice	dubi	to doubt	gl	ntr
+L15	Wishes & Advice	okazo	occasion; opportunity	im	
+L15	Wishes & Advice	volontulo	volunteer	im	
+L15	Wishes & Advice	donaci	to donate; to give	gl	tr
+L15	Wishes & Advice	donaco	present; gift	im	
+L15	Wishes & Advice	utopio	utopia	im	
+L15	Wishes & Advice	mondpaco	world peace	im	
+L15	Wishes & Advice	paco	peace	im	
+L15	Wishes & Advice	milito	war	im	
+L15	Wishes & Advice	komuna	common; shared	pr	
+L15	Wishes & Advice	lingvobaro	language barrier	im	
+L15	Wishes & Advice	skeptikulo	sceptic	im	
+L15	Wishes & Advice	argumento	argument	im	
+L15	Wishes & Advice	konvinki	to convince	gl	tr
+L16	Events & Stories	-ant-	-ing (present active participle)	afiks	
+L16	Events & Stories	-int-	having done (past active participle)	afiks	
+L16	Events & Stories	-ont-	about to (future active participle)	afiks	
+L16	Events & Stories	-ante	while doing	afiks	
+L16	Events & Stories	-inte	having done	afiks	
+L16	Events & Stories	-onte	being about to	afiks	
+L16	Events & Stories	parolanto	speaker	im	
+L16	Events & Stories	vojaĝinto	one who has travelled	im	
+L16	Events & Stories	komencanto	beginner	im	
+L16	Events & Stories	partoprenanto	participant	im	
+L16	Events & Stories	partopreni	to take part	gl	tr
+L16	Events & Stories	ĉeestanto	attendee	im	
+L16	Events & Stories	ĉeesti	to attend	gl	tr
+L16	Events & Stories	prezidanto	president; chair	im	
+L16	Events & Stories	prezidi	to preside	gl	tr
+L16	Events & Stories	studento	student	im	
+L16	Events & Stories	loĝantaro	population	im	
+L16	Events & Stories	estonta	future	pr	
+L16	Events & Stories	pasinteco	past (time)	im	
+L16	Events & Stories	historio	history; story	im	
+L16	Events & Stories	rakonto	story	im	
+L16	Events & Stories	fabelo	fairy tale	im	
+L16	Events & Stories	okazaĵo	event; incident	im	
+L16	Events & Stories	aventuro	adventure	im	
+L16	Events & Stories	heroo	hero	im	
+L16	Events & Stories	fino	end	im	
+L16	Events & Stories	komenco	beginning	im	
+L16	Events & Stories	subite	suddenly	pril	
+L16	Events & Stories	fine	finally	pril	
+L16	Events & Stories	unue	first	pril	
+L16	Events & Stories	due	secondly	pril	
+L16	Events & Stories	sekve	consequently	pril	
+L16	Events & Stories	intertempe	meanwhile	pril	
+L16	Events & Stories	tuj	immediately	pril	
+L16	Events & Stories	iom post iom	little by little	izraz	
+L16	Events & Stories	iun tagon	one day	izraz	
+L16	Events & Stories	antaŭ longe	long ago	izraz	
+L16	Events & Stories	vojaĝplano	itinerary	im	
+L16	Events & Stories	kongresano	congress participant	im	
+L16	Events & Stories	kongresejo	congress venue	im	
+L16	Events & Stories	programo	programme	im	
+L16	Events & Stories	prelego	lecture	im	
+L16	Events & Stories	preleganto	lecturer	im	
+L16	Events & Stories	koncerto	concert	im	
+L16	Events & Stories	ekskurso	excursion	im	
+L16	Events & Stories	balo	ball (dance)	im	
+L16	Events & Stories	teatraĵo	play	im	
+L16	Events & Stories	aktoro	actor	im	
+L16	Events & Stories	kantisto	singer	im	
+L16	Events & Stories	spektanto	spectator	im	
+L16	Events & Stories	aplaŭdi	to applaud	gl	tr,ntr
+L16	Events & Stories	fotografi	to photograph	gl	tr
+L16	Events & Stories	registri	to register; to record	gl	tr
+L16	Events & Stories	aliĝi	to join; to register	gl	ntr
+L16	Events & Stories	aliĝilo	registration form	im	
+L16	Events & Stories	organizi	to organise	gl	tr
+L16	Events & Stories	organizanto	organiser	im	
+L16	Events & Stories	kunveni	to meet; to gather	gl	ntr
+L16	Events & Stories	salutvorto	welcome speech	im	
+L16	Events & Stories	festivalo	festival	im	
+L16	Events & Stories	foiro	fair	im	
+L16	Events & Stories	infanvartejo	crèche	im	
+L16	Events & Stories	kuniĝi	to unite	gl	ntr
+L16	Events & Stories	disiĝi	to separate	gl	ntr
+L16	Events & Stories	ĉeesto	attendance	im	
+L16	Events & Stories	pasporta servo	Pasporta Servo (hosting network)	izraz	
+L16	Events & Stories	gastigantino	hostess	im	
+L16	Events & Stories	vagonaro	train (set of carriages)	im	
+L16	Events & Stories	rapidtrajno	express train	im	
+L16	Events & Stories	konatiĝi	to get acquainted	gl	ntr
+L16	Events & Stories	konato	acquaintance	im	
+L16	Events & Stories	amikiĝi	to make friends	gl	ntr
+L16	Events & Stories	falo	fall	im	
+L16	Events & Stories	fali	to fall	gl	ntr
+L16	Events & Stories	kuri	to run	gl	ntr
+L16	Events & Stories	kuro	run	im	
+L16	Events & Stories	saluti	to greet	gl	tr
+L16	Events & Stories	adiaŭi	to say goodbye	gl	tr
+L16	Events & Stories	adiaŭ	farewell	izraz	
+L16	Events & Stories	memoraĵo	souvenir	im	
+L16	Events & Stories	festotago	holiday (festive day)	im	
+L16	Events & Stories	rememori	to recall	gl	tr
+L16	Events & Stories	travivi	to experience; to live through	gl	tr
+L17	News & Media	-at-	being done (present passive participle)	afiks	
+L17	News & Media	-it-	done (past passive participle)	afiks	
+L17	News & Media	-ot-	to be done (future passive participle)	afiks	
+L17	News & Media	-end-	must be done (suffix)	afiks	
+L17	News & Media	-ind-	worthy of (suffix)	afiks	
+L17	News & Media	farita	done	pr	
+L17	News & Media	skribita	written	pr	
+L17	News & Media	amata	loved	pr	
+L17	News & Media	konata	known	pr	
+L17	News & Media	nekonata	unknown	pr	
+L17	News & Media	legenda	to be read	pr	
+L17	News & Media	leginda	worth reading	pr	
+L17	News & Media	vidinda	worth seeing	pr	
+L17	News & Media	rimarkinda	remarkable	pr	
+L17	News & Media	laŭdinda	praiseworthy	pr	
+L17	News & Media	novaĵo	piece of news	im	
+L17	News & Media	novaĵoj	news	izraz	
+L17	News & Media	gazeto	magazine	im	
+L17	News & Media	revuo	magazine; journal	im	
+L17	News & Media	artikolo	article	im	
+L17	News & Media	titolo	headline; title	im	
+L17	News & Media	raporto	report	im	
+L17	News & Media	raporti	to report	gl	tr
+L17	News & Media	ĵurnalismo	journalism	im	
+L17	News & Media	amaskomunikiloj	mass media	im	
+L17	News & Media	elsendo	broadcast	im	
+L17	News & Media	elsendi	to broadcast	gl	tr
+L17	News & Media	radiostacio	radio station	im	
+L17	News & Media	televidilo	TV set	im	
+L17	News & Media	retejo	website	im	
+L17	News & Media	retpoŝto	email	im	
+L17	News & Media	retpoŝtadreso	email address	im	
+L17	News & Media	blogo	blog	im	
+L17	News & Media	podkasto	podcast	im	
+L17	News & Media	filmeto	short video	im	
+L17	News & Media	sociaj retoj	social media	izraz	
+L17	News & Media	afiŝi	to post	gl	tr
+L17	News & Media	afiŝo	poster; post	im	
+L17	News & Media	komento	comment	im	
+L17	News & Media	komenti	to comment	gl	tr
+L17	News & Media	abonanto	subscriber	im	
+L17	News & Media	aboni	to subscribe	gl	tr
+L17	News & Media	eldoni	to publish	gl	tr
+L17	News & Media	eldonejo	publishing house	im	
+L17	News & Media	presi	to print	gl	tr
+L17	News & Media	fonto	source	im	
+L17	News & Media	fakto	fact	im	
+L17	News & Media	informo	information	im	
+L17	News & Media	informi	to inform	gl	tr
+L17	News & Media	intervjuo	interview	im	
+L17	News & Media	intervjui	to interview	gl	tr
+L17	News & Media	redaktoro	editor	im	
+L17	News & Media	redakti	to edit	gl	tr
+L17	News & Media	publiko	public	im	
+L17	News & Media	publika	public	pr	
+L17	News & Media	privata	private	pr	
+L17	News & Media	politiko	politics	im	
+L17	News & Media	politikisto	politician	im	
+L17	News & Media	registaro	government	im	
+L17	News & Media	leĝo	law	im	
+L17	News & Media	balotado	election	im	
+L17	News & Media	voĉdoni	to vote	gl	ntr
+L17	News & Media	ekonomio	economy	im	
+L17	News & Media	scienco	science	im	
+L17	News & Media	kulturo	culture	im	
+L17	News & Media	ekzisti	to exist	gl	ntr
+L17	News & Media	anonci	to announce	gl	tr
+L17	News & Media	anonco	advertisement; announcement	im	
+L17	News & Media	reklamo	advertising	im	
+L17	News & Media	aktuala	current	pr	
+L17	News & Media	ĉefa	main	pr	
+L17	News & Media	falsa	fake	pr	
+L17	News & Media	oficiala	official	pr	
+L17	News & Media	mondfama	world-famous	pr	
+L17	News & Media	tradukita	translated	pr	
+L17	News & Media	estas dirite, ke	it is said that	izraz	
+L17	News & Media	oni diras, ke	they say that	izraz	
+L17	News & Media	laŭ	according to	izraz	
+L17	News & Media	kolumno	column	im	
+L17	News & Media	gazetisto	journalist (press)	im	
+L17	News & Media	cenzuro	censorship	im	
+L17	News & Media	kritiki	to criticise	gl	tr
+L17	News & Media	opinii	to be of the opinion	gl	tr
+L17	News & Media	diskonigi	to make known	gl	tr
+L18	Memories & the Future	por ke	so that	izraz	
+L18	Memories & the Future	sen	without	prij	
+L18	Memories & the Future	anstataŭ	instead of	prij	
+L18	Memories & the Future	krom	except; besides	prij	
+L18	Memories & the Future	malgraŭ	despite	prij	
+L18	Memories & the Future	pro	because of	prij	
+L18	Memories & the Future	dank' al	thanks to	izraz	
+L18	Memories & the Future	kvankam	although	vez	
+L18	Memories & the Future	dum ke	while (conjunction)	izraz	
+L18	Memories & the Future	ĝis kiam	until (conjunction)	izraz	
+L18	Memories & the Future	kvazaŭ	as if	vez	
+L18	Memories & the Future	apenaŭ	barely; hardly	pril	
+L18	Memories & the Future	estis farinta	had done	izraz	
+L18	Memories & the Future	memoro	memory	im	
+L18	Memories & the Future	memorinda	memorable	pr	
+L18	Memories & the Future	neforgesebla	unforgettable	pr	
+L18	Memories & the Future	reveno	return	im	
+L18	Memories & the Future	reiri	to go back	gl	ntr
+L18	Memories & the Future	lasi	to leave; to let	gl	tr
+L18	Memories & the Future	sopiri	to long for	gl	ntr
+L18	Memories & the Future	mi sopiros pri vi	I will miss you	izraz	
+L18	Memories & the Future	senti sin hejme	to feel at home	izraz	
+L18	Memories & the Future	hejmo	home	im	
+L18	Memories & the Future	hejme	at home	pril	
+L18	Memories & the Future	amikaro	circle of friends	im	
+L18	Memories & the Future	progreso	progress	im	
+L18	Memories & the Future	nivelo	level	im	
+L18	Memories & the Future	atestilo	certificate	im	
+L18	Memories & the Future	sukceso	success	im	
+L18	Memories & the Future	sukcesi	to succeed	gl	ntr
+L18	Memories & the Future	ĉapitro	chapter	im	
+L18	Memories & the Future	etapo	stage	im	
+L18	Memories & the Future	venontjare	next year	pril	
+L18	Memories & the Future	antaŭ unu jaro	a year ago	izraz	
+L18	Memories & the Future	post unu jaro	in a year	izraz	
+L18	Memories & the Future	por ĉiam	forever	izraz	
+L18	Memories & the Future	denove	again	pril	
+L18	Memories & the Future	konservi	to keep	gl	tr
+L18	Memories & the Future	dividi	to share; to divide	gl	tr
+L18	Memories & the Future	resti en kontakto	to keep in touch	izraz	
+L18	Memories & the Future	korespondi	to correspond	gl	ntr
+L18	Memories & the Future	korespondanto	pen pal	im	
+L18	Memories & the Future	ĉiuj	everyone; all	zam	
+L18	Memories & the Future	kelkaj	some; a few	pr	
+L18	Memories & the Future	pluraj	several	pr	
+L18	Memories & the Future	alia	other	pr	
+L18	Memories & the Future	fidela	loyal	pr	
+L18	Memories & the Future	dankon pro ĉio	thanks for everything	izraz	
+L18	Memories & the Future	kortuŝa	moving	pr	
+L18	Memories & the Future	afero	thing; matter	im	
+L18	Memories & the Future	destino	fate	im	
+L18	Memories & the Future	saĝeco	wisdom	im	
+L18	Memories & the Future	adiaŭo	farewell	im	
+L18	Memories & the Future	hejmeniro	going home	im	
+L18	Memories & the Future	ĝis la revido	until we meet again	izraz	
+L18	Memories & the Future	somere	in summer	pril	
+L18	Memories & the Future	planado	planning	im	
+L18	Memories & the Future	la Universala Kongreso	the World Esperanto Congress	izraz	
+L18	Memories & the Future	lasta	last	pr	
+L18	Memories & the Future	emociita	moved	pr	
+L18	Memories & the Future	neniam plu	never again	izraz	
+L18	Memories & the Future	albumo	album	im	
+L18	Memories & the Future	reviziti	to revisit	gl	tr
+L18	Memories & the Future	retrovi	to find again	gl	tr
+L18	Memories & the Future	renkontiĝo	meeting; get-together	im	
+L18	Memories & the Future	dankemo	gratitude	im	
+L18	Memories & the Future	atingi	to achieve; to reach	gl	tr
+L18	Memories & the Future	atingo	achievement	im	
+L18	Memories & the Future	eĉ se	even if	izraz	
+L18	Memories & the Future	tiel ke	so that (result)	izraz	
+L18	Memories & the Future	la vivo	life	im	
+L18	Memories & the Future	vivi	to live	gl	ntr
+L18	Memories & the Future	estonte	in the future	pril	
+L18	Memories & the Future	pasinte	in the past	pril	
+L18	Memories & the Future	mondcivitano	world citizen	im	
+L18	Memories & the Future	tutmonda	worldwide	pr	
+L18	Memories & the Future	lingva	linguistic	pr	
+L18	Memories & the Future	dankesprimo	expression of thanks	im	
+L18	Memories & the Future	lingvopolitiko	language policy	im	
+L18	Memories & the Future	mondŝanĝo	change in the world	im	
+L18	Memories & the Future	plenumi	to fulfil	gl	tr
+L18	Memories & the Future	revenonta	returning; coming back	pr	
+L18	Memories & the Future	vojaĝkamarado	travel companion	im	
