@@ -55,5 +55,8 @@ python3 alati/gradi.py [fr …]      TSV -> JSONL
 python3 alati/provjeri.py [fr …]   provjera, piše IZVJESTAJ.md (izlaz 1 ako ima grešaka)
 ```
 
+Interslavenski se dodatno provjerava prema zaključanoj bazi (odluka ISV2, commit `53d42b2af`):
+`python3 alati/provjeri-isv-baza.py <klon medzuslovjansky/database>` (upute u zaglavlju skripte).
+
 Provjera javlja grešku za prazno polje, nepoznatu razinu ili vrstu, temu koja ne odgovara razini i
 riječ koja se javlja dvaput. Upozorava kad broj riječi u razini odstupa od koncepta više od 10 %.
