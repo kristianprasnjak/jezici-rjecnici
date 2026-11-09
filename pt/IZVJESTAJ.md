@@ -44,3 +44,11 @@ Riječi: **1360** · greške: **0** · upozorenja: **0**
 | broj | 6 |
 | član | 4 |
 | čestica | 2 |
+
+## Faza B — oblici
+
+| Vrsta | Stupci | Popunjeno |
+|---|---|---:|
+| imenica | rod, mnozina | 717 / 717 |
+| pridjev | zenski, mnozina_pr | 148 / 148 |
+| glagol | gl_skupina, particip, prezent | 177 / 177 |
