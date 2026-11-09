@@ -1,0 +1,1360 @@
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o café", "en": "coffee; café", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o bar", "en": "bar", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o restaurante", "en": "restaurant", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o hotel", "en": "hotel", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o táxi", "en": "taxi", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o ônibus", "en": "bus", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o trem", "en": "train", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a pizza", "en": "pizza", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o chocolate", "en": "chocolate", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a banana", "en": "banana", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o chá", "en": "tea", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a música", "en": "music", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o futebol", "en": "football", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o tênis", "en": "tennis; trainers", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o cinema", "en": "cinema", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o teatro", "en": "theatre", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o filme", "en": "film", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o rádio", "en": "radio", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a televisão", "en": "television", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o telefone", "en": "telephone", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a foto", "en": "photo", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o parque", "en": "park", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a praça", "en": "square", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o banco", "en": "bank; bench", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a farmácia", "en": "chemist's", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o doutor, a doutora", "en": "doctor", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a polícia", "en": "police", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o esporte", "en": "sport", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o menu", "en": "menu", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o momento", "en": "moment", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a família", "en": "family", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o computador", "en": "computer", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o problema", "en": "problem", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o samba", "en": "samba", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "a praia", "en": "beach", "vrsta": "im"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "pt": "o real", "en": "real (currency)", "vrsta": "im"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "olá", "en": "hello", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "oi", "en": "hi", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "bom dia", "en": "good morning", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "boa tarde", "en": "good afternoon", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "boa noite", "en": "good evening; good night", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "tchau", "en": "bye", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "até logo", "en": "see you later", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "até amanhã", "en": "see you tomorrow", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "obrigado, obrigada", "en": "thank you", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "de nada", "en": "you're welcome", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "por favor", "en": "please", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "desculpa", "en": "sorry", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "com licença", "en": "excuse me", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "sim", "en": "yes", "vrsta": "čest"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "não", "en": "no; not", "vrsta": "čest"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "o senhor, a senhora", "en": "sir; madam; you (formal)", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "tudo bem?", "en": "how are you?", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "tudo bem", "en": "fine", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "bem", "en": "well; fine", "vrsta": "pril"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "muito", "en": "very; a lot", "vrsta": "pril"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "e", "en": "and", "vrsta": "vez"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "meu nome é", "en": "my name is", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "prazer", "en": "nice to meet you", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "ser", "en": "to be", "vrsta": "gl"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "eu", "en": "I", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "você", "en": "you", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "ele", "en": "he", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "ela", "en": "she", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "nós", "en": "we", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "a gente", "en": "we (informal)", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "vocês", "en": "you (plural)", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "eles, elas", "en": "they", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "o país", "en": "country", "vrsta": "im"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "o Brasil", "en": "Brazil", "vrsta": "im"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "a Croácia", "en": "Croatia", "vrsta": "im"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "a Alemanha", "en": "Germany", "vrsta": "im"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "a Inglaterra", "en": "England", "vrsta": "im"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "o Senegal", "en": "Senegal", "vrsta": "im"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "brasileiro", "en": "Brazilian", "vrsta": "pr"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "croata", "en": "Croatian", "vrsta": "pr"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "alemão", "en": "German", "vrsta": "pr"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "inglês", "en": "English", "vrsta": "pr"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "francês", "en": "French", "vrsta": "pr"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "senegalês", "en": "Senegalese", "vrsta": "pr"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "o que", "en": "what", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "quem", "en": "who", "vrsta": "zam"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "onde", "en": "where", "vrsta": "pril"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "como", "en": "how", "vrsta": "pril"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "de onde", "en": "where from", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "de", "en": "from; of", "vrsta": "prij"}
+{"razina": 1, "tema": "Greetings & Countries", "pt": "a cidade", "en": "city; town", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o apartamento", "en": "flat", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a casa", "en": "house; home", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o quarto", "en": "bedroom; room", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a cozinha", "en": "kitchen", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o banheiro", "en": "bathroom", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a sala", "en": "living room", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a porta", "en": "door", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a janela", "en": "window", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a parede", "en": "wall", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a cama", "en": "bed", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a cadeira", "en": "chair", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a mesa", "en": "table", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o sofá", "en": "sofa", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o armário", "en": "wardrobe; cupboard", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o abajur", "en": "lamp", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o livro", "en": "book", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a caneta", "en": "pen", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o lápis", "en": "pencil", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a bolsa", "en": "bag", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a chave", "en": "key", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o espelho", "en": "mirror", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o tapete", "en": "rug", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a flor", "en": "flower", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a planta", "en": "plant", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a caixa", "en": "box", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o caderno", "en": "notebook", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a xícara", "en": "cup", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o copo", "en": "glass", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o, a", "en": "the", "vrsta": "čl"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "os, as", "en": "the (plural)", "vrsta": "čl"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "um, uma", "en": "a; an", "vrsta": "čl"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "uns, umas", "en": "some", "vrsta": "čl"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "tem", "en": "there is; there are (informal)", "vrsta": "izraz"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "há", "en": "there is; there are", "vrsta": "izraz"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "a cor", "en": "colour", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "branco", "en": "white", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "preto", "en": "black", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "vermelho", "en": "red", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "azul", "en": "blue", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "verde", "en": "green", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "amarelo", "en": "yellow", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "cinza", "en": "grey", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "marrom", "en": "brown", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "rosa", "en": "pink", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "laranja", "en": "orange", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "roxo", "en": "purple", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "pequeno", "en": "small", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "grande", "en": "big", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "bonito", "en": "pretty", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "feio", "en": "ugly", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "novo", "en": "new", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "velho", "en": "old", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "iluminado", "en": "bright; well-lit", "vrsta": "pr"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "o ventilador", "en": "fan", "vrsta": "im"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "mas", "en": "but", "vrsta": "vez"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "falar", "en": "to speak", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "trabalhar", "en": "to work", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "morar", "en": "to live (somewhere)", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "estudar", "en": "to study", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "comer", "en": "to eat", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "beber", "en": "to drink", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "olhar", "en": "to look", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ver", "en": "to see; to watch", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "assistir", "en": "to watch (TV)", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "escutar", "en": "to listen to", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "cozinhar", "en": "to cook", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "cantar", "en": "to sing", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "dançar", "en": "to dance", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "andar", "en": "to walk", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ler", "en": "to read", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "escrever", "en": "to write", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "aprender", "en": "to learn", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "entender", "en": "to understand", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "abrir", "en": "to open", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ligar", "en": "to call; to switch on", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "tomar", "en": "to take; to drink", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "chegar", "en": "to arrive", "vrsta": "gl"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "precisar de", "en": "to need", "vrsta": "izraz"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "o dia", "en": "day", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "a semana", "en": "week", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "segunda-feira", "en": "Monday", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "terça-feira", "en": "Tuesday", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "quarta-feira", "en": "Wednesday", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "quinta-feira", "en": "Thursday", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "sexta-feira", "en": "Friday", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "sábado", "en": "Saturday", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "domingo", "en": "Sunday", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "o fim de semana", "en": "weekend", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "a manhã", "en": "morning", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "a tarde", "en": "afternoon", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "a noite", "en": "night; evening", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "hoje", "en": "today", "vrsta": "pril"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "sempre", "en": "always", "vrsta": "pril"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "às vezes", "en": "sometimes", "vrsta": "izraz"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "de dia", "en": "by day", "vrsta": "izraz"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "de noite", "en": "at night", "vrsta": "izraz"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "quando", "en": "when", "vrsta": "pril"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "qual", "en": "which", "vrsta": "zam"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "por que", "en": "why", "vrsta": "izraz"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "porque", "en": "because", "vrsta": "vez"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "o trabalho", "en": "work; job", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "a faculdade", "en": "university", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "o escritório", "en": "office", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "a língua", "en": "language; tongue", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "o português", "en": "Portuguese (language)", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "também", "en": "also", "vrsta": "pril"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "todo dia", "en": "every day", "vrsta": "izraz"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "em", "en": "in; on; at", "vrsta": "prij"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "com", "en": "with", "vrsta": "prij"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "para", "en": "to; for", "vrsta": "prij"}
+{"razina": 4, "tema": "Family & Age", "pt": "a mãe", "en": "mother", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o pai", "en": "father", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "os pais", "en": "parents", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o irmão", "en": "brother", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "a irmã", "en": "sister", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o filho", "en": "son", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "a filha", "en": "daughter", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "os filhos", "en": "children", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "a criança", "en": "child", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o menino, a menina", "en": "boy; girl", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o marido", "en": "husband", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "a esposa", "en": "wife", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o homem", "en": "man", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "a mulher", "en": "woman; wife", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o avô", "en": "grandfather", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "a avó", "en": "grandmother", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "os avós", "en": "grandparents", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o tio", "en": "uncle", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "a tia", "en": "aunt", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o primo, a prima", "en": "cousin", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o sobrinho, a sobrinha", "en": "nephew; niece", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o neto, a neta", "en": "grandson; granddaughter", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o amigo, a amiga", "en": "friend", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o namorado, a namorada", "en": "boyfriend; girlfriend", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o vizinho, a vizinha", "en": "neighbour", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o cachorro", "en": "dog", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o gato", "en": "cat", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o bebê", "en": "baby", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "ter", "en": "to have", "vrsta": "gl"}
+{"razina": 4, "tema": "Family & Age", "pt": "o ano", "en": "year", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o aniversário", "en": "birthday", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "quantos anos você tem?", "en": "how old are you?", "vrsta": "izraz"}
+{"razina": 4, "tema": "Family & Age", "pt": "jovem", "en": "young", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "mais velho", "en": "older", "vrsta": "izraz"}
+{"razina": 4, "tema": "Family & Age", "pt": "mais novo", "en": "younger", "vrsta": "izraz"}
+{"razina": 4, "tema": "Family & Age", "pt": "casado", "en": "married", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "solteiro", "en": "single", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "meu, minha", "en": "my", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & Age", "pt": "seu, sua", "en": "your; his; her", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & Age", "pt": "dele, dela", "en": "his; her", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & Age", "pt": "nosso, nossa", "en": "our", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & Age", "pt": "simpático", "en": "nice; friendly", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "legal", "en": "cool; nice", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "gentil", "en": "kind", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "alto", "en": "tall", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "baixo", "en": "short", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "o sobrenome", "en": "surname", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o nome", "en": "name", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o padrinho, a madrinha", "en": "godfather; godmother", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o sogro, a sogra", "en": "father-in-law; mother-in-law", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o cunhado, a cunhada", "en": "brother-in-law; sister-in-law", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o enteado, a enteada", "en": "stepson; stepdaughter", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o casal", "en": "couple", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "o parente", "en": "relative", "vrsta": "im"}
+{"razina": 4, "tema": "Family & Age", "pt": "juntos", "en": "together", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & Age", "pt": "sozinho", "en": "alone", "vrsta": "pr"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a feira", "en": "street market", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o mercado", "en": "market", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o pão", "en": "bread", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o queijo", "en": "cheese", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a manteiga", "en": "butter", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o leite", "en": "milk", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o ovo", "en": "egg", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a carne", "en": "meat", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o frango", "en": "chicken", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o peixe", "en": "fish", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o presunto", "en": "ham", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a maçã", "en": "apple", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a laranja", "en": "orange", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o morango", "en": "strawberry", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a uva", "en": "grape", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o limão", "en": "lime; lemon", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a manga", "en": "mango", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o abacaxi", "en": "pineapple", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o mamão", "en": "papaya", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o tomate", "en": "tomato", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a batata", "en": "potato", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a cenoura", "en": "carrot", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a cebola", "en": "onion", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a alface", "en": "lettuce", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o arroz", "en": "rice", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o feijão", "en": "beans", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o açúcar", "en": "sugar", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o sal", "en": "salt", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o óleo", "en": "oil", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a água", "en": "water", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o suco", "en": "juice", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o vinho", "en": "wine", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a cerveja", "en": "beer", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o refrigerante", "en": "soft drink", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o quilo", "en": "kilo", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o grama", "en": "gram", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o litro", "en": "litre", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a garrafa", "en": "bottle", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a dúzia", "en": "dozen", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a fruta", "en": "fruit", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a verdura", "en": "vegetables", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "eu queria", "en": "I would like", "vrsta": "izraz"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "quanto custa?", "en": "how much is it?", "vrsta": "izraz"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "comprar", "en": "to buy", "vrsta": "gl"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "custar", "en": "to cost", "vrsta": "gl"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "pagar", "en": "to pay", "vrsta": "gl"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o centavo", "en": "cent", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o preço", "en": "price", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "caro", "en": "expensive", "vrsta": "pr"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "barato", "en": "cheap", "vrsta": "pr"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "bom", "en": "good", "vrsta": "pr"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "fresco", "en": "fresh", "vrsta": "pr"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "este, esta", "en": "this", "vrsta": "zam"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "esse, essa", "en": "that", "vrsta": "zam"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "aquele, aquela", "en": "that (over there)", "vrsta": "zam"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a loja", "en": "shop", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o supermercado", "en": "supermarket", "vrsta": "im"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "mais alguma coisa?", "en": "anything else?", "vrsta": "izraz"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "cem", "en": "hundred", "vrsta": "broj"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "pouco", "en": "little; few", "vrsta": "pril"}
+{"razina": 6, "tema": "City & Directions", "pt": "a rua", "en": "street", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a avenida", "en": "avenue", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o bairro", "en": "neighbourhood", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o centro", "en": "centre", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a estação", "en": "station", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o ponto de ônibus", "en": "bus stop", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "o museu", "en": "museum", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a igreja", "en": "church", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o hospital", "en": "hospital", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a escola", "en": "school", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o correio", "en": "post office", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a prefeitura", "en": "town hall", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a biblioteca", "en": "library", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a ponte", "en": "bridge", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o sinal", "en": "traffic light", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o cruzamento", "en": "crossroads", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a esquina", "en": "corner", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o mapa", "en": "map", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a padaria", "en": "bakery", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a banca de jornal", "en": "newsstand", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "o metrô", "en": "underground", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "estar", "en": "to be (state, location)", "vrsta": "gl"}
+{"razina": 6, "tema": "City & Directions", "pt": "ficar", "en": "to be located; to stay", "vrsta": "gl"}
+{"razina": 6, "tema": "City & Directions", "pt": "ir", "en": "to go", "vrsta": "gl"}
+{"razina": 6, "tema": "City & Directions", "pt": "virar", "en": "to turn", "vrsta": "gl"}
+{"razina": 6, "tema": "City & Directions", "pt": "atravessar", "en": "to cross", "vrsta": "gl"}
+{"razina": 6, "tema": "City & Directions", "pt": "seguir", "en": "to follow; to continue", "vrsta": "gl"}
+{"razina": 6, "tema": "City & Directions", "pt": "procurar", "en": "to look for", "vrsta": "gl"}
+{"razina": 6, "tema": "City & Directions", "pt": "encontrar", "en": "to find; to meet", "vrsta": "gl"}
+{"razina": 6, "tema": "City & Directions", "pt": "no, na", "en": "in the", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "do, da", "en": "of the; from the", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "ao, à", "en": "to the", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "pelo, pela", "en": "through the; by the", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "à direita", "en": "on the right", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "à esquerda", "en": "on the left", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "em frente", "en": "straight on", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "perto de", "en": "near", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "longe de", "en": "far from", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "ao lado de", "en": "next to", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "na frente de", "en": "in front of", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "atrás de", "en": "behind", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "em cima de", "en": "on top of", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "embaixo de", "en": "under", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "entre", "en": "between", "vrsta": "prij"}
+{"razina": 6, "tema": "City & Directions", "pt": "aqui", "en": "here", "vrsta": "pril"}
+{"razina": 6, "tema": "City & Directions", "pt": "ali", "en": "there", "vrsta": "pril"}
+{"razina": 6, "tema": "City & Directions", "pt": "depois", "en": "after; afterwards", "vrsta": "pril"}
+{"razina": 6, "tema": "City & Directions", "pt": "primeiro", "en": "first", "vrsta": "pril"}
+{"razina": 6, "tema": "City & Directions", "pt": "segundo", "en": "second", "vrsta": "broj"}
+{"razina": 6, "tema": "City & Directions", "pt": "terceiro", "en": "third", "vrsta": "broj"}
+{"razina": 6, "tema": "City & Directions", "pt": "a pé", "en": "on foot", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "de ônibus", "en": "by bus", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "perdido", "en": "lost", "vrsta": "pr"}
+{"razina": 6, "tema": "City & Directions", "pt": "onde fica …?", "en": "where is …?", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "é longe?", "en": "is it far?", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "o posto de gasolina", "en": "petrol station", "vrsta": "izraz"}
+{"razina": 6, "tema": "City & Directions", "pt": "o estacionamento", "en": "car park", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a catedral", "en": "cathedral", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o prédio", "en": "building", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o turista, a turista", "en": "tourist", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "a calçada", "en": "pavement", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "pt": "o shopping", "en": "shopping centre", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o tempo livre", "en": "free time", "vrsta": "izraz"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o hobby", "en": "hobby", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "gostar de", "en": "to like", "vrsta": "izraz"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "adorar", "en": "to love", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "odiar", "en": "to hate", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "querer", "en": "to want", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "preferir", "en": "to prefer", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "poder", "en": "can; to be able to", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "fazer", "en": "to do; to make", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "sair", "en": "to go out", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "dormir", "en": "to sleep", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "jogar", "en": "to play (a game)", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "tocar", "en": "to play (an instrument); to touch", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "nadar", "en": "to swim", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "correr", "en": "to run", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "surfar", "en": "to surf", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "viajar", "en": "to travel", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "desenhar", "en": "to draw", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "pintar", "en": "to paint", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "passear", "en": "to go for a walk", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "andar de bicicleta", "en": "to ride a bike", "vrsta": "izraz"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a bicicleta", "en": "bicycle", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a natação", "en": "swimming", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a academia", "en": "gym", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o vôlei", "en": "volleyball", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o basquete", "en": "basketball", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o jogo", "en": "game; match", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o time", "en": "team", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a bola", "en": "ball", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o violão", "en": "(acoustic) guitar", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o piano", "en": "piano", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o videogame", "en": "video game", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o show", "en": "concert; show", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a exposição", "en": "exhibition", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a piscina", "en": "swimming pool", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o estádio", "en": "stadium", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a canção", "en": "song", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a dança", "en": "dance", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a fotografia", "en": "photography", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o quadrinho", "en": "comic", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o romance", "en": "novel", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a série", "en": "series", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o passeio", "en": "walk; outing", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o torcedor, a torcedora", "en": "fan (sport)", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a trilha", "en": "trail; hike", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a capoeira", "en": "capoeira", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o surfe", "en": "surfing", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "favorito", "en": "favourite", "vrsta": "pr"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "chato", "en": "boring; annoying", "vrsta": "pr"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "divertido", "en": "fun", "vrsta": "pr"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "interessante", "en": "interesting", "vrsta": "pr"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "cansado", "en": "tired", "vrsta": "pr"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "cada", "en": "each; every", "vrsta": "pr"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "também não", "en": "neither; not either", "vrsta": "izraz"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "ganhar", "en": "to win; to earn", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "perder", "en": "to lose; to miss", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "o campo", "en": "field; countryside", "vrsta": "im"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "cedo", "en": "early", "vrsta": "pril"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "acordar", "en": "to wake up", "vrsta": "gl"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "a festa", "en": "party", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "levantar-se", "en": "to get up", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "lavar-se", "en": "to wash (oneself)", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "tomar banho", "en": "to have a shower", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "vestir-se", "en": "to get dressed", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "pentear-se", "en": "to comb one's hair", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "maquiar-se", "en": "to put on make-up", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "fazer a barba", "en": "to shave", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "escovar os dentes", "en": "to brush one's teeth", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "deitar-se", "en": "to lie down; to go to bed", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "dormir cedo", "en": "to go to bed early", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "descansar", "en": "to rest", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "apressar-se", "en": "to hurry", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "sentir-se", "en": "to feel", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "chamar-se", "en": "to be called", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "voltar", "en": "to come back", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o café da manhã", "en": "breakfast", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o almoço", "en": "lunch", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o jantar", "en": "dinner", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "tomar café da manhã", "en": "to have breakfast", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "almoçar", "en": "to have lunch", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "jantar", "en": "to have dinner", "vrsta": "gl"}
+{"razina": 8, "tema": "Routine & Time", "pt": "a hora", "en": "hour", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "a meia hora", "en": "half an hour", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "que horas são?", "en": "what time is it?", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "é uma hora", "en": "it's one o'clock", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "são … horas", "en": "it's … o'clock", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "e meia", "en": "half past", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "e quinze", "en": "quarter past", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "quinze para as …", "en": "quarter to …", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o meio-dia", "en": "midday", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "a meia-noite", "en": "midnight", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o minuto", "en": "minute", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o segundo", "en": "second (time)", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o despertador", "en": "alarm clock", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o chuveiro", "en": "shower", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o sabonete", "en": "soap", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "a escova de dentes", "en": "toothbrush", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "a pasta de dentes", "en": "toothpaste", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "a toalha", "en": "towel", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "tarde", "en": "late", "vrsta": "pril"}
+{"razina": 8, "tema": "Routine & Time", "pt": "atrasado", "en": "late (not on time)", "vrsta": "pr"}
+{"razina": 8, "tema": "Routine & Time", "pt": "na hora", "en": "on time", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "rápido", "en": "quickly; fast", "vrsta": "pril"}
+{"razina": 8, "tema": "Routine & Time", "pt": "devagar", "en": "slowly", "vrsta": "pril"}
+{"razina": 8, "tema": "Routine & Time", "pt": "normalmente", "en": "usually", "vrsta": "pril"}
+{"razina": 8, "tema": "Routine & Time", "pt": "antes de", "en": "before", "vrsta": "prij"}
+{"razina": 8, "tema": "Routine & Time", "pt": "durante", "en": "during", "vrsta": "prij"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o colega, a colega", "en": "colleague", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "a rotina", "en": "routine", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o horário", "en": "timetable; schedule", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o cochilo", "en": "nap", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "quase", "en": "almost", "vrsta": "pril"}
+{"razina": 8, "tema": "Routine & Time", "pt": "nunca", "en": "never", "vrsta": "pril"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o relógio", "en": "watch; clock", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "todas as manhãs", "en": "every morning", "vrsta": "izraz"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o celular", "en": "mobile phone", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "o trânsito", "en": "traffic", "vrsta": "im"}
+{"razina": 8, "tema": "Routine & Time", "pt": "lotado", "en": "crowded", "vrsta": "pr"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "agora", "en": "now", "vrsta": "pril"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o tempo", "en": "weather; time", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "está calor", "en": "it's hot", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "está frio", "en": "it's cold", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "faz sol", "en": "it's sunny", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "está chovendo", "en": "it's raining", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "estar + gerúndio", "en": "to be doing", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "chover", "en": "to rain", "vrsta": "gl"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o sol", "en": "sun", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "a chuva", "en": "rain", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o vento", "en": "wind", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "a nuvem", "en": "cloud", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "a tempestade", "en": "storm", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "a previsão do tempo", "en": "weather forecast", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o grau", "en": "degree", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "a estação do ano", "en": "season", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "a primavera", "en": "spring", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o verão", "en": "summer", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o outono", "en": "autumn", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o inverno", "en": "winter", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o mês", "en": "month", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "janeiro", "en": "January", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "fevereiro", "en": "February", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "março", "en": "March", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "abril", "en": "April", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "maio", "en": "May", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "junho", "en": "June", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "julho", "en": "July", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "agosto", "en": "August", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "setembro", "en": "September", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "outubro", "en": "October", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "novembro", "en": "November", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "dezembro", "en": "December", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "a data", "en": "date", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "amanhã", "en": "tomorrow", "vrsta": "pril"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "depois de amanhã", "en": "the day after tomorrow", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "próximo", "en": "next", "vrsta": "pr"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o plano", "en": "plan", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "ir + infinitivo", "en": "to be going to", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "ter que", "en": "to have to", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "combinar", "en": "to arrange", "vrsta": "gl"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "convidar", "en": "to invite", "vrsta": "gl"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "esperar", "en": "to wait; to hope", "vrsta": "gl"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o encontro", "en": "meeting; date", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "tá bom", "en": "OK", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "combinado", "en": "agreed; deal", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "talvez", "en": "maybe", "vrsta": "pril"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "então", "en": "so; then", "vrsta": "pril"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "alguma coisa", "en": "something", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "nada", "en": "nothing", "vrsta": "zam"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "alguém", "en": "someone", "vrsta": "zam"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "ninguém", "en": "nobody", "vrsta": "zam"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o mar", "en": "sea", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "a montanha", "en": "mountain", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o guarda-chuva", "en": "umbrella", "vrsta": "im"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "alô", "en": "hello (phone)", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "quente", "en": "hot", "vrsta": "pr"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "frio", "en": "cold", "vrsta": "pr"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "nublado", "en": "cloudy", "vrsta": "pr"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "úmido", "en": "humid", "vrsta": "pr"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "o carnaval", "en": "carnival", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "ontem", "en": "yesterday", "vrsta": "pril"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "anteontem", "en": "the day before yesterday", "vrsta": "pril"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "passado", "en": "last; past", "vrsta": "pr"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "ontem à noite", "en": "last night", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "hoje de manhã", "en": "this morning", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "já", "en": "already", "vrsta": "pril"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "ainda não", "en": "not yet", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "limpar", "en": "to clean", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "arrumar", "en": "to tidy", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "fazer compras", "en": "to go shopping", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "esquecer", "en": "to forget", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "receber", "en": "to receive", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "contar", "en": "to tell; to count", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "mostrar", "en": "to show", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "rir", "en": "to laugh", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "chorar", "en": "to cry", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "fechar", "en": "to close", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "responder", "en": "to answer", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "perguntar", "en": "to ask", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "terminar", "en": "to finish", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "conhecer", "en": "to meet; to get to know", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "visitar", "en": "to visit", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "encontrar-se com", "en": "to meet up with", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "comemorar", "en": "to celebrate", "vrsta": "gl"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o jornal", "en": "newspaper", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a revista", "en": "magazine", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a carta", "en": "letter", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a mensagem", "en": "message", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a notícia", "en": "news", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o e-mail", "en": "email", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o passeio de barco", "en": "boat trip", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a lembrança", "en": "memory; souvenir", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a vez", "en": "time (occasion)", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "uma vez", "en": "once", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "ótimo", "en": "great", "vrsta": "pr"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "maravilhoso", "en": "wonderful", "vrsta": "pr"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "horrível", "en": "horrible", "vrsta": "pr"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "mais ou menos", "en": "so-so", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "nada mal", "en": "not bad", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "finalmente", "en": "finally", "vrsta": "pril"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "de repente", "en": "suddenly", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "muito tempo", "en": "a long time", "vrsta": "izraz"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o garçom, a garçonete", "en": "waiter; waitress", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a conta", "en": "bill", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a gorjeta", "en": "tip", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o prato", "en": "dish; plate", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a sobremesa", "en": "dessert", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a feijoada", "en": "feijoada (bean stew)", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o churrasco", "en": "barbecue", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a reunião", "en": "meeting", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a prova", "en": "test; exam", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o resultado", "en": "result", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a surpresa", "en": "surprise", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o pagode", "en": "pagode (samba style)", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o forró", "en": "forró (dance)", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a vizinhança", "en": "neighbourhood", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a batucada", "en": "percussion jam", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "a galera", "en": "group of friends; gang", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o barzinho", "en": "small bar", "vrsta": "im"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "o petisco", "en": "snack; nibbles", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o carro", "en": "car", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o avião", "en": "plane", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o barco", "en": "boat", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a balsa", "en": "ferry", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o bonde", "en": "tram", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a passagem", "en": "ticket (travel)", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o bilhete", "en": "ticket", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "ida e volta", "en": "return (ticket)", "vrsta": "izraz"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "só ida", "en": "single (ticket)", "vrsta": "izraz"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a rodoviária", "en": "bus station", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o guichê", "en": "ticket window", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a saída", "en": "departure; exit", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a chegada", "en": "arrival", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o atraso", "en": "delay", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a mala", "en": "suitcase", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a mochila", "en": "rucksack", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o passaporte", "en": "passport", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a identidade", "en": "identity card", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o aeroporto", "en": "airport", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o voo", "en": "flight", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o passageiro, a passageira", "en": "passenger", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o viajante", "en": "traveller", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a reserva", "en": "booking", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o quarto de casal", "en": "double room", "vrsta": "izraz"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a recepção", "en": "reception", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a pousada", "en": "guesthouse", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o lago", "en": "lake", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a cachoeira", "en": "waterfall", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a ilha", "en": "island", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a vista", "en": "view", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "as férias", "en": "holidays", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a viagem", "en": "trip; journey", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "a fronteira", "en": "border", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o cartão-postal", "en": "postcard", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o quilômetro", "en": "kilometre", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o norte", "en": "north", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o sul", "en": "south", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o leste", "en": "east", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o oeste", "en": "west", "vrsta": "im"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "subir", "en": "to go up; to get on", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "descer", "en": "to go down; to get off", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "entrar", "en": "to enter", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "cair", "en": "to fall", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "nascer", "en": "to be born", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "morrer", "en": "to die", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "dirigir", "en": "to drive", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "mudar", "en": "to change; to move", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "alugar", "en": "to rent; to hire", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "reservar", "en": "to book", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "trazer", "en": "to bring", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "dar", "en": "to give", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "dizer", "en": "to say", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "pôr", "en": "to put", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "saber", "en": "to know", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "vir", "en": "to come", "vrsta": "gl"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "sair de férias", "en": "to go on holiday", "vrsta": "izraz"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "de carro", "en": "by car", "vrsta": "izraz"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "de avião", "en": "by plane", "vrsta": "izraz"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "direto", "en": "direct", "vrsta": "pr"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "cheio", "en": "full", "vrsta": "pr"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "livre", "en": "free", "vrsta": "pr"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "ocupado", "en": "busy; taken", "vrsta": "pr"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "por", "en": "through; by; for", "vrsta": "prij"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "o guia, a guia", "en": "guide", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a roupa", "en": "clothes", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a camisa", "en": "shirt", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a camiseta", "en": "T-shirt", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o suéter", "en": "jumper", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a calça", "en": "trousers", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o jeans", "en": "jeans", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a saia", "en": "skirt", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o vestido", "en": "dress", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a jaqueta", "en": "jacket", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o casaco", "en": "coat", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o terno", "en": "suit", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a gravata", "en": "tie", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o sapato", "en": "shoe", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a sandália", "en": "sandal", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o chinelo", "en": "flip-flop", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a bota", "en": "boot", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a meia", "en": "sock", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o chapéu", "en": "hat", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o boné", "en": "cap", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o biquíni", "en": "bikini", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o óculos", "en": "glasses", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o óculos de sol", "en": "sunglasses", "vrsta": "izraz"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o cinto", "en": "belt", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o tamanho", "en": "size", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o número", "en": "number; shoe size", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o provador", "en": "fitting room", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o vendedor, a vendedora", "en": "shop assistant", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o cliente, a cliente", "en": "customer", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o caixa", "en": "till; cashier", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a liquidação", "en": "sale", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o desconto", "en": "discount", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o cartão", "en": "card", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o recibo", "en": "receipt", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "experimentar", "en": "to try on", "vrsta": "gl"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "usar", "en": "to wear; to use", "vrsta": "gl"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "vestir", "en": "to put on; to wear", "vrsta": "gl"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "tirar", "en": "to take off", "vrsta": "gl"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "ficar bem", "en": "to suit; to look good", "vrsta": "izraz"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "comprido", "en": "long", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "curto", "en": "short", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "largo", "en": "wide; loose", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "apertado", "en": "tight", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "magro", "en": "thin", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "gordo", "en": "fat", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "loiro", "en": "blond", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "moreno", "en": "dark-haired; tanned", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "ruivo", "en": "red-haired", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o cabelo", "en": "hair", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "os olhos", "en": "eyes", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a barba", "en": "beard", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "elegante", "en": "elegant", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "na moda", "en": "fashionable", "vrsta": "izraz"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o estilo", "en": "style", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a entrevista", "en": "interview", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o algodão", "en": "cotton", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o couro", "en": "leather", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "escuro", "en": "dark", "vrsta": "pr"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "mais", "en": "more", "vrsta": "pril"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "menos", "en": "less", "vrsta": "pril"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "demais", "en": "too much", "vrsta": "pril"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "bastante", "en": "quite; enough", "vrsta": "pril"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "o parcelamento", "en": "payment in instalments", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "à vista", "en": "paid in full", "vrsta": "izraz"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "a vitrine", "en": "shop window", "vrsta": "im"}
+{"razina": 12, "tema": "Clothes & Shops", "pt": "lindo", "en": "beautiful", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o corpo", "en": "body", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a cabeça", "en": "head", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o rosto", "en": "face", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o olho", "en": "eye", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o nariz", "en": "nose", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a boca", "en": "mouth", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a orelha", "en": "ear", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o dente", "en": "tooth", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o pescoço", "en": "neck", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a garganta", "en": "throat", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o ombro", "en": "shoulder", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o braço", "en": "arm", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a mão", "en": "hand", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o dedo", "en": "finger", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "as costas", "en": "back", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a barriga", "en": "belly", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o estômago", "en": "stomach", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o coração", "en": "heart", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a perna", "en": "leg", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o joelho", "en": "knee", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o pé", "en": "foot", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o tornozelo", "en": "ankle", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o pulso", "en": "wrist", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a pele", "en": "skin", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o sangue", "en": "blood", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o médico, a médica", "en": "doctor", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o enfermeiro, a enfermeira", "en": "nurse", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o dentista, a dentista", "en": "dentist", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o posto de saúde", "en": "health centre", "vrsta": "izraz"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o paciente, a paciente", "en": "patient", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a doença", "en": "illness", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "doente", "en": "ill", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a gripe", "en": "flu", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o resfriado", "en": "cold", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a febre", "en": "fever", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a tosse", "en": "cough", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a dor", "en": "pain", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "estar com dor de", "en": "to have a pain in", "vrsta": "izraz"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "estar com dor de cabeça", "en": "to have a headache", "vrsta": "izraz"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "doer", "en": "to hurt", "vrsta": "gl"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o machucado", "en": "injury", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o remédio", "en": "medicine", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o comprimido", "en": "tablet", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a receita", "en": "prescription; recipe", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o xarope", "en": "syrup", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a saúde", "en": "health", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a emergência", "en": "emergency", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a ambulância", "en": "ambulance", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o sintoma", "en": "symptom", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "tossir", "en": "to cough", "vrsta": "gl"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "quebrar", "en": "to break", "vrsta": "gl"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "machucar-se", "en": "to hurt oneself", "vrsta": "gl"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "melhorar", "en": "to get better", "vrsta": "gl"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "respirar", "en": "to breathe", "vrsta": "gl"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "ficar em casa", "en": "to stay at home", "vrsta": "izraz"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "grave", "en": "serious", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "saudável", "en": "healthy", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "melhor", "en": "better", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "pior", "en": "worse", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "mal", "en": "badly; ill", "vrsta": "pril"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "claro", "en": "of course; clear; light", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "fica tranquilo", "en": "don't worry", "vrsta": "izraz"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "melhoras!", "en": "get well soon!", "vrsta": "izraz"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "saúde!", "en": "bless you!; cheers!", "vrsta": "izraz"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o estresse", "en": "stress", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o sono", "en": "sleep; sleepiness", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a alergia", "en": "allergy", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o curativo", "en": "plaster; dressing", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o farmacêutico, a farmacêutica", "en": "pharmacist", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "forte", "en": "strong", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "fraco", "en": "weak", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "pesado", "en": "heavy", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "tonto", "en": "dizzy", "vrsta": "pr"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o termômetro", "en": "thermometer", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a consulta", "en": "appointment (doctor)", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o protetor solar", "en": "sunscreen", "vrsta": "izraz"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "a insolação", "en": "sunstroke", "vrsta": "im"}
+{"razina": 13, "tema": "The Body & the Doctor", "pt": "o repelente", "en": "insect repellent", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o presente", "en": "present; gift", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "presentear", "en": "to give a present", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "mandar", "en": "to send", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "enviar", "en": "to send", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "embrulhar", "en": "to wrap", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "agradecer", "en": "to thank", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "desejar", "en": "to wish", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "organizar", "en": "to organise", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "decorar", "en": "to decorate", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "preparar", "en": "to prepare", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "celebrar", "en": "to celebrate", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "brindar", "en": "to toast", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "aplaudir", "en": "to clap", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "parabenizar", "en": "to congratulate", "vrsta": "gl"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "parabéns!", "en": "happy birthday!; congratulations!", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "feliz Natal!", "en": "merry Christmas!", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "feliz Ano-Novo!", "en": "happy New Year!", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o Natal", "en": "Christmas", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o Ano-Novo", "en": "New Year", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o Réveillon", "en": "New Year's Eve party", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a Páscoa", "en": "Easter", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a festa junina", "en": "June festival", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o casamento", "en": "wedding", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o nascimento", "en": "birth", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a vela", "en": "candle", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o balão", "en": "balloon", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o espumante", "en": "sparkling wine", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o convidado, a convidada", "en": "guest", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o convite", "en": "invitation", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o buquê", "en": "bouquet", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o perfume", "en": "perfume", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a joia", "en": "piece of jewellery", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o brinquedo", "en": "toy", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a boneca", "en": "doll", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o jogo de tabuleiro", "en": "board game", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o quebra-cabeça", "en": "jigsaw", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o papel de presente", "en": "wrapping paper", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o laço", "en": "bow", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a tradição", "en": "tradition", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o clima", "en": "climate; atmosphere", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a fantasia", "en": "fancy-dress costume", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a máscara", "en": "mask", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o panetone", "en": "panettone", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o bolo", "en": "cake", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o brigadeiro", "en": "brigadeiro (chocolate sweet)", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a árvore de Natal", "en": "Christmas tree", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o presépio", "en": "nativity scene", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "os fogos de artifício", "en": "fireworks", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o Dia das Mães", "en": "Mother's Day", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o, a, os, as (pronome)", "en": "him; her; it; them", "vrsta": "zam"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "lhe, lhes", "en": "(to) him; (to) her; (to) you", "vrsta": "zam"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "me, te, nos", "en": "me; you; us", "vrsta": "zam"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "você (objeto)", "en": "you (object, spoken)", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "feliz", "en": "happy", "vrsta": "pr"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "contente", "en": "glad", "vrsta": "pr"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "surpreso", "en": "surprised", "vrsta": "pr"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "triste", "en": "sad", "vrsta": "pr"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "decepcionado", "en": "disappointed", "vrsta": "pr"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "orgulhoso", "en": "proud", "vrsta": "pr"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "original", "en": "original", "vrsta": "pr"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "útil", "en": "useful", "vrsta": "pr"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "logo", "en": "soon; right away", "vrsta": "pril"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "daqui a pouco", "en": "in a little while", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "soprar as velas", "en": "to blow out the candles", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a comemoração", "en": "celebration", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o doce", "en": "sweet", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o salgadinho", "en": "savoury snack", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o feriado", "en": "public holiday", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o noivado", "en": "engagement", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o anfitrião, a anfitriã", "en": "host; hostess", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o cartão de aniversário", "en": "birthday card", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a lembrancinha", "en": "small gift; party favour", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a festa surpresa", "en": "surprise party", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a quadrilha", "en": "square dance (June festival)", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o amigo secreto", "en": "Secret Santa", "vrsta": "izraz"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "a ceia", "en": "supper (Christmas Eve)", "vrsta": "im"}
+{"razina": 14, "tema": "Parties & Presents", "pt": "o peru", "en": "turkey", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a infância", "en": "childhood", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o filho único, a filha única", "en": "only child", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a escola primária", "en": "primary school", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o ensino médio", "en": "secondary school", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a creche", "en": "nursery", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a sala de aula", "en": "classroom", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a professora, o professor", "en": "teacher", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o aluno, a aluna", "en": "pupil", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o estudante, a estudante", "en": "student", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a aula", "en": "lesson; class", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o curso", "en": "course", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o dever de casa", "en": "homework", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a nota", "en": "mark; note", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o recreio", "en": "break (school)", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o pátio", "en": "playground; yard", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o quadro", "en": "board; painting", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a régua", "en": "ruler", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a borracha", "en": "rubber", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o estojo", "en": "pencil case", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a carteira", "en": "school desk; wallet", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a merenda", "en": "school snack", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a matemática", "en": "maths", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a história", "en": "history; story", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a geografia", "en": "geography", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "as ciências", "en": "science", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a matéria", "en": "subject", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a biologia", "en": "biology", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a química", "en": "chemistry", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a física", "en": "physics", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a educação física", "en": "PE", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o colega de turma", "en": "classmate", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a turma", "en": "class (group)", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o esconde-esconde", "en": "hide-and-seek", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o balanço", "en": "swing", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o desenho animado", "en": "cartoon", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o acampamento", "en": "camp", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a pipa", "en": "kite", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o carrinho", "en": "toy car; trolley", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a bola de gude", "en": "marble", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o pega-pega", "en": "tag (game)", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "brincar", "en": "to play (children)", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "ensinar", "en": "to teach", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "repetir", "en": "to repeat", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "explicar", "en": "to explain", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "revisar", "en": "to revise", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "crescer", "en": "to grow up", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "lembrar", "en": "to remember", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "lembrar-se de", "en": "to remember", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "castigar", "en": "to punish", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "costumar", "en": "to usually do", "vrsta": "gl"}
+{"razina": 15, "tema": "Childhood & School", "pt": "ser bom em", "en": "to be good at", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "quando eu era criança", "en": "when I was a child", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "antigamente", "en": "in the old days", "vrsta": "pril"}
+{"razina": 15, "tema": "Childhood & School", "pt": "naquela época", "en": "at that time", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "todo verão", "en": "every summer", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "obediente", "en": "obedient", "vrsta": "pr"}
+{"razina": 15, "tema": "Childhood & School", "pt": "tímido", "en": "shy", "vrsta": "pr"}
+{"razina": 15, "tema": "Childhood & School", "pt": "curioso", "en": "curious", "vrsta": "pr"}
+{"razina": 15, "tema": "Childhood & School", "pt": "falador", "en": "talkative", "vrsta": "pr"}
+{"razina": 15, "tema": "Childhood & School", "pt": "bagunceiro", "en": "messy; naughty", "vrsta": "pr"}
+{"razina": 15, "tema": "Childhood & School", "pt": "rígido", "en": "strict", "vrsta": "pr"}
+{"razina": 15, "tema": "Childhood & School", "pt": "fácil", "en": "easy", "vrsta": "pr"}
+{"razina": 15, "tema": "Childhood & School", "pt": "difícil", "en": "difficult", "vrsta": "pr"}
+{"razina": 15, "tema": "Childhood & School", "pt": "duzentos", "en": "two hundred", "vrsta": "broj"}
+{"razina": 15, "tema": "Childhood & School", "pt": "mil", "en": "thousand", "vrsta": "broj"}
+{"razina": 15, "tema": "Childhood & School", "pt": "dois mil", "en": "two thousand", "vrsta": "broj"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o século", "en": "century", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o diário", "en": "diary", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o boletim", "en": "school report", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o conto", "en": "tale", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a cidade pequena", "en": "small town", "vrsta": "izraz"}
+{"razina": 15, "tema": "Childhood & School", "pt": "a terra", "en": "earth; soil; land", "vrsta": "im"}
+{"razina": 15, "tema": "Childhood & School", "pt": "o quintal", "en": "backyard", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a mudança", "en": "move (house); change", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "mudar-se", "en": "to move house", "vrsta": "gl"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a caixa de papelão", "en": "cardboard box", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o caminhão", "en": "lorry", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o aluguel", "en": "rent", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o dono, a dona", "en": "owner; landlord", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o inquilino, a inquilina", "en": "tenant", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o andar", "en": "floor (storey)", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o térreo", "en": "ground floor", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o elevador", "en": "lift", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a escada", "en": "stairs", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a varanda", "en": "balcony", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o jardim", "en": "garden", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a garagem", "en": "garage", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o porão", "en": "basement", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o corredor", "en": "corridor", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a sala de jantar", "en": "dining room", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o móvel", "en": "piece of furniture", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "os móveis", "en": "furniture", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a poltrona", "en": "armchair", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a estante", "en": "bookcase; shelves", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a prateleira", "en": "shelf", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a gaveta", "en": "drawer", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a escrivaninha", "en": "desk", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a almofada", "en": "cushion", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o travesseiro", "en": "pillow", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a cortina", "en": "curtain", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o lençol", "en": "sheet", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o cobertor", "en": "blanket", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a geladeira", "en": "fridge", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o forno", "en": "oven", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o fogão", "en": "cooker", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o micro-ondas", "en": "microwave", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a máquina de lavar", "en": "washing machine", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a pia", "en": "sink", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a banheira", "en": "bath", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o ar-condicionado", "en": "air conditioning", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a luz", "en": "light", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a tomada", "en": "socket", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o chão", "en": "floor", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o teto", "en": "ceiling", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o telhado", "en": "roof", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o freezer", "en": "freezer", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "dentro de", "en": "inside", "vrsta": "prij"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "fora de", "en": "outside", "vrsta": "prij"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "debaixo de", "en": "underneath", "vrsta": "prij"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o porteiro", "en": "doorman", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o condomínio", "en": "condominium", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a faxina", "en": "cleaning", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "lavar a louça", "en": "to wash the dishes", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "varrer", "en": "to sweep", "vrsta": "gl"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "passar roupa", "en": "to iron", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "arrumar a cama", "en": "to make the bed", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "tirar o lixo", "en": "to take out the rubbish", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o lixo", "en": "rubbish", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "o aspirador", "en": "vacuum cleaner", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "ajudar", "en": "to help", "vrsta": "gl"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "esvaziar", "en": "to empty", "vrsta": "gl"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "encher", "en": "to fill", "vrsta": "gl"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "consertar", "en": "to fix", "vrsta": "gl"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "montar", "en": "to assemble", "vrsta": "gl"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a reforma", "en": "renovation", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a tinta", "en": "paint", "vrsta": "im"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "espaçoso", "en": "spacious", "vrsta": "pr"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "tranquilo", "en": "quiet", "vrsta": "pr"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "barulhento", "en": "noisy", "vrsta": "pr"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "limpo", "en": "clean", "vrsta": "pr"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "sujo", "en": "dirty", "vrsta": "pr"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "confortável", "en": "comfortable", "vrsta": "pr"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "prático", "en": "practical", "vrsta": "pr"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "no fundo", "en": "at the back", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "em cima", "en": "upstairs; above", "vrsta": "izraz"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "embaixo", "en": "downstairs; below", "vrsta": "pril"}
+{"razina": 16, "tema": "The Home & Furniture", "pt": "a laje", "en": "flat roof", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a serra", "en": "mountains; hills", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o interior", "en": "countryside; inland", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a fazenda", "en": "farm", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o sítio", "en": "small farm", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a floresta", "en": "forest", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a mata", "en": "woods", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a árvore", "en": "tree", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o rio", "en": "river", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o morro", "en": "hill", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o vale", "en": "valley", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o topo", "en": "summit", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o caminho", "en": "path; way", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o pasto", "en": "pasture", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a paisagem", "en": "landscape", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a natureza", "en": "nature", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a grama", "en": "grass", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a folha", "en": "leaf; sheet", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a pedra", "en": "stone", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o céu", "en": "sky", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a estrela", "en": "star", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a lua", "en": "moon", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o ar", "en": "air", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o animal", "en": "animal", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a vaca", "en": "cow", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o cavalo", "en": "horse", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a ovelha", "en": "sheep", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o porco", "en": "pig", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a galinha", "en": "hen", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o pássaro", "en": "bird", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o coelho", "en": "rabbit", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o inseto", "en": "insect", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o macaco", "en": "monkey", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o agricultor, a agricultora", "en": "farmer", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o barulho", "en": "noise", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a poluição", "en": "pollution", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o engarrafamento", "en": "traffic jam", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o transporte público", "en": "public transport", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o arranha-céu", "en": "skyscraper", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a periferia", "en": "outskirts", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a favela", "en": "favela", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o morador, a moradora", "en": "resident", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a vida", "en": "life", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o mundo", "en": "world", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a região", "en": "region", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o meio ambiente", "en": "environment", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a reciclagem", "en": "recycling", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a lixeira", "en": "bin", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "comparar", "en": "to compare", "vrsta": "gl"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "proteger", "en": "to protect", "vrsta": "gl"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "reciclar", "en": "to recycle", "vrsta": "gl"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "plantar", "en": "to plant", "vrsta": "gl"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "mais … do que", "en": "more … than", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "menos … do que", "en": "less … than", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "tão … quanto", "en": "as … as", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o melhor", "en": "the best", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o pior", "en": "the worst", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "calmo", "en": "calm", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "animado", "en": "lively", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "puro", "en": "pure; clean", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "poluído", "en": "polluted", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "selvagem", "en": "wild", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "isolado", "en": "isolated", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "deslumbrante", "en": "stunning", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "perigoso", "en": "dangerous", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "moderno", "en": "modern", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "típico", "en": "typical", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "ecológico", "en": "eco-friendly", "vrsta": "pr"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "em todo lugar", "en": "everywhere", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "em algum lugar", "en": "somewhere", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "em nenhum lugar", "en": "nowhere", "vrsta": "izraz"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "longe", "en": "far", "vrsta": "pril"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "perto", "en": "near", "vrsta": "pril"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "em volta de", "en": "around", "vrsta": "prij"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "no meio de", "en": "in the middle of", "vrsta": "prij"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o litoral", "en": "coast", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a caverna", "en": "cave", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "a colheita", "en": "harvest", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o riacho", "en": "stream", "vrsta": "im"}
+{"razina": 17, "tema": "Town, Village & Nature", "pt": "o mirante", "en": "viewpoint", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a profissão", "en": "profession", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o emprego", "en": "job", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o desemprego", "en": "unemployment", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a empresa", "en": "company", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o chefe, a chefe", "en": "boss", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o diretor, a diretora", "en": "manager; director", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o funcionário, a funcionária", "en": "employee", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o salário", "en": "salary", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o contrato", "en": "contract", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o currículo", "en": "CV", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a carta de apresentação", "en": "cover letter", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a vaga", "en": "vacancy", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o candidato, a candidata", "en": "candidate", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a candidatura", "en": "application", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a experiência", "en": "experience", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a formação", "en": "training", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o diploma", "en": "degree; diploma", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o estágio", "en": "internship", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o engenheiro, a engenheira", "en": "engineer", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o advogado, a advogada", "en": "lawyer", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o cozinheiro, a cozinheira", "en": "cook", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o policial, a policial", "en": "police officer", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o jornalista, a jornalista", "en": "journalist", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o programador, a programadora", "en": "programmer", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o arquiteto, a arquiteta", "en": "architect", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o contador, a contadora", "en": "accountant", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o cabeleireiro, a cabeleireira", "en": "hairdresser", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o padeiro, a padeira", "en": "baker", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o carteiro, a carteira", "en": "postman; postwoman", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o artista, a artista", "en": "artist", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o ator, a atriz", "en": "actor; actress", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o músico, a musicista", "en": "musician", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o encanador", "en": "plumber", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o eletricista", "en": "electrician", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a fábrica", "en": "factory", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o home office", "en": "working from home", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o futuro", "en": "future", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a carreira", "en": "career", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o objetivo", "en": "goal", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a aposentadoria", "en": "retirement", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o aumento", "en": "pay rise", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a promoção", "en": "promotion", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o sócio, a sócia", "en": "partner (business)", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "candidatar-se", "en": "to apply", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "contratar", "en": "to hire", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "demitir", "en": "to fire", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "gerenciar", "en": "to manage", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "desenvolver", "en": "to develop", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "criar", "en": "to create", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "tornar-se", "en": "to become", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "aposentar-se", "en": "to retire", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "ganhar a vida", "en": "to earn a living", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "conseguir", "en": "to manage; to get", "vrsta": "gl"}
+{"razina": 18, "tema": "Work & Careers", "pt": "se", "en": "if", "vrsta": "vez"}
+{"razina": 18, "tema": "Work & Careers", "pt": "quando (futuro)", "en": "when (future)", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "daqui a cinco anos", "en": "in five years", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "um dia", "en": "one day", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "mais tarde", "en": "later", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "sério", "en": "serious", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "motivado", "en": "motivated", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "dinâmico", "en": "dynamic", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "responsável", "en": "responsible", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "organizado", "en": "organised", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "criativo", "en": "creative", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "paciente", "en": "patient", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "profissional", "en": "professional", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "em tempo integral", "en": "full-time", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "meio período", "en": "part-time", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "bem pago", "en": "well paid", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "internacional", "en": "international", "vrsta": "pr"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o desafio", "en": "challenge", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o projeto", "en": "project", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a obra", "en": "building site; work", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a equipe", "en": "team (work)", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "a pasta", "en": "folder; file", "vrsta": "im"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o projeto arquitetônico", "en": "architectural design", "vrsta": "izraz"}
+{"razina": 18, "tema": "Work & Careers", "pt": "o carimbo", "en": "stamp", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o sonho", "en": "dream", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "sonhar", "en": "to dream", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o desejo", "en": "wish", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o conselho", "en": "piece of advice", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "aconselhar", "en": "to advise", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "propor", "en": "to propose", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "sugerir", "en": "to suggest", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "recomendar", "en": "to recommend", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "imaginar", "en": "to imagine", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "estar com vontade de", "en": "to feel like", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "ter medo de", "en": "to be afraid of", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "ter razão", "en": "to be right", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "ter tempo", "en": "to have time", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a loteria", "en": "lottery", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "ganhar na loteria", "en": "to win the lottery", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o milhão", "en": "million", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "rico", "en": "rich", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "pobre", "en": "poor", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a riqueza", "en": "wealth", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o dinheiro", "en": "money", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "gastar", "en": "to spend (money)", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "economizar", "en": "to save", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "emprestar", "en": "to lend", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "pegar emprestado", "en": "to borrow", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a volta ao mundo", "en": "round-the-world trip", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o veleiro", "en": "sailing boat", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o luxo", "en": "luxury", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o cruzeiro", "en": "cruise", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a liberdade", "en": "freedom", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a felicidade", "en": "happiness", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a sorte", "en": "luck", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a possibilidade", "en": "possibility", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a escolha", "en": "choice", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a decisão", "en": "decision", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "decidir", "en": "to decide", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "tentar", "en": "to try", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "parar de", "en": "to stop (doing)", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "começar a", "en": "to start (doing)", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "continuar a", "en": "to keep (doing)", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "você deveria", "en": "you should", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "seria melhor", "en": "it would be better", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "eu gostaria de", "en": "I would like to", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "no seu lugar", "en": "if I were you", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "de verdade", "en": "really", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "com certeza", "en": "certainly", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "provavelmente", "en": "probably", "vrsta": "pril"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "senão", "en": "otherwise", "vrsta": "vez"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "porém", "en": "however", "vrsta": "vez"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "até", "en": "even; until", "vrsta": "prij"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a solução", "en": "solution", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a ideia", "en": "idea", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a meta", "en": "goal", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a coragem", "en": "courage", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a paciência", "en": "patience", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a verdade", "en": "truth", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a esperança", "en": "hope", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o orçamento", "en": "budget", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "generoso", "en": "generous", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "egoísta", "en": "selfish", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "cuidadoso", "en": "careful", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "possível", "en": "possible", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "impossível", "en": "impossible", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "ideal", "en": "ideal", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "perfeito", "en": "perfect", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "importante", "en": "important", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "necessário", "en": "necessary", "vrsta": "pr"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a dúvida", "en": "doubt", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a oportunidade", "en": "opportunity", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a casa na praia", "en": "beach house", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o voluntariado", "en": "volunteering", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "doar", "en": "to donate", "vrsta": "gl"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "melhorar de vida", "en": "to improve one's life", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "o sossego", "en": "peace and quiet", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a calma", "en": "calm", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a casinha", "en": "little house", "vrsta": "im"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a vista para o mar", "en": "sea view", "vrsta": "izraz"}
+{"razina": 19, "tema": "Wishes & Advice", "pt": "a rede", "en": "hammock; network", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a memória", "en": "memory", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "inesquecível", "en": "unforgettable", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a volta", "en": "return", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "regressar", "en": "to return", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "deixar", "en": "to leave; to let", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "despedir-se", "en": "to say goodbye", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "sentir falta de", "en": "to miss", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "estou com saudade", "en": "I miss (you)", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a saudade", "en": "longing; missing someone", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "sentir-se em casa", "en": "to feel at home", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a amizade", "en": "friendship", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o amor", "en": "love", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o sentimento", "en": "feeling", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a alegria", "en": "joy", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a tristeza", "en": "sadness", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a emoção", "en": "emotion", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o fim", "en": "end", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o começo", "en": "beginning", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a transformação", "en": "transformation", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o progresso", "en": "progress", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o nível", "en": "level", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o certificado", "en": "certificate", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o sucesso", "en": "success", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a aventura", "en": "adventure", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o capítulo", "en": "chapter", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a etapa", "en": "stage", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o ano que vem", "en": "next year", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o ano passado", "en": "last year", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "há um ano", "en": "a year ago", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "daqui a um ano", "en": "in a year", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "para sempre", "en": "forever", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "de novo", "en": "again", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "que (relativo)", "en": "who; which; that", "vrsta": "zam"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "onde (relativo)", "en": "where", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o que (relativo)", "en": "what", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "pensar", "en": "to think", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "acreditar", "en": "to believe", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "espero que", "en": "I hope that", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "compartilhar", "en": "to share", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "guardar", "en": "to keep", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "prometer", "en": "to promise", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "manter contato", "en": "to keep in touch", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "permanecer", "en": "to remain", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "graças a", "en": "thanks to", "vrsta": "prij"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "apesar de", "en": "despite", "vrsta": "prij"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "por causa de", "en": "because of", "vrsta": "prij"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "por isso", "en": "so; that's why", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "enquanto", "en": "while", "vrsta": "vez"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "desde que", "en": "since", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "desde", "en": "since; from", "vrsta": "prij"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "assim que", "en": "as soon as", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "todo mundo", "en": "everyone", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "algum", "en": "some; any", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "nenhum", "en": "no; none", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "cada um", "en": "each one", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "tudo", "en": "everything", "vrsta": "zam"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "vários", "en": "several", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "mesmo", "en": "same; even", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "diferente", "en": "different", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "outro", "en": "other; another", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "querido", "en": "dear", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "fiel", "en": "loyal", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "grato", "en": "grateful", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "emocionante", "en": "exciting; moving", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a coisa", "en": "thing", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o destino", "en": "fate", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a sabedoria", "en": "wisdom", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a despedida", "en": "farewell", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o instante", "en": "instant", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "emocionado", "en": "moved", "vrsta": "pr"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "nunca mais", "en": "never again", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o álbum", "en": "album", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a formatura", "en": "graduation", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o reencontro", "en": "reunion", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o porvir", "en": "future", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "realizar", "en": "to fulfil; to achieve", "vrsta": "gl"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a gratidão", "en": "gratitude", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o carioca, a carioca", "en": "person from Rio", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "a nostalgia", "en": "nostalgia", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o horizonte", "en": "horizon", "vrsta": "im"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o pôr do sol", "en": "sunset", "vrsta": "izraz"}
+{"razina": 20, "tema": "Memories & the Future", "pt": "o recomeço", "en": "new beginning", "vrsta": "im"}
