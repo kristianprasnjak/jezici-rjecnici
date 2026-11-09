@@ -1,0 +1,1353 @@
+razina	tema	es	en	vrsta
+L0	Sounds & Familiar Words	el café	coffee; café	im
+L0	Sounds & Familiar Words	el bar	bar	im
+L0	Sounds & Familiar Words	el restaurante	restaurant	im
+L0	Sounds & Familiar Words	el hotel	hotel	im
+L0	Sounds & Familiar Words	el taxi	taxi	im
+L0	Sounds & Familiar Words	el autobús	bus	im
+L0	Sounds & Familiar Words	el tren	train	im
+L0	Sounds & Familiar Words	la pizza	pizza	im
+L0	Sounds & Familiar Words	el chocolate	chocolate	im
+L0	Sounds & Familiar Words	el plátano	banana	im
+L0	Sounds & Familiar Words	el té	tea	im
+L0	Sounds & Familiar Words	la música	music	im
+L0	Sounds & Familiar Words	el fútbol	football	im
+L0	Sounds & Familiar Words	el tenis	tennis	im
+L0	Sounds & Familiar Words	el cine	cinema	im
+L0	Sounds & Familiar Words	el teatro	theatre	im
+L0	Sounds & Familiar Words	la película	film	im
+L0	Sounds & Familiar Words	la radio	radio	im
+L0	Sounds & Familiar Words	la televisión	television	im
+L0	Sounds & Familiar Words	el teléfono	telephone	im
+L0	Sounds & Familiar Words	la foto	photo	im
+L0	Sounds & Familiar Words	el parque	park	im
+L0	Sounds & Familiar Words	la plaza	square	im
+L0	Sounds & Familiar Words	el banco	bank; bench	im
+L0	Sounds & Familiar Words	la farmacia	chemist's	im
+L0	Sounds & Familiar Words	el doctor, la doctora	doctor	im
+L0	Sounds & Familiar Words	la policía	police	im
+L0	Sounds & Familiar Words	el deporte	sport	im
+L0	Sounds & Familiar Words	el menú	menu	im
+L0	Sounds & Familiar Words	el momento	moment	im
+L0	Sounds & Familiar Words	la familia	family	im
+L0	Sounds & Familiar Words	el ordenador	computer	im
+L0	Sounds & Familiar Words	el problema	problem	im
+L0	Sounds & Familiar Words	la paella	paella	im
+L0	Sounds & Familiar Words	los churros	churros	im
+L0	Sounds & Familiar Words	el euro	euro	im
+L1	Greetings & Countries	hola	hello; hi	izraz
+L1	Greetings & Countries	buenos días	good morning	izraz
+L1	Greetings & Countries	buenas tardes	good afternoon	izraz
+L1	Greetings & Countries	buenas noches	good evening; good night	izraz
+L1	Greetings & Countries	adiós	goodbye	izraz
+L1	Greetings & Countries	hasta luego	see you later	izraz
+L1	Greetings & Countries	hasta mañana	see you tomorrow	izraz
+L1	Greetings & Countries	gracias	thank you	izraz
+L1	Greetings & Countries	de nada	you're welcome	izraz
+L1	Greetings & Countries	por favor	please	izraz
+L1	Greetings & Countries	perdón	sorry; excuse me	izraz
+L1	Greetings & Countries	lo siento	I'm sorry	izraz
+L1	Greetings & Countries	sí	yes	čest
+L1	Greetings & Countries	no	no; not	čest
+L1	Greetings & Countries	señor	sir; Mr	im
+L1	Greetings & Countries	señora	madam; Mrs	im
+L1	Greetings & Countries	¿cómo estás?	how are you?	izraz
+L1	Greetings & Countries	bien	well; fine	pril
+L1	Greetings & Countries	muy	very	pril
+L1	Greetings & Countries	y	and	vez
+L1	Greetings & Countries	me llamo	my name is	izraz
+L1	Greetings & Countries	encantado	pleased to meet you	izraz
+L1	Greetings & Countries	mucho gusto	nice to meet you	izraz
+L1	Greetings & Countries	ser	to be	gl
+L1	Greetings & Countries	yo	I	zam
+L1	Greetings & Countries	tú	you (informal)	zam
+L1	Greetings & Countries	él	he	zam
+L1	Greetings & Countries	ella	she	zam
+L1	Greetings & Countries	usted	you (formal)	zam
+L1	Greetings & Countries	nosotros, nosotras	we	zam
+L1	Greetings & Countries	vosotros, vosotras	you (plural)	zam
+L1	Greetings & Countries	ellos, ellas	they	zam
+L1	Greetings & Countries	ustedes	you (plural, formal)	zam
+L1	Greetings & Countries	el país	country	im
+L1	Greetings & Countries	España	Spain	im
+L1	Greetings & Countries	Croacia	Croatia	im
+L1	Greetings & Countries	Alemania	Germany	im
+L1	Greetings & Countries	Inglaterra	England	im
+L1	Greetings & Countries	español	Spanish	pr
+L1	Greetings & Countries	croata	Croatian	pr
+L1	Greetings & Countries	alemán	German	pr
+L1	Greetings & Countries	inglés	English	pr
+L1	Greetings & Countries	francés	French	pr
+L1	Greetings & Countries	italiano	Italian	pr
+L1	Greetings & Countries	qué	what	zam
+L1	Greetings & Countries	quién	who	zam
+L1	Greetings & Countries	dónde	where	pril
+L1	Greetings & Countries	cómo	how	pril
+L1	Greetings & Countries	de	from; of	prij
+L1	Greetings & Countries	la ciudad	city; town	im
+L2	The Flat & Colours	el piso	flat; floor	im
+L2	The Flat & Colours	la casa	house; home	im
+L2	The Flat & Colours	la habitación	room; bedroom	im
+L2	The Flat & Colours	el dormitorio	bedroom	im
+L2	The Flat & Colours	la cocina	kitchen	im
+L2	The Flat & Colours	el baño	bathroom	im
+L2	The Flat & Colours	el salón	living room	im
+L2	The Flat & Colours	la puerta	door	im
+L2	The Flat & Colours	la ventana	window	im
+L2	The Flat & Colours	la pared	wall	im
+L2	The Flat & Colours	la cama	bed	im
+L2	The Flat & Colours	la silla	chair	im
+L2	The Flat & Colours	la mesa	table	im
+L2	The Flat & Colours	el sofá	sofa	im
+L2	The Flat & Colours	el armario	wardrobe	im
+L2	The Flat & Colours	la lámpara	lamp	im
+L2	The Flat & Colours	el libro	book	im
+L2	The Flat & Colours	el bolígrafo	pen	im
+L2	The Flat & Colours	el lápiz	pencil	im
+L2	The Flat & Colours	el bolso	bag	im
+L2	The Flat & Colours	la llave	key	im
+L2	The Flat & Colours	el espejo	mirror	im
+L2	The Flat & Colours	la alfombra	rug	im
+L2	The Flat & Colours	la flor	flower	im
+L2	The Flat & Colours	la planta	plant; floor (storey)	im
+L2	The Flat & Colours	la caja	box	im
+L2	The Flat & Colours	el cuaderno	notebook	im
+L2	The Flat & Colours	la taza	cup	im
+L2	The Flat & Colours	el vaso	glass	im
+L2	The Flat & Colours	el, la	the	čl
+L2	The Flat & Colours	los, las	the (plural)	čl
+L2	The Flat & Colours	un, una	a; an	čl
+L2	The Flat & Colours	unos, unas	some	čl
+L2	The Flat & Colours	hay	there is; there are	izraz
+L2	The Flat & Colours	el color	colour	im
+L2	The Flat & Colours	blanco	white	pr
+L2	The Flat & Colours	negro	black	pr
+L2	The Flat & Colours	rojo	red	pr
+L2	The Flat & Colours	azul	blue	pr
+L2	The Flat & Colours	verde	green	pr
+L2	The Flat & Colours	amarillo	yellow	pr
+L2	The Flat & Colours	gris	grey	pr
+L2	The Flat & Colours	marrón	brown	pr
+L2	The Flat & Colours	rosa	pink	pr
+L2	The Flat & Colours	naranja	orange	pr
+L2	The Flat & Colours	morado	purple	pr
+L2	The Flat & Colours	pequeño	small	pr
+L2	The Flat & Colours	grande	big	pr
+L2	The Flat & Colours	bonito	pretty	pr
+L2	The Flat & Colours	feo	ugly	pr
+L2	The Flat & Colours	nuevo	new	pr
+L2	The Flat & Colours	viejo	old	pr
+L2	The Flat & Colours	moderno	modern	pr
+L2	The Flat & Colours	luminoso	bright	pr
+L2	The Flat & Colours	pero	but	vez
+L3	Everyday Verbs & the Week	hablar	to speak	gl
+L3	Everyday Verbs & the Week	trabajar	to work	gl
+L3	Everyday Verbs & the Week	vivir	to live	gl
+L3	Everyday Verbs & the Week	estudiar	to study	gl
+L3	Everyday Verbs & the Week	comer	to eat	gl
+L3	Everyday Verbs & the Week	beber	to drink	gl
+L3	Everyday Verbs & the Week	mirar	to look at	gl
+L3	Everyday Verbs & the Week	ver	to see; to watch	gl
+L3	Everyday Verbs & the Week	escuchar	to listen to	gl
+L3	Everyday Verbs & the Week	cocinar	to cook	gl
+L3	Everyday Verbs & the Week	cantar	to sing	gl
+L3	Everyday Verbs & the Week	bailar	to dance	gl
+L3	Everyday Verbs & the Week	caminar	to walk	gl
+L3	Everyday Verbs & the Week	leer	to read	gl
+L3	Everyday Verbs & the Week	escribir	to write	gl
+L3	Everyday Verbs & the Week	aprender	to learn	gl
+L3	Everyday Verbs & the Week	comprender	to understand	gl
+L3	Everyday Verbs & the Week	abrir	to open	gl
+L3	Everyday Verbs & the Week	llamar	to call	gl
+L3	Everyday Verbs & the Week	tomar	to take; to have (a drink)	gl
+L3	Everyday Verbs & the Week	llegar	to arrive	gl
+L3	Everyday Verbs & the Week	necesitar	to need	gl
+L3	Everyday Verbs & the Week	visitar	to visit	gl
+L3	Everyday Verbs & the Week	el día	day	im
+L3	Everyday Verbs & the Week	la semana	week	im
+L3	Everyday Verbs & the Week	lunes	Monday	im
+L3	Everyday Verbs & the Week	martes	Tuesday	im
+L3	Everyday Verbs & the Week	miércoles	Wednesday	im
+L3	Everyday Verbs & the Week	jueves	Thursday	im
+L3	Everyday Verbs & the Week	viernes	Friday	im
+L3	Everyday Verbs & the Week	sábado	Saturday	im
+L3	Everyday Verbs & the Week	domingo	Sunday	im
+L3	Everyday Verbs & the Week	el fin de semana	weekend	im
+L3	Everyday Verbs & the Week	la mañana	morning	im
+L3	Everyday Verbs & the Week	la tarde	afternoon; evening	im
+L3	Everyday Verbs & the Week	la noche	night	im
+L3	Everyday Verbs & the Week	hoy	today	pril
+L3	Everyday Verbs & the Week	a menudo	often	izraz
+L3	Everyday Verbs & the Week	siempre	always	pril
+L3	Everyday Verbs & the Week	a veces	sometimes	izraz
+L3	Everyday Verbs & the Week	cuándo	when	pril
+L3	Everyday Verbs & the Week	cuál	which	zam
+L3	Everyday Verbs & the Week	por qué	why	izraz
+L3	Everyday Verbs & the Week	porque	because	vez
+L3	Everyday Verbs & the Week	el trabajo	work; job	im
+L3	Everyday Verbs & the Week	la universidad	university	im
+L3	Everyday Verbs & the Week	la oficina	office	im
+L3	Everyday Verbs & the Week	el idioma	language	im
+L3	Everyday Verbs & the Week	el español	Spanish (language)	im
+L3	Everyday Verbs & the Week	también	also	pril
+L3	Everyday Verbs & the Week	mucho	a lot	pril
+L3	Everyday Verbs & the Week	todos los días	every day	izraz
+L3	Everyday Verbs & the Week	a	to; at; (personal a)	prij
+L3	Everyday Verbs & the Week	en	in; at; on	prij
+L3	Everyday Verbs & the Week	con	with	prij
+L4	Family & Age	la madre	mother	im
+L4	Family & Age	la mamá	mum	im
+L4	Family & Age	el padre	father	im
+L4	Family & Age	el papá	dad	im
+L4	Family & Age	los padres	parents	im
+L4	Family & Age	el hermano	brother	im
+L4	Family & Age	la hermana	sister	im
+L4	Family & Age	el hijo	son	im
+L4	Family & Age	la hija	daughter	im
+L4	Family & Age	los hijos	children (sons and daughters)	im
+L4	Family & Age	el niño, la niña	child; boy; girl	im
+L4	Family & Age	el marido	husband	im
+L4	Family & Age	la mujer	woman; wife	im
+L4	Family & Age	el hombre	man	im
+L4	Family & Age	el abuelo	grandfather	im
+L4	Family & Age	la abuela	grandmother	im
+L4	Family & Age	los abuelos	grandparents	im
+L4	Family & Age	el tío	uncle	im
+L4	Family & Age	la tía	aunt	im
+L4	Family & Age	el primo, la prima	cousin	im
+L4	Family & Age	el sobrino, la sobrina	nephew; niece	im
+L4	Family & Age	el nieto, la nieta	grandson; granddaughter	im
+L4	Family & Age	el amigo, la amiga	friend	im
+L4	Family & Age	el novio, la novia	boyfriend; girlfriend	im
+L4	Family & Age	el vecino, la vecina	neighbour	im
+L4	Family & Age	el perro	dog	im
+L4	Family & Age	el gato	cat	im
+L4	Family & Age	tener	to have	gl
+L4	Family & Age	tengo … años	I am … years old	izraz
+L4	Family & Age	el año	year	im
+L4	Family & Age	el cumpleaños	birthday	im
+L4	Family & Age	joven	young	pr
+L4	Family & Age	mayor	older; elderly	pr
+L4	Family & Age	menor	younger	pr
+L4	Family & Age	casado	married	pr
+L4	Family & Age	soltero	single	pr
+L4	Family & Age	mi, mis	my	zam
+L4	Family & Age	tu, tus	your	zam
+L4	Family & Age	su, sus	his; her; their; your (formal)	zam
+L4	Family & Age	nuestro	our	zam
+L4	Family & Age	vuestro	your (plural)	zam
+L4	Family & Age	simpático	nice; friendly	pr
+L4	Family & Age	amable	kind	pr
+L4	Family & Age	guapo	good-looking	pr
+L4	Family & Age	alto	tall	pr
+L4	Family & Age	bajo	short	pr
+L4	Family & Age	hacer	to do; to make	gl
+L4	Family & Age	poner	to put	gl
+L4	Family & Age	salir	to go out; to leave	gl
+L4	Family & Age	dar	to give	gl
+L4	Family & Age	saber	to know (a fact)	gl
+L4	Family & Age	conocer	to know (a person, place)	gl
+L4	Family & Age	traer	to bring	gl
+L4	Family & Age	el apellido	surname	im
+L4	Family & Age	el nombre	name	im
+L4	Family & Age	el bebé	baby	im
+L5	Food & Quantities	el mercado	market	im
+L5	Food & Quantities	el pan	bread	im
+L5	Food & Quantities	el queso	cheese	im
+L5	Food & Quantities	la mantequilla	butter	im
+L5	Food & Quantities	la leche	milk	im
+L5	Food & Quantities	el huevo	egg	im
+L5	Food & Quantities	la carne	meat	im
+L5	Food & Quantities	el pollo	chicken	im
+L5	Food & Quantities	el pescado	fish (food)	im
+L5	Food & Quantities	el jamón	ham	im
+L5	Food & Quantities	la manzana	apple	im
+L5	Food & Quantities	la pera	pear	im
+L5	Food & Quantities	la naranja	orange	im
+L5	Food & Quantities	la fresa	strawberry	im
+L5	Food & Quantities	la uva	grape	im
+L5	Food & Quantities	el limón	lemon	im
+L5	Food & Quantities	el tomate	tomato	im
+L5	Food & Quantities	la patata	potato	im
+L5	Food & Quantities	la zanahoria	carrot	im
+L5	Food & Quantities	la cebolla	onion	im
+L5	Food & Quantities	la lechuga	lettuce	im
+L5	Food & Quantities	el arroz	rice	im
+L5	Food & Quantities	el azúcar	sugar	im
+L5	Food & Quantities	la sal	salt	im
+L5	Food & Quantities	el aceite	oil	im
+L5	Food & Quantities	el agua (f)	water	im
+L5	Food & Quantities	el zumo	juice	im
+L5	Food & Quantities	el vino	wine	im
+L5	Food & Quantities	la cerveza	beer	im
+L5	Food & Quantities	el kilo	kilo	im
+L5	Food & Quantities	el gramo	gram	im
+L5	Food & Quantities	el litro	litre	im
+L5	Food & Quantities	la botella	bottle	im
+L5	Food & Quantities	la docena	dozen	im
+L5	Food & Quantities	la barra de pan	loaf; baguette	izraz
+L5	Food & Quantities	la fruta	fruit	im
+L5	Food & Quantities	la verdura	vegetables	im
+L5	Food & Quantities	quiero	I want	izraz
+L5	Food & Quantities	quisiera	I would like	izraz
+L5	Food & Quantities	¿cuánto cuesta?	how much is it?	izraz
+L5	Food & Quantities	comprar	to buy	gl
+L5	Food & Quantities	costar	to cost	gl
+L5	Food & Quantities	pagar	to pay	gl
+L5	Food & Quantities	el céntimo	cent	im
+L5	Food & Quantities	el precio	price	im
+L5	Food & Quantities	caro	expensive	pr
+L5	Food & Quantities	barato	cheap	pr
+L5	Food & Quantities	bueno	good	pr
+L5	Food & Quantities	fresco	fresh	pr
+L5	Food & Quantities	poco	little; few	pril
+L5	Food & Quantities	este, esta	this	zam
+L5	Food & Quantities	ese, esa	that	zam
+L5	Food & Quantities	aquel, aquella	that (over there)	zam
+L5	Food & Quantities	la tienda	shop	im
+L5	Food & Quantities	el supermercado	supermarket	im
+L5	Food & Quantities	algo más	anything else	izraz
+L5	Food & Quantities	cien	hundred	broj
+L5	Food & Quantities	sesenta	sixty	broj
+L5	Food & Quantities	setenta	seventy	broj
+L5	Food & Quantities	ochenta	eighty	broj
+L5	Food & Quantities	noventa	ninety	broj
+L6	City & Directions	la calle	street	im
+L6	City & Directions	la avenida	avenue	im
+L6	City & Directions	el barrio	neighbourhood	im
+L6	City & Directions	el centro	centre	im
+L6	City & Directions	la estación	station	im
+L6	City & Directions	la parada	stop	im
+L6	City & Directions	el museo	museum	im
+L6	City & Directions	la iglesia	church	im
+L6	City & Directions	el hospital	hospital	im
+L6	City & Directions	el colegio	school	im
+L6	City & Directions	correos	post office	im
+L6	City & Directions	el ayuntamiento	town hall	im
+L6	City & Directions	la biblioteca	library	im
+L6	City & Directions	el puente	bridge	im
+L6	City & Directions	el semáforo	traffic light	im
+L6	City & Directions	el cruce	crossroads	im
+L6	City & Directions	la esquina	corner	im
+L6	City & Directions	el mapa	map	im
+L6	City & Directions	la panadería	bakery	im
+L6	City & Directions	el quiosco	kiosk	im
+L6	City & Directions	el metro	underground	im
+L6	City & Directions	estar	to be (location, state)	gl
+L6	City & Directions	ir	to go	gl
+L6	City & Directions	girar	to turn	gl
+L6	City & Directions	cruzar	to cross	gl
+L6	City & Directions	seguir	to follow; to continue	gl
+L6	City & Directions	buscar	to look for	gl
+L6	City & Directions	encontrar	to find	gl
+L6	City & Directions	al	to the	prij
+L6	City & Directions	del	of the; from the	prij
+L6	City & Directions	a la derecha	on the right	izraz
+L6	City & Directions	a la izquierda	on the left	izraz
+L6	City & Directions	todo recto	straight on	izraz
+L6	City & Directions	cerca de	near	prij
+L6	City & Directions	lejos de	far from	prij
+L6	City & Directions	al lado de	next to	prij
+L6	City & Directions	delante de	in front of	prij
+L6	City & Directions	detrás de	behind	prij
+L6	City & Directions	encima de	on top of	prij
+L6	City & Directions	debajo de	under	prij
+L6	City & Directions	entre	between	prij
+L6	City & Directions	enfrente de	opposite	prij
+L6	City & Directions	aquí	here	pril
+L6	City & Directions	allí	there	pril
+L6	City & Directions	después	after; afterwards	pril
+L6	City & Directions	primero	first	pril
+L6	City & Directions	luego	then; later	pril
+L6	City & Directions	la acera	pavement	im
+L6	City & Directions	segundo	second	broj
+L6	City & Directions	tercero	third	broj
+L6	City & Directions	a pie	on foot	izraz
+L6	City & Directions	en autobús	by bus	izraz
+L6	City & Directions	perdido	lost	pr
+L6	City & Directions	¿dónde está …?	where is …?	izraz
+L6	City & Directions	¿está lejos?	is it far?	izraz
+L6	City & Directions	la gasolinera	petrol station	im
+L6	City & Directions	el aparcamiento	car park	im
+L6	City & Directions	la catedral	cathedral	im
+L6	City & Directions	el edificio	building	im
+L6	City & Directions	el turista, la turista	tourist	im
+L6	City & Directions	la oficina de turismo	tourist office	izraz
+L7	Hobbies & Sport	el tiempo libre	free time	izraz
+L7	Hobbies & Sport	el pasatiempo	hobby	im
+L7	Hobbies & Sport	gustar	to like (to please)	gl
+L7	Hobbies & Sport	me gusta	I like	izraz
+L7	Hobbies & Sport	me encanta	I love	izraz
+L7	Hobbies & Sport	encantar	to love (to delight)	gl
+L7	Hobbies & Sport	tampoco	neither; not either	pril
+L7	Hobbies & Sport	querer	to want; to love	gl
+L7	Hobbies & Sport	preferir	to prefer	gl
+L7	Hobbies & Sport	pensar	to think	gl
+L7	Hobbies & Sport	empezar	to start	gl
+L7	Hobbies & Sport	poder	can; to be able to	gl
+L7	Hobbies & Sport	volver	to return	gl
+L7	Hobbies & Sport	dormir	to sleep	gl
+L7	Hobbies & Sport	jugar	to play	gl
+L7	Hobbies & Sport	nadar	to swim	gl
+L7	Hobbies & Sport	correr	to run	gl
+L7	Hobbies & Sport	viajar	to travel	gl
+L7	Hobbies & Sport	dibujar	to draw	gl
+L7	Hobbies & Sport	pintar	to paint	gl
+L7	Hobbies & Sport	tocar	to play (an instrument); to touch	gl
+L7	Hobbies & Sport	montar en bici	to ride a bike	izraz
+L7	Hobbies & Sport	dar un paseo	to go for a walk	izraz
+L7	Hobbies & Sport	la bicicleta	bicycle	im
+L7	Hobbies & Sport	la natación	swimming	im
+L7	Hobbies & Sport	el gimnasio	gym	im
+L7	Hobbies & Sport	el esquí	skiing	im
+L7	Hobbies & Sport	el baloncesto	basketball	im
+L7	Hobbies & Sport	el partido	match	im
+L7	Hobbies & Sport	el equipo	team	im
+L7	Hobbies & Sport	el balón	ball	im
+L7	Hobbies & Sport	la guitarra	guitar	im
+L7	Hobbies & Sport	el piano	piano	im
+L7	Hobbies & Sport	el juego	game	im
+L7	Hobbies & Sport	el videojuego	video game	im
+L7	Hobbies & Sport	el concierto	concert	im
+L7	Hobbies & Sport	la exposición	exhibition	im
+L7	Hobbies & Sport	la piscina	swimming pool	im
+L7	Hobbies & Sport	el estadio	stadium	im
+L7	Hobbies & Sport	la canción	song	im
+L7	Hobbies & Sport	el baile	dance	im
+L7	Hobbies & Sport	la fotografía	photography	im
+L7	Hobbies & Sport	el cómic	comic	im
+L7	Hobbies & Sport	la novela	novel	im
+L7	Hobbies & Sport	la serie	series	im
+L7	Hobbies & Sport	el paseo	walk	im
+L7	Hobbies & Sport	el aficionado, la aficionada	fan	im
+L7	Hobbies & Sport	favorito	favourite	pr
+L7	Hobbies & Sport	aburrido	boring; bored	pr
+L7	Hobbies & Sport	divertido	fun	pr
+L7	Hobbies & Sport	interesante	interesting	pr
+L7	Hobbies & Sport	cansado	tired	pr
+L7	Hobbies & Sport	cada	each; every	pr
+L7	Hobbies & Sport	juntos	together	pr
+L7	Hobbies & Sport	el senderismo	hiking	im
+L7	Hobbies & Sport	el ajedrez	chess	im
+L7	Hobbies & Sport	la playa	beach	im
+L7	Hobbies & Sport	el campo	countryside; field	im
+L7	Hobbies & Sport	odiar	to hate	gl
+L7	Hobbies & Sport	ganar	to win; to earn	gl
+L8	Routine & Time	despertarse	to wake up	gl
+L8	Routine & Time	levantarse	to get up	gl
+L8	Routine & Time	lavarse	to wash (oneself)	gl
+L8	Routine & Time	ducharse	to have a shower	gl
+L8	Routine & Time	vestirse	to get dressed	gl
+L8	Routine & Time	peinarse	to comb one's hair	gl
+L8	Routine & Time	maquillarse	to put on make-up	gl
+L8	Routine & Time	afeitarse	to shave	gl
+L8	Routine & Time	cepillarse los dientes	to brush one's teeth	izraz
+L8	Routine & Time	acostarse	to go to bed	gl
+L8	Routine & Time	dormirse	to fall asleep	gl
+L8	Routine & Time	relajarse	to relax	gl
+L8	Routine & Time	darse prisa	to hurry	izraz
+L8	Routine & Time	sentirse	to feel	gl
+L8	Routine & Time	llamarse	to be called	gl
+L8	Routine & Time	pedir	to ask for; to order	gl
+L8	Routine & Time	conseguir	to get; to achieve	gl
+L8	Routine & Time	desayunar	to have breakfast	gl
+L8	Routine & Time	almorzar	to have lunch	gl
+L8	Routine & Time	cenar	to have dinner	gl
+L8	Routine & Time	el desayuno	breakfast	im
+L8	Routine & Time	la comida	lunch; food	im
+L8	Routine & Time	la cena	dinner	im
+L8	Routine & Time	la hora	hour; time	im
+L8	Routine & Time	la media hora	half an hour	im
+L8	Routine & Time	¿qué hora es?	what time is it?	izraz
+L8	Routine & Time	es la una	it's one o'clock	izraz
+L8	Routine & Time	son las …	it's … o'clock	izraz
+L8	Routine & Time	y media	half past	izraz
+L8	Routine & Time	y cuarto	quarter past	izraz
+L8	Routine & Time	menos cuarto	quarter to	izraz
+L8	Routine & Time	el mediodía	midday	im
+L8	Routine & Time	la medianoche	midnight	im
+L8	Routine & Time	el minuto	minute	im
+L8	Routine & Time	el segundo	second	im
+L8	Routine & Time	el despertador	alarm clock	im
+L8	Routine & Time	la ducha	shower	im
+L8	Routine & Time	el jabón	soap	im
+L8	Routine & Time	el cepillo de dientes	toothbrush	izraz
+L8	Routine & Time	la pasta de dientes	toothpaste	izraz
+L8	Routine & Time	la toalla	towel	im
+L8	Routine & Time	temprano	early	pril
+L8	Routine & Time	tarde	late	pril
+L8	Routine & Time	pronto	soon; early	pril
+L8	Routine & Time	llegar tarde	to be late	izraz
+L8	Routine & Time	a tiempo	on time	izraz
+L8	Routine & Time	deprisa	quickly	pril
+L8	Routine & Time	despacio	slowly	pril
+L8	Routine & Time	normalmente	normally; usually	pril
+L8	Routine & Time	antes de	before	prij
+L8	Routine & Time	durante	during	prij
+L8	Routine & Time	hacia	towards; around	prij
+L8	Routine & Time	el compañero, la compañera	colleague; classmate	im
+L8	Routine & Time	la rutina	routine	im
+L8	Routine & Time	el horario	timetable; schedule	im
+L8	Routine & Time	la siesta	nap	im
+L8	Routine & Time	solo	alone; only	pr
+L8	Routine & Time	casi	almost	pril
+L8	Routine & Time	nunca	never	pril
+L8	Routine & Time	el reloj	watch; clock	im
+L9	Weather, Months & Plans	el tiempo	weather; time	im
+L9	Weather, Months & Plans	hace calor	it's hot	izraz
+L9	Weather, Months & Plans	hace frío	it's cold	izraz
+L9	Weather, Months & Plans	hace sol	it's sunny	izraz
+L9	Weather, Months & Plans	hace viento	it's windy	izraz
+L9	Weather, Months & Plans	hace buen tiempo	the weather is nice	izraz
+L9	Weather, Months & Plans	hace mal tiempo	the weather is bad	izraz
+L9	Weather, Months & Plans	llueve	it's raining	izraz
+L9	Weather, Months & Plans	nieva	it's snowing	izraz
+L9	Weather, Months & Plans	llover	to rain	gl
+L9	Weather, Months & Plans	nevar	to snow	gl
+L9	Weather, Months & Plans	el sol	sun	im
+L9	Weather, Months & Plans	la lluvia	rain	im
+L9	Weather, Months & Plans	la nieve	snow	im
+L9	Weather, Months & Plans	el viento	wind	im
+L9	Weather, Months & Plans	la nube	cloud	im
+L9	Weather, Months & Plans	la tormenta	storm	im
+L9	Weather, Months & Plans	el pronóstico	forecast	im
+L9	Weather, Months & Plans	el grado	degree	im
+L9	Weather, Months & Plans	la estación (del año)	season	izraz
+L9	Weather, Months & Plans	la primavera	spring	im
+L9	Weather, Months & Plans	el verano	summer	im
+L9	Weather, Months & Plans	el otoño	autumn	im
+L9	Weather, Months & Plans	el invierno	winter	im
+L9	Weather, Months & Plans	el mes	month	im
+L9	Weather, Months & Plans	enero	January	im
+L9	Weather, Months & Plans	febrero	February	im
+L9	Weather, Months & Plans	marzo	March	im
+L9	Weather, Months & Plans	abril	April	im
+L9	Weather, Months & Plans	mayo	May	im
+L9	Weather, Months & Plans	junio	June	im
+L9	Weather, Months & Plans	julio	July	im
+L9	Weather, Months & Plans	agosto	August	im
+L9	Weather, Months & Plans	septiembre	September	im
+L9	Weather, Months & Plans	octubre	October	im
+L9	Weather, Months & Plans	noviembre	November	im
+L9	Weather, Months & Plans	diciembre	December	im
+L9	Weather, Months & Plans	la fecha	date	im
+L9	Weather, Months & Plans	mañana	tomorrow	pril
+L9	Weather, Months & Plans	pasado mañana	the day after tomorrow	pril
+L9	Weather, Months & Plans	próximo	next	pr
+L9	Weather, Months & Plans	el plan	plan	im
+L9	Weather, Months & Plans	ir a + infinitivo	to be going to	izraz
+L9	Weather, Months & Plans	tener que	to have to	izraz
+L9	Weather, Months & Plans	quedar	to meet up; to arrange	gl
+L9	Weather, Months & Plans	quedarse	to stay	gl
+L9	Weather, Months & Plans	invitar	to invite	gl
+L9	Weather, Months & Plans	esperar	to wait; to hope	gl
+L9	Weather, Months & Plans	la cita	appointment; date	im
+L9	Weather, Months & Plans	vale	OK	izraz
+L9	Weather, Months & Plans	de acuerdo	agreed	izraz
+L9	Weather, Months & Plans	quizás	maybe	pril
+L9	Weather, Months & Plans	entonces	then; so	pril
+L9	Weather, Months & Plans	algo	something	zam
+L9	Weather, Months & Plans	nada	nothing	zam
+L9	Weather, Months & Plans	alguien	someone	zam
+L9	Weather, Months & Plans	nadie	nobody	zam
+L9	Weather, Months & Plans	el mar	sea	im
+L9	Weather, Months & Plans	la montaña	mountain	im
+L9	Weather, Months & Plans	el paraguas	umbrella	im
+L9	Weather, Months & Plans	¿diga?	hello? (phone)	izraz
+L9	Weather, Months & Plans	caluroso	hot (day)	pr
+L9	Weather, Months & Plans	frío	cold	pr
+L9	Weather, Months & Plans	nublado	cloudy	pr
+L10	Recent Events	esta semana	this week	izraz
+L10	Recent Events	este mes	this month	izraz
+L10	Recent Events	esta mañana	this morning	izraz
+L10	Recent Events	el lunes que viene	next Monday	izraz
+L10	Recent Events	ya	already	pril
+L10	Recent Events	todavía no	not yet	izraz
+L10	Recent Events	todavía	still	pril
+L10	Recent Events	acabar de	to have just (done)	izraz
+L10	Recent Events	alguna vez	ever	izraz
+L10	Recent Events	el viaje de trabajo	business trip	izraz
+L10	Recent Events	la entrada	ticket (event); entrance	im
+L10	Recent Events	limpiar	to clean	gl
+L10	Recent Events	ordenar	to tidy	gl
+L10	Recent Events	hacer la compra	to do the shopping	izraz
+L10	Recent Events	olvidar	to forget	gl
+L10	Recent Events	recibir	to receive	gl
+L10	Recent Events	contar	to tell; to count	gl
+L10	Recent Events	enseñar	to show; to teach	gl
+L10	Recent Events	perder	to lose; to miss	gl
+L10	Recent Events	reír	to laugh	gl
+L10	Recent Events	llorar	to cry	gl
+L10	Recent Events	cerrar	to close	gl
+L10	Recent Events	responder	to answer	gl
+L10	Recent Events	preguntar	to ask	gl
+L10	Recent Events	decir	to say; to tell	gl
+L10	Recent Events	romper	to break	gl
+L10	Recent Events	descubrir	to discover	gl
+L10	Recent Events	terminar	to finish	gl
+L10	Recent Events	la fiesta	party	im
+L10	Recent Events	el periódico	newspaper	im
+L10	Recent Events	la revista	magazine	im
+L10	Recent Events	la carta	letter; menu	im
+L10	Recent Events	el mensaje	message	im
+L10	Recent Events	la noticia	news	im
+L10	Recent Events	el correo electrónico	email	izraz
+L10	Recent Events	la excursión	trip; outing	im
+L10	Recent Events	el recuerdo	memory; souvenir	im
+L10	Recent Events	la vez	time (occasion)	im
+L10	Recent Events	una vez	once	izraz
+L10	Recent Events	genial	great	pr
+L10	Recent Events	estupendo	wonderful	pr
+L10	Recent Events	horrible	horrible	pr
+L10	Recent Events	regular	so-so	pr
+L10	Recent Events	no está mal	not bad	izraz
+L10	Recent Events	por fin	at last	izraz
+L10	Recent Events	de repente	suddenly	izraz
+L10	Recent Events	mucho tiempo	a long time	izraz
+L10	Recent Events	el camarero, la camarera	waiter; waitress	im
+L10	Recent Events	la cuenta	bill	im
+L10	Recent Events	la propina	tip	im
+L10	Recent Events	el plato	dish; plate	im
+L10	Recent Events	el postre	dessert	im
+L10	Recent Events	las tapas	tapas	im
+L10	Recent Events	la reunión	meeting	im
+L10	Recent Events	el examen	exam	im
+L10	Recent Events	el resultado	result	im
+L10	Recent Events	el móvil	mobile phone	im
+L10	Recent Events	la sorpresa	surprise	im
+L11	Trains & Trips	el coche	car	im
+L11	Trains & Trips	el avión	plane	im
+L11	Trains & Trips	el barco	boat	im
+L11	Trains & Trips	el ferri	ferry	im
+L11	Trains & Trips	el tranvía	tram	im
+L11	Trains & Trips	el billete	ticket	im
+L11	Trains & Trips	de ida y vuelta	return (ticket)	izraz
+L11	Trains & Trips	de ida	single (ticket)	izraz
+L11	Trains & Trips	el andén	platform	im
+L11	Trains & Trips	la vía	track	im
+L11	Trains & Trips	la taquilla	ticket office	im
+L11	Trains & Trips	la salida	departure; exit	im
+L11	Trains & Trips	la llegada	arrival	im
+L11	Trains & Trips	el retraso	delay	im
+L11	Trains & Trips	la maleta	suitcase	im
+L11	Trains & Trips	la mochila	rucksack	im
+L11	Trains & Trips	el pasaporte	passport	im
+L11	Trains & Trips	el DNI	identity card	im
+L11	Trains & Trips	el aeropuerto	airport	im
+L11	Trains & Trips	el vuelo	flight	im
+L11	Trains & Trips	el pasajero, la pasajera	passenger	im
+L11	Trains & Trips	el viajero, la viajera	traveller	im
+L11	Trains & Trips	la reserva	booking	im
+L11	Trains & Trips	la habitación doble	double room	izraz
+L11	Trains & Trips	la recepción	reception	im
+L11	Trains & Trips	el lago	lake	im
+L11	Trains & Trips	el castillo	castle	im
+L11	Trains & Trips	la vista	view	im
+L11	Trains & Trips	las vacaciones	holidays	im
+L11	Trains & Trips	el viaje	trip; journey	im
+L11	Trains & Trips	la frontera	border	im
+L11	Trains & Trips	la postal	postcard	im
+L11	Trains & Trips	el kilómetro	kilometre	im
+L11	Trains & Trips	el norte	north	im
+L11	Trains & Trips	el sur	south	im
+L11	Trains & Trips	el este	east	im
+L11	Trains & Trips	el oeste	west	im
+L11	Trains & Trips	subir	to go up; to get on	gl
+L11	Trains & Trips	bajar	to go down; to get off	gl
+L11	Trains & Trips	entrar	to enter	gl
+L11	Trains & Trips	caer	to fall	gl
+L11	Trains & Trips	nacer	to be born	gl
+L11	Trains & Trips	morir	to die	gl
+L11	Trains & Trips	conducir	to drive	gl
+L11	Trains & Trips	cambiar	to change	gl
+L11	Trains & Trips	alquilar	to rent; to hire	gl
+L11	Trains & Trips	reservar	to book	gl
+L11	Trains & Trips	irse de vacaciones	to go on holiday	izraz
+L11	Trains & Trips	en coche	by car	izraz
+L11	Trains & Trips	en avión	by plane	izraz
+L11	Trains & Trips	en tren	by train	izraz
+L11	Trains & Trips	directo	direct	pr
+L11	Trains & Trips	lleno	full	pr
+L11	Trains & Trips	libre	free	pr
+L11	Trains & Trips	ocupado	busy; taken	pr
+L11	Trains & Trips	por	through; by; for	prij
+L11	Trains & Trips	para	for; in order to	prij
+L11	Trains & Trips	hace (+ tiempo)	ago	izraz
+L11	Trains & Trips	ayer	yesterday	pril
+L11	Trains & Trips	anteayer	the day before yesterday	pril
+L11	Trains & Trips	anoche	last night	pril
+L11	Trains & Trips	pasado	last (past)	pr
+L11	Trains & Trips	el pasado	the past	im
+L11	Trains & Trips	el monumento	monument	im
+L11	Trains & Trips	el guía, la guía	guide	im
+L12	Clothes & Shops	la ropa	clothes	im
+L12	Clothes & Shops	la camisa	shirt	im
+L12	Clothes & Shops	la camiseta	T-shirt	im
+L12	Clothes & Shops	el jersey	jumper	im
+L12	Clothes & Shops	los pantalones	trousers	im
+L12	Clothes & Shops	los vaqueros	jeans	im
+L12	Clothes & Shops	la falda	skirt	im
+L12	Clothes & Shops	el vestido	dress	im
+L12	Clothes & Shops	la chaqueta	jacket	im
+L12	Clothes & Shops	el abrigo	coat	im
+L12	Clothes & Shops	el traje	suit	im
+L12	Clothes & Shops	la corbata	tie	im
+L12	Clothes & Shops	los zapatos	shoes	im
+L12	Clothes & Shops	las zapatillas	trainers; slippers	im
+L12	Clothes & Shops	las botas	boots	im
+L12	Clothes & Shops	los calcetines	socks	im
+L12	Clothes & Shops	el sombrero	hat	im
+L12	Clothes & Shops	la bufanda	scarf	im
+L12	Clothes & Shops	las gafas	glasses	im
+L12	Clothes & Shops	el cinturón	belt	im
+L12	Clothes & Shops	la talla	size	im
+L12	Clothes & Shops	el número	number; shoe size	im
+L12	Clothes & Shops	el probador	fitting room	im
+L12	Clothes & Shops	el dependiente, la dependienta	shop assistant	im
+L12	Clothes & Shops	el cliente, la clienta	customer	im
+L12	Clothes & Shops	la caja (tienda)	till	izraz
+L12	Clothes & Shops	las rebajas	sales	im
+L12	Clothes & Shops	el descuento	discount	im
+L12	Clothes & Shops	la tarjeta	card	im
+L12	Clothes & Shops	el recibo	receipt	im
+L12	Clothes & Shops	probarse	to try on	gl
+L12	Clothes & Shops	llevar	to wear; to carry	gl
+L12	Clothes & Shops	ponerse	to put on	gl
+L12	Clothes & Shops	quitarse	to take off	gl
+L12	Clothes & Shops	quedar bien	to suit; to fit	izraz
+L12	Clothes & Shops	largo	long	pr
+L12	Clothes & Shops	corto	short	pr
+L12	Clothes & Shops	ancho	wide; loose	pr
+L12	Clothes & Shops	estrecho	tight; narrow	pr
+L12	Clothes & Shops	delgado	thin	pr
+L12	Clothes & Shops	gordo	fat	pr
+L12	Clothes & Shops	rubio	blond	pr
+L12	Clothes & Shops	moreno	dark-haired; tanned	pr
+L12	Clothes & Shops	pelirrojo	red-haired	pr
+L12	Clothes & Shops	el pelo	hair	im
+L12	Clothes & Shops	los ojos	eyes	im
+L12	Clothes & Shops	la barba	beard	im
+L12	Clothes & Shops	elegante	elegant	pr
+L12	Clothes & Shops	de moda	fashionable	izraz
+L12	Clothes & Shops	el estilo	style	im
+L12	Clothes & Shops	la entrevista	interview	im
+L12	Clothes & Shops	el centro comercial	shopping centre	izraz
+L12	Clothes & Shops	el algodón	cotton	im
+L12	Clothes & Shops	la lana	wool	im
+L12	Clothes & Shops	el cuero	leather	im
+L12	Clothes & Shops	claro	light; clear	pr
+L12	Clothes & Shops	oscuro	dark	pr
+L12	Clothes & Shops	más … que	more … than	izraz
+L12	Clothes & Shops	menos	less	pril
+L12	Clothes & Shops	demasiado	too; too much	pril
+L12	Clothes & Shops	bastante	quite; enough	pril
+L12	Clothes & Shops	contento	happy	pr
+L12	Clothes & Shops	nervioso	nervous	pr
+L12	Clothes & Shops	listo	ready; clever	pr
+L12	Clothes & Shops	precioso	lovely	pr
+L12	Clothes & Shops	el escaparate	shop window	im
+L13	The Body & the Doctor	el cuerpo	body	im
+L13	The Body & the Doctor	la cabeza	head	im
+L13	The Body & the Doctor	la cara	face	im
+L13	The Body & the Doctor	el ojo	eye	im
+L13	The Body & the Doctor	la nariz	nose	im
+L13	The Body & the Doctor	la boca	mouth	im
+L13	The Body & the Doctor	la oreja	ear	im
+L13	The Body & the Doctor	el diente	tooth	im
+L13	The Body & the Doctor	la muela	molar	im
+L13	The Body & the Doctor	el cuello	neck	im
+L13	The Body & the Doctor	la garganta	throat	im
+L13	The Body & the Doctor	el hombro	shoulder	im
+L13	The Body & the Doctor	el brazo	arm	im
+L13	The Body & the Doctor	la mano	hand	im
+L13	The Body & the Doctor	el dedo	finger	im
+L13	The Body & the Doctor	la espalda	back	im
+L13	The Body & the Doctor	el estómago	stomach	im
+L13	The Body & the Doctor	la barriga	belly	im
+L13	The Body & the Doctor	el corazón	heart	im
+L13	The Body & the Doctor	la pierna	leg	im
+L13	The Body & the Doctor	la rodilla	knee	im
+L13	The Body & the Doctor	el pie	foot	im
+L13	The Body & the Doctor	el tobillo	ankle	im
+L13	The Body & the Doctor	la muñeca	wrist; doll	im
+L13	The Body & the Doctor	la piel	skin	im
+L13	The Body & the Doctor	la sangre	blood	im
+L13	The Body & the Doctor	el médico, la médica	doctor	im
+L13	The Body & the Doctor	el enfermero, la enfermera	nurse	im
+L13	The Body & the Doctor	el dentista, la dentista	dentist	im
+L13	The Body & the Doctor	el centro de salud	health centre	izraz
+L13	The Body & the Doctor	el paciente, la paciente	patient	im
+L13	The Body & the Doctor	la enfermedad	illness	im
+L13	The Body & the Doctor	enfermo	ill	pr
+L13	The Body & the Doctor	la gripe	flu	im
+L13	The Body & the Doctor	el resfriado	cold	im
+L13	The Body & the Doctor	la fiebre	fever	im
+L13	The Body & the Doctor	la tos	cough	im
+L13	The Body & the Doctor	el dolor	pain	im
+L13	The Body & the Doctor	doler	to hurt	gl
+L13	The Body & the Doctor	me duele	it hurts (me)	izraz
+L13	The Body & the Doctor	la herida	wound	im
+L13	The Body & the Doctor	el medicamento	medicine	im
+L13	The Body & the Doctor	la pastilla	tablet	im
+L13	The Body & the Doctor	la receta	prescription; recipe	im
+L13	The Body & the Doctor	el jarabe	syrup	im
+L13	The Body & the Doctor	la salud	health	im
+L13	The Body & the Doctor	la urgencia	emergency	im
+L13	The Body & the Doctor	la ambulancia	ambulance	im
+L13	The Body & the Doctor	el síntoma	symptom	im
+L13	The Body & the Doctor	toser	to cough	gl
+L13	The Body & the Doctor	romperse	to break (a limb)	gl
+L13	The Body & the Doctor	hacerse daño	to hurt oneself	izraz
+L13	The Body & the Doctor	curarse	to recover	gl
+L13	The Body & the Doctor	descansar	to rest	gl
+L13	The Body & the Doctor	respirar	to breathe	gl
+L13	The Body & the Doctor	tomar la temperatura	to take one's temperature	izraz
+L13	The Body & the Doctor	grave	serious	pr
+L13	The Body & the Doctor	sano	healthy	pr
+L13	The Body & the Doctor	mejor	better	pr
+L13	The Body & the Doctor	peor	worse	pr
+L13	The Body & the Doctor	mal	badly; ill	pril
+L13	The Body & the Doctor	claro que sí	of course	izraz
+L13	The Body & the Doctor	que te mejores	get well soon	izraz
+L13	The Body & the Doctor	¡Jesús!	bless you!	izraz
+L13	The Body & the Doctor	el estrés	stress	im
+L13	The Body & the Doctor	el sueño	sleep; dream	im
+L13	The Body & the Doctor	la alergia	allergy	im
+L13	The Body & the Doctor	la tirita	plaster	im
+L13	The Body & the Doctor	el farmacéutico, la farmacéutica	pharmacist	im
+L13	The Body & the Doctor	fuerte	strong	pr
+L13	The Body & the Doctor	débil	weak	pr
+L13	The Body & the Doctor	pesado	heavy	pr
+L13	The Body & the Doctor	mareado	dizzy	pr
+L13	The Body & the Doctor	el termómetro	thermometer	im
+L13	The Body & the Doctor	la consulta	consultation; surgery	im
+L14	Parties & Presents	el regalo	present	im
+L14	Parties & Presents	regalar	to give (as a present)	gl
+L14	Parties & Presents	mandar	to send	gl
+L14	Parties & Presents	enviar	to send	gl
+L14	Parties & Presents	envolver	to wrap	gl
+L14	Parties & Presents	agradecer	to thank	gl
+L14	Parties & Presents	desear	to wish	gl
+L14	Parties & Presents	organizar	to organise	gl
+L14	Parties & Presents	decorar	to decorate	gl
+L14	Parties & Presents	preparar	to prepare	gl
+L14	Parties & Presents	celebrar	to celebrate	gl
+L14	Parties & Presents	brindar	to toast	gl
+L14	Parties & Presents	aplaudir	to clap	gl
+L14	Parties & Presents	felicitar	to congratulate	gl
+L14	Parties & Presents	¡feliz cumpleaños!	happy birthday!	izraz
+L14	Parties & Presents	¡felicidades!	congratulations!	izraz
+L14	Parties & Presents	¡feliz Navidad!	merry Christmas!	izraz
+L14	Parties & Presents	¡feliz Año Nuevo!	happy New Year!	izraz
+L14	Parties & Presents	¡salud!	cheers!	izraz
+L14	Parties & Presents	la Navidad	Christmas	im
+L14	Parties & Presents	la Nochevieja	New Year's Eve	im
+L14	Parties & Presents	el Año Nuevo	New Year	im
+L14	Parties & Presents	la Semana Santa	Easter week	im
+L14	Parties & Presents	los Reyes Magos	the Three Kings (6 January)	im
+L14	Parties & Presents	el carnaval	carnival	im
+L14	Parties & Presents	la boda	wedding	im
+L14	Parties & Presents	el nacimiento	birth	im
+L14	Parties & Presents	la vela	candle	im
+L14	Parties & Presents	el globo	balloon	im
+L14	Parties & Presents	el cava	cava (sparkling wine)	im
+L14	Parties & Presents	el invitado, la invitada	guest	im
+L14	Parties & Presents	la invitación	invitation	im
+L14	Parties & Presents	el ramo de flores	bunch of flowers	izraz
+L14	Parties & Presents	el perfume	perfume	im
+L14	Parties & Presents	la joya	piece of jewellery	im
+L14	Parties & Presents	el juguete	toy	im
+L14	Parties & Presents	la muñeca (juguete)	doll	izraz
+L14	Parties & Presents	el juego de mesa	board game	izraz
+L14	Parties & Presents	el puzle	jigsaw	im
+L14	Parties & Presents	el papel de regalo	wrapping paper	izraz
+L14	Parties & Presents	el lazo	bow; ribbon	im
+L14	Parties & Presents	la tradición	tradition	im
+L14	Parties & Presents	el ambiente	atmosphere	im
+L14	Parties & Presents	el disfraz	fancy-dress costume	im
+L14	Parties & Presents	la máscara	mask	im
+L14	Parties & Presents	el turrón	turrón (Christmas sweet)	im
+L14	Parties & Presents	las uvas de la suerte	New Year's grapes	izraz
+L14	Parties & Presents	el árbol de Navidad	Christmas tree	izraz
+L14	Parties & Presents	el belén	nativity scene	im
+L14	Parties & Presents	los fuegos artificiales	fireworks	izraz
+L14	Parties & Presents	el Día de la Madre	Mother's Day	izraz
+L14	Parties & Presents	lo, la, los, las (pronombre)	him; her; it; them	zam
+L14	Parties & Presents	le, les	(to) him; (to) her; (to) them	zam
+L14	Parties & Presents	me, te, nos, os	me; you; us; you	zam
+L14	Parties & Presents	feliz	happy	pr
+L14	Parties & Presents	sorprendido	surprised	pr
+L14	Parties & Presents	triste	sad	pr
+L14	Parties & Presents	decepcionado	disappointed	pr
+L14	Parties & Presents	orgulloso	proud	pr
+L14	Parties & Presents	original	original	pr
+L14	Parties & Presents	útil	useful	pr
+L14	Parties & Presents	enseguida	straight away	pril
+L14	Parties & Presents	dentro de poco	soon	izraz
+L14	Parties & Presents	soplar las velas	to blow out the candles	izraz
+L14	Parties & Presents	el cumpleañero, la cumpleañera	birthday boy; birthday girl	im
+L14	Parties & Presents	el dulce	sweet	im
+L14	Parties & Presents	la tarta	cake	im
+L14	Parties & Presents	la fiesta nacional	national holiday	izraz
+L14	Parties & Presents	el aniversario	anniversary	im
+L14	Parties & Presents	el santo	name day	im
+L14	Parties & Presents	la sobremesa	after-meal chat	im
+L14	Parties & Presents	el anfitrión, la anfitriona	host	im
+L14	Parties & Presents	la tarjeta de felicitación	greetings card	izraz
+L15	Childhood & School	la infancia	childhood	im
+L15	Childhood & School	el hijo único, la hija única	only child	izraz
+L15	Childhood & School	el colegio (primaria)	primary school	izraz
+L15	Childhood & School	el instituto	secondary school	im
+L15	Childhood & School	la guardería	nursery	im
+L15	Childhood & School	el aula (f)	classroom	im
+L15	Childhood & School	el maestro, la maestra	primary teacher	im
+L15	Childhood & School	el profesor, la profesora	teacher	im
+L15	Childhood & School	el estudiante, la estudiante	student	im
+L15	Childhood & School	el alumno, la alumna	pupil	im
+L15	Childhood & School	la clase	class; lesson	im
+L15	Childhood & School	el curso	course; school year	im
+L15	Childhood & School	los deberes	homework	im
+L15	Childhood & School	la nota	mark; note	im
+L15	Childhood & School	el recreo	break (school)	im
+L15	Childhood & School	el patio	playground; courtyard	im
+L15	Childhood & School	la pizarra	board	im
+L15	Childhood & School	la regla	ruler; rule	im
+L15	Childhood & School	la goma	rubber	im
+L15	Childhood & School	el estuche	pencil case	im
+L15	Childhood & School	la cartera (escolar)	school bag	izraz
+L15	Childhood & School	el pupitre	school desk	im
+L15	Childhood & School	el comedor	canteen; dining room	im
+L15	Childhood & School	las matemáticas	maths	im
+L15	Childhood & School	la historia	history; story	im
+L15	Childhood & School	la geografía	geography	im
+L15	Childhood & School	las ciencias	science	im
+L15	Childhood & School	la lengua	language; tongue	im
+L15	Childhood & School	la asignatura	subject	im
+L15	Childhood & School	la biología	biology	im
+L15	Childhood & School	la química	chemistry	im
+L15	Childhood & School	la física	physics	im
+L15	Childhood & School	la educación física	PE	izraz
+L15	Childhood & School	el grupo	group	im
+L15	Childhood & School	el escondite	hide-and-seek	im
+L15	Childhood & School	el columpio	swing	im
+L15	Childhood & School	los dibujos animados	cartoons	izraz
+L15	Childhood & School	el campamento	summer camp	im
+L15	Childhood & School	el desván	attic	im
+L15	Childhood & School	el peluche	cuddly toy	im
+L15	Childhood & School	la merienda	afternoon snack	im
+L15	Childhood & School	el compañero de clase	classmate	izraz
+L15	Childhood & School	repetir	to repeat	gl
+L15	Childhood & School	explicar	to explain	gl
+L15	Childhood & School	repasar	to revise	gl
+L15	Childhood & School	crecer	to grow up	gl
+L15	Childhood & School	recordar	to remember	gl
+L15	Childhood & School	acordarse de	to remember	gl
+L15	Childhood & School	castigar	to punish	gl
+L15	Childhood & School	soler	to usually do	gl
+L15	Childhood & School	ser bueno en	to be good at	izraz
+L15	Childhood & School	de pequeño	as a child	izraz
+L15	Childhood & School	antes	before; in the past	pril
+L15	Childhood & School	en aquella época	at that time	izraz
+L15	Childhood & School	cada verano	every summer	izraz
+L15	Childhood & School	obediente	obedient	pr
+L15	Childhood & School	tímido	shy	pr
+L15	Childhood & School	curioso	curious	pr
+L15	Childhood & School	hablador	talkative	pr
+L15	Childhood & School	travieso	naughty	pr
+L15	Childhood & School	estricto	strict	pr
+L15	Childhood & School	fácil	easy	pr
+L15	Childhood & School	difícil	difficult	pr
+L15	Childhood & School	doscientos	two hundred	broj
+L15	Childhood & School	mil	thousand	broj
+L15	Childhood & School	dos mil	two thousand	broj
+L15	Childhood & School	el siglo	century	im
+L15	Childhood & School	el diario	diary	im
+L15	Childhood & School	el dictado	dictation	im
+L15	Childhood & School	el boletín de notas	school report	izraz
+L15	Childhood & School	el cuento	story; tale	im
+L15	Childhood & School	el pueblo	village; town	im
+L16	Moving & Housework	la mudanza	move (house)	im
+L16	Moving & Housework	mudarse	to move house	gl
+L16	Moving & Housework	la caja de cartón	cardboard box	izraz
+L16	Moving & Housework	la furgoneta	van	im
+L16	Moving & Housework	el alquiler	rent	im
+L16	Moving & Housework	el propietario, la propietaria	owner; landlord	im
+L16	Moving & Housework	el inquilino, la inquilina	tenant	im
+L16	Moving & Housework	el edificio de pisos	block of flats	izraz
+L16	Moving & Housework	el portal	entrance hall (of a building)	im
+L16	Moving & Housework	la planta baja	ground floor	izraz
+L16	Moving & Housework	el ascensor	lift	im
+L16	Moving & Housework	la escalera	stairs	im
+L16	Moving & Housework	el balcón	balcony	im
+L16	Moving & Housework	el jardín	garden	im
+L16	Moving & Housework	el garaje	garage	im
+L16	Moving & Housework	el sótano	basement	im
+L16	Moving & Housework	el pasillo	corridor	im
+L16	Moving & Housework	la terraza	terrace	im
+L16	Moving & Housework	el mueble	piece of furniture	im
+L16	Moving & Housework	los muebles	furniture	im
+L16	Moving & Housework	el sillón	armchair	im
+L16	Moving & Housework	la estantería	shelves	im
+L16	Moving & Housework	el estante	shelf	im
+L16	Moving & Housework	el cajón	drawer	im
+L16	Moving & Housework	el escritorio	desk	im
+L16	Moving & Housework	el cojín	cushion	im
+L16	Moving & Housework	la almohada	pillow	im
+L16	Moving & Housework	la cortina	curtain	im
+L16	Moving & Housework	la sábana	sheet	im
+L16	Moving & Housework	la manta	blanket	im
+L16	Moving & Housework	la nevera	fridge	im
+L16	Moving & Housework	el horno	oven	im
+L16	Moving & Housework	el microondas	microwave	im
+L16	Moving & Housework	la lavadora	washing machine	im
+L16	Moving & Housework	el lavavajillas	dishwasher	im
+L16	Moving & Housework	el fregadero	kitchen sink	im
+L16	Moving & Housework	el lavabo	washbasin	im
+L16	Moving & Housework	la bañera	bath	im
+L16	Moving & Housework	la calefacción	heating	im
+L16	Moving & Housework	la luz	light	im
+L16	Moving & Housework	el enchufe	socket	im
+L16	Moving & Housework	el suelo	floor	im
+L16	Moving & Housework	el techo	ceiling; roof	im
+L16	Moving & Housework	el congelador	freezer	im
+L16	Moving & Housework	las tareas domésticas	housework	izraz
+L16	Moving & Housework	fregar los platos	to wash the dishes	izraz
+L16	Moving & Housework	barrer	to sweep	gl
+L16	Moving & Housework	planchar	to iron	gl
+L16	Moving & Housework	poner la lavadora	to do the washing	izraz
+L16	Moving & Housework	hacer la cama	to make the bed	izraz
+L16	Moving & Housework	sacar la basura	to take out the rubbish	izraz
+L16	Moving & Housework	pasar la aspiradora	to vacuum	izraz
+L16	Moving & Housework	la aspiradora	vacuum cleaner	im
+L16	Moving & Housework	la plancha	iron	im
+L16	Moving & Housework	la basura	rubbish	im
+L16	Moving & Housework	estar + gerundio	to be doing	izraz
+L16	Moving & Housework	ahora mismo	right now	izraz
+L16	Moving & Housework	en este momento	at the moment	izraz
+L16	Moving & Housework	ayudar	to help	gl
+L16	Moving & Housework	vaciar	to empty	gl
+L16	Moving & Housework	llenar	to fill	gl
+L16	Moving & Housework	arreglar	to fix; to tidy	gl
+L16	Moving & Housework	mover	to move	gl
+L16	Moving & Housework	montar	to assemble	gl
+L16	Moving & Housework	el bricolaje	DIY	im
+L16	Moving & Housework	la pintura	paint; painting	im
+L16	Moving & Housework	espacioso	spacious	pr
+L16	Moving & Housework	tranquilo	quiet	pr
+L16	Moving & Housework	ruidoso	noisy	pr
+L16	Moving & Housework	limpio	clean	pr
+L16	Moving & Housework	sucio	dirty	pr
+L16	Moving & Housework	cómodo	comfortable	pr
+L16	Moving & Housework	práctico	practical	pr
+L16	Moving & Housework	al fondo	at the back	izraz
+L16	Moving & Housework	arriba	upstairs; up	pril
+L16	Moving & Housework	abajo	downstairs; down	pril
+L17	Town, Village & Nature	la aldea	small village	im
+L17	Town, Village & Nature	la granja	farm	im
+L17	Town, Village & Nature	el bosque	forest; wood	im
+L17	Town, Village & Nature	el árbol	tree	im
+L17	Town, Village & Nature	el río	river	im
+L17	Town, Village & Nature	la colina	hill	im
+L17	Town, Village & Nature	el valle	valley	im
+L17	Town, Village & Nature	la cima	summit	im
+L17	Town, Village & Nature	el sendero	path	im
+L17	Town, Village & Nature	el prado	meadow	im
+L17	Town, Village & Nature	el paisaje	landscape	im
+L17	Town, Village & Nature	la naturaleza	nature	im
+L17	Town, Village & Nature	la hierba	grass	im
+L17	Town, Village & Nature	la hoja	leaf; sheet	im
+L17	Town, Village & Nature	la piedra	stone	im
+L17	Town, Village & Nature	el cielo	sky	im
+L17	Town, Village & Nature	la estrella	star	im
+L17	Town, Village & Nature	la luna	moon	im
+L17	Town, Village & Nature	el aire	air	im
+L17	Town, Village & Nature	el animal	animal	im
+L17	Town, Village & Nature	la vaca	cow	im
+L17	Town, Village & Nature	el caballo	horse	im
+L17	Town, Village & Nature	la oveja	sheep	im
+L17	Town, Village & Nature	el cerdo	pig	im
+L17	Town, Village & Nature	la gallina	hen	im
+L17	Town, Village & Nature	el pájaro	bird	im
+L17	Town, Village & Nature	el conejo	rabbit	im
+L17	Town, Village & Nature	el insecto	insect	im
+L17	Town, Village & Nature	el agricultor, la agricultora	farmer	im
+L17	Town, Village & Nature	el ruido	noise	im
+L17	Town, Village & Nature	el tráfico	traffic	im
+L17	Town, Village & Nature	la contaminación	pollution	im
+L17	Town, Village & Nature	el atasco	traffic jam	im
+L17	Town, Village & Nature	el transporte público	public transport	izraz
+L17	Town, Village & Nature	el rascacielos	skyscraper	im
+L17	Town, Village & Nature	las afueras	outskirts	im
+L17	Town, Village & Nature	el habitante, la habitante	inhabitant	im
+L17	Town, Village & Nature	la vida	life	im
+L17	Town, Village & Nature	el mundo	world	im
+L17	Town, Village & Nature	la región	region	im
+L17	Town, Village & Nature	el medio ambiente	environment	izraz
+L17	Town, Village & Nature	el reciclaje	recycling	im
+L17	Town, Village & Nature	el contenedor	(rubbish) container	im
+L17	Town, Village & Nature	comparar	to compare	gl
+L17	Town, Village & Nature	proteger	to protect	gl
+L17	Town, Village & Nature	reciclar	to recycle	gl
+L17	Town, Village & Nature	cultivar	to grow (crops)	gl
+L17	Town, Village & Nature	menos … que	less … than	izraz
+L17	Town, Village & Nature	tan … como	as … as	izraz
+L17	Town, Village & Nature	el mejor	the best	izraz
+L17	Town, Village & Nature	el peor	the worst	izraz
+L17	Town, Village & Nature	que (relativo)	who; which; that	zam
+L17	Town, Village & Nature	donde (relativo)	where	izraz
+L17	Town, Village & Nature	animado	lively	pr
+L17	Town, Village & Nature	puro	pure; clean	pr
+L17	Town, Village & Nature	contaminado	polluted	pr
+L17	Town, Village & Nature	salvaje	wild	pr
+L17	Town, Village & Nature	aislado	isolated	pr
+L17	Town, Village & Nature	magnífico	magnificent	pr
+L17	Town, Village & Nature	peligroso	dangerous	pr
+L17	Town, Village & Nature	típico	typical	pr
+L17	Town, Village & Nature	ecológico	eco-friendly	pr
+L17	Town, Village & Nature	en todas partes	everywhere	izraz
+L17	Town, Village & Nature	en algún sitio	somewhere	izraz
+L17	Town, Village & Nature	en ningún sitio	nowhere	izraz
+L17	Town, Village & Nature	lejos	far	pril
+L17	Town, Village & Nature	cerca	near	pril
+L17	Town, Village & Nature	alrededor de	around	prij
+L17	Town, Village & Nature	en medio de	in the middle of	prij
+L17	Town, Village & Nature	la costa	coast	im
+L17	Town, Village & Nature	la cueva	cave	im
+L17	Town, Village & Nature	la cosecha	harvest	im
+L17	Town, Village & Nature	el arroyo	stream	im
+L17	Town, Village & Nature	la casa rural	country house (holiday)	izraz
+L17	Town, Village & Nature	el olivo	olive tree	im
+L17	Town, Village & Nature	el trigo	wheat	im
+L17	Town, Village & Nature	la tranquilidad	peace and quiet	im
+L17	Town, Village & Nature	el pueblo pequeño	small village	izraz
+L18	Work & Careers	el oficio	trade	im
+L18	Work & Careers	la profesión	profession	im
+L18	Work & Careers	el puesto de trabajo	job; position	izraz
+L18	Work & Careers	el paro	unemployment	im
+L18	Work & Careers	la empresa	company	im
+L18	Work & Careers	el jefe, la jefa	boss	im
+L18	Work & Careers	el director, la directora	manager; director	im
+L18	Work & Careers	el empleado, la empleada	employee	im
+L18	Work & Careers	el sueldo	salary	im
+L18	Work & Careers	el contrato	contract	im
+L18	Work & Careers	el currículum	CV	im
+L18	Work & Careers	la carta de presentación	cover letter	izraz
+L18	Work & Careers	la oferta de trabajo	job offer	izraz
+L18	Work & Careers	el candidato, la candidata	candidate	im
+L18	Work & Careers	la solicitud	application	im
+L18	Work & Careers	la experiencia	experience	im
+L18	Work & Careers	la formación	training	im
+L18	Work & Careers	el título	degree; title	im
+L18	Work & Careers	las prácticas	internship	im
+L18	Work & Careers	el ingeniero, la ingeniera	engineer	im
+L18	Work & Careers	el abogado, la abogada	lawyer	im
+L18	Work & Careers	el cocinero, la cocinera	cook	im
+L18	Work & Careers	el policía, la policía	police officer	im
+L18	Work & Careers	el periodista, la periodista	journalist	im
+L18	Work & Careers	el informático, la informática	IT specialist	im
+L18	Work & Careers	el arquitecto, la arquitecta	architect	im
+L18	Work & Careers	el contable, la contable	accountant	im
+L18	Work & Careers	el peluquero, la peluquera	hairdresser	im
+L18	Work & Careers	el panadero, la panadera	baker	im
+L18	Work & Careers	el cartero, la cartera	postman; postwoman	im
+L18	Work & Careers	el artista, la artista	artist	im
+L18	Work & Careers	el actor, la actriz	actor; actress	im
+L18	Work & Careers	el músico, la música	musician	im
+L18	Work & Careers	el fontanero, la fontanera	plumber	im
+L18	Work & Careers	el electricista, la electricista	electrician	im
+L18	Work & Careers	la fábrica	factory	im
+L18	Work & Careers	el teletrabajo	remote work	im
+L18	Work & Careers	el futuro	future	im
+L18	Work & Careers	la carrera	career; degree course	im
+L18	Work & Careers	el objetivo	goal	im
+L18	Work & Careers	la jubilación	retirement	im
+L18	Work & Careers	el aumento	pay rise	im
+L18	Work & Careers	el ascenso	promotion	im
+L18	Work & Careers	el socio, la socia	partner (business)	im
+L18	Work & Careers	solicitar	to apply for	gl
+L18	Work & Careers	contratar	to hire	gl
+L18	Work & Careers	despedir	to fire	gl
+L18	Work & Careers	dirigir	to manage; to direct	gl
+L18	Work & Careers	desarrollar	to develop	gl
+L18	Work & Careers	crear	to create	gl
+L18	Work & Careers	llegar a ser	to become	izraz
+L18	Work & Careers	jubilarse	to retire	gl
+L18	Work & Careers	ganarse la vida	to earn a living	izraz
+L18	Work & Careers	si	if	vez
+L18	Work & Careers	dentro de cinco años	in five years	izraz
+L18	Work & Careers	algún día	one day	izraz
+L18	Work & Careers	más tarde	later	izraz
+L18	Work & Careers	serio	serious	pr
+L18	Work & Careers	motivado	motivated	pr
+L18	Work & Careers	dinámico	dynamic	pr
+L18	Work & Careers	responsable	responsible	pr
+L18	Work & Careers	organizado	organised	pr
+L18	Work & Careers	creativo	creative	pr
+L18	Work & Careers	paciente	patient	pr
+L18	Work & Careers	profesional	professional	pr
+L18	Work & Careers	a tiempo completo	full-time	izraz
+L18	Work & Careers	a tiempo parcial	part-time	izraz
+L18	Work & Careers	bien pagado	well paid	izraz
+L18	Work & Careers	internacional	international	pr
+L18	Work & Careers	el reto	challenge	im
+L18	Work & Careers	el proyecto	project	im
+L18	Work & Careers	el negocio	business	im
+L18	Work & Careers	la plantilla	staff	im
+L18	Work & Careers	la carpeta	folder; file	im
+L18	Work & Careers	la jornada	working day	im
+L18	Work & Careers	el autónomo, la autónoma	self-employed person	im
+L19	Wishes & Advice	la ilusión	hope; excitement	im
+L19	Wishes & Advice	soñar	to dream	gl
+L19	Wishes & Advice	el deseo	wish	im
+L19	Wishes & Advice	el consejo	piece of advice	im
+L19	Wishes & Advice	aconsejar	to advise	gl
+L19	Wishes & Advice	proponer	to propose	gl
+L19	Wishes & Advice	sugerir	to suggest	gl
+L19	Wishes & Advice	recomendar	to recommend	gl
+L19	Wishes & Advice	imaginar	to imagine	gl
+L19	Wishes & Advice	tener ganas de	to feel like	izraz
+L19	Wishes & Advice	tener miedo de	to be afraid of	izraz
+L19	Wishes & Advice	tener razón	to be right	izraz
+L19	Wishes & Advice	tener tiempo	to have time	izraz
+L19	Wishes & Advice	la lotería	lottery	im
+L19	Wishes & Advice	tocar la lotería	to win the lottery	izraz
+L19	Wishes & Advice	el millón	million	im
+L19	Wishes & Advice	rico	rich; tasty	pr
+L19	Wishes & Advice	pobre	poor	pr
+L19	Wishes & Advice	la riqueza	wealth	im
+L19	Wishes & Advice	el dinero	money	im
+L19	Wishes & Advice	gastar	to spend (money)	gl
+L19	Wishes & Advice	ahorrar	to save	gl
+L19	Wishes & Advice	prestar	to lend	gl
+L19	Wishes & Advice	pedir prestado	to borrow	izraz
+L19	Wishes & Advice	la vuelta al mundo	round-the-world trip	izraz
+L19	Wishes & Advice	la isla	island	im
+L19	Wishes & Advice	el velero	sailing boat	im
+L19	Wishes & Advice	el lujo	luxury	im
+L19	Wishes & Advice	el crucero	cruise	im
+L19	Wishes & Advice	la libertad	freedom	im
+L19	Wishes & Advice	la felicidad	happiness	im
+L19	Wishes & Advice	la suerte	luck	im
+L19	Wishes & Advice	la posibilidad	possibility	im
+L19	Wishes & Advice	la elección	choice	im
+L19	Wishes & Advice	la decisión	decision	im
+L19	Wishes & Advice	decidir	to decide	gl
+L19	Wishes & Advice	intentar	to try	gl
+L19	Wishes & Advice	dejar de	to stop (doing)	izraz
+L19	Wishes & Advice	empezar a	to start (doing)	izraz
+L19	Wishes & Advice	seguir + gerundio	to keep (doing)	izraz
+L19	Wishes & Advice	deberías	you should	izraz
+L19	Wishes & Advice	sería mejor	it would be better	izraz
+L19	Wishes & Advice	me gustaría	I would like	izraz
+L19	Wishes & Advice	yo que tú	if I were you	izraz
+L19	Wishes & Advice	no te preocupes	don't worry	izraz
+L19	Wishes & Advice	de verdad	really	izraz
+L19	Wishes & Advice	absolutamente	absolutely	pril
+L19	Wishes & Advice	seguramente	surely	pril
+L19	Wishes & Advice	probablemente	probably	pril
+L19	Wishes & Advice	si no	otherwise	izraz
+L19	Wishes & Advice	sin embargo	however	izraz
+L19	Wishes & Advice	incluso	even	pril
+L19	Wishes & Advice	la solución	solution	im
+L19	Wishes & Advice	la idea	idea	im
+L19	Wishes & Advice	la meta	aim; goal	im
+L19	Wishes & Advice	el valor	courage; value	im
+L19	Wishes & Advice	la paciencia	patience	im
+L19	Wishes & Advice	la verdad	truth	im
+L19	Wishes & Advice	la esperanza	hope	im
+L19	Wishes & Advice	el presupuesto	budget	im
+L19	Wishes & Advice	generoso	generous	pr
+L19	Wishes & Advice	egoísta	selfish	pr
+L19	Wishes & Advice	prudente	careful	pr
+L19	Wishes & Advice	posible	possible	pr
+L19	Wishes & Advice	imposible	impossible	pr
+L19	Wishes & Advice	ideal	ideal	pr
+L19	Wishes & Advice	perfecto	perfect	pr
+L19	Wishes & Advice	importante	important	pr
+L19	Wishes & Advice	necesario	necessary	pr
+L19	Wishes & Advice	tranquilamente	calmly	pril
+L19	Wishes & Advice	la duda	doubt	im
+L19	Wishes & Advice	la oportunidad	opportunity	im
+L19	Wishes & Advice	el chalé	detached house	im
+L19	Wishes & Advice	el mundo entero	the whole world	izraz
+L19	Wishes & Advice	mejorar	to improve	gl
+L19	Wishes & Advice	la salud mental	mental health	izraz
+L19	Wishes & Advice	el voluntariado	volunteering	im
+L19	Wishes & Advice	donar	to donate	gl
+L20	Memories & the Future	la memoria	memory	im
+L20	Memories & the Future	inolvidable	unforgettable	pr
+L20	Memories & the Future	la vuelta	return	im
+L20	Memories & the Future	regresar	to return	gl
+L20	Memories & the Future	dejar	to leave; to let	gl
+L20	Memories & the Future	despedirse	to say goodbye	gl
+L20	Memories & the Future	echar de menos	to miss	izraz
+L20	Memories & the Future	te echo de menos	I miss you	izraz
+L20	Memories & the Future	sentirse en casa	to feel at home	izraz
+L20	Memories & the Future	la amistad	friendship	im
+L20	Memories & the Future	el amor	love	im
+L20	Memories & the Future	el sentimiento	feeling	im
+L20	Memories & the Future	la alegría	joy	im
+L20	Memories & the Future	la tristeza	sadness	im
+L20	Memories & the Future	la nostalgia	nostalgia	im
+L20	Memories & the Future	la emoción	emotion	im
+L20	Memories & the Future	el final	end	im
+L20	Memories & the Future	el principio	beginning	im
+L20	Memories & the Future	el cambio	change	im
+L20	Memories & the Future	el progreso	progress	im
+L20	Memories & the Future	el nivel	level	im
+L20	Memories & the Future	el certificado	certificate	im
+L20	Memories & the Future	el éxito	success	im
+L20	Memories & the Future	la aventura	adventure	im
+L20	Memories & the Future	el capítulo	chapter	im
+L20	Memories & the Future	la etapa	stage	im
+L20	Memories & the Future	el año que viene	next year	izraz
+L20	Memories & the Future	el año pasado	last year	izraz
+L20	Memories & the Future	hace un año	a year ago	izraz
+L20	Memories & the Future	dentro de un año	in a year	izraz
+L20	Memories & the Future	para siempre	forever	izraz
+L20	Memories & the Future	otra vez	again	izraz
+L20	Memories & the Future	lo que	what; that which	zam
+L20	Memories & the Future	creer	to believe	gl
+L20	Memories & the Future	espero que	I hope that	izraz
+L20	Memories & the Future	quiero que	I want (someone) to	izraz
+L20	Memories & the Future	compartir	to share	gl
+L20	Memories & the Future	guardar	to keep	gl
+L20	Memories & the Future	prometer	to promise	gl
+L20	Memories & the Future	mantener el contacto	to keep in touch	izraz
+L20	Memories & the Future	permanecer	to remain	gl
+L20	Memories & the Future	gracias a	thanks to	prij
+L20	Memories & the Future	a pesar de	despite	prij
+L20	Memories & the Future	a causa de	because of	prij
+L20	Memories & the Future	así que	so	izraz
+L20	Memories & the Future	mientras	while	vez
+L20	Memories & the Future	desde que	since	izraz
+L20	Memories & the Future	desde	since; from	prij
+L20	Memories & the Future	en cuanto	as soon as	izraz
+L20	Memories & the Future	todo el mundo	everyone	izraz
+L20	Memories & the Future	alguno	some; any	pr
+L20	Memories & the Future	ninguno	none; no	pr
+L20	Memories & the Future	cada uno	each one	izraz
+L20	Memories & the Future	todo	all; everything	zam
+L20	Memories & the Future	varios	several	pr
+L20	Memories & the Future	mismo	same	pr
+L20	Memories & the Future	distinto	different	pr
+L20	Memories & the Future	otro	other; another	pr
+L20	Memories & the Future	querido	dear	pr
+L20	Memories & the Future	fiel	loyal	pr
+L20	Memories & the Future	agradecido	grateful	pr
+L20	Memories & the Future	emocionante	exciting; moving	pr
+L20	Memories & the Future	la cosa	thing	im
+L20	Memories & the Future	el destino	fate	im
+L20	Memories & the Future	la sabiduría	wisdom	im
+L20	Memories & the Future	la despedida	farewell	im
+L20	Memories & the Future	el instante	instant	im
+L20	Memories & the Future	emocionado	moved; excited	pr
+L20	Memories & the Future	nunca más	never again	izraz
+L20	Memories & the Future	el álbum	album	im
+L20	Memories & the Future	la graduación	graduation	im
+L20	Memories & the Future	el reencuentro	reunion	im
+L20	Memories & the Future	el homenaje	tribute	im
+L20	Memories & the Future	el porvenir	future	im
+L20	Memories & the Future	cumplir	to fulfil; to turn (age)	gl
+L20	Memories & the Future	el adiós	farewell	im
+L20	Memories & the Future	la gratitud	gratitude	im
