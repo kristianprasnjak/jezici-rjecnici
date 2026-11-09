@@ -20,13 +20,27 @@ VRSTE = {
 # drugi stupac prijevoda: engleski za sve, hrvatski za engleski tečaj
 PRIJEVOD = {'en': 'hr'}
 
-# faza B: stupac -> vrsta riječi za koju je obavezan (za ostale vrste mora biti prazan)
+# faza B: stupac -> vrste riječi za koje je obavezan (za ostale vrste mora biti prazan).
+# Svaki jezik uzima samo stupce koji mu trebaju (vidi README, „Faza B“).
 OBLICI = {
-    'rod': 'im', 'mnozina': 'im',
-    'zenski': 'pr', 'mnozina_pr': 'pr',
-    'gl_skupina': 'gl', 'pomocni': 'gl', 'particip': 'gl', 'prezent': 'gl',
+    'rod': {'im'}, 'mnozina': {'im'}, 'genitiv': {'im'}, 'deklinacija': {'im', 'pr'},
+    'zenski': {'pr'}, 'mnozina_pr': {'pr'}, 'oblici_pr': {'pr'},
+    'komparativ': {'pr'}, 'superlativ': {'pr'},
+    'gl_skupina': {'gl'}, 'konjugacija': {'gl'}, 'pomocni': {'gl'}, 'particip': {'gl'},
+    'prezent': {'gl'}, 'preterit': {'gl'}, 'glavni_oblici': {'gl'}, 'vid': {'gl'},
+    'prelaznost': {'gl'},
 }
-POMOCNI = {'fr': {'avoir', 'être'}, 'it': {'avere', 'essere'}}
+# dopuštene vrijednosti: stupac -> {jezik ili '*': skup}
+VRIJEDNOSTI = {
+    'rod': {'*': {'m', 'f', 'm,f'}, 'la': {'m', 'f', 'n', 'm,f'}, 'isv': {'m', 'f', 'n', 'm,f'}},
+    'gl_skupina': {'*': {'1', '2', '3'}},
+    'pomocni': {'fr': {'avoir', 'être'}, 'it': {'avere', 'essere'}},
+    'konjugacija': {'la': {'1', '2', '3', '3io', '4', 'nepr'}},
+    'deklinacija': {'la': {'1', '2', '3', '4', '5', '1-2', 'nesklonjivo'}},
+    'vid': {'isv': {'ipf', 'pf', 'ipf,pf'}},
+    'prelaznost': {'eo': {'tr', 'ntr', 'tr,ntr'}},
+}
+PREZENT_LICA = {'pt': 4, 'isv': 1}   # ostali jezici: 6 (ja · ti · on · mi · vi · oni)
 NEMA = '—'   # oblik se ne koristi (nebrojivo, bezlični glagol …)
 
 
@@ -41,32 +55,33 @@ def provjeri_oblike(jezik, i, r, greske):
         if s not in r:
             continue
         v = (r[s] or '').strip()
-        if vrsta == za and not v:
+        if vrsta in za and not v:
             greske.append(f'redak {i}: „{rijec}“ ({vrsta}) nema „{s}“')
-        elif vrsta != za and v:
-            greske.append(f'redak {i}: „{rijec}“ ({vrsta}) ne smije imati „{s}“ (samo {za})')
-    if vrsta == 'im' and r.get('rod'):
-        if r['rod'] not in ('m', 'f', 'm,f'):
-            greske.append(f'redak {i}: rod „{r["rod"]}“ (m / f / m,f)')
+        elif vrsta not in za and v:
+            greske.append(f'redak {i}: „{rijec}“ ({vrsta}) ne smije imati „{s}“ (samo {"/".join(sorted(za))})')
+        elif v and s in VRIJEDNOSTI:
+            dop = VRIJEDNOSTI[s].get(jezik, VRIJEDNOSTI[s].get('*'))
+            if dop is not None and v not in dop:
+                greske.append(f'redak {i}: {s} „{v}“ ({" / ".join(sorted(dop))})')
+    if vrsta == 'im' and r.get('rod') and r.get('mnozina') is not None:
         n = dvorodna(rijec)
         if n == 2 and r['rod'] != 'm,f':
             greske.append(f'redak {i}: „{rijec}“ ima dva oblika, rod mora biti m,f')
         mn = r.get('mnozina') or ''
         dopusteno = {n, 2} if r['rod'] == 'm,f' else {n}   # (m/f): jedan zajednički oblik ili m, ž
-        if mn and mn != NEMA and len(mn.split(',')) not in dopusteno:
+        if mn and NEMA not in mn and len(mn.split(',')) not in dopusteno:
             greske.append(f'redak {i}: množina „{mn}“ mora imati {n} oblik(a) kao „{rijec}“')
     if vrsta == 'pr' and r.get('mnozina_pr'):
         if len(r['mnozina_pr'].split(' / ')) != 2:
             greske.append(f'redak {i}: mnozina_pr „{r["mnozina_pr"]}“ mora biti „m / ž“')
     if vrsta == 'gl':
-        if r.get('gl_skupina') and r['gl_skupina'] not in ('1', '2', '3'):
-            greske.append(f'redak {i}: gl_skupina „{r["gl_skupina"]}“ (1 / 2 / 3)')
-        if r.get('pomocni') and jezik in POMOCNI and r['pomocni'] not in POMOCNI[jezik]:
-            greske.append(f'redak {i}: pomocni „{r["pomocni"]}“ ({" / ".join(sorted(POMOCNI[jezik]))})')
         if r.get('prezent'):
+            lica = PREZENT_LICA.get(jezik, 6)
             f = r['prezent'].split(' · ')
-            if len(f) != 6 or not all(x.strip() for x in f):
-                greske.append(f'redak {i}: prezent mora imati 6 oblika odvojenih „ · “ ({len(f)})')
+            if len(f) != lica or not all(x.strip() for x in f):
+                greske.append(f'redak {i}: prezent mora imati {lica} oblika odvojenih „ · “ ({len(f)})')
+        if r.get('glavni_oblici') and len(r['glavni_oblici'].split(', ')) not in (2, 3):
+            greske.append(f'redak {i}: glavni_oblici „{r["glavni_oblici"]}“ (infinitiv, perfekt[, supin])')
 
 
 def kljuc(rijec):
@@ -128,8 +143,8 @@ def provjeri(jezik):
           [f'| {VRSTE[v]} | {n} |' for v, n in po_vrsti.most_common() if v in VRSTE]
     if oblici:
         izv += ['', '## Faza B — oblici', '', '| Vrsta | Stupci | Popunjeno |', '|---|---|---:|']
-        for vr in dict.fromkeys(OBLICI[s] for s in oblici):
-            st = [s for s in oblici if OBLICI[s] == vr]
+        for vr in dict.fromkeys(v for s in oblici for v in sorted(OBLICI[s])):
+            st = [s for s in oblici if vr in OBLICI[s]]
             pun = sum(1 for r in retci if r['vrsta'] == vr and all((r[s] or '').strip() for s in st))
             izv.append(f'| {VRSTE[vr]} | {", ".join(st)} | {pun} / {po_vrsti[vr]} |')
     if greske:
