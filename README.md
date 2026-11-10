@@ -223,3 +223,11 @@ je potreban: *kupiti, kupovati*), pridjevi u muškom rodu; više značenja odvoj
 prema hrvatskom kratko u zagradi (*le magasin* → „trgovina (ne magazin!)“); standardni hrvatski (VODIC C4.8).
 
 Stanje (10.11.2026.): `fr`, `it`, `es`, `pt`, `isv`, `eo` i `la → hr` **potpuno** (isv s oznakama „lokalizam“ gdje HR riječ zavodi); `en` ima hrvatski od faze A.
+
+## Blobbyjev glas (`blobby-glas-XX.md` u `croland/jezici-plan/XX/`)
+
+`python3 alati/provjeri-blobby.py XX ../croland/jezici-plan/XX/blobby-glas-XX.md ../croland/jezici-plan/XX/XX-gramaticka-kraljeznica.md`
+
+U tim datotekama *kurziv* je uvijek i samo ciljni jezik. Skripta provjerava da polaznik svaku Blobbyjevu riječ
+ciljnog jezika već zna: rječnik na razini ≤ tekuće ili zamrznuta fraza (odj. 6 kralježnice) s „Od“ ≤ tekuće.
+Oblici koje rječnik ne navodi (futur, kondicional…) prihvaćaju se u retku „Ručno provjereno: *oblik*“.
