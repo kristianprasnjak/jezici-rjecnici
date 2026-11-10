@@ -1,0 +1,94 @@
+rijec	razina	izvor
+ser	L1	5a
+ver	L3	5a
+ler	L3	5a
+ter	L4	5a
+comprar	L5	5a
+custar	L5	5a
+pagar	L5	5a
+estar	L6	5a
+ficar	L6	5a
+ir	L6	5a
+vir	L6	5a
+seguir	L6	5a
+fazer	L7	5a
+poder	L7	5a
+querer	L7	5a
+saber	L7	5a
+sair	L7	5a
+dormir	L7	5a
+preferir	L7	5a
+perder	L7	5a
+odiar	L7	5a
+passear	L7	5a
+levantar-se	L8	5a
+vestir-se	L8	5a
+sentir-se	L8	5a
+chover	L9	5a
+achar	L10	5a
+conhecer	L10	5a
+esquecer	L10	5a
+rir	L10	5a
+trazer	L11	5a
+dar	L11	5a
+dizer	L11	5a
+pôr	L11	5a
+descer	L11	5a
+cair	L11	5a
+dirigir	L11	5a
+doer	L13	5a
+tossir	L13	5a
+crescer	L15	5a
+costumar	L15	5a
+conseguir	L18	5a
+propor	L19	5a
+sugerir	L19	5a
+permanecer	L20	5a
+acreditar	L20	5a
+pensar	L20	5a
+e	L1	5b
+mas	L2	5b
+ou	L3	5b
+porque	L3	5b
+por que	L3	5b
+então	L9	5b
+quando (futuro)	L18	5b
+se	L18	5b
+senão	L19	5b
+porém	L19	5b
+que (relativo)	L20	5b
+onde (relativo)	L20	5b
+o que (relativo)	L20	5b
+enquanto	L20	5b
+desde que	L20	5b
+assim que	L20	5b
+por isso	L20	5b
+espero que	L20	5b
+a gente	L3	5
+estar + gerúndio	L9	5
+ir + infinitivo	L9	5
+ter que	L9	5
+alguém	L9	5
+ninguém	L9	5
+algum	L9	5
+nenhum	L9	5
+nada	L9	5
+já	L10	5
+ainda não	L10	5
+por	L11	5
+pelo, pela	L11	5
+estar com dor de	L13	5
+o, a, os, as	L14	5
+lhe, lhes	L14	5
+me, te, nos	L14	5
+você (objeto)	L14	5
+costumar	L15	5
+mais … do que	L17	5
+tão … quanto	L17	5
+você deveria	L19	5
+eu gostaria de	L19	5
+este, esta	L5	5
+esse, essa	L5	5
+aquele, aquela	L5	5
+meu, minha	L4	5
+dele, dela	L4	5

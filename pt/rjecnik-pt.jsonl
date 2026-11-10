@@ -63,7 +63,6 @@
 {"razina": 1, "tema": "Greetings & Countries", "pt": "ele", "en": "he", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "ela", "en": "she", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "nós", "en": "we", "vrsta": "zam"}
-{"razina": 1, "tema": "Greetings & Countries", "pt": "a gente", "en": "we (informal)", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "vocês", "en": "you (plural)", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "eles, elas", "en": "they", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "pt": "o país", "en": "country", "vrsta": "im", "rod": "m", "mnozina": "os países"}
@@ -140,6 +139,16 @@
 {"razina": 2, "tema": "The Flat & Colours", "pt": "iluminado", "en": "bright; well-lit", "vrsta": "pr", "zenski": "iluminada", "mnozina_pr": "iluminados / iluminadas"}
 {"razina": 2, "tema": "The Flat & Colours", "pt": "o ventilador", "en": "fan", "vrsta": "im", "rod": "m", "mnozina": "os ventiladores"}
 {"razina": 2, "tema": "The Flat & Colours", "pt": "mas", "en": "but", "vrsta": "vez"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "zero", "en": "zero", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "dois, duas", "en": "two", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "três", "en": "three", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "quatro", "en": "four", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "cinco", "en": "five", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "seis", "en": "six", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "sete", "en": "seven", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "oito", "en": "eight", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "nove", "en": "nine", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "pt": "dez", "en": "ten", "vrsta": "broj"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "falar", "en": "to speak", "vrsta": "gl", "gl_skupina": "1", "particip": "falado", "prezent": "falo · fala · falamos · falam", "preterit": "falei · falou"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "trabalhar", "en": "to work", "vrsta": "gl", "gl_skupina": "1", "particip": "trabalhado", "prezent": "trabalho · trabalha · trabalhamos · trabalham", "preterit": "trabalhei · trabalhou"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "morar", "en": "to live (somewhere)", "vrsta": "gl", "gl_skupina": "1", "particip": "morado", "prezent": "moro · mora · moramos · moram", "preterit": "morei · morou"}
@@ -195,6 +204,8 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "em", "en": "in; on; at", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "com", "en": "with", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "para", "en": "to; for", "vrsta": "prij"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "ou", "en": "or", "vrsta": "vez"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "pt": "a gente", "en": "we (informal)", "vrsta": "zam"}
 {"razina": 4, "tema": "Family & Age", "pt": "a mãe", "en": "mother", "vrsta": "im", "rod": "f", "mnozina": "as mães"}
 {"razina": 4, "tema": "Family & Age", "pt": "o pai", "en": "father", "vrsta": "im", "rod": "m", "mnozina": "os pais"}
 {"razina": 4, "tema": "Family & Age", "pt": "os pais", "en": "parents", "vrsta": "im", "rod": "m", "mnozina": "os pais"}
@@ -251,6 +262,16 @@
 {"razina": 4, "tema": "Family & Age", "pt": "o parente", "en": "relative", "vrsta": "im", "rod": "m", "mnozina": "os parentes"}
 {"razina": 4, "tema": "Family & Age", "pt": "juntos", "en": "together", "vrsta": "pr", "zenski": "juntas", "mnozina_pr": "juntos / juntas"}
 {"razina": 4, "tema": "Family & Age", "pt": "sozinho", "en": "alone", "vrsta": "pr", "zenski": "sozinha", "mnozina_pr": "sozinhos / sozinhas"}
+{"razina": 4, "tema": "Family & Age", "pt": "onze", "en": "eleven", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "doze", "en": "twelve", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "treze", "en": "thirteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "catorze", "en": "fourteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "quinze", "en": "fifteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "dezesseis", "en": "sixteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "dezessete", "en": "seventeen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "dezoito", "en": "eighteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "dezenove", "en": "nineteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "pt": "vinte", "en": "twenty", "vrsta": "broj"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a feira", "en": "street market", "vrsta": "im", "rod": "f", "mnozina": "as feiras"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o mercado", "en": "market", "vrsta": "im", "rod": "m", "mnozina": "os mercados"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "o pão", "en": "bread", "vrsta": "im", "rod": "m", "mnozina": "os pães"}
@@ -311,6 +332,13 @@
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "mais alguma coisa?", "en": "anything else?", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "cem", "en": "hundred", "vrsta": "broj"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "pouco", "en": "little; few", "vrsta": "pril"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "trinta", "en": "thirty", "vrsta": "broj"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "quarenta", "en": "forty", "vrsta": "broj"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "cinquenta", "en": "fifty", "vrsta": "broj"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "sessenta", "en": "sixty", "vrsta": "broj"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "setenta", "en": "seventy", "vrsta": "broj"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "oitenta", "en": "eighty", "vrsta": "broj"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "noventa", "en": "ninety", "vrsta": "broj"}
 {"razina": 6, "tema": "City & Directions", "pt": "a rua", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "as ruas"}
 {"razina": 6, "tema": "City & Directions", "pt": "a avenida", "en": "avenue", "vrsta": "im", "rod": "f", "mnozina": "as avenidas"}
 {"razina": 6, "tema": "City & Directions", "pt": "o bairro", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "os bairros"}
@@ -343,7 +371,6 @@
 {"razina": 6, "tema": "City & Directions", "pt": "no, na", "en": "in the", "vrsta": "prij"}
 {"razina": 6, "tema": "City & Directions", "pt": "do, da", "en": "of the; from the", "vrsta": "prij"}
 {"razina": 6, "tema": "City & Directions", "pt": "ao, à", "en": "to the", "vrsta": "prij"}
-{"razina": 6, "tema": "City & Directions", "pt": "pelo, pela", "en": "through the; by the", "vrsta": "prij"}
 {"razina": 6, "tema": "City & Directions", "pt": "à direita", "en": "on the right", "vrsta": "izraz"}
 {"razina": 6, "tema": "City & Directions", "pt": "à esquerda", "en": "on the left", "vrsta": "izraz"}
 {"razina": 6, "tema": "City & Directions", "pt": "em frente", "en": "straight on", "vrsta": "izraz"}
@@ -373,6 +400,7 @@
 {"razina": 6, "tema": "City & Directions", "pt": "o turista, a turista", "en": "tourist", "vrsta": "im", "rod": "m,f", "mnozina": "os turistas, as turistas"}
 {"razina": 6, "tema": "City & Directions", "pt": "a calçada", "en": "pavement", "vrsta": "im", "rod": "f", "mnozina": "as calçadas"}
 {"razina": 6, "tema": "City & Directions", "pt": "o shopping", "en": "shopping centre", "vrsta": "im", "rod": "m", "mnozina": "os shoppings"}
+{"razina": 6, "tema": "City & Directions", "pt": "vir", "en": "to come", "vrsta": "gl", "gl_skupina": "3", "particip": "vindo", "prezent": "venho · vem · vimos · vêm", "preterit": "vim · veio"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "o tempo livre", "en": "free time", "vrsta": "izraz"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "o hobby", "en": "hobby", "vrsta": "im", "rod": "m", "mnozina": "os hobbies"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "gostar de", "en": "to like", "vrsta": "izraz"}
@@ -433,6 +461,7 @@
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "cedo", "en": "early", "vrsta": "pril"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "acordar", "en": "to wake up", "vrsta": "gl", "gl_skupina": "1", "particip": "acordado", "prezent": "acordo · acorda · acordamos · acordam", "preterit": "acordei · acordou"}
 {"razina": 7, "tema": "Hobbies & Sport", "pt": "a festa", "en": "party", "vrsta": "im", "rod": "f", "mnozina": "as festas"}
+{"razina": 7, "tema": "Hobbies & Sport", "pt": "saber", "en": "to know", "vrsta": "gl", "gl_skupina": "2", "particip": "sabido", "prezent": "sei · sabe · sabemos · sabem", "preterit": "soube · soube"}
 {"razina": 8, "tema": "Routine & Time", "pt": "levantar-se", "en": "to get up", "vrsta": "gl", "gl_skupina": "1", "particip": "levantado", "prezent": "me levanto · se levanta · nos levantamos · se levantam", "preterit": "me levantei · se levantou"}
 {"razina": 8, "tema": "Routine & Time", "pt": "lavar-se", "en": "to wash (oneself)", "vrsta": "gl", "gl_skupina": "1", "particip": "lavado", "prezent": "me lavo · se lava · nos lavamos · se lavam", "preterit": "me lavei · se lavou"}
 {"razina": 8, "tema": "Routine & Time", "pt": "tomar banho", "en": "to have a shower", "vrsta": "izraz"}
@@ -552,6 +581,8 @@
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "nublado", "en": "cloudy", "vrsta": "pr", "zenski": "nublada", "mnozina_pr": "nublados / nubladas"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "úmido", "en": "humid", "vrsta": "pr", "zenski": "úmida", "mnozina_pr": "úmidos / úmidas"}
 {"razina": 9, "tema": "Weather, Months & Dates", "pt": "o carnaval", "en": "carnival", "vrsta": "im", "rod": "m", "mnozina": "os carnavais"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "algum", "en": "some; any", "vrsta": "pr", "zenski": "alguma", "mnozina_pr": "alguns / algumas"}
+{"razina": 9, "tema": "Weather, Months & Dates", "pt": "nenhum", "en": "no; none", "vrsta": "pr", "zenski": "nenhuma", "mnozina_pr": "nenhuns / nenhumas"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "ontem", "en": "yesterday", "vrsta": "pril"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "anteontem", "en": "the day before yesterday", "vrsta": "pril"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "passado", "en": "last; past", "vrsta": "pr", "zenski": "passada", "mnozina_pr": "passados / passadas"}
@@ -612,6 +643,7 @@
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "a galera", "en": "group of friends; gang", "vrsta": "im", "rod": "f", "mnozina": "as galeras"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "o barzinho", "en": "small bar", "vrsta": "im", "rod": "m", "mnozina": "os barzinhos"}
 {"razina": 10, "tema": "Weekend & Past Time", "pt": "o petisco", "en": "snack; nibbles", "vrsta": "im", "rod": "m", "mnozina": "os petiscos"}
+{"razina": 10, "tema": "Weekend & Past Time", "pt": "achar", "en": "to think (have an opinion); to find", "vrsta": "gl", "gl_skupina": "1", "particip": "achado", "prezent": "acho · acha · achamos · acham", "preterit": "achei · achou"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "o carro", "en": "car", "vrsta": "im", "rod": "m", "mnozina": "os carros"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "o avião", "en": "plane", "vrsta": "im", "rod": "m", "mnozina": "os aviões"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "o barco", "en": "boat", "vrsta": "im", "rod": "m", "mnozina": "os barcos"}
@@ -665,8 +697,6 @@
 {"razina": 11, "tema": "Buses & Trips", "pt": "dar", "en": "to give", "vrsta": "gl", "gl_skupina": "1", "particip": "dado", "prezent": "dou · dá · damos · dão", "preterit": "dei · deu"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "dizer", "en": "to say", "vrsta": "gl", "gl_skupina": "2", "particip": "dito", "prezent": "digo · diz · dizemos · dizem", "preterit": "disse · disse"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "pôr", "en": "to put", "vrsta": "gl", "gl_skupina": "2", "particip": "posto", "prezent": "ponho · põe · pomos · põem", "preterit": "pus · pôs"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "saber", "en": "to know", "vrsta": "gl", "gl_skupina": "2", "particip": "sabido", "prezent": "sei · sabe · sabemos · sabem", "preterit": "soube · soube"}
-{"razina": 11, "tema": "Buses & Trips", "pt": "vir", "en": "to come", "vrsta": "gl", "gl_skupina": "3", "particip": "vindo", "prezent": "venho · vem · vimos · vêm", "preterit": "vim · veio"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "sair de férias", "en": "to go on holiday", "vrsta": "izraz"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "de carro", "en": "by car", "vrsta": "izraz"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "de avião", "en": "by plane", "vrsta": "izraz"}
@@ -676,6 +706,7 @@
 {"razina": 11, "tema": "Buses & Trips", "pt": "ocupado", "en": "busy; taken", "vrsta": "pr", "zenski": "ocupada", "mnozina_pr": "ocupados / ocupadas"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "por", "en": "through; by; for", "vrsta": "prij"}
 {"razina": 11, "tema": "Buses & Trips", "pt": "o guia, a guia", "en": "guide", "vrsta": "im", "rod": "m,f", "mnozina": "os guias, as guias"}
+{"razina": 11, "tema": "Buses & Trips", "pt": "pelo, pela", "en": "through the; by the", "vrsta": "prij"}
 {"razina": 12, "tema": "Clothes & Shops", "pt": "a roupa", "en": "clothes", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 12, "tema": "Clothes & Shops", "pt": "a camisa", "en": "shirt", "vrsta": "im", "rod": "f", "mnozina": "as camisas"}
 {"razina": 12, "tema": "Clothes & Shops", "pt": "a camiseta", "en": "T-shirt", "vrsta": "im", "rod": "f", "mnozina": "as camisetas"}
@@ -1328,8 +1359,6 @@
 {"razina": 20, "tema": "Memories & the Future", "pt": "desde", "en": "since; from", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "assim que", "en": "as soon as", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "todo mundo", "en": "everyone", "vrsta": "izraz"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "algum", "en": "some; any", "vrsta": "pr", "zenski": "alguma", "mnozina_pr": "alguns / algumas"}
-{"razina": 20, "tema": "Memories & the Future", "pt": "nenhum", "en": "no; none", "vrsta": "pr", "zenski": "nenhuma", "mnozina_pr": "nenhuns / nenhumas"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "cada um", "en": "each one", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "tudo", "en": "everything", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "pt": "vários", "en": "several", "vrsta": "pr", "zenski": "várias", "mnozina_pr": "vários / várias"}

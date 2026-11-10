@@ -64,7 +64,6 @@ L1	Greetings & Countries	você	you	zam
 L1	Greetings & Countries	ele	he	zam								
 L1	Greetings & Countries	ela	she	zam								
 L1	Greetings & Countries	nós	we	zam								
-L1	Greetings & Countries	a gente	we (informal)	zam								
 L1	Greetings & Countries	vocês	you (plural)	zam								
 L1	Greetings & Countries	eles, elas	they	zam								
 L1	Greetings & Countries	o país	country	im	m	os países						
@@ -141,6 +140,16 @@ L2	The Flat & Colours	velho	old	pr			velha	velhos / velhas
 L2	The Flat & Colours	iluminado	bright; well-lit	pr			iluminada	iluminados / iluminadas				
 L2	The Flat & Colours	o ventilador	fan	im	m	os ventiladores						
 L2	The Flat & Colours	mas	but	vez								
+L2	The Flat & Colours	zero	zero	broj								
+L2	The Flat & Colours	dois, duas	two	broj								
+L2	The Flat & Colours	três	three	broj								
+L2	The Flat & Colours	quatro	four	broj								
+L2	The Flat & Colours	cinco	five	broj								
+L2	The Flat & Colours	seis	six	broj								
+L2	The Flat & Colours	sete	seven	broj								
+L2	The Flat & Colours	oito	eight	broj								
+L2	The Flat & Colours	nove	nine	broj								
+L2	The Flat & Colours	dez	ten	broj								
 L3	Everyday Verbs & the Week	falar	to speak	gl					1	falado	falo · fala · falamos · falam	falei · falou
 L3	Everyday Verbs & the Week	trabalhar	to work	gl					1	trabalhado	trabalho · trabalha · trabalhamos · trabalham	trabalhei · trabalhou
 L3	Everyday Verbs & the Week	morar	to live (somewhere)	gl					1	morado	moro · mora · moramos · moram	morei · morou
@@ -196,6 +205,8 @@ L3	Everyday Verbs & the Week	todo dia	every day	izraz
 L3	Everyday Verbs & the Week	em	in; on; at	prij								
 L3	Everyday Verbs & the Week	com	with	prij								
 L3	Everyday Verbs & the Week	para	to; for	prij								
+L3	Everyday Verbs & the Week	ou	or	vez								
+L3	Everyday Verbs & the Week	a gente	we (informal)	zam								
 L4	Family & Age	a mãe	mother	im	f	as mães						
 L4	Family & Age	o pai	father	im	m	os pais						
 L4	Family & Age	os pais	parents	im	m	os pais						
@@ -252,6 +263,16 @@ L4	Family & Age	o casal	couple	im	m	os casais
 L4	Family & Age	o parente	relative	im	m	os parentes						
 L4	Family & Age	juntos	together	pr			juntas	juntos / juntas				
 L4	Family & Age	sozinho	alone	pr			sozinha	sozinhos / sozinhas				
+L4	Family & Age	onze	eleven	broj								
+L4	Family & Age	doze	twelve	broj								
+L4	Family & Age	treze	thirteen	broj								
+L4	Family & Age	catorze	fourteen	broj								
+L4	Family & Age	quinze	fifteen	broj								
+L4	Family & Age	dezesseis	sixteen	broj								
+L4	Family & Age	dezessete	seventeen	broj								
+L4	Family & Age	dezoito	eighteen	broj								
+L4	Family & Age	dezenove	nineteen	broj								
+L4	Family & Age	vinte	twenty	broj								
 L5	Food, Drinks & Quantities	a feira	street market	im	f	as feiras						
 L5	Food, Drinks & Quantities	o mercado	market	im	m	os mercados						
 L5	Food, Drinks & Quantities	o pão	bread	im	m	os pães						
@@ -312,6 +333,13 @@ L5	Food, Drinks & Quantities	o supermercado	supermarket	im	m	os supermercados
 L5	Food, Drinks & Quantities	mais alguma coisa?	anything else?	izraz								
 L5	Food, Drinks & Quantities	cem	hundred	broj								
 L5	Food, Drinks & Quantities	pouco	little; few	pril								
+L5	Food, Drinks & Quantities	trinta	thirty	broj								
+L5	Food, Drinks & Quantities	quarenta	forty	broj								
+L5	Food, Drinks & Quantities	cinquenta	fifty	broj								
+L5	Food, Drinks & Quantities	sessenta	sixty	broj								
+L5	Food, Drinks & Quantities	setenta	seventy	broj								
+L5	Food, Drinks & Quantities	oitenta	eighty	broj								
+L5	Food, Drinks & Quantities	noventa	ninety	broj								
 L6	City & Directions	a rua	street	im	f	as ruas						
 L6	City & Directions	a avenida	avenue	im	f	as avenidas						
 L6	City & Directions	o bairro	neighbourhood	im	m	os bairros						
@@ -344,7 +372,6 @@ L6	City & Directions	encontrar	to find; to meet	gl					1	encontrado	encontro · 
 L6	City & Directions	no, na	in the	prij								
 L6	City & Directions	do, da	of the; from the	prij								
 L6	City & Directions	ao, à	to the	prij								
-L6	City & Directions	pelo, pela	through the; by the	prij								
 L6	City & Directions	à direita	on the right	izraz								
 L6	City & Directions	à esquerda	on the left	izraz								
 L6	City & Directions	em frente	straight on	izraz								
@@ -374,6 +401,7 @@ L6	City & Directions	o prédio	building	im	m	os prédios
 L6	City & Directions	o turista, a turista	tourist	im	m,f	os turistas, as turistas						
 L6	City & Directions	a calçada	pavement	im	f	as calçadas						
 L6	City & Directions	o shopping	shopping centre	im	m	os shoppings						
+L6	City & Directions	vir	to come	gl					3	vindo	venho · vem · vimos · vêm	vim · veio
 L7	Hobbies & Sport	o tempo livre	free time	izraz								
 L7	Hobbies & Sport	o hobby	hobby	im	m	os hobbies						
 L7	Hobbies & Sport	gostar de	to like	izraz								
@@ -434,6 +462,7 @@ L7	Hobbies & Sport	o campo	field; countryside	im	m	os campos
 L7	Hobbies & Sport	cedo	early	pril								
 L7	Hobbies & Sport	acordar	to wake up	gl					1	acordado	acordo · acorda · acordamos · acordam	acordei · acordou
 L7	Hobbies & Sport	a festa	party	im	f	as festas						
+L7	Hobbies & Sport	saber	to know	gl					2	sabido	sei · sabe · sabemos · sabem	soube · soube
 L8	Routine & Time	levantar-se	to get up	gl					1	levantado	me levanto · se levanta · nos levantamos · se levantam	me levantei · se levantou
 L8	Routine & Time	lavar-se	to wash (oneself)	gl					1	lavado	me lavo · se lava · nos lavamos · se lavam	me lavei · se lavou
 L8	Routine & Time	tomar banho	to have a shower	izraz								
@@ -553,6 +582,8 @@ L9	Weather, Months & Dates	frio	cold	pr			fria	frios / frias
 L9	Weather, Months & Dates	nublado	cloudy	pr			nublada	nublados / nubladas				
 L9	Weather, Months & Dates	úmido	humid	pr			úmida	úmidos / úmidas				
 L9	Weather, Months & Dates	o carnaval	carnival	im	m	os carnavais						
+L9	Weather, Months & Dates	algum	some; any	pr			alguma	alguns / algumas				
+L9	Weather, Months & Dates	nenhum	no; none	pr			nenhuma	nenhuns / nenhumas				
 L10	Weekend & Past Time	ontem	yesterday	pril								
 L10	Weekend & Past Time	anteontem	the day before yesterday	pril								
 L10	Weekend & Past Time	passado	last; past	pr			passada	passados / passadas				
@@ -613,6 +644,7 @@ L10	Weekend & Past Time	a batucada	percussion jam	im	f	as batucadas
 L10	Weekend & Past Time	a galera	group of friends; gang	im	f	as galeras						
 L10	Weekend & Past Time	o barzinho	small bar	im	m	os barzinhos						
 L10	Weekend & Past Time	o petisco	snack; nibbles	im	m	os petiscos						
+L10	Weekend & Past Time	achar	to think (have an opinion); to find	gl					1	achado	acho · acha · achamos · acham	achei · achou
 L11	Buses & Trips	o carro	car	im	m	os carros						
 L11	Buses & Trips	o avião	plane	im	m	os aviões						
 L11	Buses & Trips	o barco	boat	im	m	os barcos						
@@ -666,8 +698,6 @@ L11	Buses & Trips	trazer	to bring	gl					2	trazido	trago · traz · trazemos · 
 L11	Buses & Trips	dar	to give	gl					1	dado	dou · dá · damos · dão	dei · deu
 L11	Buses & Trips	dizer	to say	gl					2	dito	digo · diz · dizemos · dizem	disse · disse
 L11	Buses & Trips	pôr	to put	gl					2	posto	ponho · põe · pomos · põem	pus · pôs
-L11	Buses & Trips	saber	to know	gl					2	sabido	sei · sabe · sabemos · sabem	soube · soube
-L11	Buses & Trips	vir	to come	gl					3	vindo	venho · vem · vimos · vêm	vim · veio
 L11	Buses & Trips	sair de férias	to go on holiday	izraz								
 L11	Buses & Trips	de carro	by car	izraz								
 L11	Buses & Trips	de avião	by plane	izraz								
@@ -677,6 +707,7 @@ L11	Buses & Trips	livre	free	pr			livre	livres / livres
 L11	Buses & Trips	ocupado	busy; taken	pr			ocupada	ocupados / ocupadas				
 L11	Buses & Trips	por	through; by; for	prij								
 L11	Buses & Trips	o guia, a guia	guide	im	m,f	os guias, as guias						
+L11	Buses & Trips	pelo, pela	through the; by the	prij								
 L12	Clothes & Shops	a roupa	clothes	im	f	—						
 L12	Clothes & Shops	a camisa	shirt	im	f	as camisas						
 L12	Clothes & Shops	a camiseta	T-shirt	im	f	as camisetas						
@@ -1329,8 +1360,6 @@ L20	Memories & the Future	desde que	since	izraz
 L20	Memories & the Future	desde	since; from	prij								
 L20	Memories & the Future	assim que	as soon as	izraz								
 L20	Memories & the Future	todo mundo	everyone	izraz								
-L20	Memories & the Future	algum	some; any	pr			alguma	alguns / algumas				
-L20	Memories & the Future	nenhum	no; none	pr			nenhuma	nenhuns / nenhumas				
 L20	Memories & the Future	cada um	each one	izraz								
 L20	Memories & the Future	tudo	everything	zam								
 L20	Memories & the Future	vários	several	pr			várias	vários / várias				

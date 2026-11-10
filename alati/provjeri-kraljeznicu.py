@@ -27,7 +27,7 @@ def provjeri(jezik):
     greske, upoz = [], []
     with open(k, encoding='utf-8', newline='') as f:
         for r in csv.DictReader(f, delimiter='\t', quoting=csv.QUOTE_NONE):
-            w, raz = r['rijec'], r['razina']
+            w, raz = cisto(r['rijec']), r['razina']
             ima = razine.get(w)
             if not ima:
                 upoz.append(f'„{w}“ ({raz}, {r["izvor"]}) nije u rječniku')
