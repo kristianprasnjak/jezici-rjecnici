@@ -10,6 +10,8 @@ nigdje u rječniku (*zz*) i dio riječi s crticom (*-ent*) se ne provjeravaju. R
 rječnik ne navodi (npr. futur), nakon što ih je čovjek provjerio.
 Za isv i eo prihvaćaju se i pravilni oblici kojih u rječniku nema (isv *dobro* od *dobry*; eo *bonan* od *bona*,
 *estas* od *esti*, *bone* od *bona*).
+Esperanto se uz to rastavlja na korijen, afikse i nastavak (*malbelan* = mal- L2 + bel L2 + -a L2 + -n L3);
+razina riječi je najviša razina dijela.
 Riječ je u redu ako je u rječniku na razini ≤ n (bilo koji stupac oblika) ili u zamrznutoj frazi
 iz odj. 6 kralježnice s „Od“ ≤ n. Ostalo se ispisuje kao upozorenje za ručnu provjeru
 (npr. oblik koji rječnik ne navodi). Izlazni kod je 1 ako ima upozorenja.
@@ -93,11 +95,59 @@ def osnove(kod, t):
     return out
 
 
+# esperanto: razina gramatičkog nastavka (EO-gramaticka-kraljeznica, odj. 7)
+EO_NASTAVCI = [("as", 1), ("is", 7), ("os", 7), ("us", 15), ("u", 12), ("i", 3), ("o", 1), ("a", 2), ("e", 2)]
+
+
+def eo_razina(t, korijeni, afiksi):
+    """Razina izvedenice: korijen(i) + afiksi + nastavak, sve poznato. None ako se ne da rastaviti."""
+    raz = 0
+    for kraj, n in (("jn", 3), ("n", 3), ("j", 2)):
+        if t.endswith(kraj) and len(t) > len(kraj) + 2 and t[-len(kraj) - 1] in "oa":
+            t, raz = t[: -len(kraj)], n
+            break
+    for kraj, n in EO_NASTAVCI:
+        if t.endswith(kraj) and len(t) > len(kraj) + 1:
+            osnova, raz = t[: -len(kraj)], max(raz, n)
+            break
+    else:
+        return None
+    dijelovi = {**afiksi, **korijeni}
+    najbolje = {0: (0, False)}          # pozicija -> (najveća razina, ima li korijen)
+    for i in range(len(osnova)):
+        if i not in najbolje:
+            continue
+        for j in range(i + 1, len(osnova) + 1):
+            d = osnova[i:j]
+            if d in dijelovi:
+                r = max(najbolje[i][0], dijelovi[d])
+                k = najbolje[i][1] or d in korijeni
+                if j not in najbolje or (k, -r) > (najbolje[j][1], -najbolje[j][0]):
+                    najbolje[j] = (r, k)
+    kraj = najbolje.get(len(osnova))
+    return max(raz, kraj[0]) if kraj and kraj[1] else None
+
+
+def eo_dijelovi(kod):
+    korijeni, afiksi = {}, {}
+    with open(KORIJEN / kod / f"rjecnik-{kod}.tsv", encoding="utf-8") as f:
+        for red in csv.DictReader(f, delimiter="\t"):
+            n, w = razina(red["razina"]), red["eo"].lower()
+            if re.fullmatch(r"-?[a-zĉĝĥĵŝŭ]+-?", w) and "-" in w:
+                a = w.strip("-")
+                afiksi[a] = min(afiksi.get(a, 99), n)
+            elif re.fullmatch(r"[a-zĉĝĥĵŝŭ]+[oaei]", w):
+                k = w[:-1]
+                korijeni[k] = min(korijeni.get(k, 99), n)
+    return korijeni, afiksi
+
+
 def main():
     if len(sys.argv) != 4:
         sys.exit(__doc__)
     kod, glas, kralj = sys.argv[1:]
     rj, fr = rjecnik(kod), fraze(kralj)
+    eo = eo_dijelovi(kod) if kod == "eo" else None
     trenutna, upozorenja, ukupno = None, [], 0
     retci = Path(glas).read_text(encoding="utf-8").splitlines()
     rucno = set()
@@ -129,6 +179,8 @@ def main():
                     continue  # slovo ili skup slova (*zz*, *ch*), ne riječ
                 ukupno += 1
                 ok = min([rj.get(t, 99), fr.get(t, 99)] + [rj.get(b, 99) for b in osnove(kod, t)])
+                if eo and ok > n:
+                    ok = min(ok, eo_razina(t, *eo) or 99)
                 if ok > n:
                     gdje = f"rječnik L{rj[t]}" if t in rj else ("fraza L%d" % fr[t] if t in fr else "nema")
                     upozorenja.append(f"  r.{br} L{n}: „{t}“ ({gdje}) u *{k}*")
