@@ -34,6 +34,7 @@ Njemački rječnik je u Crolandu (`deutsch/rjecnik/`).
 | `rjecnik-XX.jsonl` | za program; gradi se iz TSV-a, ne uređuje se ručno |
 | `razine-XX.tsv` | razine, teme i ciljani broj riječi iz koncepta |
 | `IZVJESTAJ.md` | rezultat zadnje provjere |
+| `kraljeznica-XX.tsv` | riječi čiju razinu propisuje kralježnica tečaja (nepravilni glagoli, veznici, zamjenice); izvor je `croland/jezici-plan/XX/XX-gramaticka-kraljeznica.md` |
 
 Stupci TSV-a: `razina | tema | XX | en | vrsta` (za engleski tečaj `razina | tema | en | hr | vrsta`).
 
@@ -201,3 +202,11 @@ Interslavenski se dodatno provjerava prema zaključanoj bazi (odluka ISV2, commi
 
 Provjera javlja grešku za prazno polje, nepoznatu razinu ili vrstu, temu koja ne odgovara razini i
 riječ koja se javlja dvaput. Upozorava kad broj riječi u razini odstupa od koncepta više od 10 %.
+
+## Usklađivanje s kralježnicom
+
+Kad za jezik postoji kralježnica (`croland/jezici-plan/XX/`), razina riječi iz `kraljeznica-XX.tsv` je obavezna:
+
+- `python3 alati/provjeri-kraljeznicu.py XX` — greška ako je riječ u rječniku na drugoj razini;
+- `python3 alati/premjesti.py XX "riječ" L3 [riječ razina …]` — premješta redak (tema iz `razine-XX.tsv`),
+  nakon toga `gradi.py` i `provjeri.py`.

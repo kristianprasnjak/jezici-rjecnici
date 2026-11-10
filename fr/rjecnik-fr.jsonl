@@ -196,6 +196,7 @@
 {"razina": 3, "tema": "Everyday Verbs, the Week & Numbers 0–69", "fr": "quarante", "en": "forty", "vrsta": "broj"}
 {"razina": 3, "tema": "Everyday Verbs, the Week & Numbers 0–69", "fr": "cinquante", "en": "fifty", "vrsta": "broj"}
 {"razina": 3, "tema": "Everyday Verbs, the Week & Numbers 0–69", "fr": "soixante", "en": "sixty", "vrsta": "broj"}
+{"razina": 3, "tema": "Everyday Verbs, the Week & Numbers 0–69", "fr": "parce que", "en": "because", "vrsta": "vez"}
 {"razina": 4, "tema": "Family & Age", "fr": "la mère", "en": "mother", "vrsta": "im", "rod": "f", "mnozina": "mères"}
 {"razina": 4, "tema": "Family & Age", "fr": "le père", "en": "father", "vrsta": "im", "rod": "m", "mnozina": "pères"}
 {"razina": 4, "tema": "Family & Age", "fr": "les parents (m)", "en": "parents", "vrsta": "im", "rod": "m", "mnozina": "parents"}
@@ -428,6 +429,8 @@
 {"razina": 7, "tema": "Hobbies, Sport & Eating Out", "fr": "amusant", "en": "fun; funny", "vrsta": "pr", "zenski": "amusante", "mnozina_pr": "amusants / amusantes"}
 {"razina": 7, "tema": "Hobbies, Sport & Eating Out", "fr": "intéressant", "en": "interesting", "vrsta": "pr", "zenski": "intéressante", "mnozina_pr": "intéressants / intéressantes"}
 {"razina": 7, "tema": "Hobbies, Sport & Eating Out", "fr": "parfois", "en": "sometimes", "vrsta": "pril"}
+{"razina": 7, "tema": "Hobbies, Sport & Eating Out", "fr": "comprendre", "en": "to understand", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "compris", "prezent": "comprends · comprends · comprend · comprenons · comprenez · comprennent"}
+{"razina": 7, "tema": "Hobbies, Sport & Eating Out", "fr": "apprendre", "en": "to learn", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "appris", "prezent": "apprends · apprends · apprend · apprenons · apprenez · apprennent"}
 {"razina": 8, "tema": "Routine & Time", "fr": "se réveiller", "en": "to wake up", "vrsta": "gl", "gl_skupina": "1", "pomocni": "être", "particip": "réveillé", "prezent": "me réveille · te réveilles · se réveille · nous réveillons · vous réveillez · se réveillent"}
 {"razina": 8, "tema": "Routine & Time", "fr": "se lever", "en": "to get up", "vrsta": "gl", "gl_skupina": "1", "pomocni": "être", "particip": "levé", "prezent": "me lève · te lèves · se lève · nous levons · vous levez · se lèvent"}
 {"razina": 8, "tema": "Routine & Time", "fr": "se laver", "en": "to wash (oneself)", "vrsta": "gl", "gl_skupina": "1", "pomocni": "être", "particip": "lavé", "prezent": "me lave · te laves · se lave · nous lavons · vous lavez · se lavent"}
@@ -606,7 +609,6 @@
 {"razina": 10, "tema": "Weekend & Past Time", "fr": "rire", "en": "to laugh", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "ri", "prezent": "ris · ris · rit · rions · riez · rient"}
 {"razina": 10, "tema": "Weekend & Past Time", "fr": "ouvrir", "en": "to open", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "ouvert", "prezent": "ouvre · ouvres · ouvre · ouvrons · ouvrez · ouvrent"}
 {"razina": 10, "tema": "Weekend & Past Time", "fr": "fermer", "en": "to close", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "fermé", "prezent": "ferme · fermes · ferme · fermons · fermez · ferment"}
-{"razina": 10, "tema": "Weekend & Past Time", "fr": "mettre", "en": "to put", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "mis", "prezent": "mets · mets · met · mettons · mettez · mettent"}
 {"razina": 11, "tema": "Trains & Trips", "fr": "la voiture", "en": "car", "vrsta": "im", "rod": "f", "mnozina": "voitures"}
 {"razina": 11, "tema": "Trains & Trips", "fr": "l'avion (m)", "en": "plane", "vrsta": "im", "rod": "m", "mnozina": "avions"}
 {"razina": 11, "tema": "Trains & Trips", "fr": "le bateau", "en": "boat", "vrsta": "im", "rod": "m", "mnozina": "bateaux"}
@@ -735,6 +737,7 @@
 {"razina": 12, "tema": "Clothes, Shops & Looks", "fr": "moins", "en": "less", "vrsta": "pril"}
 {"razina": 12, "tema": "Clothes, Shops & Looks", "fr": "trop", "en": "too; too much", "vrsta": "pril"}
 {"razina": 12, "tema": "Clothes, Shops & Looks", "fr": "assez", "en": "enough; quite", "vrsta": "pril"}
+{"razina": 12, "tema": "Clothes, Shops & Looks", "fr": "mettre", "en": "to put", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "mis", "prezent": "mets · mets · met · mettons · mettez · mettent"}
 {"razina": 13, "tema": "The Body & the Doctor", "fr": "le corps", "en": "body", "vrsta": "im", "rod": "m", "mnozina": "corps"}
 {"razina": 13, "tema": "The Body & the Doctor", "fr": "la tête", "en": "head", "vrsta": "im", "rod": "f", "mnozina": "têtes"}
 {"razina": 13, "tema": "The Body & the Doctor", "fr": "le visage", "en": "face", "vrsta": "im", "rod": "m", "mnozina": "visages"}
@@ -808,6 +811,7 @@
 {"razina": 13, "tema": "The Body & the Doctor", "fr": "faible", "en": "weak", "vrsta": "pr", "zenski": "faible", "mnozina_pr": "faibles / faibles"}
 {"razina": 13, "tema": "The Body & the Doctor", "fr": "lourd", "en": "heavy", "vrsta": "pr", "zenski": "lourde", "mnozina_pr": "lourds / lourdes"}
 {"razina": 13, "tema": "The Body & the Doctor", "fr": "chaud", "en": "hot; warm", "vrsta": "pr", "zenski": "chaude", "mnozina_pr": "chauds / chaudes"}
+{"razina": 13, "tema": "The Body & the Doctor", "fr": "penser", "en": "to think", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "pensé", "prezent": "pense · penses · pense · pensons · pensez · pensent"}
 {"razina": 14, "tema": "Parties & Presents", "fr": "le cadeau", "en": "present", "vrsta": "im", "rod": "m", "mnozina": "cadeaux"}
 {"razina": 14, "tema": "Parties & Presents", "fr": "offrir", "en": "to give (as a present)", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "offert", "prezent": "offre · offres · offre · offrons · offrez · offrent"}
 {"razina": 14, "tema": "Parties & Presents", "fr": "donner", "en": "to give", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "donné", "prezent": "donne · donnes · donne · donnons · donnez · donnent"}
@@ -920,8 +924,6 @@
 {"razina": 15, "tema": "Childhood & School", "fr": "la physique", "en": "physics", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 15, "tema": "Childhood & School", "fr": "la balançoire", "en": "swing", "vrsta": "im", "rod": "f", "mnozina": "balançoires"}
 {"razina": 15, "tema": "Childhood & School", "fr": "le dessin animé", "en": "cartoon", "vrsta": "izraz"}
-{"razina": 15, "tema": "Childhood & School", "fr": "apprendre", "en": "to learn", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "appris", "prezent": "apprends · apprends · apprend · apprenons · apprenez · apprennent"}
-{"razina": 15, "tema": "Childhood & School", "fr": "comprendre", "en": "to understand", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "compris", "prezent": "comprends · comprends · comprend · comprenons · comprenez · comprennent"}
 {"razina": 15, "tema": "Childhood & School", "fr": "répéter", "en": "to repeat", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "répété", "prezent": "répète · répètes · répète · répétons · répétez · répètent"}
 {"razina": 15, "tema": "Childhood & School", "fr": "expliquer", "en": "to explain", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "expliqué", "prezent": "explique · expliques · explique · expliquons · expliquez · expliquent"}
 {"razina": 15, "tema": "Childhood & School", "fr": "réviser", "en": "to revise", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "révisé", "prezent": "révise · révises · révise · révisons · révisez · révisent"}
@@ -1310,7 +1312,6 @@
 {"razina": 20, "tema": "Memories & the Future", "fr": "dont", "en": "whose; of which", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "ce qui", "en": "what (subject)", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "ce que", "en": "what (object)", "vrsta": "zam"}
-{"razina": 20, "tema": "Memories & the Future", "fr": "penser", "en": "to think", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "pensé", "prezent": "pense · penses · pense · pensons · pensez · pensent"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "croire", "en": "to believe", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "cru", "prezent": "crois · crois · croit · croyons · croyez · croient"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "sentir", "en": "to feel; to smell", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avoir", "particip": "senti", "prezent": "sens · sens · sent · sentons · sentez · sentent"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "partager", "en": "to share", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "partagé", "prezent": "partage · partages · partage · partageons · partagez · partagent"}
@@ -1322,7 +1323,6 @@
 {"razina": 20, "tema": "Memories & the Future", "fr": "grâce à", "en": "thanks to", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "malgré", "en": "despite", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "à cause de", "en": "because of", "vrsta": "prij"}
-{"razina": 20, "tema": "Memories & the Future", "fr": "parce que", "en": "because", "vrsta": "vez"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "donc", "en": "so; therefore", "vrsta": "vez"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "comme", "en": "as; like", "vrsta": "vez"}
 {"razina": 20, "tema": "Memories & the Future", "fr": "lorsque", "en": "when", "vrsta": "vez"}

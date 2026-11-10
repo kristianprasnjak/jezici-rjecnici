@@ -9,24 +9,24 @@ Riječi: **1347** · greške: **0** · upozorenja: **0**
 | L0 | Sounds & Familiar Words | 36 | 36 | ✓ |
 | L1 | Greetings & Countries | 50 | 50 | ✓ |
 | L2 | The Flat & Colours | 55 | 55 | ✓ |
-| L3 | Everyday Verbs, the Week & Numbers 0–69 | 55 | 57 | ✓ |
+| L3 | Everyday Verbs, the Week & Numbers 0–69 | 55 | 58 | ✓ |
 | L4 | Family & Age | 55 | 55 | ✓ |
 | L5 | Food, Drinks & Numbers 70–100 | 60 | 59 | ✓ |
 | L6 | City & Directions | 60 | 59 | ✓ |
-| L7 | Hobbies, Sport & Eating Out | 60 | 59 | ✓ |
+| L7 | Hobbies, Sport & Eating Out | 60 | 61 | ✓ |
 | L8 | Routine & Time | 60 | 59 | ✓ |
 | L9 | Weather, Dates & Plans | 60 | 61 | ✓ |
-| L10 | Weekend & Past Time | 60 | 59 | ✓ |
+| L10 | Weekend & Past Time | 60 | 58 | ✓ |
 | L11 | Trains & Trips | 65 | 64 | ✓ |
-| L12 | Clothes, Shops & Looks | 65 | 64 | ✓ |
-| L13 | The Body & the Doctor | 75 | 73 | ✓ |
+| L12 | Clothes, Shops & Looks | 65 | 65 | ✓ |
+| L13 | The Body & the Doctor | 75 | 74 | ✓ |
 | L14 | Parties & Presents | 75 | 73 | ✓ |
-| L15 | Childhood & School | 75 | 73 | ✓ |
+| L15 | Childhood & School | 75 | 71 | ✓ |
 | L16 | The Home & Furniture | 75 | 75 | ✓ |
 | L17 | Town, Village & Nature | 80 | 80 | ✓ |
 | L18 | Work & Careers | 80 | 79 | ✓ |
 | L19 | Wishes & Advice | 80 | 78 | ✓ |
-| L20 | Memories & the Future | 80 | 79 | ✓ |
+| L20 | Memories & the Future | 80 | 77 | ✓ |
 | **ukupno** | | **1361** | **1347** | |
 
 ## Po vrstama

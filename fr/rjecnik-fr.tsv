@@ -197,6 +197,7 @@ L3	Everyday Verbs, the Week & Numbers 0–69	trente	thirty	broj
 L3	Everyday Verbs, the Week & Numbers 0–69	quarante	forty	broj								
 L3	Everyday Verbs, the Week & Numbers 0–69	cinquante	fifty	broj								
 L3	Everyday Verbs, the Week & Numbers 0–69	soixante	sixty	broj								
+L3	Everyday Verbs, the Week & Numbers 0–69	parce que	because	vez								
 L4	Family & Age	la mère	mother	im	f	mères						
 L4	Family & Age	le père	father	im	m	pères						
 L4	Family & Age	les parents (m)	parents	im	m	parents						
@@ -429,6 +430,8 @@ L7	Hobbies, Sport & Eating Out	ennuyeux	boring	pr			ennuyeuse	ennuyeux / ennuyeu
 L7	Hobbies, Sport & Eating Out	amusant	fun; funny	pr			amusante	amusants / amusantes				
 L7	Hobbies, Sport & Eating Out	intéressant	interesting	pr			intéressante	intéressants / intéressantes				
 L7	Hobbies, Sport & Eating Out	parfois	sometimes	pril								
+L7	Hobbies, Sport & Eating Out	comprendre	to understand	gl					3	avoir	compris	comprends · comprends · comprend · comprenons · comprenez · comprennent
+L7	Hobbies, Sport & Eating Out	apprendre	to learn	gl					3	avoir	appris	apprends · apprends · apprend · apprenons · apprenez · apprennent
 L8	Routine & Time	se réveiller	to wake up	gl					1	être	réveillé	me réveille · te réveilles · se réveille · nous réveillons · vous réveillez · se réveillent
 L8	Routine & Time	se lever	to get up	gl					1	être	levé	me lève · te lèves · se lève · nous levons · vous levez · se lèvent
 L8	Routine & Time	se laver	to wash (oneself)	gl					1	être	lavé	me lave · te laves · se lave · nous lavons · vous lavez · se lavent
@@ -607,7 +610,6 @@ L10	Weekend & Past Time	pleurer	to cry	gl					1	avoir	pleuré	pleure · pleures 
 L10	Weekend & Past Time	rire	to laugh	gl					3	avoir	ri	ris · ris · rit · rions · riez · rient
 L10	Weekend & Past Time	ouvrir	to open	gl					3	avoir	ouvert	ouvre · ouvres · ouvre · ouvrons · ouvrez · ouvrent
 L10	Weekend & Past Time	fermer	to close	gl					1	avoir	fermé	ferme · fermes · ferme · fermons · fermez · ferment
-L10	Weekend & Past Time	mettre	to put	gl					3	avoir	mis	mets · mets · met · mettons · mettez · mettent
 L11	Trains & Trips	la voiture	car	im	f	voitures						
 L11	Trains & Trips	l'avion (m)	plane	im	m	avions						
 L11	Trains & Trips	le bateau	boat	im	m	bateaux						
@@ -736,6 +738,7 @@ L12	Clothes, Shops & Looks	plus	more	pril
 L12	Clothes, Shops & Looks	moins	less	pril								
 L12	Clothes, Shops & Looks	trop	too; too much	pril								
 L12	Clothes, Shops & Looks	assez	enough; quite	pril								
+L12	Clothes, Shops & Looks	mettre	to put	gl					3	avoir	mis	mets · mets · met · mettons · mettez · mettent
 L13	The Body & the Doctor	le corps	body	im	m	corps						
 L13	The Body & the Doctor	la tête	head	im	f	têtes						
 L13	The Body & the Doctor	le visage	face	im	m	visages						
@@ -809,6 +812,7 @@ L13	The Body & the Doctor	fort	strong	pr			forte	forts / fortes
 L13	The Body & the Doctor	faible	weak	pr			faible	faibles / faibles				
 L13	The Body & the Doctor	lourd	heavy	pr			lourde	lourds / lourdes				
 L13	The Body & the Doctor	chaud	hot; warm	pr			chaude	chauds / chaudes				
+L13	The Body & the Doctor	penser	to think	gl					1	avoir	pensé	pense · penses · pense · pensons · pensez · pensent
 L14	Parties & Presents	le cadeau	present	im	m	cadeaux						
 L14	Parties & Presents	offrir	to give (as a present)	gl					3	avoir	offert	offre · offres · offre · offrons · offrez · offrent
 L14	Parties & Presents	donner	to give	gl					1	avoir	donné	donne · donnes · donne · donnons · donnez · donnent
@@ -921,8 +925,6 @@ L15	Childhood & School	le grenier	attic	im	m	greniers
 L15	Childhood & School	la physique	physics	im	f	—						
 L15	Childhood & School	la balançoire	swing	im	f	balançoires						
 L15	Childhood & School	le dessin animé	cartoon	izraz								
-L15	Childhood & School	apprendre	to learn	gl					3	avoir	appris	apprends · apprends · apprend · apprenons · apprenez · apprennent
-L15	Childhood & School	comprendre	to understand	gl					3	avoir	compris	comprends · comprends · comprend · comprenons · comprenez · comprennent
 L15	Childhood & School	répéter	to repeat	gl					1	avoir	répété	répète · répètes · répète · répétons · répétez · répètent
 L15	Childhood & School	expliquer	to explain	gl					1	avoir	expliqué	explique · expliques · explique · expliquons · expliquez · expliquent
 L15	Childhood & School	réviser	to revise	gl					1	avoir	révisé	révise · révises · révise · révisons · révisez · révisent
@@ -1311,7 +1313,6 @@ L20	Memories & the Future	lequel, laquelle	which (one)	zam
 L20	Memories & the Future	dont	whose; of which	zam								
 L20	Memories & the Future	ce qui	what (subject)	zam								
 L20	Memories & the Future	ce que	what (object)	zam								
-L20	Memories & the Future	penser	to think	gl					1	avoir	pensé	pense · penses · pense · pensons · pensez · pensent
 L20	Memories & the Future	croire	to believe	gl					3	avoir	cru	crois · crois · croit · croyons · croyez · croient
 L20	Memories & the Future	sentir	to feel; to smell	gl					3	avoir	senti	sens · sens · sent · sentons · sentez · sentent
 L20	Memories & the Future	partager	to share	gl					1	avoir	partagé	partage · partages · partage · partageons · partagez · partagent
@@ -1323,7 +1324,6 @@ L20	Memories & the Future	rester en contact	to stay in touch	izraz
 L20	Memories & the Future	grâce à	thanks to	prij								
 L20	Memories & the Future	malgré	despite	prij								
 L20	Memories & the Future	à cause de	because of	prij								
-L20	Memories & the Future	parce que	because	vez								
 L20	Memories & the Future	donc	so; therefore	vez								
 L20	Memories & the Future	comme	as; like	vez								
 L20	Memories & the Future	lorsque	when	vez								
