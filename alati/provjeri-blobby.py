@@ -8,6 +8,8 @@ Razina se uzima iz naslova „## L<n> …“ ili iz prvog ili drugog stupca retk
 Odjeljak „## …“ bez razine se ne provjerava (osim redaka tablice s razinom). Jedno slovo, skup od dva slova kojeg nema
 nigdje u rječniku (*zz*) i dio riječi s crticom (*-ent*) se ne provjeravaju. Redak „Ručno provjereno: *oblik*, *oblik*“ prihvaća oblike koje
 rječnik ne navodi (npr. futur), nakon što ih je čovjek provjerio.
+Za isv i eo prihvaćaju se i pravilni oblici kojih u rječniku nema (isv *dobro* od *dobry*; eo *bonan* od *bona*,
+*estas* od *esti*, *bone* od *bona*).
 Riječ je u redu ako je u rječniku na razini ≤ n (bilo koji stupac oblika) ili u zamrznutoj frazi
 iz odj. 6 kralježnice s „Od“ ≤ n. Ostalo se ispisuje kao upozorenje za ručnu provjeru
 (npr. oblik koji rječnik ne navodi). Izlazni kod je 1 ako ima upozorenja.
@@ -73,6 +75,24 @@ def fraze(kraljeznica):
     return po_razini
 
 
+def osnove(kod, t):
+    """Pravilni oblici koje rječnik ne navodi (isv pridjevi, esperanto): moguće natuknice za token."""
+    out = []
+    if kod == "isv":
+        for nast in ("ogo", "omu", "ymi", "ych", "ym", "oj", "o", "a", "e", "u", "i", "ě"):
+            if t.endswith(nast) and len(t) > len(nast) + 2:
+                out += [t[: -len(nast)] + "y", t[: -len(nast)] + "i"]
+    if kod == "eo":
+        b = re.sub(r"(?<=[oa])(jn|j|n)$", "", t)
+        out.append(b)
+        for nast in ("as", "is", "os", "us", "u"):
+            if b.endswith(nast) and len(b) > len(nast) + 1:
+                out.append(b[: -len(nast)] + "i")
+        if b.endswith(("o", "a", "e", "i")) and len(b) > 2:   # izvedenice: bon·a → bon·e, bon·o
+            out += [b[:-1] + x for x in "oaei"]
+    return out
+
+
 def main():
     if len(sys.argv) != 4:
         sys.exit(__doc__)
@@ -108,7 +128,7 @@ def main():
                 if len(t) < 2 or t in rucno or (len(t) == 2 and t not in rj and t not in fr):
                     continue  # slovo ili skup slova (*zz*, *ch*), ne riječ
                 ukupno += 1
-                ok = min(rj.get(t, 99), fr.get(t, 99))
+                ok = min([rj.get(t, 99), fr.get(t, 99)] + [rj.get(b, 99) for b in osnove(kod, t)])
                 if ok > n:
                     gdje = f"rječnik L{rj[t]}" if t in rj else ("fraza L%d" % fr[t] if t in fr else "nema")
                     upozorenja.append(f"  r.{br} L{n}: „{t}“ ({gdje}) u *{k}*")

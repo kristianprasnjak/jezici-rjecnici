@@ -1,6 +1,6 @@
 # Izvještaj provjere — isv
 
-Riječi: **1358** · greške: **0** · upozorenja: **0**
+Riječi: **1359** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
@@ -22,14 +22,14 @@ Riječi: **1358** · greške: **0** · upozorenja: **0**
 | L13 | Cities & Nature | 90 | 95 | ✓ |
 | L14 | Shopping & Clothes | 90 | 90 | ✓ |
 | L15 | Wishes & Advice | 90 | 99 | ✓ |
-| L16 | Memories & the Future | 90 | 93 | ✓ |
-| **ukupno** | | **1340** | **1358** | |
+| L16 | Memories & the Future | 90 | 94 | ✓ |
+| **ukupno** | | **1340** | **1359** | |
 
 ## Po vrstama
 
 | Vrsta | Broj |
 |---|---:|
-| imenica | 751 |
+| imenica | 752 |
 | glagol | 184 |
 | pridjev | 154 |
 | izraz | 90 |
@@ -44,5 +44,5 @@ Riječi: **1358** · greške: **0** · upozorenja: **0**
 
 | Vrsta | Stupci | Popunjeno |
 |---|---|---:|
-| imenica | rod | 751 / 751 |
+| imenica | rod | 752 / 752 |
 | glagol | vid, prezent | 184 / 184 |
