@@ -10,6 +10,8 @@ nigdje u rječniku (*zz*) i dio riječi s crticom (*-ent*) se ne provjeravaju. R
 rječnik ne navodi (npr. futur), nakon što ih je čovjek provjerio.
 Za isv i eo prihvaćaju se i pravilni oblici kojih u rječniku nema (isv *dobro* od *dobry*; eo *bonan* od *bona*,
 *estas* od *esti*, *bone* od *bona*).
+Za la se iz glavnih oblika grade pravilni oblici (`oblici_la.py`: *Valeriam* od *Valeria*, *vocat* od *vocō*,
+*mānsimus* od *mānsī*), s makronima — riječ bez makrona gdje ih rječnik ima javlja se kao upozorenje.
 Esperanto se uz to rastavlja na korijen, afikse i nastavak (*malbelan* = mal- L2 + bel L2 + -a L2 + -n L3);
 razina riječi je najviša razina dijela.
 Riječ je u redu ako je u rječniku na razini ≤ n (bilo koji stupac oblika) ili u zamrznutoj frazi
@@ -21,6 +23,9 @@ import re
 import sys
 import unicodedata
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import oblici_la  # noqa: E402
 
 KORIJEN = Path(__file__).resolve().parent.parent
 KURZIV = re.compile(r"(?<![*\w])\*(?!\*)([^*\n]+?)\*(?![*\w])")
@@ -54,6 +59,10 @@ def rjecnik(kod):
             for v in stupci:
                 for t in tokeni(re.sub(r"\([^)]*\)", " ", v)):
                     po_razini[t] = min(po_razini.get(t, 99), n)
+            if kod == "la":   # pravilni oblici (Valeriam, vocat, mānsimus) iz glavnih oblika
+                for o in oblici_la.oblici(red):
+                    for t in tokeni(o):
+                        po_razini[t] = min(po_razini.get(t, 99), n)
     return po_razini
 
 

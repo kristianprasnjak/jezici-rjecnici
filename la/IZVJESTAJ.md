@@ -13,10 +13,10 @@ Riječi: **1245** · greške: **0** · upozorenja: **0**
 | L4 | Food & Gifts | 55 | 55 | ✓ |
 | L5 | School & Learning | 55 | 55 | ✓ |
 | L6 | People, Animals & Ships | 60 | 60 | ✓ |
-| L7 | Stories & Gods | 60 | 59 | ✓ |
+| L7 | Stories & Gods | 60 | 60 | ✓ |
 | L8 | Travel & Roads | 60 | 60 | ✓ |
 | L9 | Events & Deeds | 65 | 65 | ✓ |
-| L10 | The City of Rome | 55 | 52 | ✓ |
+| L10 | The City of Rome | 55 | 51 | ✓ |
 | L11 | Shops & Crafts | 60 | 60 | ✓ |
 | L12 | Friends & Feelings | 60 | 56 | ✓ |
 | L13 | Buildings & Leisure | 65 | 64 | ✓ |

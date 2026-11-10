@@ -418,6 +418,7 @@
 {"razina": 7, "tema": "Stories & Gods", "la": "Diāna", "en": "Diana", "vrsta": "im", "rod": "f", "genitiv": "Diānae", "deklinacija": "1"}
 {"razina": 7, "tema": "Stories & Gods", "la": "iterum atque iterum", "en": "again and again", "vrsta": "izraz"}
 {"razina": 7, "tema": "Stories & Gods", "la": "inter", "en": "between; among", "vrsta": "prij"}
+{"razina": 7, "tema": "Stories & Gods", "la": "habitō", "en": "to live; to dwell", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "habitāre, habitāvī, habitātum"}
 {"razina": 8, "tema": "Travel & Roads", "la": "iter", "en": "journey; route", "vrsta": "im", "rod": "n", "genitiv": "itineris", "deklinacija": "3"}
 {"razina": 8, "tema": "Travel & Roads", "la": "via Ōstiēnsis", "en": "the road from Ostia to Rome", "vrsta": "izraz"}
 {"razina": 8, "tema": "Travel & Roads", "la": "mīlle passūs", "en": "a (Roman) mile", "vrsta": "izraz"}
@@ -588,7 +589,6 @@
 {"razina": 10, "tema": "The City of Rome", "la": "Nōnae", "en": "the Nones", "vrsta": "im", "rod": "f", "genitiv": "Nōnārum", "deklinacija": "1"}
 {"razina": 10, "tema": "The City of Rome", "la": "nātus", "en": "born; aged", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "nātus, nāta, nātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "spectō", "en": "to watch", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "spectāre, spectāvī, spectātum"}
-{"razina": 10, "tema": "The City of Rome", "la": "habitō", "en": "to live; to dwell", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "habitāre, habitāvī, habitātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "pūblicus", "en": "public", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "pūblicus, pūblica, pūblicum"}
 {"razina": 10, "tema": "The City of Rome", "la": "prīvātus", "en": "private", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "prīvātus, prīvāta, prīvātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "celeber", "en": "crowded; famous", "vrsta": "pr", "deklinacija": "3", "oblici_pr": "celeber, celebris, celebre"}
