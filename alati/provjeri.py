@@ -30,6 +30,8 @@ OBLICI = {
     'prezent': {'gl'}, 'preterit': {'gl'}, 'ing': {'gl'}, 'glavni_oblici': {'gl'}, 'vid': {'gl'},
     'prelaznost': {'gl'},
 }
+# smije, ali ne mora: sklonjive zamjenice (it *mio → mia, miei / mie*), dodano 10.11.2026.
+NEOBAVEZNO = {'zenski': {'zam'}, 'mnozina_pr': {'zam'}}
 # dopuštene vrijednosti: stupac -> {jezik ili '*': skup}
 VRIJEDNOSTI = {
     'rod': {'*': {'m', 'f', 'm,f'}, 'la': {'m', 'f', 'n', 'm,f'}, 'isv': {'m', 'm.ž', 'f', 'n', 'm,f'}},
@@ -58,7 +60,7 @@ def provjeri_oblike(jezik, i, r, greske):
         v = (r[s] or '').strip()
         if vrsta in za and not v:
             greske.append(f'redak {i}: „{rijec}“ ({vrsta}) nema „{s}“')
-        elif vrsta not in za and v:
+        elif vrsta not in za and v and vrsta not in NEOBAVEZNO.get(s, ()):
             greske.append(f'redak {i}: „{rijec}“ ({vrsta}) ne smije imati „{s}“ (samo {"/".join(sorted(za))})')
         elif v and s in VRIJEDNOSTI:
             dop = VRIJEDNOSTI[s].get(jezik, VRIJEDNOSTI[s].get('*'))
@@ -72,7 +74,7 @@ def provjeri_oblike(jezik, i, r, greske):
         dopusteno = {n, 2} if r['rod'] == 'm,f' else {n}   # (m/f): jedan zajednički oblik ili m, ž
         if mn and NEMA not in mn and len(mn.split(',')) not in dopusteno:
             greske.append(f'redak {i}: množina „{mn}“ mora imati {n} oblik(a) kao „{rijec}“')
-    if vrsta == 'pr' and r.get('mnozina_pr'):
+    if vrsta in ('pr', 'zam') and r.get('mnozina_pr') and r['mnozina_pr'] != NEMA:
         if len(r['mnozina_pr'].split(' / ')) != 2:
             greske.append(f'redak {i}: mnozina_pr „{r["mnozina_pr"]}“ mora biti „m / ž“')
     if vrsta == 'gl':

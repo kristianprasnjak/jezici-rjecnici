@@ -193,7 +193,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "siempre", "en": "always", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "a veces", "en": "sometimes", "vrsta": "izraz"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "cuándo", "en": "when", "vrsta": "pril"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "es": "cuál", "en": "which", "vrsta": "zam"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "es": "cuál", "en": "which", "vrsta": "zam", "zenski": "cuál", "mnozina_pr": "cuáles / cuáles"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "por qué", "en": "why", "vrsta": "izraz"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "porque", "en": "because", "vrsta": "vez"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "el trabajo", "en": "work; job", "vrsta": "im", "rod": "m", "mnozina": "los trabajos"}
@@ -246,8 +246,8 @@
 {"razina": 4, "tema": "Family & Age", "es": "mi, mis", "en": "my", "vrsta": "zam"}
 {"razina": 4, "tema": "Family & Age", "es": "tu, tus", "en": "your", "vrsta": "zam"}
 {"razina": 4, "tema": "Family & Age", "es": "su, sus", "en": "his; her; their; your (formal)", "vrsta": "zam"}
-{"razina": 4, "tema": "Family & Age", "es": "nuestro", "en": "our", "vrsta": "zam"}
-{"razina": 4, "tema": "Family & Age", "es": "vuestro", "en": "your (plural)", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & Age", "es": "nuestro", "en": "our", "vrsta": "zam", "zenski": "nuestra", "mnozina_pr": "nuestros / nuestras"}
+{"razina": 4, "tema": "Family & Age", "es": "vuestro", "en": "your (plural)", "vrsta": "zam", "zenski": "vuestra", "mnozina_pr": "vuestros / vuestras"}
 {"razina": 4, "tema": "Family & Age", "es": "simpático", "en": "nice; friendly", "vrsta": "pr", "zenski": "simpática", "mnozina_pr": "simpáticos / simpáticas"}
 {"razina": 4, "tema": "Family & Age", "es": "amable", "en": "kind", "vrsta": "pr", "zenski": "amable", "mnozina_pr": "amables / amables"}
 {"razina": 4, "tema": "Family & Age", "es": "guapo", "en": "good-looking", "vrsta": "pr", "zenski": "guapa", "mnozina_pr": "guapos / guapas"}
@@ -1359,7 +1359,7 @@
 {"razina": 20, "tema": "Memories & the Future", "es": "alguno", "en": "some; any", "vrsta": "pr", "zenski": "alguna", "mnozina_pr": "algunos / algunas"}
 {"razina": 20, "tema": "Memories & the Future", "es": "ninguno", "en": "none; no", "vrsta": "pr", "zenski": "ninguna", "mnozina_pr": "ningunos / ningunas"}
 {"razina": 20, "tema": "Memories & the Future", "es": "cada uno", "en": "each one", "vrsta": "izraz"}
-{"razina": 20, "tema": "Memories & the Future", "es": "todo", "en": "all; everything", "vrsta": "zam"}
+{"razina": 20, "tema": "Memories & the Future", "es": "todo", "en": "all; everything", "vrsta": "zam", "zenski": "toda", "mnozina_pr": "todos / todas"}
 {"razina": 20, "tema": "Memories & the Future", "es": "varios", "en": "several", "vrsta": "pr", "zenski": "varias", "mnozina_pr": "varios / varias"}
 {"razina": 20, "tema": "Memories & the Future", "es": "mismo", "en": "same", "vrsta": "pr", "zenski": "misma", "mnozina_pr": "mismos / mismas"}
 {"razina": 20, "tema": "Memories & the Future", "es": "distinto", "en": "different", "vrsta": "pr", "zenski": "distinta", "mnozina_pr": "distintos / distintas"}

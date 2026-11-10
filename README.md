@@ -77,6 +77,7 @@ Dolje je francuski kao obrazac, zatim razlike po jezicima.
 | `mnozina` | im | množina bez člana, **uvijek** (i pravilna); `—` za nebrojive i vlastita imena | `cafés`, `chevaux`, `grands-pères`, `rez-de-chaussée`, `le lait` → `—` |
 | `zenski` | pr | ženski oblik (za nepromjenjive isti) | `beau` → `belle`, `jeune` → `jeune` |
 | `mnozina_pr` | pr | množina `m / ž` | `beaux / belles`, `marron / marron` |
+| `zenski`, `mnozina_pr` | zam (neobavezno) | sklonjive zamjenice kad natuknica nije već „mon, ma, mes“ | it `mio` → `mia`, `miei / mie` |
 | `gl_skupina` | gl | `1` (-er), `2` (-ir, -issons), `3` (ostali, i `aller`) | `finir` → `2` |
 | `pomocni` | gl | pomoćni glagol za passé composé: `avoir` / `être` | `aller` → `être` |
 | `particip` | gl | participe passé (m. jd.) | `prendre` → `pris` |

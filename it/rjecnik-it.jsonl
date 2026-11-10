@@ -201,7 +201,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "quando", "en": "when", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "come", "en": "how", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "perché", "en": "why; because", "vrsta": "pril"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "it": "quale", "en": "which", "vrsta": "zam"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "it": "quale", "en": "which", "vrsta": "zam", "zenski": "quale", "mnozina_pr": "quali / quali"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "l'italiano (m)", "en": "Italian (language)", "vrsta": "im", "rod": "m", "mnozina": "—"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "il lavoro", "en": "work; job", "vrsta": "im", "rod": "m", "mnozina": "i lavori"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "anche", "en": "also; too", "vrsta": "pril"}
@@ -239,11 +239,11 @@
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "vecchio", "en": "old", "vrsta": "pr", "zenski": "vecchia", "mnozina_pr": "vecchi / vecchie"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "sposato", "en": "married", "vrsta": "pr", "zenski": "sposata", "mnozina_pr": "sposati / sposate"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "single", "en": "single", "vrsta": "pr", "zenski": "single", "mnozina_pr": "single / single"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "mio", "en": "my", "vrsta": "zam"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "tuo", "en": "your (informal)", "vrsta": "zam"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "suo", "en": "his; her; your (formal)", "vrsta": "zam"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "nostro", "en": "our", "vrsta": "zam"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "vostro", "en": "your (plural)", "vrsta": "zam"}
+{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "mio", "en": "my", "vrsta": "zam", "zenski": "mia", "mnozina_pr": "miei / mie"}
+{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "tuo", "en": "your (informal)", "vrsta": "zam", "zenski": "tua", "mnozina_pr": "tuoi / tue"}
+{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "suo", "en": "his; her; your (formal)", "vrsta": "zam", "zenski": "sua", "mnozina_pr": "suoi / sue"}
+{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "nostro", "en": "our", "vrsta": "zam", "zenski": "nostra", "mnozina_pr": "nostri / nostre"}
+{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "vostro", "en": "your (plural)", "vrsta": "zam", "zenski": "vostra", "mnozina_pr": "vostri / vostre"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "loro (possessivo)", "en": "their", "vrsta": "izraz"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "gentile", "en": "kind", "vrsta": "pr", "zenski": "gentile", "mnozina_pr": "gentili / gentili"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "simpatico", "en": "nice; likeable", "vrsta": "pr", "zenski": "simpatica", "mnozina_pr": "simpatici / simpatiche"}
@@ -319,7 +319,7 @@
 {"razina": 5, "tema": "Food & Quantities", "it": "la verdura", "en": "vegetables", "vrsta": "im", "rod": "f", "mnozina": "le verdure"}
 {"razina": 5, "tema": "Food & Quantities", "it": "la frutta", "en": "fruit", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 5, "tema": "Food & Quantities", "it": "bere", "en": "to drink", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "bevuto", "prezent": "bevo · bevi · beve · beviamo · bevete · bevono"}
-{"razina": 5, "tema": "Food & Quantities", "it": "questo", "en": "this", "vrsta": "zam"}
+{"razina": 5, "tema": "Food & Quantities", "it": "questo", "en": "this", "vrsta": "zam", "zenski": "questa", "mnozina_pr": "questi / queste"}
 {"razina": 5, "tema": "Food & Quantities", "it": "la fame", "en": "hunger (avere fame = to be hungry)", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 5, "tema": "Food & Quantities", "it": "la sete", "en": "thirst (avere sete = to be thirsty)", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 6, "tema": "City & Directions", "it": "la via", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "le vie"}
@@ -747,7 +747,7 @@
 {"razina": 12, "tema": "Clothes & Shops", "it": "la pelle", "en": "leather; skin", "vrsta": "im", "rod": "f", "mnozina": "le pelli"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "chiaro", "en": "light", "vrsta": "pr", "zenski": "chiara", "mnozina_pr": "chiari / chiare"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "scuro", "en": "dark", "vrsta": "pr", "zenski": "scura", "mnozina_pr": "scuri / scure"}
-{"razina": 12, "tema": "Clothes & Shops", "it": "quello", "en": "that", "vrsta": "zam"}
+{"razina": 12, "tema": "Clothes & Shops", "it": "quello", "en": "that", "vrsta": "zam", "zenski": "quella", "mnozina_pr": "quelli / quelle (pred imenicom: quel, quello, quell', quei, quegli)"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "lo, la, li, le (pronome)", "en": "him; her; it; them", "vrsta": "zam"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "più", "en": "more", "vrsta": "pril"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "meno", "en": "less", "vrsta": "pril"}
@@ -1337,11 +1337,11 @@
 {"razina": 20, "tema": "Memories & the Future", "it": "appena", "en": "as soon as; just", "vrsta": "pril"}
 {"razina": 20, "tema": "Memories & the Future", "it": "tutti", "en": "everyone", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "it": "qualcuno", "en": "someone", "vrsta": "zam"}
-{"razina": 20, "tema": "Memories & the Future", "it": "nessuno", "en": "nobody", "vrsta": "zam"}
+{"razina": 20, "tema": "Memories & the Future", "it": "nessuno", "en": "nobody", "vrsta": "zam", "zenski": "nessuna", "mnozina_pr": "—"}
 {"razina": 20, "tema": "Memories & the Future", "it": "qualcosa", "en": "something", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "it": "niente", "en": "nothing", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "it": "ognuno", "en": "each one", "vrsta": "zam"}
-{"razina": 20, "tema": "Memories & the Future", "it": "tutto", "en": "everything; all", "vrsta": "zam"}
+{"razina": 20, "tema": "Memories & the Future", "it": "tutto", "en": "everything; all", "vrsta": "zam", "zenski": "tutta", "mnozina_pr": "tutti / tutte"}
 {"razina": 20, "tema": "Memories & the Future", "it": "alcuni", "en": "some; a few", "vrsta": "pr", "zenski": "alcune", "mnozina_pr": "alcuni / alcune"}
 {"razina": 20, "tema": "Memories & the Future", "it": "parecchio", "en": "quite a lot (of)", "vrsta": "pr", "zenski": "parecchia", "mnozina_pr": "parecchi / parecchie"}
 {"razina": 20, "tema": "Memories & the Future", "it": "stesso", "en": "same", "vrsta": "pr", "zenski": "stessa", "mnozina_pr": "stessi / stesse"}

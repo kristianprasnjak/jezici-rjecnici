@@ -202,7 +202,7 @@ L3	Everyday Verbs & the Week	dove	where	pril
 L3	Everyday Verbs & the Week	quando	when	pril								
 L3	Everyday Verbs & the Week	come	how	pril								
 L3	Everyday Verbs & the Week	perché	why; because	pril								
-L3	Everyday Verbs & the Week	quale	which	zam								
+L3	Everyday Verbs & the Week	quale	which	zam			quale	quali / quali				
 L3	Everyday Verbs & the Week	l'italiano (m)	Italian (language)	im	m	—						
 L3	Everyday Verbs & the Week	il lavoro	work; job	im	m	i lavori						
 L3	Everyday Verbs & the Week	anche	also; too	pril								
@@ -240,11 +240,11 @@ L4	Family, Age & Numbers to 100	giovane	young	pr			giovane	giovani / giovani
 L4	Family, Age & Numbers to 100	vecchio	old	pr			vecchia	vecchi / vecchie				
 L4	Family, Age & Numbers to 100	sposato	married	pr			sposata	sposati / sposate				
 L4	Family, Age & Numbers to 100	single	single	pr			single	single / single				
-L4	Family, Age & Numbers to 100	mio	my	zam								
-L4	Family, Age & Numbers to 100	tuo	your (informal)	zam								
-L4	Family, Age & Numbers to 100	suo	his; her; your (formal)	zam								
-L4	Family, Age & Numbers to 100	nostro	our	zam								
-L4	Family, Age & Numbers to 100	vostro	your (plural)	zam								
+L4	Family, Age & Numbers to 100	mio	my	zam			mia	miei / mie				
+L4	Family, Age & Numbers to 100	tuo	your (informal)	zam			tua	tuoi / tue				
+L4	Family, Age & Numbers to 100	suo	his; her; your (formal)	zam			sua	suoi / sue				
+L4	Family, Age & Numbers to 100	nostro	our	zam			nostra	nostri / nostre				
+L4	Family, Age & Numbers to 100	vostro	your (plural)	zam			vostra	vostri / vostre				
 L4	Family, Age & Numbers to 100	loro (possessivo)	their	izraz								
 L4	Family, Age & Numbers to 100	gentile	kind	pr			gentile	gentili / gentili				
 L4	Family, Age & Numbers to 100	simpatico	nice; likeable	pr			simpatica	simpatici / simpatiche				
@@ -320,7 +320,7 @@ L5	Food & Quantities	il sacchetto	bag (shopping)	im	m	i sacchetti
 L5	Food & Quantities	la verdura	vegetables	im	f	le verdure						
 L5	Food & Quantities	la frutta	fruit	im	f	—						
 L5	Food & Quantities	bere	to drink	gl					2	avere	bevuto	bevo · bevi · beve · beviamo · bevete · bevono
-L5	Food & Quantities	questo	this	zam								
+L5	Food & Quantities	questo	this	zam			questa	questi / queste				
 L5	Food & Quantities	la fame	hunger (avere fame = to be hungry)	im	f	—						
 L5	Food & Quantities	la sete	thirst (avere sete = to be thirsty)	im	f	—						
 L6	City & Directions	la via	street	im	f	le vie						
@@ -748,7 +748,7 @@ L12	Clothes & Shops	la lana	wool	im	f	—
 L12	Clothes & Shops	la pelle	leather; skin	im	f	le pelli						
 L12	Clothes & Shops	chiaro	light	pr			chiara	chiari / chiare				
 L12	Clothes & Shops	scuro	dark	pr			scura	scuri / scure				
-L12	Clothes & Shops	quello	that	zam								
+L12	Clothes & Shops	quello	that	zam			quella	quelli / quelle (pred imenicom: quel, quello, quell', quei, quegli)				
 L12	Clothes & Shops	lo, la, li, le (pronome)	him; her; it; them	zam								
 L12	Clothes & Shops	più	more	pril								
 L12	Clothes & Shops	meno	less	pril								
@@ -1338,11 +1338,11 @@ L20	Memories & the Future	da quando	since	vez
 L20	Memories & the Future	appena	as soon as; just	pril								
 L20	Memories & the Future	tutti	everyone	zam								
 L20	Memories & the Future	qualcuno	someone	zam								
-L20	Memories & the Future	nessuno	nobody	zam								
+L20	Memories & the Future	nessuno	nobody	zam			nessuna	—				
 L20	Memories & the Future	qualcosa	something	zam								
 L20	Memories & the Future	niente	nothing	zam								
 L20	Memories & the Future	ognuno	each one	zam								
-L20	Memories & the Future	tutto	everything; all	zam								
+L20	Memories & the Future	tutto	everything; all	zam			tutta	tutti / tutte				
 L20	Memories & the Future	alcuni	some; a few	pr			alcune	alcuni / alcune				
 L20	Memories & the Future	parecchio	quite a lot (of)	pr			parecchia	parecchi / parecchie				
 L20	Memories & the Future	stesso	same	pr			stessa	stessi / stesse				

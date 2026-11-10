@@ -194,7 +194,7 @@ L3	Everyday Verbs & the Week	a menudo	often	izraz
 L3	Everyday Verbs & the Week	siempre	always	pril								
 L3	Everyday Verbs & the Week	a veces	sometimes	izraz								
 L3	Everyday Verbs & the Week	cuándo	when	pril								
-L3	Everyday Verbs & the Week	cuál	which	zam								
+L3	Everyday Verbs & the Week	cuál	which	zam			cuál	cuáles / cuáles				
 L3	Everyday Verbs & the Week	por qué	why	izraz								
 L3	Everyday Verbs & the Week	porque	because	vez								
 L3	Everyday Verbs & the Week	el trabajo	work; job	im	m	los trabajos						
@@ -247,8 +247,8 @@ L4	Family & Age	soltero	single	pr			soltera	solteros / solteras
 L4	Family & Age	mi, mis	my	zam								
 L4	Family & Age	tu, tus	your	zam								
 L4	Family & Age	su, sus	his; her; their; your (formal)	zam								
-L4	Family & Age	nuestro	our	zam								
-L4	Family & Age	vuestro	your (plural)	zam								
+L4	Family & Age	nuestro	our	zam			nuestra	nuestros / nuestras				
+L4	Family & Age	vuestro	your (plural)	zam			vuestra	vuestros / vuestras				
 L4	Family & Age	simpático	nice; friendly	pr			simpática	simpáticos / simpáticas				
 L4	Family & Age	amable	kind	pr			amable	amables / amables				
 L4	Family & Age	guapo	good-looking	pr			guapa	guapos / guapas				
@@ -1360,7 +1360,7 @@ L20	Memories & the Future	todo el mundo	everyone	izraz
 L20	Memories & the Future	alguno	some; any	pr			alguna	algunos / algunas				
 L20	Memories & the Future	ninguno	none; no	pr			ninguna	ningunos / ningunas				
 L20	Memories & the Future	cada uno	each one	izraz								
-L20	Memories & the Future	todo	all; everything	zam								
+L20	Memories & the Future	todo	all; everything	zam			toda	todos / todas				
 L20	Memories & the Future	varios	several	pr			varias	varios / varias				
 L20	Memories & the Future	mismo	same	pr			misma	mismos / mismas				
 L20	Memories & the Future	distinto	different	pr			distinta	distintos / distintas				

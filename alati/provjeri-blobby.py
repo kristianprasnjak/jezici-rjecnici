@@ -4,9 +4,9 @@
 Uporaba:  python3 alati/provjeri-blobby.py XX putanja/blobby-glas-XX.md putanja/XX-gramaticka-kraljeznica.md
 
 Pravilo za blobby-glas-XX.md: *kurziv* je uvijek i samo ciljni jezik (kao u deutsch/blobby-glas-de.md).
-Razina se uzima iz naslova „## L<n> …“ ili iz prvog stupca retka tablice („| L<n> |“).
-Odjeljak „## …“ bez razine se ne provjerava (osim redaka tablice s razinom). Jedno slovo i dio riječi
-s crticom (*-ent*) se ne provjeravaju. Redak „Ručno provjereno: *oblik*, *oblik*“ prihvaća oblike koje
+Razina se uzima iz naslova „## L<n> …“ ili iz prvog ili drugog stupca retka tablice („| L<n> |“).
+Odjeljak „## …“ bez razine se ne provjerava (osim redaka tablice s razinom). Jedno slovo, skup od dva slova kojeg nema
+nigdje u rječniku (*zz*) i dio riječi s crticom (*-ent*) se ne provjeravaju. Redak „Ručno provjereno: *oblik*, *oblik*“ prihvaća oblike koje
 rječnik ne navodi (npr. futur), nakon što ih je čovjek provjerio.
 Riječ je u redu ako je u rječniku na razini ≤ n (bilo koji stupac oblika) ili u zamrznutoj frazi
 iz odj. 6 kralježnice s „Od“ ≤ n. Ostalo se ispisuje kao upozorenje za ručnu provjeru
@@ -94,18 +94,19 @@ def main():
             continue
         n = trenutna
         if red.startswith("|"):
-            prvi = red.strip("|").split("|")[0].strip().strip("*")
-            m = RAZ.match(prvi)
-            if m:
-                n = int(m.group(1))
+            for stupac in red.strip("|").split("|")[:2]:
+                m = re.fullmatch(r"L(\d{1,2})", stupac.strip().strip("*"))
+                if m:
+                    n = int(m.group(1))
+                    break
         if n is None:
             continue
         for k in KURZIV.findall(red):
             if k.startswith("-"):
                 continue
             for t in tokeni(k):
-                if len(t) < 2 or t in rucno:
-                    continue
+                if len(t) < 2 or t in rucno or (len(t) == 2 and t not in rj and t not in fr):
+                    continue  # slovo ili skup slova (*zz*, *ch*), ne riječ
                 ukupno += 1
                 ok = min(rj.get(t, 99), fr.get(t, 99))
                 if ok > n:
