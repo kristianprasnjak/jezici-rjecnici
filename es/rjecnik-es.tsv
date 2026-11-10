@@ -85,6 +85,17 @@ L1	Greetings & Countries	dónde	where	pril
 L1	Greetings & Countries	cómo	how	pril								
 L1	Greetings & Countries	de	from; of	prij								
 L1	Greetings & Countries	la ciudad	city; town	im	f	las ciudades						
+L1	Greetings & Countries	cero	zero	broj								
+L1	Greetings & Countries	uno	one	broj								
+L1	Greetings & Countries	dos	two	broj								
+L1	Greetings & Countries	tres	three	broj								
+L1	Greetings & Countries	cuatro	four	broj								
+L1	Greetings & Countries	cinco	five	broj								
+L1	Greetings & Countries	seis	six	broj								
+L1	Greetings & Countries	siete	seven	broj								
+L1	Greetings & Countries	ocho	eight	broj								
+L1	Greetings & Countries	nueve	nine	broj								
+L1	Greetings & Countries	diez	ten	broj								
 L2	The Flat & Colours	el piso	flat; floor	im	m	los pisos						
 L2	The Flat & Colours	la casa	house; home	im	f	las casas						
 L2	The Flat & Colours	la habitación	room; bedroom	im	f	las habitaciones						
@@ -195,6 +206,7 @@ L3	Everyday Verbs & the Week	todos los días	every day	izraz
 L3	Everyday Verbs & the Week	a	to; at; (personal a)	prij								
 L3	Everyday Verbs & the Week	en	in; at; on	prij								
 L3	Everyday Verbs & the Week	con	with	prij								
+L3	Everyday Verbs & the Week	o	or	vez								
 L4	Family & Age	la madre	mother	im	f	las madres						
 L4	Family & Age	la mamá	mum	im	f	las mamás						
 L4	Family & Age	el padre	father	im	m	los padres						
@@ -251,6 +263,18 @@ L4	Family & Age	traer	to bring	gl					2	traído	traigo · traes · trae · traem
 L4	Family & Age	el apellido	surname	im	m	los apellidos						
 L4	Family & Age	el nombre	name	im	m	los nombres						
 L4	Family & Age	el bebé	baby	im	m	los bebés						
+L4	Family & Age	once	eleven	broj								
+L4	Family & Age	doce	twelve	broj								
+L4	Family & Age	trece	thirteen	broj								
+L4	Family & Age	catorce	fourteen	broj								
+L4	Family & Age	quince	fifteen	broj								
+L4	Family & Age	dieciséis	sixteen	broj								
+L4	Family & Age	diecisiete	seventeen	broj								
+L4	Family & Age	dieciocho	eighteen	broj								
+L4	Family & Age	diecinueve	nineteen	broj								
+L4	Family & Age	veinte	twenty	broj								
+L4	Family & Age	veintiuno	twenty-one	broj								
+L4	Family & Age	treinta	thirty	broj								
 L5	Food & Quantities	el mercado	market	im	m	los mercados						
 L5	Food & Quantities	el pan	bread	im	m	los panes						
 L5	Food & Quantities	el queso	cheese	im	m	los quesos						
@@ -312,6 +336,8 @@ L5	Food & Quantities	sesenta	sixty	broj
 L5	Food & Quantities	setenta	seventy	broj								
 L5	Food & Quantities	ochenta	eighty	broj								
 L5	Food & Quantities	noventa	ninety	broj								
+L5	Food & Quantities	cuarenta	forty	broj								
+L5	Food & Quantities	cincuenta	fifty	broj								
 L6	City & Directions	la calle	street	im	f	las calles						
 L6	City & Directions	la avenida	avenue	im	f	las avenidas						
 L6	City & Directions	el barrio	neighbourhood	im	m	los barrios						
@@ -491,7 +517,6 @@ L8	Routine & Time	el horario	timetable; schedule	im	m	los horarios
 L8	Routine & Time	la siesta	nap	im	f	las siestas						
 L8	Routine & Time	solo	alone; only	pr			sola	solos / solas				
 L8	Routine & Time	casi	almost	pril								
-L8	Routine & Time	nunca	never	pril								
 L8	Routine & Time	el reloj	watch; clock	im	m	los relojes						
 L9	Weather, Months & Plans	el tiempo	weather; time	im	m	los tiempos						
 L9	Weather, Months & Plans	hace calor	it's hot	izraz								
@@ -557,6 +582,9 @@ L9	Weather, Months & Plans	¿diga?	hello? (phone)	izraz
 L9	Weather, Months & Plans	caluroso	hot (day)	pr			calurosa	calurosos / calurosas				
 L9	Weather, Months & Plans	frío	cold	pr			fría	fríos / frías				
 L9	Weather, Months & Plans	nublado	cloudy	pr			nublada	nublados / nubladas				
+L9	Weather, Months & Plans	cuando	when (conjunction)	vez								
+L9	Weather, Months & Plans	así que	so	izraz								
+L9	Weather, Months & Plans	nunca	never	pril								
 L10	Recent Events	esta semana	this week	izraz								
 L10	Recent Events	este mes	this month	izraz								
 L10	Recent Events	esta mañana	this morning	izraz								
@@ -1318,7 +1346,6 @@ L20	Memories & the Future	permanecer	to remain	gl					2	permanecido	permanezco �
 L20	Memories & the Future	gracias a	thanks to	prij								
 L20	Memories & the Future	a pesar de	despite	prij								
 L20	Memories & the Future	a causa de	because of	prij								
-L20	Memories & the Future	así que	so	izraz								
 L20	Memories & the Future	mientras	while	vez								
 L20	Memories & the Future	desde que	since	izraz								
 L20	Memories & the Future	desde	since; from	prij								

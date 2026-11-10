@@ -1,0 +1,98 @@
+rijec	razina	izvor
+ser	L1	5a
+ver	L3	5a
+tener	L4	5a
+hacer	L4	5a
+poner	L4	5a
+salir	L4	5a
+traer	L4	5a
+dar	L4	5a
+saber	L4	5a
+conocer	L4	5a
+comprar	L5	5a
+pagar	L5	5a
+costar	L5	5a
+estar	L6	5a
+ir	L6	5a
+seguir	L6	5a
+encontrar	L6	5a
+querer	L7	5a
+preferir	L7	5a
+pensar	L7	5a
+empezar	L7	5a
+poder	L7	5a
+volver	L7	5a
+dormir	L7	5a
+jugar	L7	5a
+gustar	L7	5a
+encantar	L7	5a
+pedir	L8	5a
+vestirse	L8	5a
+conseguir	L8	5a
+almorzar	L8	5a
+acostarse	L8	5a
+despertarse	L8	5a
+llover	L9	5a
+nevar	L9	5a
+decir	L10	5a
+contar	L10	5a
+perder	L10	5a
+cerrar	L10	5a
+reír	L10	5a
+conducir	L11	5a
+caer	L11	5a
+nacer	L11	5a
+morir	L11	5a
+probarse	L12	5a
+ponerse	L12	5a
+doler	L13	5a
+envolver	L14	5a
+agradecer	L14	5a
+soler	L15	5a
+crecer	L15	5a
+recordar	L15	5a
+acordarse de	L15	5a
+proponer	L19	5a
+sugerir	L19	5a
+permanecer	L20	5a
+creer	L20	5a
+y	L1	5b
+pero	L2	5b
+o	L3	5b
+porque	L3	5b
+por qué	L3	5b
+cuando	L9	5b
+entonces	L9	5b
+así que	L9	5b
+si	L18	5b
+que	L17	5b
+donde	L17	5b
+si no	L19	5b
+sin embargo	L19	5b
+mientras	L20	5b
+desde que	L20	5b
+en cuanto	L20	5b
+espero que	L20	5b
+quiero que	L20	5b
+ir a + infinitivo	L9	5
+tener que	L9	5
+nada	L9	5
+nadie	L9	5
+nunca	L9	5
+alguien	L9	5
+ya	L10	5
+acabar de	L10	5
+todavía no	L10	5
+por	L11	5
+para	L11	5
+lo, la, los, las	L14	5
+le, les	L14	5
+me, te, nos, os	L14	5
+estar + gerundio	L16	5
+tan … como	L17	5
+el mejor	L17	5
+deberías	L19	5
+me gustaría	L19	5
+no te preocupes	L19	5
+me duele	L13	5
+me gusta	L7	5

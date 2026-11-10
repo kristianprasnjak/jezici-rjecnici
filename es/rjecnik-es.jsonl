@@ -84,6 +84,17 @@
 {"razina": 1, "tema": "Greetings & Countries", "es": "cómo", "en": "how", "vrsta": "pril"}
 {"razina": 1, "tema": "Greetings & Countries", "es": "de", "en": "from; of", "vrsta": "prij"}
 {"razina": 1, "tema": "Greetings & Countries", "es": "la ciudad", "en": "city; town", "vrsta": "im", "rod": "f", "mnozina": "las ciudades"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "cero", "en": "zero", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "uno", "en": "one", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "dos", "en": "two", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "tres", "en": "three", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "cuatro", "en": "four", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "cinco", "en": "five", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "seis", "en": "six", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "siete", "en": "seven", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "ocho", "en": "eight", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "nueve", "en": "nine", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "diez", "en": "ten", "vrsta": "broj"}
 {"razina": 2, "tema": "The Flat & Colours", "es": "el piso", "en": "flat; floor", "vrsta": "im", "rod": "m", "mnozina": "los pisos"}
 {"razina": 2, "tema": "The Flat & Colours", "es": "la casa", "en": "house; home", "vrsta": "im", "rod": "f", "mnozina": "las casas"}
 {"razina": 2, "tema": "The Flat & Colours", "es": "la habitación", "en": "room; bedroom", "vrsta": "im", "rod": "f", "mnozina": "las habitaciones"}
@@ -194,6 +205,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "a", "en": "to; at; (personal a)", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "en", "en": "in; at; on", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "con", "en": "with", "vrsta": "prij"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "es": "o", "en": "or", "vrsta": "vez"}
 {"razina": 4, "tema": "Family & Age", "es": "la madre", "en": "mother", "vrsta": "im", "rod": "f", "mnozina": "las madres"}
 {"razina": 4, "tema": "Family & Age", "es": "la mamá", "en": "mum", "vrsta": "im", "rod": "f", "mnozina": "las mamás"}
 {"razina": 4, "tema": "Family & Age", "es": "el padre", "en": "father", "vrsta": "im", "rod": "m", "mnozina": "los padres"}
@@ -250,6 +262,18 @@
 {"razina": 4, "tema": "Family & Age", "es": "el apellido", "en": "surname", "vrsta": "im", "rod": "m", "mnozina": "los apellidos"}
 {"razina": 4, "tema": "Family & Age", "es": "el nombre", "en": "name", "vrsta": "im", "rod": "m", "mnozina": "los nombres"}
 {"razina": 4, "tema": "Family & Age", "es": "el bebé", "en": "baby", "vrsta": "im", "rod": "m", "mnozina": "los bebés"}
+{"razina": 4, "tema": "Family & Age", "es": "once", "en": "eleven", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "doce", "en": "twelve", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "trece", "en": "thirteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "catorce", "en": "fourteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "quince", "en": "fifteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "dieciséis", "en": "sixteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "diecisiete", "en": "seventeen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "dieciocho", "en": "eighteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "diecinueve", "en": "nineteen", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "veinte", "en": "twenty", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "veintiuno", "en": "twenty-one", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "es": "treinta", "en": "thirty", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "es": "el mercado", "en": "market", "vrsta": "im", "rod": "m", "mnozina": "los mercados"}
 {"razina": 5, "tema": "Food & Quantities", "es": "el pan", "en": "bread", "vrsta": "im", "rod": "m", "mnozina": "los panes"}
 {"razina": 5, "tema": "Food & Quantities", "es": "el queso", "en": "cheese", "vrsta": "im", "rod": "m", "mnozina": "los quesos"}
@@ -311,6 +335,8 @@
 {"razina": 5, "tema": "Food & Quantities", "es": "setenta", "en": "seventy", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "es": "ochenta", "en": "eighty", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "es": "noventa", "en": "ninety", "vrsta": "broj"}
+{"razina": 5, "tema": "Food & Quantities", "es": "cuarenta", "en": "forty", "vrsta": "broj"}
+{"razina": 5, "tema": "Food & Quantities", "es": "cincuenta", "en": "fifty", "vrsta": "broj"}
 {"razina": 6, "tema": "City & Directions", "es": "la calle", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "las calles"}
 {"razina": 6, "tema": "City & Directions", "es": "la avenida", "en": "avenue", "vrsta": "im", "rod": "f", "mnozina": "las avenidas"}
 {"razina": 6, "tema": "City & Directions", "es": "el barrio", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "los barrios"}
@@ -490,7 +516,6 @@
 {"razina": 8, "tema": "Routine & Time", "es": "la siesta", "en": "nap", "vrsta": "im", "rod": "f", "mnozina": "las siestas"}
 {"razina": 8, "tema": "Routine & Time", "es": "solo", "en": "alone; only", "vrsta": "pr", "zenski": "sola", "mnozina_pr": "solos / solas"}
 {"razina": 8, "tema": "Routine & Time", "es": "casi", "en": "almost", "vrsta": "pril"}
-{"razina": 8, "tema": "Routine & Time", "es": "nunca", "en": "never", "vrsta": "pril"}
 {"razina": 8, "tema": "Routine & Time", "es": "el reloj", "en": "watch; clock", "vrsta": "im", "rod": "m", "mnozina": "los relojes"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "el tiempo", "en": "weather; time", "vrsta": "im", "rod": "m", "mnozina": "los tiempos"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "hace calor", "en": "it's hot", "vrsta": "izraz"}
@@ -556,6 +581,9 @@
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "caluroso", "en": "hot (day)", "vrsta": "pr", "zenski": "calurosa", "mnozina_pr": "calurosos / calurosas"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "frío", "en": "cold", "vrsta": "pr", "zenski": "fría", "mnozina_pr": "fríos / frías"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "nublado", "en": "cloudy", "vrsta": "pr", "zenski": "nublada", "mnozina_pr": "nublados / nubladas"}
+{"razina": 9, "tema": "Weather, Months & Plans", "es": "cuando", "en": "when (conjunction)", "vrsta": "vez"}
+{"razina": 9, "tema": "Weather, Months & Plans", "es": "así que", "en": "so", "vrsta": "izraz"}
+{"razina": 9, "tema": "Weather, Months & Plans", "es": "nunca", "en": "never", "vrsta": "pril"}
 {"razina": 10, "tema": "Recent Events", "es": "esta semana", "en": "this week", "vrsta": "izraz"}
 {"razina": 10, "tema": "Recent Events", "es": "este mes", "en": "this month", "vrsta": "izraz"}
 {"razina": 10, "tema": "Recent Events", "es": "esta mañana", "en": "this morning", "vrsta": "izraz"}
@@ -1317,7 +1345,6 @@
 {"razina": 20, "tema": "Memories & the Future", "es": "gracias a", "en": "thanks to", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "es": "a pesar de", "en": "despite", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "es": "a causa de", "en": "because of", "vrsta": "prij"}
-{"razina": 20, "tema": "Memories & the Future", "es": "así que", "en": "so", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "es": "mientras", "en": "while", "vrsta": "vez"}
 {"razina": 20, "tema": "Memories & the Future", "es": "desde que", "en": "since", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "es": "desde", "en": "since; from", "vrsta": "prij"}
