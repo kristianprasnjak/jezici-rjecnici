@@ -1,6 +1,6 @@
 # Izvještaj provjere — pt
 
-Riječi: **1389** · greške: **0** · upozorenja: **0**
+Riječi: **1391** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
@@ -11,7 +11,7 @@ Riječi: **1389** · greške: **0** · upozorenja: **0**
 | L2 | The Flat & Colours | 65 | 65 | ✓ |
 | L3 | Everyday Verbs & the Week | 55 | 57 | ✓ |
 | L4 | Family & Age | 65 | 66 | ✓ |
-| L5 | Food, Drinks & Quantities | 65 | 67 | ✓ |
+| L5 | Food, Drinks & Quantities | 65 | 69 | ✓ |
 | L6 | City & Directions | 60 | 62 | ✓ |
 | L7 | Hobbies & Sport | 60 | 61 | ✓ |
 | L8 | Routine & Time | 60 | 58 | ✓ |
@@ -27,13 +27,13 @@ Riječi: **1389** · greške: **0** · upozorenja: **0**
 | L18 | Work & Careers | 80 | 77 | ✓ |
 | L19 | Wishes & Advice | 80 | 77 | ✓ |
 | L20 | Memories & the Future | 80 | 80 | ✓ |
-| **ukupno** | | **1386** | **1389** | |
+| **ukupno** | | **1386** | **1391** | |
 
 ## Po vrstama
 
 | Vrsta | Broj |
 |---|---:|
-| imenica | 717 |
+| imenica | 719 |
 | izraz | 204 |
 | glagol | 178 |
 | pridjev | 148 |
@@ -49,6 +49,6 @@ Riječi: **1389** · greške: **0** · upozorenja: **0**
 
 | Vrsta | Stupci | Popunjeno |
 |---|---|---:|
-| imenica | rod, mnozina | 717 / 717 |
+| imenica | rod, mnozina | 719 / 719 |
 | pridjev | zenski, mnozina_pr | 148 / 148 |
 | glagol | gl_skupina, particip, prezent, preterit | 178 / 178 |

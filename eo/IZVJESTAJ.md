@@ -1,6 +1,6 @@
 # Izvještaj provjere — eo
 
-Riječi: **1433** · greške: **0** · upozorenja: **0**
+Riječi: **1435** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
@@ -11,7 +11,7 @@ Riječi: **1433** · greške: **0** · upozorenja: **0**
 | L2 | The Room & Colours | 75 | 77 | ✓ |
 | L3 | Everyday Verbs & the Week | 65 | 66 | ✓ |
 | L4 | Family & People | 70 | 71 | ✓ |
-| L5 | Food & Quantities | 65 | 67 | ✓ |
+| L5 | Food & Quantities | 65 | 69 | ✓ |
 | L6 | City & Directions | 75 | 75 | ✓ |
 | L7 | Past & Future Time | 75 | 73 | ✓ |
 | L8 | Routine & Time | 75 | 75 | ✓ |
@@ -25,7 +25,7 @@ Riječi: **1433** · greške: **0** · upozorenja: **0**
 | L16 | Events & Stories | 85 | 82 | ✓ |
 | L17 | News & Media | 85 | 84 | ✓ |
 | L18 | Memories & the Future | 85 | 83 | ✓ |
-| **ukupno** | | **1430** | **1433** | |
+| **ukupno** | | **1430** | **1435** | |
 
 ## Po vrstama
 
@@ -33,7 +33,7 @@ Riječi: **1433** · greške: **0** · upozorenja: **0**
 |---|---:|
 | imenica | 671 |
 | glagol | 229 |
-| pridjev | 182 |
+| pridjev | 184 |
 | prilog | 105 |
 | izraz | 98 |
 | afiks (tvorba riječi) | 49 |

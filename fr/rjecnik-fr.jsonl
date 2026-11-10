@@ -321,6 +321,8 @@
 {"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "c'est combien ?", "en": "how much is it?", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "encore", "en": "more; again; still", "vrsta": "pril"}
 {"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "pour", "en": "for", "vrsta": "prij"}
+{"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "la faim", "en": "hunger (avoir faim = to be hungry)", "vrsta": "im", "rod": "f", "mnozina": "—"}
+{"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "la soif", "en": "thirst (avoir soif = to be thirsty)", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 6, "tema": "City & Directions", "fr": "la rue", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "rues"}
 {"razina": 6, "tema": "City & Directions", "fr": "l'avenue (f)", "en": "avenue", "vrsta": "im", "rod": "f", "mnozina": "avenues"}
 {"razina": 6, "tema": "City & Directions", "fr": "le quartier", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "quartiers"}

@@ -339,6 +339,8 @@
 {"razina": 5, "tema": "Food & Quantities", "es": "cuarenta", "en": "forty", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "es": "cincuenta", "en": "fifty", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "es": "medio", "en": "half", "vrsta": "pr", "zenski": "media", "mnozina_pr": "medios / medias"}
+{"razina": 5, "tema": "Food & Quantities", "es": "el hambre (f)", "en": "hunger (tener hambre = to be hungry)", "vrsta": "im", "rod": "f", "mnozina": "—"}
+{"razina": 5, "tema": "Food & Quantities", "es": "la sed", "en": "thirst (tener sed = to be thirsty)", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 6, "tema": "City & Directions", "es": "la calle", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "las calles"}
 {"razina": 6, "tema": "City & Directions", "es": "la avenida", "en": "avenue", "vrsta": "im", "rod": "f", "mnozina": "las avenidas"}
 {"razina": 6, "tema": "City & Directions", "es": "el barrio", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "los barrios"}

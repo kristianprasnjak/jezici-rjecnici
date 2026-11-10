@@ -374,6 +374,8 @@
 {"razina": 5, "tema": "Food & Quantities", "eo": "dua", "en": "second", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "tria", "en": "third", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "do", "en": "so; then", "vrsta": "vez"}
+{"razina": 5, "tema": "Food & Quantities", "eo": "malsata", "en": "hungry", "vrsta": "pr"}
+{"razina": 5, "tema": "Food & Quantities", "eo": "soifa", "en": "thirsty", "vrsta": "pr"}
 {"razina": 6, "tema": "City & Directions", "eo": "strato", "en": "street", "vrsta": "im"}
 {"razina": 6, "tema": "City & Directions", "eo": "placo", "en": "square", "vrsta": "im"}
 {"razina": 6, "tema": "City & Directions", "eo": "centro", "en": "centre", "vrsta": "im"}

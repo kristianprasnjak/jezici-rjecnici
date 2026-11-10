@@ -1,6 +1,6 @@
 # Izvještaj provjere — en
 
-Riječi: **1502** · greške: **0** · upozorenja: **0**
+Riječi: **1504** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
@@ -11,7 +11,7 @@ Riječi: **1502** · greške: **0** · upozorenja: **0**
 | L2 | The Flat & Colours | 65 | 67 | ✓ |
 | L3 | Everyday Verbs & the Week | 65 | 63 | ✓ |
 | L4 | Family & Age | 65 | 70 | ✓ |
-| L5 | Food & Quantities | 70 | 71 | ✓ |
+| L5 | Food & Quantities | 70 | 73 | ✓ |
 | L6 | City & Directions | 70 | 69 | ✓ |
 | L7 | Hobbies & Sport | 70 | 71 | ✓ |
 | L8 | Routine, Time & Dates | 70 | 69 | ✓ |
@@ -27,7 +27,7 @@ Riječi: **1502** · greške: **0** · upozorenja: **0**
 | L18 | Childhood & School | 80 | 80 | ✓ |
 | L19 | Wishes & Advice | 80 | 79 | ✓ |
 | L20 | Memories & the Future | 80 | 76 | ✓ |
-| **ukupno** | | **1501** | **1502** | |
+| **ukupno** | | **1501** | **1504** | |
 
 ## Po vrstama
 
@@ -36,7 +36,7 @@ Riječi: **1502** · greške: **0** · upozorenja: **0**
 | imenica | 770 |
 | izraz | 194 |
 | glagol | 185 |
-| pridjev | 155 |
+| pridjev | 157 |
 | prilog | 77 |
 | zamjenica | 46 |
 | broj | 39 |
@@ -50,5 +50,5 @@ Riječi: **1502** · greške: **0** · upozorenja: **0**
 | Vrsta | Stupci | Popunjeno |
 |---|---|---:|
 | imenica | mnozina | 770 / 770 |
-| pridjev | komparativ, superlativ | 155 / 155 |
+| pridjev | komparativ, superlativ | 157 / 157 |
 | glagol | preterit, particip, ing | 185 / 185 |

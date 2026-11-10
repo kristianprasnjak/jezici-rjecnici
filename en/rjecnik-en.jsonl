@@ -363,6 +363,8 @@
 {"razina": 5, "tema": "Food & Quantities", "en": "jam", "hr": "džem", "vrsta": "im", "mnozina": "jams"}
 {"razina": 5, "tema": "Food & Quantities", "en": "yoghurt", "hr": "jogurt", "vrsta": "im", "mnozina": "yoghurts"}
 {"razina": 5, "tema": "Food & Quantities", "en": "lots of", "hr": "puno, mnogo", "vrsta": "izraz"}
+{"razina": 5, "tema": "Food & Quantities", "en": "hungry", "hr": "gladan", "vrsta": "pr", "komparativ": "hungrier", "superlativ": "hungriest"}
+{"razina": 5, "tema": "Food & Quantities", "en": "thirsty", "hr": "žedan", "vrsta": "pr", "komparativ": "thirstier", "superlativ": "thirstiest"}
 {"razina": 6, "tema": "City & Directions", "en": "street", "hr": "ulica", "vrsta": "im", "mnozina": "streets"}
 {"razina": 6, "tema": "City & Directions", "en": "road", "hr": "cesta", "vrsta": "im", "mnozina": "roads"}
 {"razina": 6, "tema": "City & Directions", "en": "square", "hr": "trg", "vrsta": "im", "mnozina": "squares"}

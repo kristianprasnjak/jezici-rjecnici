@@ -1,6 +1,6 @@
 # Izvještaj provjere — fr
 
-Riječi: **1356** · greške: **0** · upozorenja: **0**
+Riječi: **1358** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
@@ -11,7 +11,7 @@ Riječi: **1356** · greške: **0** · upozorenja: **0**
 | L2 | The Flat & Colours | 55 | 56 | ✓ |
 | L3 | Everyday Verbs, the Week & Numbers 0–69 | 65 | 66 | ✓ |
 | L4 | Family & Age | 55 | 55 | ✓ |
-| L5 | Food, Drinks & Numbers 70–100 | 60 | 60 | ✓ |
+| L5 | Food, Drinks & Numbers 70–100 | 60 | 62 | ✓ |
 | L6 | City & Directions | 60 | 59 | ✓ |
 | L7 | Hobbies, Sport & Eating Out | 60 | 61 | ✓ |
 | L8 | Routine & Time | 60 | 59 | ✓ |
@@ -27,13 +27,13 @@ Riječi: **1356** · greške: **0** · upozorenja: **0**
 | L18 | Work & Careers | 80 | 79 | ✓ |
 | L19 | Wishes & Advice | 80 | 78 | ✓ |
 | L20 | Memories & the Future | 80 | 77 | ✓ |
-| **ukupno** | | **1371** | **1356** | |
+| **ukupno** | | **1371** | **1358** | |
 
 ## Po vrstama
 
 | Vrsta | Broj |
 |---|---:|
-| imenica | 683 |
+| imenica | 685 |
 | glagol | 182 |
 | izraz | 163 |
 | pridjev | 141 |
@@ -49,6 +49,6 @@ Riječi: **1356** · greške: **0** · upozorenja: **0**
 
 | Vrsta | Stupci | Popunjeno |
 |---|---|---:|
-| imenica | rod, mnozina | 683 / 683 |
+| imenica | rod, mnozina | 685 / 685 |
 | pridjev | zenski, mnozina_pr | 141 / 141 |
 | glagol | gl_skupina, pomocni, particip, prezent | 182 / 182 |

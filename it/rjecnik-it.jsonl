@@ -320,6 +320,8 @@
 {"razina": 5, "tema": "Food & Quantities", "it": "la frutta", "en": "fruit", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 5, "tema": "Food & Quantities", "it": "bere", "en": "to drink", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "bevuto", "prezent": "bevo · bevi · beve · beviamo · bevete · bevono"}
 {"razina": 5, "tema": "Food & Quantities", "it": "questo", "en": "this", "vrsta": "zam"}
+{"razina": 5, "tema": "Food & Quantities", "it": "la fame", "en": "hunger (avere fame = to be hungry)", "vrsta": "im", "rod": "f", "mnozina": "—"}
+{"razina": 5, "tema": "Food & Quantities", "it": "la sete", "en": "thirst (avere sete = to be thirsty)", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 6, "tema": "City & Directions", "it": "la via", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "le vie"}
 {"razina": 6, "tema": "City & Directions", "it": "la strada", "en": "road; street", "vrsta": "im", "rod": "f", "mnozina": "le strade"}
 {"razina": 6, "tema": "City & Directions", "it": "il quartiere", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "i quartieri"}

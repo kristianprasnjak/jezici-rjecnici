@@ -339,6 +339,8 @@
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "setenta", "en": "seventy", "vrsta": "broj"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "oitenta", "en": "eighty", "vrsta": "broj"}
 {"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "noventa", "en": "ninety", "vrsta": "broj"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a fome", "en": "hunger (estar com fome = to be hungry)", "vrsta": "im", "rod": "f", "mnozina": "—"}
+{"razina": 5, "tema": "Food, Drinks & Quantities", "pt": "a sede", "en": "thirst (estar com sede = to be thirsty)", "vrsta": "im", "rod": "f", "mnozina": "—"}
 {"razina": 6, "tema": "City & Directions", "pt": "a rua", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "as ruas"}
 {"razina": 6, "tema": "City & Directions", "pt": "a avenida", "en": "avenue", "vrsta": "im", "rod": "f", "mnozina": "as avenidas"}
 {"razina": 6, "tema": "City & Directions", "pt": "o bairro", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "os bairros"}
