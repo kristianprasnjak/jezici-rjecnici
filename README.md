@@ -34,6 +34,7 @@ Njemački rječnik je u Crolandu (`deutsch/rjecnik/`).
 | `rjecnik-XX.jsonl` | za program; gradi se iz TSV-a, ne uređuje se ručno |
 | `razine-XX.tsv` | razine, teme i ciljani broj riječi iz koncepta |
 | `IZVJESTAJ.md` | rezultat zadnje provjere |
+| `prijevod-SU-XX.tsv` | faza C: prijevod na jezik sučelja SU (`hr`, kasnije `de`, `es` …), ključ = riječ + vrsta; rječnik iz faze B se ne mijenja |
 | `kraljeznica-XX.tsv` | riječi čiju razinu propisuje kralježnica tečaja (nepravilni glagoli, veznici, zamjenice); izvor je `croland/jezici-plan/XX/XX-gramaticka-kraljeznica.md` |
 
 Stupci TSV-a: `razina | tema | XX | en | vrsta` (za engleski tečaj `razina | tema | en | hr | vrsta`).
@@ -210,3 +211,15 @@ Kad za jezik postoji kralježnica (`croland/jezici-plan/XX/`), razina riječi iz
 - `python3 alati/provjeri-kraljeznicu.py XX` — greška ako je riječ u rječniku na drugoj razini;
 - `python3 alati/premjesti.py XX "riječ" L3 [riječ razina …]` — premješta redak (tema iz `razine-XX.tsv`),
   nakon toga `gradi.py` i `provjeri.py`.
+
+## Faza C — prijevod na jezike sučelja
+
+Svaki jezik sučelja je zasebna datoteka `XX/prijevod-SU-XX.tsv` (stupci `XX | vrsta | SU`), jer će tečaj imati
+≈ 10 sučelja (G4), a rječnik iz faze B ostaje jedan. Provjera: `python3 alati/provjeri-prijevod.py XX SU`
+(riječ i vrsta moraju postojati u rječniku; izvještaj pokrivenosti po razini).
+
+Pravila prijevoda: imenice u nominativu jednine (množinske riječi u množini), glagoli u infinitivu (vidski par kad
+je potreban: *kupiti, kupovati*), pridjevi u muškom rodu; više značenja odvojeno „; “; lažni prijatelji i razlike
+prema hrvatskom kratko u zagradi (*le magasin* → „trgovina (ne magazin!)“); standardni hrvatski (VODIC C4.8).
+
+Stanje: `fr → hr` L0–L12 (750 / 1356).

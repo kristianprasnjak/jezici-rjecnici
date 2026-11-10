@@ -1,0 +1,751 @@
+fr	vrsta	hr
+le café	im	kava; kafić
+le restaurant	im	restoran
+l'hôtel (m)	im	hotel
+le taxi	im	taksi
+le bus	im	autobus
+le train	im	vlak
+le chocolat	im	čokolada
+la banane	im	banana
+la pizza	im	pizza
+la salade	im	salata
+la soupe	im	juha
+le thé	im	čaj
+la musique	im	glazba
+le football	im	nogomet
+le tennis	im	tenis
+le cinéma	im	kino
+le théâtre	im	kazalište
+le film	im	film
+la radio	im	radio
+la télévision	im	televizija
+le téléphone	im	telefon
+la photo	im	fotografija
+le parc	im	park
+la place	im	trg; mjesto
+la question	im	pitanje
+la nature	im	priroda
+le moment	im	trenutak
+la famille	im	obitelj
+le docteur	im	liječnik; doktor
+la police	im	policija
+le sport	im	sport
+le menu	im	jelovnik; meni
+la table	im	stol
+la date	im	datum
+la minute	im	minuta
+le week-end	im	vikend
+bonjour	izraz	dobar dan; dobro jutro
+bonsoir	izraz	dobra večer
+salut	izraz	bok (pozdrav i rastanak)
+au revoir	izraz	doviđenja
+à bientôt	izraz	vidimo se uskoro
+merci	izraz	hvala
+s'il vous plaît	izraz	molim (Vas)
+s'il te plaît	izraz	molim (te)
+pardon	izraz	oprostite; pardon
+excusez-moi	izraz	oprostite
+oui	čest	da
+non	čest	ne
+madame	im	gospođa
+monsieur	im	gospodin
+mademoiselle	im	gospođica
+comment ça va ?	izraz	kako si? kako ide?
+ça va	izraz	dobro je; u redu
+bien	pril	dobro
+très	pril	vrlo, jako
+et	vez	i
+je m'appelle	izraz	zovem se
+enchanté	izraz	drago mi je
+être	gl	biti
+je	zam	ja
+tu	zam	ti
+il	zam	on; ono (za stvari muškog roda)
+elle	zam	ona
+nous	zam	mi
+vous	zam	vi; Vi
+ils	zam	oni
+elles	zam	one
+le pays	im	zemlja, država
+la France	im	Francuska
+le Canada	im	Kanada
+l'Angleterre (f)	im	Engleska
+l'Allemagne (f)	im	Njemačka
+l'Italie (f)	im	Italija
+l'Espagne (f)	im	Španjolska
+la Croatie	im	Hrvatska
+français	pr	francuski; Francuz
+canadien	pr	kanadski; Kanađanin
+anglais	pr	engleski; Englez
+allemand	pr	njemački; Nijemac
+italien	pr	talijanski; Talijan
+espagnol	pr	španjolski; Španjolac
+croate	pr	hrvatski; Hrvat
+d'où	pril	odakle
+de	prij	iz; od
+en	prij	u (uz ženska imena zemalja)
+la ville	im	grad
+l'appartement (m)	im	stan
+la chambre	im	soba; spavaća soba
+la pièce	im	prostorija, soba
+la cuisine	im	kuhinja
+la salle de bains	im	kupaonica
+le salon	im	dnevni boravak
+la porte	im	vrata
+la fenêtre	im	prozor
+le mur	im	zid
+le lit	im	krevet
+la chaise	im	stolica
+le canapé	im	kauč
+l'armoire (f)	im	ormar
+la lampe	im	svjetiljka
+le livre	im	knjiga
+le stylo	im	kemijska olovka
+le crayon	im	olovka
+le sac	im	torba
+la clé	im	ključ
+l'ordinateur (m)	im	računalo
+le tapis	im	tepih
+le miroir	im	ogledalo
+la fleur	im	cvijet
+la plante	im	biljka
+la boîte	im	kutija
+le cahier	im	bilježnica
+la tasse	im	šalica
+le verre	im	čaša
+le, la, l'	čl	(određeni član, jednina)
+les	čl	(određeni član, množina)
+un	čl	(neodređeni član, muški rod); jedan
+une	čl	(neodređeni član, ženski rod); jedna
+des	čl	(neodređeni član, množina); neki
+c'est	izraz	to je
+il y a	izraz	ima; postoji
+ne … pas	čest	ne (niječnica u dva dijela)
+dans	prij	u
+sur	prij	na
+sous	prij	ispod
+devant	prij	ispred
+derrière	prij	iza
+la couleur	im	boja
+blanc	pr	bijel
+noir	pr	crn
+rouge	pr	crven
+bleu	pr	plav
+vert	pr	zelen
+jaune	pr	žut
+gris	pr	siv
+marron	pr	smeđ
+rose	pr	ružičast
+petit	pr	malen, mali
+grand	pr	velik; visok
+joli	pr	lijep, zgodan
+mais	vez	ali
+la maison	im	kuća; dom
+parler	gl	govoriti
+travailler	gl	raditi
+habiter	gl	stanovati
+aimer	gl	voljeti; sviđati se
+adorer	gl	obožavati
+détester	gl	mrziti
+regarder	gl	gledati
+écouter	gl	slušati
+manger	gl	jesti
+étudier	gl	učiti, studirati
+chanter	gl	pjevati
+danser	gl	plesati
+cuisiner	gl	kuhati
+jouer	gl	igrati (se); svirati
+marcher	gl	hodati
+téléphoner	gl	telefonirati
+le jour	im	dan
+la semaine	im	tjedan
+lundi	im	ponedjeljak
+mardi	im	utorak
+mercredi	im	srijeda
+jeudi	im	četvrtak
+vendredi	im	petak
+samedi	im	subota
+dimanche	im	nedjelja
+le matin	im	jutro
+l'après-midi (m)	im	poslijepodne
+le soir	im	večer
+aujourd'hui	pril	danas
+souvent	pril	često
+toujours	pril	uvijek
+est-ce que	izraz	(oznaka pitanja: „je li“, „da li“)
+qui	zam	tko
+quoi	zam	što
+où	pril	gdje; kamo
+quand	pril	kada
+comment	pril	kako
+pourquoi	pril	zašto
+quel, quelle	pr	koji, koja; kakav
+zéro	broj	nula
+un, une	broj	jedan, jedna
+deux	broj	dva
+trois	broj	tri
+quatre	broj	četiri
+cinq	broj	pet
+six	broj	šest
+sept	broj	sedam
+huit	broj	osam
+neuf	broj	devet
+dix	broj	deset
+onze	broj	jedanaest
+douze	broj	dvanaest
+vingt	broj	dvadeset
+trente	broj	trideset
+quarante	broj	četrdeset
+cinquante	broj	pedeset
+soixante	broj	šezdeset
+parce que	vez	jer, zato što
+ou	vez	ili
+treize	broj	trinaest
+quatorze	broj	četrnaest
+quinze	broj	petnaest
+seize	broj	šesnaest
+dix-sept	broj	sedamnaest
+dix-huit	broj	osamnaest
+dix-neuf	broj	devetnaest
+la mère	im	majka
+le père	im	otac
+les parents (m)	im	roditelji
+le frère	im	brat
+la sœur	im	sestra
+le fils	im	sin
+la fille	im	kći; djevojčica
+l'enfant (m/f)	im	dijete
+le bébé	im	beba
+le mari	im	muž
+la femme	im	žena; supruga
+l'homme (m)	im	muškarac; čovjek
+le grand-père	im	djed
+la grand-mère	im	baka
+les grands-parents (m)	im	baka i djed
+l'oncle (m)	im	ujak; stric
+la tante	im	teta
+le cousin, la cousine	im	bratić, sestrična
+le neveu	im	nećak
+la nièce	im	nećakinja
+le petit-fils	im	unuk
+la petite-fille	im	unuka
+l'ami, l'amie	im	prijatelj, prijateljica
+le copain, la copine	im	prijatelj, prijateljica; dečko, cura
+le voisin, la voisine	im	susjed, susjeda
+le chien	im	pas
+le chat	im	mačka
+avoir	gl	imati
+l'âge (m)	im	dob
+l'an (m)	im	godina (kod dobi: *j'ai 26 ans*)
+l'anniversaire (m)	im	rođendan
+jeune	pr	mlad
+vieux	pr	star
+âgé	pr	star, u godinama
+marié	pr	oženjen; udana
+célibataire	pr	neoženjen; neudana
+mon, ma, mes	zam	moj, moja, moji
+ton, ta, tes	zam	tvoj, tvoja, tvoji
+son, sa, ses	zam	njegov; njezin (slaže se sa stvari)
+notre, nos	zam	naš
+votre, vos	zam	vaš; Vaš
+leur, leurs	zam	njihov
+pas de	izraz	nema; nijedan (iza niječnice)
+seul	pr	sam; jedini
+ensemble	pril	zajedno
+gentil	pr	drag, ljubazan
+sympa	pr	simpatičan, drag
+beau	pr	lijep; zgodan
+le parrain	im	kum (krsni)
+la belle-mère	im	svekrva; punica; maćeha
+s'appeler	gl	zvati se
+combien	pril	koliko
+quel âge as-tu ?	izraz	koliko imaš godina?
+aussi	pril	također, i
+avec	prij	s, sa
+le marché	im	tržnica
+le pain	im	kruh
+la baguette	im	bageta
+le croissant	im	kroasan
+le fromage	im	sir
+le beurre	im	maslac
+le lait	im	mlijeko
+l'œuf (m)	im	jaje
+la viande	im	meso
+le poulet	im	piletina; pile
+le poisson	im	riba
+le jambon	im	šunka
+la pomme	im	jabuka
+la poire	im	kruška
+l'orange (f)	im	naranča
+la fraise	im	jagoda
+le raisin	im	grožđe
+la tomate	im	rajčica
+la pomme de terre	im	krumpir
+la carotte	im	mrkva
+l'oignon (m)	im	luk
+le riz	im	riža
+les pâtes (f)	im	tjestenina
+le sucre	im	šećer
+le sel	im	sol
+le gâteau	im	kolač; torta
+l'eau (f)	im	voda
+le jus	im	sok
+le vin	im	vino
+la bière	im	pivo
+le chocolat chaud	izraz	topla čokolada
+le kilo	im	kilogram, kila
+le gramme	im	gram
+la bouteille	im	boca
+le morceau	im	komad
+un peu de	izraz	malo (+ G)
+beaucoup de	izraz	mnogo, puno (+ G)
+du, de la, des	čl	(dijelni član: „malo, nešto“)
+ce, cet, cette, ces	zam	ovaj, ova, ovi; taj
+boire	gl	piti
+acheter	gl	kupiti, kupovati
+coûter	gl	koštati
+je voudrais	izraz	htio bih; htjela bih
+l'euro (m)	im	euro
+le centime	im	cent
+le prix	im	cijena
+cher	pr	skup
+bon marché	pr	jeftin
+bon	pr	dobar; ukusan
+frais	pr	svjež
+le garçon	im	dječak; konobar
+l'addition (f)	im	račun (u restoranu)
+soixante-dix	broj	sedamdeset
+quatre-vingts	broj	osamdeset
+quatre-vingt-dix	broj	devedeset
+cent	broj	sto
+voilà	izraz	evo; izvolite
+c'est combien ?	izraz	koliko košta?
+encore	pril	još; opet
+pour	prij	za
+la rue	im	ulica
+l'avenue (f)	im	avenija
+le quartier	im	četvrt, kvart
+la boulangerie	im	pekarnica
+la pharmacie	im	ljekarna
+la banque	im	banka
+la poste	im	pošta
+le supermarché	im	supermarket
+le magasin	im	trgovina (ne magazin!)
+la gare	im	željeznički kolodvor
+l'arrêt de bus (m)	im	autobusna stanica
+le musée	im	muzej
+l'église (f)	im	crkva
+l'hôpital (m)	im	bolnica
+l'école (f)	im	škola
+la mairie	im	gradska vijećnica
+le pont	im	most
+le feu	im	semafor; vatra
+le carrefour	im	raskrižje
+le coin	im	ugao
+le plan	im	plan grada
+le métro	im	podzemna željeznica, metro
+la bibliothèque	im	knjižnica
+le bureau	im	ured; pisaći stol
+aller	gl	ići
+venir	gl	doći, dolaziti
+tourner	gl	skrenuti
+traverser	gl	prijeći (ulicu)
+continuer	gl	nastaviti
+chercher	gl	tražiti
+trouver	gl	naći
+à	prij	u; na; do
+au, à la, aux	prij	u, na (+ član)
+du, de la, des (de + le)	prij	iz, od (+ član)
+à gauche	izraz	lijevo
+à droite	izraz	desno
+tout droit	izraz	ravno
+près de	prij	blizu
+loin de	prij	daleko od
+à côté de	prij	pokraj, pored
+en face de	prij	nasuprot
+entre	prij	između
+jusqu'à	prij	do
+ici	pril	ovdje
+là	pril	tamo; ovdje
+après	pril	poslije, nakon toga
+d'abord	pril	najprije
+puis	pril	zatim
+ensuite	pril	potom
+le trottoir	im	pločnik
+premier	broj	prvi
+deuxième	broj	drugi
+troisième	broj	treći
+le centre-ville	im	središte grada
+à pied	izraz	pješice
+en bus	izraz	autobusom
+perdu	pr	izgubljen
+excusez-moi, où est … ?	izraz	oprostite, gdje je …?
+c'est loin ?	izraz	je li daleko?
+le loisir	im	hobi; slobodno vrijeme
+le temps libre	izraz	slobodno vrijeme
+faire	gl	raditi; činiti
+prendre	gl	uzeti; (o hrani) uzeti, popiti
+finir	gl	završiti
+choisir	gl	izabrati
+réussir	gl	uspjeti
+lire	gl	čitati
+nager	gl	plivati
+courir	gl	trčati
+voyager	gl	putovati
+dessiner	gl	crtati
+peindre	gl	slikati; bojiti
+jouer au foot	izraz	igrati nogomet
+jouer de la guitare	izraz	svirati gitaru
+faire du vélo	izraz	voziti bicikl
+faire de la natation	izraz	plivati (kao sport)
+faire une promenade	izraz	prošetati
+le vélo	im	bicikl
+la natation	im	plivanje
+la randonnée	im	planinarenje; izlet pješice
+le ski	im	skijanje
+le basket	im	košarka
+le match	im	utakmica
+l'équipe (f)	im	momčad, ekipa
+le ballon	im	lopta
+la guitare	im	gitara
+le piano	im	klavir
+le jeu	im	igra
+le jeu vidéo	im	videoigra
+le concert	im	koncert
+l'exposition (f)	im	izložba
+la piscine	im	bazen
+le stade	im	stadion
+on	zam	mi (govorno); netko, ljudi
+moi	zam	ja (naglašeno); mene
+toi	zam	ti (naglašeno); tebe
+lui	zam	on (naglašeno); njemu, njoj
+eux	zam	oni (naglašeno); njih
+la carte	im	jelovnik; karta; kartica
+le plat	im	jelo; glavno jelo
+l'entrée (f)	im	predjelo; ulaz
+le dessert	im	desert
+le serveur, la serveuse	im	konobar, konobarica
+réserver	gl	rezervirati
+commander	gl	naručiti
+le pourboire	im	napojnica
+le steak-frites	im	odrezak s krumpirićima
+les frites (f)	im	pomfrit
+la crêpe	im	palačinka
+la glace	im	sladoled; zrcalo
+délicieux	pr	ukusan
+préféré	pr	omiljen
+moi aussi	izraz	i ja
+moi non plus	izraz	ni ja
+ennuyeux	pr	dosadan
+amusant	pr	zabavan
+intéressant	pr	zanimljiv
+parfois	pril	ponekad
+comprendre	gl	razumjeti
+apprendre	gl	učiti; naučiti
+se réveiller	gl	probuditi se
+se lever	gl	ustati
+se laver	gl	oprati se
+se doucher	gl	tuširati se
+s'habiller	gl	obući se
+se brosser les dents	izraz	prati zube
+se coiffer	gl	počešljati se
+se maquiller	gl	našminkati se
+se raser	gl	obrijati se
+se reposer	gl	odmoriti se
+se coucher	gl	leći (na spavanje)
+se dépêcher	gl	požuriti se
+se sentir	gl	osjećati se
+s'amuser	gl	zabavljati se
+partir	gl	otići, krenuti
+sortir	gl	izaći
+dormir	gl	spavati
+préférer	gl	više voljeti
+rentrer	gl	vratiti se (kući)
+le petit-déjeuner	im	doručak
+le déjeuner	im	ručak
+le dîner	im	večera
+prendre le petit-déjeuner	izraz	doručkovati
+l'heure (f)	im	sat (vrijeme); sat (60 minuta)
+la demi-heure	im	pola sata
+quelle heure est-il ?	izraz	koliko je sati?
+il est … heures	izraz	sad je … sati
+et quart	izraz	i četvrt
+moins le quart	izraz	manje četvrt
+et demie	izraz	i pol
+midi	im	podne
+minuit	im	ponoć
+la seconde	im	sekunda
+le réveil	im	budilica
+la douche	im	tuš
+le savon	im	sapun
+la brosse à dents	im	četkica za zube
+la serviette	im	ručnik; salveta
+le dentifrice	im	pasta za zube
+tôt	pril	rano
+tard	pril	kasno
+en retard	izraz	sa zakašnjenjem; kasniti
+à l'heure	izraz	na vrijeme
+vite	pril	brzo
+lentement	pril	polako
+d'habitude	pril	obično
+chaque	pr	svaki
+tous les jours	izraz	svaki dan
+la nuit	im	noć
+fatigué	pr	umoran
+en forme	izraz	u formi
+la routine	im	rutina
+le travail	im	posao, rad
+le collègue, la collègue	im	kolega, kolegica
+vers	prij	oko (o vremenu); prema
+avant	prij	prije
+pendant	prij	tijekom
+jamais	pril	nikad
+déjà	pril	već
+le temps	im	vrijeme (meteorološko i trajanje)
+il fait beau	izraz	lijepo je vrijeme
+il fait mauvais	izraz	ružno je vrijeme
+il fait chaud	izraz	toplo je; vruće je
+il fait froid	izraz	hladno je
+il pleut	izraz	pada kiša
+il neige	izraz	pada snijeg
+pleuvoir	gl	kišiti, padati (o kiši)
+neiger	gl	sniježiti
+le soleil	im	sunce
+la pluie	im	kiša
+la neige	im	snijeg
+le vent	im	vjetar
+le nuage	im	oblak
+l'orage (m)	im	oluja (s grmljavinom)
+la météo	im	vremenska prognoza
+le degré	im	stupanj
+la saison	im	godišnje doba
+le printemps	im	proljeće
+l'été (m)	im	ljeto
+l'automne (m)	im	jesen
+l'hiver (m)	im	zima
+le mois	im	mjesec
+janvier	im	siječanj
+février	im	veljača
+mars	im	ožujak
+avril	im	travanj
+mai	im	svibanj
+juin	im	lipanj
+juillet	im	srpanj
+août	im	kolovoz
+septembre	im	rujan
+octobre	im	listopad
+novembre	im	studeni
+décembre	im	prosinac
+le calendrier	im	kalendar
+mille	broj	tisuću
+deux cents	broj	dvjesto
+demain	pril	sutra
+après-demain	pril	prekosutra
+le week-end prochain	izraz	sljedeći vikend
+prochain	pr	sljedeći
+le projet	im	plan; projekt
+pouvoir	gl	moći
+vouloir	gl	htjeti
+attendre	gl	čekati
+rester	gl	ostati
+inviter	gl	pozvati
+appeler	gl	zvati, nazvati
+le rendez-vous	im	sastanak; dogovor; termin
+d'accord	izraz	može; u redu; dogovoreno
+peut-être	pril	možda
+ne … plus	čest	više ne
+ne … jamais	čest	nikad ne
+ne … rien	čest	ništa ne
+alors	vez	onda; pa, zato
+la plage	im	plaža
+la mer	im	more
+la montagne	im	planina
+le parapluie	im	kišobran
+allô	izraz	halo
+hier	pril	jučer
+avant-hier	pril	prekjučer
+le week-end dernier	izraz	prošli vikend
+dernier	pr	prošli; posljednji
+la semaine dernière	izraz	prošli tjedan
+il y a deux jours	izraz	prije dva dana
+ce matin	izraz	jutros
+hier soir	izraz	sinoć
+voir	gl	vidjeti
+écrire	gl	pisati
+recevoir	gl	primiti, dobiti
+oublier	gl	zaboraviti
+visiter	gl	posjetiti, razgledati (mjesto)
+rencontrer	gl	sresti, upoznati
+passer	gl	provesti (vrijeme); proći
+fêter	gl	slaviti, proslaviti
+ranger	gl	pospremiti
+nettoyer	gl	čistiti
+faire les courses	izraz	kupovati namirnice
+faire le ménage	izraz	pospremati kuću
+la fête	im	zabava; blagdan
+la soirée	im	večer; večernja zabava
+la bande dessinée	im	strip
+le roman	im	roman
+le journal	im	novine; dnevnik
+le magazine	im	časopis
+la lettre	im	pismo
+le message	im	poruka
+la série	im	serija
+l'émission (f)	im	emisija
+c'était	izraz	bilo je
+génial	pr	sjajan, genijalan
+super	pr	super
+nul	pr	bezveze, loš
+pas mal	izraz	nije loše
+terrible	pr	strašan; (govorno) super
+chez	prij	kod
+la chanson	im	pjesma
+d'abord … ensuite … enfin	izraz	najprije … zatim … na kraju
+enfin	pril	napokon; na kraju
+tout à coup	pril	odjednom
+longtemps	pril	dugo
+une fois	izraz	jednom
+la fois	im	put (*deux fois* = dvaput)
+le souvenir	im	uspomena; suvenir
+la balade	im	šetnja
+le pique-nique	im	piknik
+la campagne	im	selo, priroda izvan grada
+le voyage	im	putovanje
+la nouvelle	im	vijest
+raconter	gl	pričati, ispričati
+montrer	gl	pokazati
+perdre	gl	izgubiti
+gagner	gl	pobijediti; zaraditi
+pleurer	gl	plakati
+rire	gl	smijati se
+ouvrir	gl	otvoriti
+fermer	gl	zatvoriti
+la voiture	im	automobil
+l'avion (m)	im	zrakoplov
+le bateau	im	brod
+le tramway	im	tramvaj
+le TGV	im	brzi vlak (TGV)
+le billet	im	karta, ulaznica
+l'aller simple (m)	im	jednosmjerna karta
+l'aller-retour (m)	im	povratna karta
+le quai	im	peron
+la voie	im	kolosijek
+le guichet	im	šalter
+le départ	im	polazak
+l'arrivée (f)	im	dolazak
+l'horaire (m)	im	vozni red
+la correspondance	im	presjedanje, veza
+le retard	im	kašnjenje
+la valise	im	kofer
+le sac à dos	im	ruksak
+le passeport	im	putovnica
+la carte d'identité	im	osobna iskaznica
+l'aéroport (m)	im	zračna luka
+le vol	im	let
+le passager, la passagère	im	putnik, putnica (u vozilu)
+le voyageur, la voyageuse	im	putnik, putnica
+la réservation	im	rezervacija
+le séjour	im	boravak
+la réception	im	recepcija
+le touriste, la touriste	im	turist, turistkinja
+l'office de tourisme (m)	im	turistički ured
+le lac	im	jezero
+le château	im	dvorac
+la vue	im	pogled
+les vacances (f)	im	praznici; godišnji odmor
+arriver	gl	stići, doći
+monter	gl	popeti se; ući (u vozilo)
+descendre	gl	sići; izaći (iz vozila)
+entrer	gl	ući
+tomber	gl	pasti
+naître	gl	roditi se
+mourir	gl	umrijeti
+retourner	gl	vratiti se
+savoir	gl	znati
+connaître	gl	poznavati
+conduire	gl	voziti
+changer	gl	promijeniti; presjesti
+louer	gl	iznajmiti
+composter	gl	poništiti kartu
+manquer	gl	propustiti; nedostajati
+partir en vacances	izraz	ići na godišnji odmor
+en voiture	izraz	automobilom
+en avion	izraz	zrakoplovom
+en train	izraz	vlakom
+direct	pr	izravan
+complet	pr	pun, popunjen
+libre	pr	slobodan
+occupé	pr	zauzet
+vers midi	izraz	oko podneva
+le nord	im	sjever
+le sud	im	jug
+l'est (m)	im	istok
+l'ouest (m)	im	zapad
+la frontière	im	granica
+la carte postale	im	razglednica
+le kilomètre	im	kilometar
+les vêtements (m)	im	odjeća
+la chemise	im	košulja
+le tee-shirt	im	majica
+le pull	im	pulover, džemper
+le pantalon	im	hlače (u francuskom jednina!)
+le jean	im	traperice
+la jupe	im	suknja
+la robe	im	haljina
+la veste	im	jakna; sako
+le manteau	im	kaput
+le costume	im	odijelo
+la cravate	im	kravata
+les chaussures (f)	im	cipele
+les baskets (f)	im	tenisice
+les bottes (f)	im	čizme
+les chaussettes (f)	im	čarape
+le chapeau	im	šešir
+l'écharpe (f)	im	šal
+les lunettes (f)	im	naočale
+la ceinture	im	remen
+la taille	im	veličina; struk
+la pointure	im	broj cipela
+la cabine d'essayage	im	kabina za presvlačenje
+le vendeur, la vendeuse	im	prodavač, prodavačica
+le client, la cliente	im	kupac, kupica
+la caisse	im	blagajna
+les soldes (m)	im	sniženje, rasprodaja
+la carte bancaire	im	bankovna kartica
+payer	gl	platiti
+essayer	gl	isprobati; pokušati
+porter	gl	nositi
+dire	gl	reći
+enlever	gl	skinuti
+plaire	gl	sviđati se
+ça me va	izraz	pristaje mi
+nouveau	pr	nov
+long	pr	dug
+court	pr	kratak
+large	pr	širok
+serré	pr	tijesan, uzak
+mince	pr	vitak
+gros	pr	debeo; velik
+blond	pr	plav (kosa)
+brun	pr	smeđ (kosa), tamnokos
+roux	pr	riđ
+les cheveux (m)	im	kosa
+les yeux (m)	im	oči
+la barbe	im	brada
+élégant	pr	elegantan
+moche	pr	ružan (govorno)
+à la mode	izraz	u modi, moderan
+le style	im	stil
+l'entretien (m)	im	razgovor za posao
+le centre commercial	im	trgovački centar
+la boutique	im	dućan, butik
+en coton	izraz	pamučni
+en laine	izraz	vuneni
+le cuir	im	koža (materijal)
+clair	pr	svijetao
+foncé	pr	taman
+plus	pril	više
+moins	pril	manje
+trop	pril	previše; pre-
+assez	pril	dovoljno; prilično
+mettre	gl	staviti; obući
