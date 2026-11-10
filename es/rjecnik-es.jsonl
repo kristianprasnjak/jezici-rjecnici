@@ -95,6 +95,7 @@
 {"razina": 1, "tema": "Greetings & Countries", "es": "ocho", "en": "eight", "vrsta": "broj"}
 {"razina": 1, "tema": "Greetings & Countries", "es": "nueve", "en": "nine", "vrsta": "broj"}
 {"razina": 1, "tema": "Greetings & Countries", "es": "diez", "en": "ten", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings & Countries", "es": "danés", "en": "Danish", "vrsta": "pr", "zenski": "danesa", "mnozina_pr": "daneses / danesas"}
 {"razina": 2, "tema": "The Flat & Colours", "es": "el piso", "en": "flat; floor", "vrsta": "im", "rod": "m", "mnozina": "los pisos"}
 {"razina": 2, "tema": "The Flat & Colours", "es": "la casa", "en": "house; home", "vrsta": "im", "rod": "f", "mnozina": "las casas"}
 {"razina": 2, "tema": "The Flat & Colours", "es": "la habitación", "en": "room; bedroom", "vrsta": "im", "rod": "f", "mnozina": "las habitaciones"}
@@ -150,6 +151,7 @@
 {"razina": 2, "tema": "The Flat & Colours", "es": "moderno", "en": "modern", "vrsta": "pr", "zenski": "moderna", "mnozina_pr": "modernos / modernas"}
 {"razina": 2, "tema": "The Flat & Colours", "es": "luminoso", "en": "bright", "vrsta": "pr", "zenski": "luminosa", "mnozina_pr": "luminosos / luminosas"}
 {"razina": 2, "tema": "The Flat & Colours", "es": "pero", "en": "but", "vrsta": "vez"}
+{"razina": 2, "tema": "The Flat & Colours", "es": "en", "en": "in; at; on", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "hablar", "en": "to speak", "vrsta": "gl", "gl_skupina": "1", "particip": "hablado", "prezent": "hablo · hablas · habla · hablamos · habláis · hablan", "preterit": "hablé · habló"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "trabajar", "en": "to work", "vrsta": "gl", "gl_skupina": "1", "particip": "trabajado", "prezent": "trabajo · trabajas · trabaja · trabajamos · trabajáis · trabajan", "preterit": "trabajé · trabajó"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "vivir", "en": "to live", "vrsta": "gl", "gl_skupina": "3", "particip": "vivido", "prezent": "vivo · vives · vive · vivimos · vivís · viven", "preterit": "viví · vivió"}
@@ -203,7 +205,6 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "mucho", "en": "a lot", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "todos los días", "en": "every day", "vrsta": "izraz"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "a", "en": "to; at; (personal a)", "vrsta": "prij"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "es": "en", "en": "in; at; on", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "con", "en": "with", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "es": "o", "en": "or", "vrsta": "vez"}
 {"razina": 4, "tema": "Family & Age", "es": "la madre", "en": "mother", "vrsta": "im", "rod": "f", "mnozina": "las madres"}
@@ -337,6 +338,7 @@
 {"razina": 5, "tema": "Food & Quantities", "es": "noventa", "en": "ninety", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "es": "cuarenta", "en": "forty", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "es": "cincuenta", "en": "fifty", "vrsta": "broj"}
+{"razina": 5, "tema": "Food & Quantities", "es": "medio", "en": "half", "vrsta": "pr", "zenski": "media", "mnozina_pr": "medios / medias"}
 {"razina": 6, "tema": "City & Directions", "es": "la calle", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "las calles"}
 {"razina": 6, "tema": "City & Directions", "es": "la avenida", "en": "avenue", "vrsta": "im", "rod": "f", "mnozina": "las avenidas"}
 {"razina": 6, "tema": "City & Directions", "es": "el barrio", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "los barrios"}
@@ -517,6 +519,7 @@
 {"razina": 8, "tema": "Routine & Time", "es": "solo", "en": "alone; only", "vrsta": "pr", "zenski": "sola", "mnozina_pr": "solos / solas"}
 {"razina": 8, "tema": "Routine & Time", "es": "casi", "en": "almost", "vrsta": "pril"}
 {"razina": 8, "tema": "Routine & Time", "es": "el reloj", "en": "watch; clock", "vrsta": "im", "rod": "m", "mnozina": "los relojes"}
+{"razina": 8, "tema": "Routine & Time", "es": "rápido", "en": "fast; quick", "vrsta": "pr", "zenski": "rápida", "mnozina_pr": "rápidos / rápidas"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "el tiempo", "en": "weather; time", "vrsta": "im", "rod": "m", "mnozina": "los tiempos"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "hace calor", "en": "it's hot", "vrsta": "izraz"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "hace frío", "en": "it's cold", "vrsta": "izraz"}
@@ -642,6 +645,7 @@
 {"razina": 10, "tema": "Recent Events", "es": "el resultado", "en": "result", "vrsta": "im", "rod": "m", "mnozina": "los resultados"}
 {"razina": 10, "tema": "Recent Events", "es": "el móvil", "en": "mobile phone", "vrsta": "im", "rod": "m", "mnozina": "los móviles"}
 {"razina": 10, "tema": "Recent Events", "es": "la sorpresa", "en": "surprise", "vrsta": "im", "rod": "f", "mnozina": "las sorpresas"}
+{"razina": 10, "tema": "Recent Events", "es": "haber", "en": "to have (auxiliary of the perfect)", "vrsta": "gl", "gl_skupina": "2", "particip": "habido", "prezent": "he · has · ha · hemos · habéis · han", "preterit": "hube · hubo"}
 {"razina": 11, "tema": "Trains & Trips", "es": "el coche", "en": "car", "vrsta": "im", "rod": "m", "mnozina": "los coches"}
 {"razina": 11, "tema": "Trains & Trips", "es": "el avión", "en": "plane", "vrsta": "im", "rod": "m", "mnozina": "los aviones"}
 {"razina": 11, "tema": "Trains & Trips", "es": "el barco", "en": "boat", "vrsta": "im", "rod": "m", "mnozina": "los barcos"}
@@ -773,6 +777,8 @@
 {"razina": 12, "tema": "Clothes & Shops", "es": "listo", "en": "ready; clever", "vrsta": "pr", "zenski": "lista", "mnozina_pr": "listos / listas"}
 {"razina": 12, "tema": "Clothes & Shops", "es": "precioso", "en": "lovely", "vrsta": "pr", "zenski": "preciosa", "mnozina_pr": "preciosos / preciosas"}
 {"razina": 12, "tema": "Clothes & Shops", "es": "el escaparate", "en": "shop window", "vrsta": "im", "rod": "m", "mnozina": "los escaparates"}
+{"razina": 12, "tema": "Clothes & Shops", "es": "sucio", "en": "dirty", "vrsta": "pr", "zenski": "sucia", "mnozina_pr": "sucios / sucias"}
+{"razina": 12, "tema": "Clothes & Shops", "es": "limpio", "en": "clean", "vrsta": "pr", "zenski": "limpia", "mnozina_pr": "limpios / limpias"}
 {"razina": 13, "tema": "The Body & the Doctor", "es": "el cuerpo", "en": "body", "vrsta": "im", "rod": "m", "mnozina": "los cuerpos"}
 {"razina": 13, "tema": "The Body & the Doctor", "es": "la cabeza", "en": "head", "vrsta": "im", "rod": "f", "mnozina": "las cabezas"}
 {"razina": 13, "tema": "The Body & the Doctor", "es": "la cara", "en": "face", "vrsta": "im", "rod": "f", "mnozina": "las caras"}
@@ -1062,8 +1068,6 @@
 {"razina": 16, "tema": "Moving & Housework", "es": "espacioso", "en": "spacious", "vrsta": "pr", "zenski": "espaciosa", "mnozina_pr": "espaciosos / espaciosas"}
 {"razina": 16, "tema": "Moving & Housework", "es": "tranquilo", "en": "quiet", "vrsta": "pr", "zenski": "tranquila", "mnozina_pr": "tranquilos / tranquilas"}
 {"razina": 16, "tema": "Moving & Housework", "es": "ruidoso", "en": "noisy", "vrsta": "pr", "zenski": "ruidosa", "mnozina_pr": "ruidosos / ruidosas"}
-{"razina": 16, "tema": "Moving & Housework", "es": "limpio", "en": "clean", "vrsta": "pr", "zenski": "limpia", "mnozina_pr": "limpios / limpias"}
-{"razina": 16, "tema": "Moving & Housework", "es": "sucio", "en": "dirty", "vrsta": "pr", "zenski": "sucia", "mnozina_pr": "sucios / sucias"}
 {"razina": 16, "tema": "Moving & Housework", "es": "cómodo", "en": "comfortable", "vrsta": "pr", "zenski": "cómoda", "mnozina_pr": "cómodos / cómodas"}
 {"razina": 16, "tema": "Moving & Housework", "es": "práctico", "en": "practical", "vrsta": "pr", "zenski": "práctica", "mnozina_pr": "prácticos / prácticas"}
 {"razina": 16, "tema": "Moving & Housework", "es": "al fondo", "en": "at the back", "vrsta": "izraz"}

@@ -80,6 +80,7 @@ L1	Greetings & Places	novus	new	pr			1-2	novus, nova, novum
 L1	Greetings & Places	antīquus	old; ancient	pr			1-2	antīquus, antīqua, antīquum		
 L1	Greetings & Places	pulcher	beautiful	pr			1-2	pulcher, pulchra, pulchrum		
 L1	Greetings & Places	laetus	happy	pr			1-2	laetus, laeta, laetum		
+L1	Greetings & Places	Rōmānus	Roman	pr			1-2	Rōmānus, Rōmāna, Rōmānum		
 L2	Family & House	pater	father	im	m	patris	3			
 L2	Family & House	māter	mother	im	f	mātris	3			
 L2	Family & House	fīlius	son	im	m	fīliī	2			
@@ -589,7 +590,6 @@ L10	The City of Rome	Nōnae	the Nones	im	f	Nōnārum	1
 L10	The City of Rome	nātus	born; aged	pr			1-2	nātus, nāta, nātum		
 L10	The City of Rome	spectō	to watch	gl					1	spectāre, spectāvī, spectātum
 L10	The City of Rome	habitō	to live; to dwell	gl					1	habitāre, habitāvī, habitātum
-L10	The City of Rome	Rōmānus	Roman	pr			1-2	Rōmānus, Rōmāna, Rōmānum		
 L10	The City of Rome	pūblicus	public	pr			1-2	pūblicus, pūblica, pūblicum		
 L10	The City of Rome	prīvātus	private	pr			1-2	prīvātus, prīvāta, prīvātum		
 L10	The City of Rome	celeber	crowded; famous	pr			3	celeber, celebris, celebre		
@@ -840,6 +840,7 @@ L14	Time & Seasons	aeternus	eternal	pr			1-2	aeternus, aeterna, aeternum
 L14	Time & Seasons	brevis	short	pr			3	brevis, breve		
 L14	Time & Seasons	diēs fēstus	holiday	izraz						
 L14	Time & Seasons	lūstrum	five-year period	im	n	lūstrī	2			
+L14	Time & Seasons	nēmō	no one	zam						
 L15	Work & Trade	loquor	to speak	gl					3	loquī, locūtus sum
 L15	Work & Trade	sequor	to follow	gl					3	sequī, secūtus sum
 L15	Work & Trade	morior	to die	gl					3io	morī, mortuus sum
@@ -1036,7 +1037,6 @@ L17	Speaking & Thinking	clam	secretly	pril
 L17	Speaking & Thinking	palam	openly	pril						
 L17	Speaking & Thinking	fortasse	perhaps	pril						
 L17	Speaking & Thinking	certē	certainly	pril						
-L17	Speaking & Thinking	nēmō	no one	zam						
 L17	Speaking & Thinking	nihil	nothing	zam						
 L17	Speaking & Thinking	aliquis	someone	zam						
 L17	Speaking & Thinking	aliquid	something	zam						

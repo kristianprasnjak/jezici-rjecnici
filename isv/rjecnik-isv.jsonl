@@ -236,6 +236,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "rano", "en": "early", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "pozdno", "en": "late", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "potom", "en": "then; later", "vrsta": "pril"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "večerom", "en": "in the evening", "vrsta": "pril"}
 {"razina": 4, "tema": "Family & People", "isv": "sěmja", "en": "family", "vrsta": "im", "rod": "f"}
 {"razina": 4, "tema": "Family & People", "isv": "roditelj", "en": "parent", "vrsta": "im", "rod": "m.ž"}
 {"razina": 4, "tema": "Family & People", "isv": "mama", "en": "mum", "vrsta": "im", "rod": "f"}
@@ -888,6 +889,7 @@
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "pilot", "en": "pilot", "vrsta": "im", "rod": "m.ž"}
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "morjak", "en": "sailor", "vrsta": "im", "rod": "m.ž"}
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "kolo", "en": "wheel; bicycle", "vrsta": "im", "rod": "n"}
+{"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "polnoč", "en": "midnight", "vrsta": "im", "rod": "f"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "tělo", "en": "body", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "lice", "en": "face", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "usta", "en": "mouth", "vrsta": "im", "rod": "n"}

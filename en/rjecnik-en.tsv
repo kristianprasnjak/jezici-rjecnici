@@ -90,6 +90,9 @@ L1	Greetings & Countries	London	London	im	—
 L1	Greetings & Countries	and	i	vez						
 L1	Greetings & Countries	what	što; koji	zam						
 L1	Greetings & Countries	nationality	državljanstvo, nacionalnost	im	nationalities					
+L1	Greetings & Countries	to	u, prema, do	prij						
+L1	Greetings & Countries	in	u	prij						
+L1	Greetings & Countries	at	u, na (mjesto, vrijeme)	prij						
 L2	The Flat & Colours	flat	stan	im	flats					
 L2	The Flat & Colours	house	kuća	im	houses					
 L2	The Flat & Colours	room	soba	im	rooms					
@@ -214,8 +217,6 @@ L3	Everyday Verbs & the Week	because	jer	vez
 L3	Everyday Verbs & the Week	but	ali	vez						
 L3	Everyday Verbs & the Week	or	ili	vez						
 L3	Everyday Verbs & the Week	every day	svaki dan	izraz						
-L3	Everyday Verbs & the Week	at	u, na (mjesto, vrijeme)	prij						
-L3	Everyday Verbs & the Week	in	u	prij						
 L3	Everyday Verbs & the Week	on	na	prij						
 L3	Everyday Verbs & the Week	with	s, sa	prij						
 L3	Everyday Verbs & the Week	very	vrlo	pril						
@@ -362,6 +363,7 @@ L5	Food & Quantities	here you are	izvolite	izraz
 L5	Food & Quantities	honey	med	im	—					
 L5	Food & Quantities	jam	džem	im	jams					
 L5	Food & Quantities	yoghurt	jogurt	im	yoghurts					
+L5	Food & Quantities	lots of	puno, mnogo	izraz						
 L6	City & Directions	street	ulica	im	streets					
 L6	City & Directions	road	cesta	im	roads					
 L6	City & Directions	square	trg	im	squares					
@@ -501,6 +503,7 @@ L7	Hobbies & Sport	skiing	skijanje	im	—
 L7	Hobbies & Sport	cycling	biciklizam	im	—					
 L7	Hobbies & Sport	climbing	penjanje	im	—					
 L7	Hobbies & Sport	practise	vježbati	gl				practised	practised	practising
+L7	Hobbies & Sport	early	rano	pril						
 L8	Routine, Time & Dates	wake up	probuditi se	izraz						
 L8	Routine, Time & Dates	have a shower	istuširati se	izraz						
 L8	Routine, Time & Dates	have a bath	okupati se	izraz						
@@ -540,7 +543,6 @@ L8	Routine, Time & Dates	shower	tuš	im	showers
 L8	Routine, Time & Dates	soap	sapun	im	soaps					
 L8	Routine, Time & Dates	toothbrush	četkica za zube	im	toothbrushes					
 L8	Routine, Time & Dates	towel	ručnik	im	towels					
-L8	Routine, Time & Dates	early	rano	pril						
 L8	Routine, Time & Dates	late	kasno	pril						
 L8	Routine, Time & Dates	on time	na vrijeme	izraz						
 L8	Routine, Time & Dates	month	mjesec	im	months					
@@ -641,6 +643,7 @@ L9	Weather & Seasons	busy	zauzet	pr		busier	busiest
 L9	Weather & Seasons	heatwave	toplinski val	im	heatwaves					
 L9	Weather & Seasons	frost	mraz	im	frosts					
 L9	Weather & Seasons	shine	sjati	gl				shone	shone	shining
+L9	Weather & Seasons	stay	ostati	gl				stayed	stayed	staying
 L10	Weekend & Past Time	was, were	bio, bila, bili	izraz						
 L10	Weekend & Past Time	yesterday	jučer	pril						
 L10	Weekend & Past Time	last	prošli	pr		—	—			
@@ -653,7 +656,6 @@ L10	Weekend & Past Time	visit	posjetiti	gl				visited	visited	visiting
 L10	Weekend & Past Time	clean	čistiti	gl				cleaned	cleaned	cleaning
 L10	Weekend & Past Time	tidy	pospremiti	gl				tidied	tidied	tidying
 L10	Weekend & Past Time	do the shopping	kupovati namirnice	izraz						
-L10	Weekend & Past Time	stay	ostati	gl				stayed	stayed	staying
 L10	Weekend & Past Time	relax	opustiti se	gl				relaxed	relaxed	relaxing
 L10	Weekend & Past Time	watch TV	gledati televiziju	izraz						
 L10	Weekend & Past Time	open	otvoriti	gl				opened	opened	opening

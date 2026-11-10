@@ -1,22 +1,22 @@
 # Izvještaj provjere — en
 
-Riječi: **1500** · greške: **0** · upozorenja: **0**
+Riječi: **1502** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
 | Razina | Tema | Koncept | Ima | |
 |---|---|---:|---:|---|
 | L0 | Sounds & Familiar Words | 36 | 36 | ✓ |
-| L1 | Greetings & Countries | 55 | 55 | ✓ |
+| L1 | Greetings & Countries | 55 | 58 | ✓ |
 | L2 | The Flat & Colours | 65 | 67 | ✓ |
-| L3 | Everyday Verbs & the Week | 65 | 65 | ✓ |
+| L3 | Everyday Verbs & the Week | 65 | 63 | ✓ |
 | L4 | Family & Age | 65 | 70 | ✓ |
-| L5 | Food & Quantities | 70 | 70 | ✓ |
+| L5 | Food & Quantities | 70 | 71 | ✓ |
 | L6 | City & Directions | 70 | 69 | ✓ |
-| L7 | Hobbies & Sport | 70 | 70 | ✓ |
-| L8 | Routine, Time & Dates | 70 | 70 | ✓ |
-| L9 | Weather & Seasons | 70 | 70 | ✓ |
-| L10 | Weekend & Past Time | 75 | 75 | ✓ |
+| L7 | Hobbies & Sport | 70 | 71 | ✓ |
+| L8 | Routine, Time & Dates | 70 | 69 | ✓ |
+| L9 | Weather & Seasons | 70 | 71 | ✓ |
+| L10 | Weekend & Past Time | 75 | 74 | ✓ |
 | L11 | Trains & Trips | 75 | 75 | ✓ |
 | L12 | Clothes & Shops | 75 | 76 | ✓ |
 | L13 | The Body & the Doctor | 80 | 80 | ✓ |
@@ -27,20 +27,20 @@ Riječi: **1500** · greške: **0** · upozorenja: **0**
 | L18 | Childhood & School | 80 | 80 | ✓ |
 | L19 | Wishes & Advice | 80 | 79 | ✓ |
 | L20 | Memories & the Future | 80 | 76 | ✓ |
-| **ukupno** | | **1501** | **1500** | |
+| **ukupno** | | **1501** | **1502** | |
 
 ## Po vrstama
 
 | Vrsta | Broj |
 |---|---:|
 | imenica | 770 |
-| izraz | 193 |
+| izraz | 194 |
 | glagol | 185 |
 | pridjev | 155 |
 | prilog | 77 |
 | zamjenica | 46 |
 | broj | 39 |
-| prijedlog | 22 |
+| prijedlog | 23 |
 | veznik | 9 |
 | čestica | 2 |
 | član | 2 |

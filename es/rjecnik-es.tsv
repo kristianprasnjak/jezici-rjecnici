@@ -96,6 +96,7 @@ L1	Greetings & Countries	siete	seven	broj
 L1	Greetings & Countries	ocho	eight	broj								
 L1	Greetings & Countries	nueve	nine	broj								
 L1	Greetings & Countries	diez	ten	broj								
+L1	Greetings & Countries	danés	Danish	pr			danesa	daneses / danesas				
 L2	The Flat & Colours	el piso	flat; floor	im	m	los pisos						
 L2	The Flat & Colours	la casa	house; home	im	f	las casas						
 L2	The Flat & Colours	la habitación	room; bedroom	im	f	las habitaciones						
@@ -151,6 +152,7 @@ L2	The Flat & Colours	viejo	old	pr			vieja	viejos / viejas
 L2	The Flat & Colours	moderno	modern	pr			moderna	modernos / modernas				
 L2	The Flat & Colours	luminoso	bright	pr			luminosa	luminosos / luminosas				
 L2	The Flat & Colours	pero	but	vez								
+L2	The Flat & Colours	en	in; at; on	prij								
 L3	Everyday Verbs & the Week	hablar	to speak	gl					1	hablado	hablo · hablas · habla · hablamos · habláis · hablan	hablé · habló
 L3	Everyday Verbs & the Week	trabajar	to work	gl					1	trabajado	trabajo · trabajas · trabaja · trabajamos · trabajáis · trabajan	trabajé · trabajó
 L3	Everyday Verbs & the Week	vivir	to live	gl					3	vivido	vivo · vives · vive · vivimos · vivís · viven	viví · vivió
@@ -204,7 +206,6 @@ L3	Everyday Verbs & the Week	también	also	pril
 L3	Everyday Verbs & the Week	mucho	a lot	pril								
 L3	Everyday Verbs & the Week	todos los días	every day	izraz								
 L3	Everyday Verbs & the Week	a	to; at; (personal a)	prij								
-L3	Everyday Verbs & the Week	en	in; at; on	prij								
 L3	Everyday Verbs & the Week	con	with	prij								
 L3	Everyday Verbs & the Week	o	or	vez								
 L4	Family & Age	la madre	mother	im	f	las madres						
@@ -338,6 +339,7 @@ L5	Food & Quantities	ochenta	eighty	broj
 L5	Food & Quantities	noventa	ninety	broj								
 L5	Food & Quantities	cuarenta	forty	broj								
 L5	Food & Quantities	cincuenta	fifty	broj								
+L5	Food & Quantities	medio	half	pr			media	medios / medias				
 L6	City & Directions	la calle	street	im	f	las calles						
 L6	City & Directions	la avenida	avenue	im	f	las avenidas						
 L6	City & Directions	el barrio	neighbourhood	im	m	los barrios						
@@ -518,6 +520,7 @@ L8	Routine & Time	la siesta	nap	im	f	las siestas
 L8	Routine & Time	solo	alone; only	pr			sola	solos / solas				
 L8	Routine & Time	casi	almost	pril								
 L8	Routine & Time	el reloj	watch; clock	im	m	los relojes						
+L8	Routine & Time	rápido	fast; quick	pr			rápida	rápidos / rápidas				
 L9	Weather, Months & Plans	el tiempo	weather; time	im	m	los tiempos						
 L9	Weather, Months & Plans	hace calor	it's hot	izraz								
 L9	Weather, Months & Plans	hace frío	it's cold	izraz								
@@ -643,6 +646,7 @@ L10	Recent Events	el examen	exam	im	m	los exámenes
 L10	Recent Events	el resultado	result	im	m	los resultados						
 L10	Recent Events	el móvil	mobile phone	im	m	los móviles						
 L10	Recent Events	la sorpresa	surprise	im	f	las sorpresas						
+L10	Recent Events	haber	to have (auxiliary of the perfect)	gl					2	habido	he · has · ha · hemos · habéis · han	hube · hubo
 L11	Trains & Trips	el coche	car	im	m	los coches						
 L11	Trains & Trips	el avión	plane	im	m	los aviones						
 L11	Trains & Trips	el barco	boat	im	m	los barcos						
@@ -774,6 +778,8 @@ L12	Clothes & Shops	nervioso	nervous	pr			nerviosa	nerviosos / nerviosas
 L12	Clothes & Shops	listo	ready; clever	pr			lista	listos / listas				
 L12	Clothes & Shops	precioso	lovely	pr			preciosa	preciosos / preciosas				
 L12	Clothes & Shops	el escaparate	shop window	im	m	los escaparates						
+L12	Clothes & Shops	sucio	dirty	pr			sucia	sucios / sucias				
+L12	Clothes & Shops	limpio	clean	pr			limpia	limpios / limpias				
 L13	The Body & the Doctor	el cuerpo	body	im	m	los cuerpos						
 L13	The Body & the Doctor	la cabeza	head	im	f	las cabezas						
 L13	The Body & the Doctor	la cara	face	im	f	las caras						
@@ -1063,8 +1069,6 @@ L16	Moving & Housework	la pintura	paint; painting	im	f	las pinturas
 L16	Moving & Housework	espacioso	spacious	pr			espaciosa	espaciosos / espaciosas				
 L16	Moving & Housework	tranquilo	quiet	pr			tranquila	tranquilos / tranquilas				
 L16	Moving & Housework	ruidoso	noisy	pr			ruidosa	ruidosos / ruidosas				
-L16	Moving & Housework	limpio	clean	pr			limpia	limpios / limpias				
-L16	Moving & Housework	sucio	dirty	pr			sucia	sucios / sucias				
 L16	Moving & Housework	cómodo	comfortable	pr			cómoda	cómodos / cómodas				
 L16	Moving & Housework	práctico	practical	pr			práctica	prácticos / prácticas				
 L16	Moving & Housework	al fondo	at the back	izraz								

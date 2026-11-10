@@ -139,6 +139,7 @@
 {"razina": 2, "tema": "The Flat & Colours", "fr": "grand", "en": "big; tall", "vrsta": "pr", "zenski": "grande", "mnozina_pr": "grands / grandes"}
 {"razina": 2, "tema": "The Flat & Colours", "fr": "joli", "en": "pretty", "vrsta": "pr", "zenski": "jolie", "mnozina_pr": "jolis / jolies"}
 {"razina": 2, "tema": "The Flat & Colours", "fr": "mais", "en": "but", "vrsta": "vez"}
+{"razina": 2, "tema": "The Flat & Colours", "fr": "la maison", "en": "house; home", "vrsta": "im", "rod": "f", "mnozina": "maisons"}
 {"razina": 3, "tema": "Everyday Verbs, the Week & Numbers 0–69", "fr": "parler", "en": "to speak", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "parlé", "prezent": "parle · parles · parle · parlons · parlez · parlent"}
 {"razina": 3, "tema": "Everyday Verbs, the Week & Numbers 0–69", "fr": "travailler", "en": "to work", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "travaillé", "prezent": "travaille · travailles · travaille · travaillons · travaillez · travaillent"}
 {"razina": 3, "tema": "Everyday Verbs, the Week & Numbers 0–69", "fr": "habiter", "en": "to live (somewhere)", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "habité", "prezent": "habite · habites · habite · habitons · habitez · habitent"}
@@ -319,6 +320,7 @@
 {"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "voilà", "en": "here it is; there you are", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "c'est combien ?", "en": "how much is it?", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "encore", "en": "more; again; still", "vrsta": "pril"}
+{"razina": 5, "tema": "Food, Drinks & Numbers 70–100", "fr": "pour", "en": "for", "vrsta": "prij"}
 {"razina": 6, "tema": "City & Directions", "fr": "la rue", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "rues"}
 {"razina": 6, "tema": "City & Directions", "fr": "l'avenue (f)", "en": "avenue", "vrsta": "im", "rod": "f", "mnozina": "avenues"}
 {"razina": 6, "tema": "City & Directions", "fr": "le quartier", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "quartiers"}
@@ -964,7 +966,6 @@
 {"razina": 15, "tema": "Childhood & School", "fr": "la bande", "en": "group; gang", "vrsta": "im", "rod": "f", "mnozina": "bandes"}
 {"razina": 15, "tema": "Childhood & School", "fr": "le cache-cache", "en": "hide-and-seek", "vrsta": "im", "rod": "m", "mnozina": "—"}
 {"razina": 15, "tema": "Childhood & School", "fr": "la maternelle", "en": "nursery school", "vrsta": "im", "rod": "f", "mnozina": "maternelles"}
-{"razina": 16, "tema": "The Home & Furniture", "fr": "la maison", "en": "house; home", "vrsta": "im", "rod": "f", "mnozina": "maisons"}
 {"razina": 16, "tema": "The Home & Furniture", "fr": "le déménagement", "en": "move (house)", "vrsta": "im", "rod": "m", "mnozina": "déménagements"}
 {"razina": 16, "tema": "The Home & Furniture", "fr": "déménager", "en": "to move house", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "déménagé", "prezent": "déménage · déménages · déménage · déménageons · déménagez · déménagent"}
 {"razina": 16, "tema": "The Home & Furniture", "fr": "emménager", "en": "to move in", "vrsta": "gl", "gl_skupina": "1", "pomocni": "avoir", "particip": "emménagé", "prezent": "emménage · emménages · emménage · emménageons · emménagez · emménagent"}

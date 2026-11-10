@@ -160,6 +160,16 @@
 {"razina": 2, "tema": "The Room & Colours", "eo": "malantaŭ", "en": "behind", "vrsta": "prij"}
 {"razina": 2, "tema": "The Room & Colours", "eo": "longa", "en": "long", "vrsta": "pr"}
 {"razina": 2, "tema": "The Room & Colours", "eo": "aŭ", "en": "or", "vrsta": "vez"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "unu", "en": "one", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "du", "en": "two", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "tri", "en": "three", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "kvar", "en": "four", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "kvin", "en": "five", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "ses", "en": "six", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "sep", "en": "seven", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "ok", "en": "eight", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "naŭ", "en": "nine", "vrsta": "broj"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "dek", "en": "ten", "vrsta": "broj"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "labori", "en": "to work", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "loĝi", "en": "to live (somewhere)", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "lerni", "en": "to learn", "vrsta": "gl", "prelaznost": "tr"}
@@ -358,16 +368,6 @@
 {"razina": 5, "tema": "Food & Quantities", "eo": "freŝa", "en": "fresh", "vrsta": "pr"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "bongusta", "en": "tasty", "vrsta": "pr"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "nulo", "en": "zero", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "unu", "en": "one", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "du", "en": "two", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "tri", "en": "three", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "kvar", "en": "four", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "kvin", "en": "five", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "ses", "en": "six", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "sep", "en": "seven", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "ok", "en": "eight", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "naŭ", "en": "nine", "vrsta": "broj"}
-{"razina": 5, "tema": "Food & Quantities", "eo": "dek", "en": "ten", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "cent", "en": "hundred", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "mil", "en": "thousand", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "unua", "en": "first", "vrsta": "broj"}

@@ -89,6 +89,9 @@
 {"razina": 1, "tema": "Greetings & Countries", "en": "and", "hr": "i", "vrsta": "vez"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "what", "hr": "što; koji", "vrsta": "zam"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "nationality", "hr": "državljanstvo, nacionalnost", "vrsta": "im", "mnozina": "nationalities"}
+{"razina": 1, "tema": "Greetings & Countries", "en": "to", "hr": "u, prema, do", "vrsta": "prij"}
+{"razina": 1, "tema": "Greetings & Countries", "en": "in", "hr": "u", "vrsta": "prij"}
+{"razina": 1, "tema": "Greetings & Countries", "en": "at", "hr": "u, na (mjesto, vrijeme)", "vrsta": "prij"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "flat", "hr": "stan", "vrsta": "im", "mnozina": "flats"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "house", "hr": "kuća", "vrsta": "im", "mnozina": "houses"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "room", "hr": "soba", "vrsta": "im", "mnozina": "rooms"}
@@ -213,8 +216,6 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "but", "hr": "ali", "vrsta": "vez"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "or", "hr": "ili", "vrsta": "vez"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "every day", "hr": "svaki dan", "vrsta": "izraz"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "at", "hr": "u, na (mjesto, vrijeme)", "vrsta": "prij"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "in", "hr": "u", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "on", "hr": "na", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "with", "hr": "s, sa", "vrsta": "prij"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "very", "hr": "vrlo", "vrsta": "pril"}
@@ -361,6 +362,7 @@
 {"razina": 5, "tema": "Food & Quantities", "en": "honey", "hr": "med", "vrsta": "im", "mnozina": "—"}
 {"razina": 5, "tema": "Food & Quantities", "en": "jam", "hr": "džem", "vrsta": "im", "mnozina": "jams"}
 {"razina": 5, "tema": "Food & Quantities", "en": "yoghurt", "hr": "jogurt", "vrsta": "im", "mnozina": "yoghurts"}
+{"razina": 5, "tema": "Food & Quantities", "en": "lots of", "hr": "puno, mnogo", "vrsta": "izraz"}
 {"razina": 6, "tema": "City & Directions", "en": "street", "hr": "ulica", "vrsta": "im", "mnozina": "streets"}
 {"razina": 6, "tema": "City & Directions", "en": "road", "hr": "cesta", "vrsta": "im", "mnozina": "roads"}
 {"razina": 6, "tema": "City & Directions", "en": "square", "hr": "trg", "vrsta": "im", "mnozina": "squares"}
@@ -500,6 +502,7 @@
 {"razina": 7, "tema": "Hobbies & Sport", "en": "cycling", "hr": "biciklizam", "vrsta": "im", "mnozina": "—"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "climbing", "hr": "penjanje", "vrsta": "im", "mnozina": "—"}
 {"razina": 7, "tema": "Hobbies & Sport", "en": "practise", "hr": "vježbati", "vrsta": "gl", "preterit": "practised", "particip": "practised", "ing": "practising"}
+{"razina": 7, "tema": "Hobbies & Sport", "en": "early", "hr": "rano", "vrsta": "pril"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "wake up", "hr": "probuditi se", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "have a shower", "hr": "istuširati se", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "have a bath", "hr": "okupati se", "vrsta": "izraz"}
@@ -539,7 +542,6 @@
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "soap", "hr": "sapun", "vrsta": "im", "mnozina": "soaps"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "toothbrush", "hr": "četkica za zube", "vrsta": "im", "mnozina": "toothbrushes"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "towel", "hr": "ručnik", "vrsta": "im", "mnozina": "towels"}
-{"razina": 8, "tema": "Routine, Time & Dates", "en": "early", "hr": "rano", "vrsta": "pril"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "late", "hr": "kasno", "vrsta": "pril"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "on time", "hr": "na vrijeme", "vrsta": "izraz"}
 {"razina": 8, "tema": "Routine, Time & Dates", "en": "month", "hr": "mjesec", "vrsta": "im", "mnozina": "months"}
@@ -640,6 +642,7 @@
 {"razina": 9, "tema": "Weather & Seasons", "en": "heatwave", "hr": "toplinski val", "vrsta": "im", "mnozina": "heatwaves"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "frost", "hr": "mraz", "vrsta": "im", "mnozina": "frosts"}
 {"razina": 9, "tema": "Weather & Seasons", "en": "shine", "hr": "sjati", "vrsta": "gl", "preterit": "shone", "particip": "shone", "ing": "shining"}
+{"razina": 9, "tema": "Weather & Seasons", "en": "stay", "hr": "ostati", "vrsta": "gl", "preterit": "stayed", "particip": "stayed", "ing": "staying"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "was, were", "hr": "bio, bila, bili", "vrsta": "izraz"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "yesterday", "hr": "jučer", "vrsta": "pril"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "last", "hr": "prošli", "vrsta": "pr", "komparativ": "—", "superlativ": "—"}
@@ -652,7 +655,6 @@
 {"razina": 10, "tema": "Weekend & Past Time", "en": "clean", "hr": "čistiti", "vrsta": "gl", "preterit": "cleaned", "particip": "cleaned", "ing": "cleaning"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "tidy", "hr": "pospremiti", "vrsta": "gl", "preterit": "tidied", "particip": "tidied", "ing": "tidying"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "do the shopping", "hr": "kupovati namirnice", "vrsta": "izraz"}
-{"razina": 10, "tema": "Weekend & Past Time", "en": "stay", "hr": "ostati", "vrsta": "gl", "preterit": "stayed", "particip": "stayed", "ing": "staying"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "relax", "hr": "opustiti se", "vrsta": "gl", "preterit": "relaxed", "particip": "relaxed", "ing": "relaxing"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "watch TV", "hr": "gledati televiziju", "vrsta": "izraz"}
 {"razina": 10, "tema": "Weekend & Past Time", "en": "open", "hr": "otvoriti", "vrsta": "gl", "preterit": "opened", "particip": "opened", "ing": "opening"}

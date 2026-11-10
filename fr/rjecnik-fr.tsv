@@ -140,6 +140,7 @@ L2	The Flat & Colours	petit	small	pr			petite	petits / petites
 L2	The Flat & Colours	grand	big; tall	pr			grande	grands / grandes				
 L2	The Flat & Colours	joli	pretty	pr			jolie	jolis / jolies				
 L2	The Flat & Colours	mais	but	vez								
+L2	The Flat & Colours	la maison	house; home	im	f	maisons						
 L3	Everyday Verbs, the Week & Numbers 0–69	parler	to speak	gl					1	avoir	parlé	parle · parles · parle · parlons · parlez · parlent
 L3	Everyday Verbs, the Week & Numbers 0–69	travailler	to work	gl					1	avoir	travaillé	travaille · travailles · travaille · travaillons · travaillez · travaillent
 L3	Everyday Verbs, the Week & Numbers 0–69	habiter	to live (somewhere)	gl					1	avoir	habité	habite · habites · habite · habitons · habitez · habitent
@@ -320,6 +321,7 @@ L5	Food, Drinks & Numbers 70–100	cent	hundred	broj
 L5	Food, Drinks & Numbers 70–100	voilà	here it is; there you are	izraz								
 L5	Food, Drinks & Numbers 70–100	c'est combien ?	how much is it?	izraz								
 L5	Food, Drinks & Numbers 70–100	encore	more; again; still	pril								
+L5	Food, Drinks & Numbers 70–100	pour	for	prij								
 L6	City & Directions	la rue	street	im	f	rues						
 L6	City & Directions	l'avenue (f)	avenue	im	f	avenues						
 L6	City & Directions	le quartier	neighbourhood	im	m	quartiers						
@@ -965,7 +967,6 @@ L15	Childhood & School	le camarade, la camarade	classmate	im	m,f	camarades, cama
 L15	Childhood & School	la bande	group; gang	im	f	bandes						
 L15	Childhood & School	le cache-cache	hide-and-seek	im	m	—						
 L15	Childhood & School	la maternelle	nursery school	im	f	maternelles						
-L16	The Home & Furniture	la maison	house; home	im	f	maisons						
 L16	The Home & Furniture	le déménagement	move (house)	im	m	déménagements						
 L16	The Home & Furniture	déménager	to move house	gl					1	avoir	déménagé	déménage · déménages · déménage · déménageons · déménagez · déménagent
 L16	The Home & Furniture	emménager	to move in	gl					1	avoir	emménagé	emménage · emménages · emménage · emménageons · emménagez · emménagent

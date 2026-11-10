@@ -161,6 +161,16 @@ L2	The Room & Colours	antaŭ	in front of; before	prij
 L2	The Room & Colours	malantaŭ	behind	prij	
 L2	The Room & Colours	longa	long	pr	
 L2	The Room & Colours	aŭ	or	vez	
+L2	The Room & Colours	unu	one	broj	
+L2	The Room & Colours	du	two	broj	
+L2	The Room & Colours	tri	three	broj	
+L2	The Room & Colours	kvar	four	broj	
+L2	The Room & Colours	kvin	five	broj	
+L2	The Room & Colours	ses	six	broj	
+L2	The Room & Colours	sep	seven	broj	
+L2	The Room & Colours	ok	eight	broj	
+L2	The Room & Colours	naŭ	nine	broj	
+L2	The Room & Colours	dek	ten	broj	
 L3	Everyday Verbs & the Week	labori	to work	gl	ntr
 L3	Everyday Verbs & the Week	loĝi	to live (somewhere)	gl	ntr
 L3	Everyday Verbs & the Week	lerni	to learn	gl	tr
@@ -359,16 +369,6 @@ L5	Food & Quantities	malmultekosta	cheap	pr
 L5	Food & Quantities	freŝa	fresh	pr	
 L5	Food & Quantities	bongusta	tasty	pr	
 L5	Food & Quantities	nulo	zero	broj	
-L5	Food & Quantities	unu	one	broj	
-L5	Food & Quantities	du	two	broj	
-L5	Food & Quantities	tri	three	broj	
-L5	Food & Quantities	kvar	four	broj	
-L5	Food & Quantities	kvin	five	broj	
-L5	Food & Quantities	ses	six	broj	
-L5	Food & Quantities	sep	seven	broj	
-L5	Food & Quantities	ok	eight	broj	
-L5	Food & Quantities	naŭ	nine	broj	
-L5	Food & Quantities	dek	ten	broj	
 L5	Food & Quantities	cent	hundred	broj	
 L5	Food & Quantities	mil	thousand	broj	
 L5	Food & Quantities	unua	first	broj	

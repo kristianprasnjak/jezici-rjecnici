@@ -8,10 +8,10 @@ Riječi: **1433** · greške: **0** · upozorenja: **0**
 |---|---|---:|---:|---|
 | L0 | Sounds & Familiar Words | 40 | 40 | ✓ |
 | L1 | Greetings & Countries | 55 | 55 | ✓ |
-| L2 | The Room & Colours | 65 | 67 | ✓ |
+| L2 | The Room & Colours | 75 | 77 | ✓ |
 | L3 | Everyday Verbs & the Week | 65 | 66 | ✓ |
 | L4 | Family & People | 70 | 71 | ✓ |
-| L5 | Food & Quantities | 75 | 77 | ✓ |
+| L5 | Food & Quantities | 65 | 67 | ✓ |
 | L6 | City & Directions | 75 | 75 | ✓ |
 | L7 | Past & Future Time | 75 | 73 | ✓ |
 | L8 | Routine & Time | 75 | 75 | ✓ |

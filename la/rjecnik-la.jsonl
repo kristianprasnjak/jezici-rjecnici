@@ -79,6 +79,7 @@
 {"razina": 1, "tema": "Greetings & Places", "la": "antīquus", "en": "old; ancient", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "antīquus, antīqua, antīquum"}
 {"razina": 1, "tema": "Greetings & Places", "la": "pulcher", "en": "beautiful", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "pulcher, pulchra, pulchrum"}
 {"razina": 1, "tema": "Greetings & Places", "la": "laetus", "en": "happy", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "laetus, laeta, laetum"}
+{"razina": 1, "tema": "Greetings & Places", "la": "Rōmānus", "en": "Roman", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "Rōmānus, Rōmāna, Rōmānum"}
 {"razina": 2, "tema": "Family & House", "la": "pater", "en": "father", "vrsta": "im", "rod": "m", "genitiv": "patris", "deklinacija": "3"}
 {"razina": 2, "tema": "Family & House", "la": "māter", "en": "mother", "vrsta": "im", "rod": "f", "genitiv": "mātris", "deklinacija": "3"}
 {"razina": 2, "tema": "Family & House", "la": "fīlius", "en": "son", "vrsta": "im", "rod": "m", "genitiv": "fīliī", "deklinacija": "2"}
@@ -588,7 +589,6 @@
 {"razina": 10, "tema": "The City of Rome", "la": "nātus", "en": "born; aged", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "nātus, nāta, nātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "spectō", "en": "to watch", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "spectāre, spectāvī, spectātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "habitō", "en": "to live; to dwell", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "habitāre, habitāvī, habitātum"}
-{"razina": 10, "tema": "The City of Rome", "la": "Rōmānus", "en": "Roman", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "Rōmānus, Rōmāna, Rōmānum"}
 {"razina": 10, "tema": "The City of Rome", "la": "pūblicus", "en": "public", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "pūblicus, pūblica, pūblicum"}
 {"razina": 10, "tema": "The City of Rome", "la": "prīvātus", "en": "private", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "prīvātus, prīvāta, prīvātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "celeber", "en": "crowded; famous", "vrsta": "pr", "deklinacija": "3", "oblici_pr": "celeber, celebris, celebre"}
@@ -839,6 +839,7 @@
 {"razina": 14, "tema": "Time & Seasons", "la": "brevis", "en": "short", "vrsta": "pr", "deklinacija": "3", "oblici_pr": "brevis, breve"}
 {"razina": 14, "tema": "Time & Seasons", "la": "diēs fēstus", "en": "holiday", "vrsta": "izraz"}
 {"razina": 14, "tema": "Time & Seasons", "la": "lūstrum", "en": "five-year period", "vrsta": "im", "rod": "n", "genitiv": "lūstrī", "deklinacija": "2"}
+{"razina": 14, "tema": "Time & Seasons", "la": "nēmō", "en": "no one", "vrsta": "zam"}
 {"razina": 15, "tema": "Work & Trade", "la": "loquor", "en": "to speak", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "loquī, locūtus sum"}
 {"razina": 15, "tema": "Work & Trade", "la": "sequor", "en": "to follow", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "sequī, secūtus sum"}
 {"razina": 15, "tema": "Work & Trade", "la": "morior", "en": "to die", "vrsta": "gl", "konjugacija": "3io", "glavni_oblici": "morī, mortuus sum"}
@@ -1035,7 +1036,6 @@
 {"razina": 17, "tema": "Speaking & Thinking", "la": "palam", "en": "openly", "vrsta": "pril"}
 {"razina": 17, "tema": "Speaking & Thinking", "la": "fortasse", "en": "perhaps", "vrsta": "pril"}
 {"razina": 17, "tema": "Speaking & Thinking", "la": "certē", "en": "certainly", "vrsta": "pril"}
-{"razina": 17, "tema": "Speaking & Thinking", "la": "nēmō", "en": "no one", "vrsta": "zam"}
 {"razina": 17, "tema": "Speaking & Thinking", "la": "nihil", "en": "nothing", "vrsta": "zam"}
 {"razina": 17, "tema": "Speaking & Thinking", "la": "aliquis", "en": "someone", "vrsta": "zam"}
 {"razina": 17, "tema": "Speaking & Thinking", "la": "aliquid", "en": "something", "vrsta": "zam"}
