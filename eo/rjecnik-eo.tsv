@@ -159,6 +159,8 @@ L2	The Room & Colours	sub	under	prij
 L2	The Room & Colours	apud	next to	prij	
 L2	The Room & Colours	antaŭ	in front of; before	prij	
 L2	The Room & Colours	malantaŭ	behind	prij	
+L2	The Room & Colours	longa	long	pr	
+L2	The Room & Colours	aŭ	or	vez	
 L3	Everyday Verbs & the Week	labori	to work	gl	ntr
 L3	Everyday Verbs & the Week	loĝi	to live (somewhere)	gl	ntr
 L3	Everyday Verbs & the Week	lerni	to learn	gl	tr
@@ -224,6 +226,7 @@ L3	Everyday Verbs & the Week	kun	with	prij
 L3	Everyday Verbs & the Week	lavi la telerojn	to wash the dishes	izraz	
 L3	Everyday Verbs & the Week	purigi	to clean	gl	tr
 L3	Everyday Verbs & the Week	telero	plate	im	
+L3	Everyday Verbs & the Week	tempo	time	im	
 L4	Family & People	patro	father	im	
 L4	Family & People	patrino	mother	im	
 L4	Family & People	gepatroj	parents	im	
@@ -371,6 +374,7 @@ L5	Food & Quantities	mil	thousand	broj
 L5	Food & Quantities	unua	first	broj	
 L5	Food & Quantities	dua	second	broj	
 L5	Food & Quantities	tria	third	broj	
+L5	Food & Quantities	do	so; then	vez	
 L6	City & Directions	strato	street	im	
 L6	City & Directions	placo	square	im	
 L6	City & Directions	centro	centre	im	
@@ -445,6 +449,7 @@ L6	City & Directions	trotuaro	pavement	im
 L6	City & Directions	konstrui	to build	gl	tr
 L6	City & Directions	fontano	fountain	im	
 L6	City & Directions	stratlampo	street lamp	im	
+L6	City & Directions	resti	to stay	gl	ntr
 L7	Past & Future Time	hieraŭ	yesterday	pril	
 L7	Past & Future Time	morgaŭ	tomorrow	pril	
 L7	Past & Future Time	antaŭhieraŭ	the day before yesterday	pril	
@@ -462,7 +467,6 @@ L7	Past & Future Time	esperi	to hope	gl	tr
 L7	Past & Future Time	plani	to plan	gl	tr
 L7	Past & Future Time	renkonti	to meet	gl	tr
 L7	Past & Future Time	atendi	to wait	gl	tr
-L7	Past & Future Time	resti	to stay	gl	ntr
 L7	Past & Future Time	reveni	to come back	gl	ntr
 L7	Past & Future Time	forgesi	to forget	gl	tr
 L7	Past & Future Time	memori	to remember	gl	tr
@@ -518,6 +522,7 @@ L7	Past & Future Time	promeso	promise	im
 L7	Past & Future Time	promesi	to promise	gl	tr
 L7	Past & Future Time	okazi	to happen	gl	ntr
 L7	Past & Future Time	evento	event	im	
+L7	Past & Future Time	se	if	vez	
 L8	Routine & Time	vekiĝi	to wake up	gl	ntr
 L8	Routine & Time	veki	to wake (someone)	gl	tr
 L8	Routine & Time	leviĝi	to get up	gl	ntr
@@ -673,6 +678,7 @@ L9	Word Families	lernanto	learner; pupil	im
 L9	Word Families	instrui	to teach	gl	tr
 L9	Word Families	traduki	to translate	gl	tr
 L9	Word Families	tradukisto	translator	im	
+L9	Word Families	baki	to bake	gl	tr
 L10	Questions & Answers	kiuj	who; which (plural)	zam	
 L10	Questions & Answers	tiu	that (one)	zam	
 L10	Questions & Answers	tiu ĉi	this (one)	zam	
@@ -708,10 +714,7 @@ L10	Questions & Answers	kompreneble	of course	pril
 L10	Questions & Answers	tute	completely	pril	
 L10	Questions & Answers	tute ne	not at all	izraz	
 L10	Questions & Answers	nek … nek	neither … nor	izraz	
-L10	Questions & Answers	aŭ	or	vez	
 L10	Questions & Answers	aŭ … aŭ	either … or	izraz	
-L10	Questions & Answers	se	if	vez	
-L10	Questions & Answers	do	so; then	vez	
 L10	Questions & Answers	tamen	however	vez	
 L10	Questions & Answers	ja	indeed	čest	
 L10	Questions & Answers	eĉ	even	čest	
@@ -750,6 +753,7 @@ L10	Questions & Answers	laŭte	loudly	pril
 L10	Questions & Answers	mallaŭte	quietly	pril	
 L10	Questions & Answers	dialogo	dialogue	im	
 L10	Questions & Answers	vortfarado	word formation	im	
+L10	Questions & Answers	valizo	suitcase	im	
 L11	Transport & Trips	ĉiutaga	daily; everyday	pr	
 L11	Transport & Trips	tiam	then	pril	
 L11	Transport & Trips	ĉiufoje	every time	pril	
@@ -789,7 +793,6 @@ L11	Transport & Trips	biletvendejo	ticket office	im
 L11	Transport & Trips	foriro	departure	im	
 L11	Transport & Trips	alveno	arrival	im	
 L11	Transport & Trips	malfruo	delay	im	
-L11	Transport & Trips	valizo	suitcase	im	
 L11	Transport & Trips	dorsosako	rucksack	im	
 L11	Transport & Trips	pasporto	passport	im	
 L11	Transport & Trips	flughaveno	airport	im	
@@ -908,7 +911,6 @@ L12	The Body & the Doctor	peza	heavy	pr
 L12	The Body & the Doctor	kapturniĝo	dizziness	im	
 L12	The Body & the Doctor	termometro	thermometer	im	
 L12	The Body & the Doctor	vizito	visit	im	
-L12	The Body & the Doctor	devus	should	izraz	
 L12	The Body & the Doctor	cerbo	brain	im	
 L12	The Body & the Doctor	osto	bone	im	
 L12	The Body & the Doctor	lango	tongue	im	
@@ -1094,6 +1096,8 @@ L14	Change & Feelings	ekscitita	excited	pr
 L14	Change & Feelings	embarasita	embarrassed	pr	
 L14	Change & Feelings	ĉagreni	to upset	gl	tr
 L14	Change & Feelings	ĉagrenita	upset	pr	
+L14	Change & Feelings	salono	hall; lounge	im	
+L14	Change & Feelings	programo	programme	im	
 L15	Wishes & Advice	-us	conditional ending	afiks	
 L15	Wishes & Advice	se mi estus	if I were	izraz	
 L15	Wishes & Advice	mi ŝatus	I would like	izraz	
@@ -1178,6 +1182,7 @@ L15	Wishes & Advice	lingvobaro	language barrier	im
 L15	Wishes & Advice	skeptikulo	sceptic	im	
 L15	Wishes & Advice	argumento	argument	im	
 L15	Wishes & Advice	konvinki	to convince	gl	tr
+L15	Wishes & Advice	devus	should	izraz	
 L16	Events & Stories	-ant-	-ing (present active participle)	afiks	
 L16	Events & Stories	-int-	having done (past active participle)	afiks	
 L16	Events & Stories	-ont-	about to (future active participle)	afiks	
@@ -1218,7 +1223,6 @@ L16	Events & Stories	antaŭ longe	long ago	izraz
 L16	Events & Stories	vojaĝplano	itinerary	im	
 L16	Events & Stories	kongresano	congress participant	im	
 L16	Events & Stories	kongresejo	congress venue	im	
-L16	Events & Stories	programo	programme	im	
 L16	Events & Stories	prelego	lecture	im	
 L16	Events & Stories	preleganto	lecturer	im	
 L16	Events & Stories	koncerto	concert	im	

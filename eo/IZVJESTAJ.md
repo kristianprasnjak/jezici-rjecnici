@@ -1,6 +1,6 @@
 # Izvještaj provjere — eo
 
-Riječi: **1429** · greške: **0** · upozorenja: **0**
+Riječi: **1433** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
@@ -8,32 +8,32 @@ Riječi: **1429** · greške: **0** · upozorenja: **0**
 |---|---|---:|---:|---|
 | L0 | Sounds & Familiar Words | 40 | 40 | ✓ |
 | L1 | Greetings & Countries | 55 | 55 | ✓ |
-| L2 | The Room & Colours | 65 | 65 | ✓ |
-| L3 | Everyday Verbs & the Week | 65 | 65 | ✓ |
+| L2 | The Room & Colours | 65 | 67 | ✓ |
+| L3 | Everyday Verbs & the Week | 65 | 66 | ✓ |
 | L4 | Family & People | 70 | 71 | ✓ |
-| L5 | Food & Quantities | 75 | 76 | ✓ |
-| L6 | City & Directions | 75 | 74 | ✓ |
+| L5 | Food & Quantities | 75 | 77 | ✓ |
+| L6 | City & Directions | 75 | 75 | ✓ |
 | L7 | Past & Future Time | 75 | 73 | ✓ |
 | L8 | Routine & Time | 75 | 75 | ✓ |
-| L9 | Word Families | 80 | 80 | ✓ |
-| L10 | Questions & Answers | 80 | 77 | ✓ |
-| L11 | Transport & Trips | 80 | 83 | ✓ |
-| L12 | The Body & the Doctor | 85 | 86 | ✓ |
+| L9 | Word Families | 80 | 81 | ✓ |
+| L10 | Questions & Answers | 80 | 75 | ✓ |
+| L11 | Transport & Trips | 80 | 82 | ✓ |
+| L12 | The Body & the Doctor | 85 | 85 | ✓ |
 | L13 | People & Character | 85 | 89 | ✓ |
-| L14 | Change & Feelings | 85 | 86 | ✓ |
-| L15 | Wishes & Advice | 85 | 84 | ✓ |
-| L16 | Events & Stories | 85 | 83 | ✓ |
+| L14 | Change & Feelings | 85 | 88 | ✓ |
+| L15 | Wishes & Advice | 85 | 85 | ✓ |
+| L16 | Events & Stories | 85 | 82 | ✓ |
 | L17 | News & Media | 85 | 84 | ✓ |
 | L18 | Memories & the Future | 85 | 83 | ✓ |
-| **ukupno** | | **1430** | **1429** | |
+| **ukupno** | | **1430** | **1433** | |
 
 ## Po vrstama
 
 | Vrsta | Broj |
 |---|---:|
-| imenica | 669 |
-| glagol | 228 |
-| pridjev | 181 |
+| imenica | 671 |
+| glagol | 229 |
+| pridjev | 182 |
 | prilog | 105 |
 | izraz | 98 |
 | afiks (tvorba riječi) | 49 |
@@ -48,4 +48,4 @@ Riječi: **1429** · greške: **0** · upozorenja: **0**
 
 | Vrsta | Stupci | Popunjeno |
 |---|---|---:|
-| glagol | prelaznost | 228 / 228 |
+| glagol | prelaznost | 229 / 229 |

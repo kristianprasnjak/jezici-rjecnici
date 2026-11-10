@@ -158,6 +158,8 @@
 {"razina": 2, "tema": "The Room & Colours", "eo": "apud", "en": "next to", "vrsta": "prij"}
 {"razina": 2, "tema": "The Room & Colours", "eo": "antaŭ", "en": "in front of; before", "vrsta": "prij"}
 {"razina": 2, "tema": "The Room & Colours", "eo": "malantaŭ", "en": "behind", "vrsta": "prij"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "longa", "en": "long", "vrsta": "pr"}
+{"razina": 2, "tema": "The Room & Colours", "eo": "aŭ", "en": "or", "vrsta": "vez"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "labori", "en": "to work", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "loĝi", "en": "to live (somewhere)", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "lerni", "en": "to learn", "vrsta": "gl", "prelaznost": "tr"}
@@ -223,6 +225,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "lavi la telerojn", "en": "to wash the dishes", "vrsta": "izraz"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "purigi", "en": "to clean", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "telero", "en": "plate", "vrsta": "im"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "tempo", "en": "time", "vrsta": "im"}
 {"razina": 4, "tema": "Family & People", "eo": "patro", "en": "father", "vrsta": "im"}
 {"razina": 4, "tema": "Family & People", "eo": "patrino", "en": "mother", "vrsta": "im"}
 {"razina": 4, "tema": "Family & People", "eo": "gepatroj", "en": "parents", "vrsta": "im"}
@@ -370,6 +373,7 @@
 {"razina": 5, "tema": "Food & Quantities", "eo": "unua", "en": "first", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "dua", "en": "second", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "eo": "tria", "en": "third", "vrsta": "broj"}
+{"razina": 5, "tema": "Food & Quantities", "eo": "do", "en": "so; then", "vrsta": "vez"}
 {"razina": 6, "tema": "City & Directions", "eo": "strato", "en": "street", "vrsta": "im"}
 {"razina": 6, "tema": "City & Directions", "eo": "placo", "en": "square", "vrsta": "im"}
 {"razina": 6, "tema": "City & Directions", "eo": "centro", "en": "centre", "vrsta": "im"}
@@ -444,6 +448,7 @@
 {"razina": 6, "tema": "City & Directions", "eo": "konstrui", "en": "to build", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 6, "tema": "City & Directions", "eo": "fontano", "en": "fountain", "vrsta": "im"}
 {"razina": 6, "tema": "City & Directions", "eo": "stratlampo", "en": "street lamp", "vrsta": "im"}
+{"razina": 6, "tema": "City & Directions", "eo": "resti", "en": "to stay", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "hieraŭ", "en": "yesterday", "vrsta": "pril"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "morgaŭ", "en": "tomorrow", "vrsta": "pril"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "antaŭhieraŭ", "en": "the day before yesterday", "vrsta": "pril"}
@@ -461,7 +466,6 @@
 {"razina": 7, "tema": "Past & Future Time", "eo": "plani", "en": "to plan", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "renkonti", "en": "to meet", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "atendi", "en": "to wait", "vrsta": "gl", "prelaznost": "tr"}
-{"razina": 7, "tema": "Past & Future Time", "eo": "resti", "en": "to stay", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "reveni", "en": "to come back", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "forgesi", "en": "to forget", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "memori", "en": "to remember", "vrsta": "gl", "prelaznost": "tr"}
@@ -517,6 +521,7 @@
 {"razina": 7, "tema": "Past & Future Time", "eo": "promesi", "en": "to promise", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "okazi", "en": "to happen", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 7, "tema": "Past & Future Time", "eo": "evento", "en": "event", "vrsta": "im"}
+{"razina": 7, "tema": "Past & Future Time", "eo": "se", "en": "if", "vrsta": "vez"}
 {"razina": 8, "tema": "Routine & Time", "eo": "vekiĝi", "en": "to wake up", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 8, "tema": "Routine & Time", "eo": "veki", "en": "to wake (someone)", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 8, "tema": "Routine & Time", "eo": "leviĝi", "en": "to get up", "vrsta": "gl", "prelaznost": "ntr"}
@@ -672,6 +677,7 @@
 {"razina": 9, "tema": "Word Families", "eo": "instrui", "en": "to teach", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 9, "tema": "Word Families", "eo": "traduki", "en": "to translate", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 9, "tema": "Word Families", "eo": "tradukisto", "en": "translator", "vrsta": "im"}
+{"razina": 9, "tema": "Word Families", "eo": "baki", "en": "to bake", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "kiuj", "en": "who; which (plural)", "vrsta": "zam"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "tiu", "en": "that (one)", "vrsta": "zam"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "tiu ĉi", "en": "this (one)", "vrsta": "zam"}
@@ -707,10 +713,7 @@
 {"razina": 10, "tema": "Questions & Answers", "eo": "tute", "en": "completely", "vrsta": "pril"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "tute ne", "en": "not at all", "vrsta": "izraz"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "nek … nek", "en": "neither … nor", "vrsta": "izraz"}
-{"razina": 10, "tema": "Questions & Answers", "eo": "aŭ", "en": "or", "vrsta": "vez"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "aŭ … aŭ", "en": "either … or", "vrsta": "izraz"}
-{"razina": 10, "tema": "Questions & Answers", "eo": "se", "en": "if", "vrsta": "vez"}
-{"razina": 10, "tema": "Questions & Answers", "eo": "do", "en": "so; then", "vrsta": "vez"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "tamen", "en": "however", "vrsta": "vez"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "ja", "en": "indeed", "vrsta": "čest"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "eĉ", "en": "even", "vrsta": "čest"}
@@ -749,6 +752,7 @@
 {"razina": 10, "tema": "Questions & Answers", "eo": "mallaŭte", "en": "quietly", "vrsta": "pril"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "dialogo", "en": "dialogue", "vrsta": "im"}
 {"razina": 10, "tema": "Questions & Answers", "eo": "vortfarado", "en": "word formation", "vrsta": "im"}
+{"razina": 10, "tema": "Questions & Answers", "eo": "valizo", "en": "suitcase", "vrsta": "im"}
 {"razina": 11, "tema": "Transport & Trips", "eo": "ĉiutaga", "en": "daily; everyday", "vrsta": "pr"}
 {"razina": 11, "tema": "Transport & Trips", "eo": "tiam", "en": "then", "vrsta": "pril"}
 {"razina": 11, "tema": "Transport & Trips", "eo": "ĉiufoje", "en": "every time", "vrsta": "pril"}
@@ -788,7 +792,6 @@
 {"razina": 11, "tema": "Transport & Trips", "eo": "foriro", "en": "departure", "vrsta": "im"}
 {"razina": 11, "tema": "Transport & Trips", "eo": "alveno", "en": "arrival", "vrsta": "im"}
 {"razina": 11, "tema": "Transport & Trips", "eo": "malfruo", "en": "delay", "vrsta": "im"}
-{"razina": 11, "tema": "Transport & Trips", "eo": "valizo", "en": "suitcase", "vrsta": "im"}
 {"razina": 11, "tema": "Transport & Trips", "eo": "dorsosako", "en": "rucksack", "vrsta": "im"}
 {"razina": 11, "tema": "Transport & Trips", "eo": "pasporto", "en": "passport", "vrsta": "im"}
 {"razina": 11, "tema": "Transport & Trips", "eo": "flughaveno", "en": "airport", "vrsta": "im"}
@@ -907,7 +910,6 @@
 {"razina": 12, "tema": "The Body & the Doctor", "eo": "kapturniĝo", "en": "dizziness", "vrsta": "im"}
 {"razina": 12, "tema": "The Body & the Doctor", "eo": "termometro", "en": "thermometer", "vrsta": "im"}
 {"razina": 12, "tema": "The Body & the Doctor", "eo": "vizito", "en": "visit", "vrsta": "im"}
-{"razina": 12, "tema": "The Body & the Doctor", "eo": "devus", "en": "should", "vrsta": "izraz"}
 {"razina": 12, "tema": "The Body & the Doctor", "eo": "cerbo", "en": "brain", "vrsta": "im"}
 {"razina": 12, "tema": "The Body & the Doctor", "eo": "osto", "en": "bone", "vrsta": "im"}
 {"razina": 12, "tema": "The Body & the Doctor", "eo": "lango", "en": "tongue", "vrsta": "im"}
@@ -1093,6 +1095,8 @@
 {"razina": 14, "tema": "Change & Feelings", "eo": "embarasita", "en": "embarrassed", "vrsta": "pr"}
 {"razina": 14, "tema": "Change & Feelings", "eo": "ĉagreni", "en": "to upset", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 14, "tema": "Change & Feelings", "eo": "ĉagrenita", "en": "upset", "vrsta": "pr"}
+{"razina": 14, "tema": "Change & Feelings", "eo": "salono", "en": "hall; lounge", "vrsta": "im"}
+{"razina": 14, "tema": "Change & Feelings", "eo": "programo", "en": "programme", "vrsta": "im"}
 {"razina": 15, "tema": "Wishes & Advice", "eo": "-us", "en": "conditional ending", "vrsta": "afiks"}
 {"razina": 15, "tema": "Wishes & Advice", "eo": "se mi estus", "en": "if I were", "vrsta": "izraz"}
 {"razina": 15, "tema": "Wishes & Advice", "eo": "mi ŝatus", "en": "I would like", "vrsta": "izraz"}
@@ -1177,6 +1181,7 @@
 {"razina": 15, "tema": "Wishes & Advice", "eo": "skeptikulo", "en": "sceptic", "vrsta": "im"}
 {"razina": 15, "tema": "Wishes & Advice", "eo": "argumento", "en": "argument", "vrsta": "im"}
 {"razina": 15, "tema": "Wishes & Advice", "eo": "konvinki", "en": "to convince", "vrsta": "gl", "prelaznost": "tr"}
+{"razina": 15, "tema": "Wishes & Advice", "eo": "devus", "en": "should", "vrsta": "izraz"}
 {"razina": 16, "tema": "Events & Stories", "eo": "-ant-", "en": "-ing (present active participle)", "vrsta": "afiks"}
 {"razina": 16, "tema": "Events & Stories", "eo": "-int-", "en": "having done (past active participle)", "vrsta": "afiks"}
 {"razina": 16, "tema": "Events & Stories", "eo": "-ont-", "en": "about to (future active participle)", "vrsta": "afiks"}
@@ -1217,7 +1222,6 @@
 {"razina": 16, "tema": "Events & Stories", "eo": "vojaĝplano", "en": "itinerary", "vrsta": "im"}
 {"razina": 16, "tema": "Events & Stories", "eo": "kongresano", "en": "congress participant", "vrsta": "im"}
 {"razina": 16, "tema": "Events & Stories", "eo": "kongresejo", "en": "congress venue", "vrsta": "im"}
-{"razina": 16, "tema": "Events & Stories", "eo": "programo", "en": "programme", "vrsta": "im"}
 {"razina": 16, "tema": "Events & Stories", "eo": "prelego", "en": "lecture", "vrsta": "im"}
 {"razina": 16, "tema": "Events & Stories", "eo": "preleganto", "en": "lecturer", "vrsta": "im"}
 {"razina": 16, "tema": "Events & Stories", "eo": "koncerto", "en": "concert", "vrsta": "im"}
