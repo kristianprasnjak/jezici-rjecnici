@@ -1,0 +1,1359 @@
+isv	vrsta	hr
+voda	im	voda
+hlěb	im	kruh
+dom	im	kuća; dom
+brat	im	brat
+sestra	im	sestra
+mati	im	majka
+otec	im	otac
+syn	im	sin
+doči	im	kći
+ruka	im	ruka
+noga	im	noga
+glava	im	glava
+oko	im	oko
+nos	im	nos
+uho	im	uho
+zub	im	zub
+srdce	im	srce
+denj	im	dan
+noč	im	noć
+nebo	im	nebo
+solnce	im	sunce
+měsec	im	mjesec
+zvězda	im	zvijezda
+zemja	im	zemlja
+gora	im	planina, gora
+rěka	im	rijeka
+morje	im	more
+lěs	im	šuma
+drěvo	im	drvo, stablo
+ogonj	im	vatra, oganj
+sněg	im	snijeg
+dožd	im	kiša (HR *dažd* je zastarjelo)
+pes	im	pas
+kot	im	mačak, mačka
+konj	im	konj
+mlěko	im	mlijeko
+solj	im	sol
+med	im	med
+vino	im	vino
+pivo	im	pivo
+dobry denj!	izraz	dobar dan!
+dobro jutro!	izraz	dobro jutro!
+dobry večer!	izraz	dobra večer!
+dobra noč!	izraz	laku noć!
+do viděnja!	izraz	doviđenja!
+hvala!	izraz	hvala!
+prosim	izraz	molim
+izvinite	izraz	oprostite
+dobrodošli!	izraz	dobro došli!
+da	čest	da
+ne	čest	ne
+gospodin	im	gospodin
+gospodža	im	gospođa
+kako jesi?	izraz	kako si?
+dobro	pril	dobro
+velmi	pril	vrlo, jako
+i	vez	i
+a	vez	a
+nazyvati se	gl	zvati se
+ime	im	ime
+prězime	im	prezime
+byti	gl	biti
+ja	zam	ja
+ty	zam	ti
+on	zam	on
+ona	zam	ona
+ono	zam	ono
+my	zam	mi
+vy	zam	vi; Vi
+oni	zam	oni
+kto	zam	tko
+čto	zam	što
+kde	pril	gdje
+odkud	pril	odakle
+kako	pril	kako
+iz	prij	iz
+v	prij	u
+na	prij	na
+zemja (država)	izraz	zemlja, država
+država	im	država
+Hrvatija	im	Hrvatska
+Poljska	im	Poljska
+Čehija	im	Češka
+Slovakija	im	Slovačka
+Slovenija	im	Slovenija
+Srbija	im	Srbija
+Bulgarija	im	Bugarska
+Ukrajina	im	Ukrajina
+Rosija	im	Rusija
+Němcija	im	Njemačka
+jezyk	im	jezik
+govoriti	gl	govoriti
+razuměti	gl	razumjeti
+slovjansky	pr	slavenski
+medžuslovjansky	pr	međuslavenski, interslavenski
+hrvatsky	pr	hrvatski
+anglijsky	pr	engleski
+grad	im	grad
+prijatelj	im	prijatelj
+vlak	im	vlak
+vagon	im	vagon
+stancija	im	stanica, kolodvor
+kolěja	im	tračnica, kolosijek
+bilet	im	karta (HR *bilet* je zastarjelo)
+město	im	mjesto
+okno	im	prozor (lokalizam: HR *okno* je samo staklo)
+dveri	im	vrata
+stol	im	stol
+stul	im	stolica
+kniga	im	knjiga
+torba	im	torba
+kufer	im	kofer
+ključ	im	ključ
+telefon	im	telefon
+kompjuter	im	računalo
+kava	im	kava
+čaj	im	čaj
+voditelj	im	vozač; voditelj
+putnik	im	putnik
+kolor	im	boja
+běly	pr	bijel
+črny	pr	crn
+črveny	pr	crven
+modry	pr	plav
+zeleny	pr	zelen
+žolty	pr	žut
+sivy	pr	siv
+koričnevy	pr	smeđ
+rozovy	pr	ružičast
+oranževy	pr	narančast
+fioletovy	pr	ljubičast
+veliky	pr	velik
+maly	pr	malen
+novy	pr	nov
+stary	pr	star
+dobry	pr	dobar
+lěpy	pr	lijep
+brzy	pr	brz
+spokojny	pr	miran
+čisty	pr	čist
+mrzky	pr	ružan
+dolgy	pr	dug
+kratky	pr	kratak
+to	zam	to
+tutoj	zam	ovaj
+toj	zam	taj, onaj
+moj	zam	moj
+tvoj	zam	tvoj
+jego	zam	njegov
+jej	zam	njezin
+naš	zam	naš
+vaš	zam	vaš
+jih	zam	njihov
+tut	pril	ovdje, tu
+tam	pril	tamo
+takože	pril	također
+ale	vez	ali
+ili	vez	ili
+platforma	im	peron
+okolo	prij	oko
+blizko	pril	blizu
+daleko	pril	daleko
+ješče	pril	još
+uže	pril	već
+sejčas	pril	sada
+mnogo	pril	mnogo
+malo	pril	malo
+sědališče	im	sjedalo
+često	pril	često
+vsegda	pril	uvijek
+nikogda	pril	nikad
+dělati	gl	raditi, činiti
+rabotati	gl	raditi
+žiti	gl	živjeti
+učiti se	gl	učiti
+jesti	gl	jesti
+piti	gl	piti
+gledati	gl	gledati
+slušati	gl	slušati
+čitati	gl	čitati
+pisati	gl	pisati
+hoditi	gl	hodati, ići (pješice, često)
+idti	gl	ići
+pěvati	gl	pjevati
+tancevati	gl	plesati
+spati	gl	spavati
+kupovati	gl	kupovati
+variti	gl	kuhati
+igrati	gl	igrati (se)
+hotěti	gl	htjeti
+mogti	gl	moći
+znati	gl	znati
+ljubiti	gl	voljeti
+viděti	gl	vidjeti
+čuti	gl	čuti
+mysliti	gl	misliti
+telefonovati	gl	telefonirati
+čekati	gl	čekati
+dati	gl	dati
+vzeti	gl	uzeti
+otvoriti	gl	otvoriti
+zakryti	gl	zatvoriti
+počinati	gl	počinjati
+končati	gl	završavati
+nedělja	im	nedjelja; tjedan
+ponedělok	im	ponedjeljak
+vtorok	im	utorak
+srěda	im	srijeda
+četvrtok	im	četvrtak
+petok	im	petak
+subota	im	subota
+vikend	im	vikend
+jutro	im	jutro
+večer	im	večer
+poldenj	im	podne
+dnes	pril	danas
+zautra	pril	sutra
+včera	pril	jučer
+kogda	pril	kada
+začto	pril	zašto
+rabota	im	posao, rad
+škola	im	škola
+kancelarija	im	ured
+universitet	im	sveučilište
+čas	im	vrijeme; sat
+každy	pr	svaki
+vsaky denj	izraz	svaki dan
+s	prij	s, sa
+bez	prij	bez
+do	prij	do
+od	prij	od
+za	prij	za; iza
+po	prij	po; nakon
+poněkogda	pril	ponekad
+obyčno	pril	obično
+rano	pril	rano
+pozdno	pril	kasno
+potom	pril	potom, zatim
+večerom	pril	navečer
+sěmja	im	obitelj
+roditelj	im	roditelj
+mama	im	mama
+tata	im	tata
+děti	im	djeca
+děte	im	dijete
+děd	im	djed
+baba	im	baka
+vnuk	im	unuk
+vnučka	im	unuka
+ujec	im	ujak
+tetka	im	teta
+kuzen	im	bratić
+kuzina	im	sestrična
+muž	im	muž
+žena	im	žena
+osoba	im	osoba
+děvčina	im	djevojka
+člověk	im	čovjek
+ljudi	im	ljudi
+děvče	im	djevojčica
+mladenec	im	mladić
+děva	im	djeva, djevojka
+suprug	im	suprug
+supruga	im	supruga
+susěd	im	susjed
+kolega	im	kolega
+gost	im	gost
+imati	gl	imati
+roditi se	gl	roditi se
+ženiti se	gl	ženiti se
+lěta	im	godine (dob)
+vozrast	im	dob
+denj rodženja	im	rođendan
+mlady	pr	mlad
+starec	im	starac
+oženjeny	pr	oženjen
+omuženy	pr	udana
+svobodny	pr	slobodan; neoženjen, neudana
+vysoky	pr	visok
+nizky	pr	nizak
+dobry člověk	izraz	dobar čovjek
+vesely	pr	veseo
+umny	pr	pametan
+směšny	pr	smiješan
+dragy	pr	drag
+ščestlivy	pr	sretan
+smutny	pr	tužan
+ljubov	im	ljubav
+jejin	zam	njezin
+čij	zam	čiji
+ljubimec	im	ljubimac
+prijateljka	im	prijateljica
+znajemy	pr	poznat; znanac
+rodny	pr	rodni
+blizky	pr	blizak
+daleky	pr	dalek
+gody	im	godine
+sam	zam	sam
+vsi	zam	svi
+někto	zam	netko
+nikto	zam	nitko
+jedin	broj	jedan
+pomagati	gl	pomagati
+posětiti	gl	posjetiti
+ljubimy	pr	omiljen
+starši	pr	stariji
+mladši	pr	mlađi
+mene	zam	mene, me
+tebe	zam	tebe, te
+ju	zam	nju, je
+jego (obj.)	izraz	njega, ga
+nas	zam	nas
+vas	zam	vas
+jih (obj.)	izraz	njih, ih
+trg (prodaja)	izraz	tržnica
+jabloko	im	jabuka
+gruša	im	kruška
+pomaranča	im	naranča
+banan	im	banana
+jagoda	im	jagoda
+grozd	im	grožđe
+limon	im	limun
+pomidor	im	rajčica (dalm. *pomidor*)
+kartofelj	im	krumpir
+mrkva	im	mrkva
+luk	im	luk
+česnok	im	češnjak
+kapusta	im	kupus
+meso	im	meso
+kura	im	kokoš, piletina
+ryba	im	riba
+jajce	im	jaje
+syr	im	sir
+maslo	im	maslac
+ryž	im	riža
+cukr	im	šećer
+olej	im	ulje
+kolač	im	kolač
+sok	im	sok
+ovoč	im	voće
+zelenina	im	povrće
+jeda	im	hrana
+kilogram	im	kilogram
+litr	im	litra
+butylka	im	boca
+kus	im	komad
+cěna	im	cijena
+pěnezy	im	novac
+plod	im	plod
+koštovati	gl	koštati
+platiti	gl	platiti
+prodavati	gl	prodavati
+kupiti	gl	kupiti
+koliko	pril	koliko
+vozrast (lěta)	izraz	dob (godine)
+dragocěnny	pr	dragocjen; skup
+deševy	pr	jeftin
+svěži	pr	svjež
+vkusny	pr	ukusan
+nula	broj	nula
+dva	broj	dva
+tri	broj	tri
+četyri	broj	četiri
+pet	broj	pet
+šest	broj	šest
+sedm	broj	sedam
+osm	broj	osam
+devet	broj	devet
+deset	broj	deset
+jedinnadset	broj	jedanaest
+dvanadset	broj	dvanaest
+dvadeset	broj	dvadeset
+trideset	broj	trideset
+četyrideset	broj	četrdeset
+petdeset	broj	pedeset
+sto	broj	sto
+tyseč	broj	tisuću
+prvy	broj	prvi
+drugy	broj	drugi
+tretji	broj	treći
+prodavec	im	prodavač
+kupec	im	kupac
+magazin	im	trgovina (lokalizam: HR *magazin* je skladište / časopis)
+koš	im	košara
+ješče něčto?	izraz	još nešto?
+hotěti by	izraz	htio bih; htjela bih
+polovina	im	polovina, pola
+četvrt	im	četvrtina
+mnogo (+ gen.)	izraz	mnogo (+ genitiv)
+dovoljno	pril	dovoljno
+zanadto	pril	previše
+zrěly	pr	zreo
+sladky	pr	sladak
+kysly	pr	kiseo
+gorky	pr	gorak
+ulica	im	ulica
+trg	im	trg
+centr	im	središte, centar
+park	im	park
+muzej	im	muzej
+crkva	im	crkva
+boljnica	im	bolnica
+apteka	im	ljekarna (lokalizam: HR *ljekarna*, drugi *apteka*)
+pošta	im	pošta
+most	im	most
+kut	im	kut, ugao
+karta	im	karta, zemljovid
+pekarnja	im	pekarnica
+metro	im	podzemna željeznica, metro
+avtobus	im	autobus
+tramvaj	im	tramvaj
+avtobusna postojka	izraz	autobusna stanica
+budynok	im	zgrada
+hram	im	hram
+palac	im	palača
+zamok	im	dvorac
+bank	im	banka
+hotel	im	hotel
+restoran	im	restoran
+kino	im	kino
+teatr	im	kazalište (lokalizam: drugi Slaveni *teatr*)
+biblioteka	im	knjižnica (lokalizam: drugi Slaveni *biblioteka*)
+napravo	pril	desno
+nalěvo	pril	lijevo
+pravo	pril	ravno; desno
+prosto	pril	jednostavno; ravno
+podle	prij	pokraj
+pri	prij	pri, kod
+pod	prij	pod
+nad	prij	nad
+prěd	prij	pred, ispred
+medžu	prij	između, među
+nedaleky	pr	nedalek, blizu
+kamo	pril	kamo
+odtud	pril	odavde
+ovde	pril	ovdje
+vlěvo	pril	lijevo
+naprotiv	pril	nasuprot
+obratiti se	gl	okrenuti se, obratiti se
+prějdti	gl	prijeći
+iskati	gl	tražiti (lokalizam: HR *iskati* je zastarjelo)
+najdti	gl	naći
+prohoditi se	gl	šetati se
+pěši	pril	pješice
+vozilo	im	vozilo
+zabluditi	gl	zalutati
+pokazati	gl	pokazati
+pytati	gl	pitati
+odgovoriti	gl	odgovoriti
+imperativ	im	imperativ
+idti pravo	izraz	ići ravno
+vot	čest	evo
+čekanje	im	čekanje
+kde jest …?	izraz	gdje je …?
+jest li to daleko?	izraz	je li to daleko?
+turist	im	turist
+provodnik	im	vodič
+parkovišče	im	parkiralište
+semafor	im	semafor
+križišče	im	raskrižje
+trotuar	im	pločnik, nogostup
+kvartal	im	četvrt
+selo	im	selo
+okolina	im	okolica
+plan	im	plan
+fontana	im	fontana
+pametnik	im	spomenik
+dvor	im	dvorište; dvor
+vrata	im	vrata, kapija
+izhod	im	izlaz
+vhod	im	ulaz
+bulvar	im	bulevar
+sad	im	vrt; voćnjak
+jehati	gl	voziti se, putovati (vozilom)
+svobodny čas	izraz	slobodno vrijeme
+hobi	im	hobi
+podobati se	gl	sviđati se
+mně se podoba	izraz	sviđa mi se
+igrati futbol	izraz	igrati nogomet
+futbol	im	nogomet (lokalizam: drugi Slaveni *futbol*)
+tenis	im	tenis
+košarka	im	košarka
+volejbol	im	odbojka
+plavanje	im	plivanje
+plavati	gl	plivati
+běgati	gl	trčati
+jezditi	gl	voziti (se), jahati
+velosiped	im	bicikl
+sport	im	sport
+sportivny	pr	sportski
+matč	im	utakmica
+komanda	im	momčad
+meč	im	lopta
+gitara	im	gitara
+klavir	im	klavir
+muzika	im	glazba (lokalizam: drugi Slaveni *muzika*)
+pěsnja	im	pjesma
+koncert	im	koncert
+film	im	film
+igra	im	igra
+šahy	im	šah
+izstava	im	izložba
+basen	im	bazen
+stadion	im	stadion
+fotka	im	fotka, fotografija
+fotografovati	gl	fotografirati
+rysovati	gl	crtati
+maljevati	gl	slikati
+putovati	gl	putovati
+pohodka	im	šetnja
+odpočivati	gl	odmarati se
+čitatelj	im	čitatelj
+roman	im	roman
+serial	im	serija
+televizija	im	televizija
+internet	im	internet
+interesny	pr	zanimljiv
+nudny	pr	dosadan
+zabavny	pr	zabavan
+ljubimy (hobi)	izraz	omiljeni (hobi)
+utomljeny	pr	umoran
+vkupě	pril	zajedno
+sam (sebe)	izraz	sam (sa sobom)
+ni … ni	izraz	ni … ni
+ničto	zam	ništa
+nikde	pril	nigdje
+nikamo	pril	nikamo
+nijedin	zam	nijedan
+ne ljubiti	izraz	ne voljeti
+nenaviděti	gl	mrziti
+dobyti	gl	pobijediti, osvojiti
+izgubiti	gl	izgubiti
+obučati	gl	trenirati, podučavati
+trener	im	trener
+igrač	im	igrač
+ljubitelj	im	ljubitelj, navijač
+gol	im	gol
+rezultat	im	rezultat
+tanec	im	ples
+gora (izlet)	izraz	izlet u planine
+izlet	im	izlet
+rybak	im	ribar
+sanky	im	sanjke
+rybolov	im	ribolov
+trava	im	trava
+cvět	im	cvijet
+kartina	im	slika
+pisatelj	im	pisac
+aktor	im	glumac
+plesati	gl	plesati
+kniga (ljubima)	izraz	omiljena knjiga
+byl	izraz	bio (prošlo vrijeme od *byti*)
+včera večerom	izraz	sinoć
+prošly	pr	prošli
+prošly tydenj	izraz	prošli tjedan
+prěd dvoma dnjami	izraz	prije dva dana
+davno	pril	davno
+nedavno	pril	nedavno
+togda	pril	tada
+najprvo	pril	najprije
+poslě	prij	poslije, nakon
+konečno	pril	konačno
+nakonec	pril	napokon
+iznenada	pril	iznenada
+že	vez	da (izrični veznik)
+kogda (veznik)	izraz	kad (veznik)
+sobytje	im	događaj
+prazdnik	im	praznik, blagdan
+slavjenje	im	slavlje
+prazdnovati	gl	slaviti
+zabava	im	zabava
+svatba	im	svadba
+sustrěča	im	susret
+sustrěčati	gl	susretati
+dojdti	gl	doći, stići
+odidti	gl	otići
+vratiti se	gl	vratiti se
+ostati	gl	ostati
+zabyti	gl	zaboraviti
+pomněti	gl	pamtiti, sjećati se
+razkazati	gl	ispričati
+napisati	gl	napisati
+pročitati	gl	pročitati
+uviděti	gl	ugledati, vidjeti
+sdělati	gl	napraviti
+kupiti (pf.)	izraz	kupiti (svršeni)
+izgubiti (pf.)	izraz	izgubiti (svršeni)
+smějati se	gl	smijati se
+plakati	gl	plakati
+pismo	im	pismo
+novina	im	novost, vijest
+gazeta	im	novine
+poslanje	im	poruka
+historija	im	povijest; priča (lokalizam: drugi Slaveni *historija / istorija*)
+pamet	im	pamćenje, sjećanje
+fotografija	im	fotografija
+gost (prošly)	izraz	bivši gost
+čas (prošly)	izraz	prošlost
+prošlost	im	prošlost
+lěto (prošlo)	izraz	prošlo ljeto
+god	im	godina
+lěto	im	ljeto
+desetilětje	im	desetljeće
+stolětje	im	stoljeće
+dobro (bylo)	izraz	bilo je dobro
+strah	im	strah
+radost	im	radost
+čudo	im	čudo
+nesgoda	im	nezgoda
+ščestje	im	sreća
+slučaj	im	slučaj
+slučiti se	gl	dogoditi se
+zapisati	gl	zapisati
+dnevnik	im	dnevnik
+proba	im	pokušaj; proba
+skazka	im	bajka
+legenda	im	legenda
+konec	im	kraj, konac
+načelo	im	početak
+vrěme	im	vrijeme
+minuly	pr	prošli, minuli
+odgovor	im	odgovor
+bezpečny	pr	siguran, bezopasan
+opasny	pr	opasan
+divny	pr	čudan; divan
+krasny	pr	krasan, lijep
+strašny	pr	strašan
+smutok	im	tuga
+neočekyvany	pr	neočekivan
+ves denj	izraz	cijeli dan
+zaplanovati	gl	isplanirati
+planovati	gl	planirati
+buduči	pr	budući
+budučnost	im	budućnost
+budem	izraz	bit ću (pomoćni glagol futura)
+musěti	gl	morati
+ako	vez	ako
+pogoda	im	vrijeme (meteorološko)
+prognoza	im	prognoza
+doždlivy	pr	kišovit
+solnečny	pr	sunčan
+oblačny	pr	oblačan
+větr	im	vjetar
+větrny	pr	vjetrovit
+oblak	im	oblak
+burja	im	oluja
+grom	im	grom
+molnja	im	munja
+mgla	im	magla
+led	im	led
+mraz	im	mraz
+teply	pr	topao
+žarky	pr	vruć, žarki
+hladny	pr	hladan
+studeny	pr	studen, hladan
+sněžiti	gl	sniježiti
+dožditi	gl	kišiti
+temperatura	im	temperatura
+stupenj	im	stupanj
+godišnje vrěme	izraz	godišnje doba
+vesna	im	proljeće
+jesenj	im	jesen
+zima	im	zima
+januar	im	siječanj (lokalizam: drugi Slaveni *januar*)
+fevruar	im	veljača
+marec	im	ožujak
+aprilj	im	travanj
+maj	im	svibanj
+junij	im	lipanj
+julij	im	srpanj
+avgust	im	kolovoz
+septembr	im	rujan
+oktobr	im	listopad
+novembr	im	studeni
+decembr	im	prosinac
+data	im	datum
+kalendar	im	kalendar
+pozautra	pril	prekosutra
+slědujuči	pr	sljedeći
+tydenj	im	tjedan
+skoro	pril	uskoro; gotovo
+možno	pril	moguće
+može byti	izraz	možda
+ne znati	izraz	ne znati
+dogovoriti se	gl	dogovoriti se
+pozvati	gl	pozvati
+strětenje	im	sastanak, susret
+dobro!	izraz	dobro! može!
+soglasiti se	gl	složiti se
+ostati doma	izraz	ostati kod kuće
+doma	pril	doma, kod kuće
+domov	pril	kući
+odpusk	im	dopust, godišnji odmor
+vakacije	im	praznici
+plaž	im	plaža
+brdo	im	brdo
+piknik	im	piknik
+doždnik	im	kišobran
+plašč	im	ogrtač, kabanica
+vid (pf./ipf.)	izraz	glagolski vid
+dokončiti	gl	dovršiti
+začeti	gl	započeti
+prigotoviti	gl	pripremiti
+spakovati	gl	spakirati
+odložiti	gl	odgoditi
+izměniti	gl	promijeniti
+rěšiti	gl	riješiti, odlučiti
+nadějati se	gl	nadati se
+naděja	im	nada
+cělj	im	cilj
+naměr	im	namjera
+oběčanje	im	obećanje
+oběčati	gl	obećati
+prirodny	pr	prirodan
+klimat	im	klima
+suhy	pr	suh
+mokry	pr	mokar
+jasny	pr	jasan, vedar
+temny	pr	taman
+drug	im	drug, prijatelj
+prijateljstvo	im	prijateljstvo
+kompanija	im	društvo; tvrtka
+grupa	im	grupa
+družka	im	drugarica, prijateljica
+instrumental	im	instrumental (padež)
+profesija	im	zanimanje, profesija
+rabotnik	im	radnik
+učitelj	im	učitelj
+učiteljka	im	učiteljica
+učenik	im	učenik
+student	im	student
+lěkar	im	liječnik
+medsestra	im	medicinska sestra
+inženjer	im	inženjer
+advokat	im	odvjetnik
+kuhar	im	kuhar
+kelner	im	konobar (lokalizam: drugi Slaveni *kelner*)
+prodavica	im	prodavačica
+šofer	im	vozač
+policija	im	policija
+žurnalist	im	novinar
+programist	im	programer
+arhitekt	im	arhitekt
+rabotnik (fabrika)	izraz	tvornički radnik
+zemjedělec	im	poljoprivrednik
+pekar	im	pekar
+frizer	im	frizer
+umětnik	im	umjetnik
+muzikant	im	glazbenik
+šef	im	šef
+direktor	im	direktor
+firma	im	tvrtka
+fabrika	im	tvornica (lokalizam: drugi Slaveni *fabrika*)
+ured	im	ured
+gostinny	pr	gostoljubiv
+kavarnja	im	kavana, kafić
+menju	im	jelovnik
+bljudo	im	jelo
+obsluga	im	usluga, posluga
+čaša	im	čaša
+talirka	im	tanjur
+nož	im	nož
+vilica	im	vilica
+ložka	im	žlica
+ubrus	im	ubrus, salveta
+supa	im	juha
+salata	im	salata
+desert	im	desert
+oběd	im	ručak (lokalizam: HR *objed* je obrok)
+večerja	im	večera
+snědanje	im	doručak
+sčet	im	račun
+napojnica	im	napojnica
+zakazati	gl	naručiti
+rezervovati	gl	rezervirati
+obědati	gl	ručati
+večerjati	gl	večerati
+probovati	gl	probati, kušati
+dobry apetit!	izraz	dobar tek!
+na zdravje!	izraz	živjeli!
+koliko je časa?	izraz	koliko je sati?
+pomylka	im	pogreška
+minuta	im	minuta
+sekunda	im	sekunda
+pol	im	pola
+časovy	pr	vremenski, satni
+točno	pril	točno
+s kym?	izraz	s kim?
+čim	zam	čime
+sobstvenik	im	vlasnik
+kolektiv	im	kolektiv
+pomočnik	im	pomoćnik
+gospodar	im	domaćin, gospodar
+gostinica	im	gostionica
+zakuska	im	zakuska, užina
+pekti	gl	peći
+čaj (večerja)	izraz	čaj (uz večeru)
+biskvit	im	keks
+voda (mineralna)	izraz	mineralna voda
+prěsědati	gl	presjedati
+idti pěši	izraz	ići pješice
+letěti	gl	letjeti
+lětati	gl	letjeti (često)
+pluti	gl	ploviti
+nesti	gl	nositi (jednom, u smjeru)
+vesti	gl	voditi
+voziti	gl	voziti
+dojehati	gl	stići (vozilom)
+odjehati	gl	otputovati, otići (vozilom)
+vojdti	gl	ući
+vyjdti	gl	izaći
+prijehati	gl	doputovati
+avto	im	auto
+samolet	im	zrakoplov (lokalizam: drugi Slaveni *samolet*)
+letišče	im	zračna luka
+korab	im	brod
+lodka	im	čamac
+prěvoz	im	prijevoz; trajekt
+taksi	im	taksi
+draga	im	cesta, put
+maršrut	im	ruta
+putovanje	im	putovanje
+put	im	put
+mapa	im	zemljovid
+pasport	im	putovnica (lokalizam: drugi Slaveni *pasoš / pas*)
+viza	im	viza
+granica	im	granica
+bagaž	im	prtljaga
+rukzak	im	ruksak
+hotelovy	pr	hotelski
+komnata	im	soba
+prijem	im	prijem, recepcija
+rezervacija	im	rezervacija
+nočny	pr	noćni
+postelj	im	postelja, krevet
+gostinec	im	gostionica
+kupaljnja	im	kupaonica
+duš	im	tuš
+ručnik	im	ručnik
+kemping	im	kamp
+suvenir	im	suvenir
+odkrytka	im	razglednica
+kilometr	im	kilometar
+sěver	im	sjever
+jug	im	jug
+iztok	im	istok
+zapad	im	zapad
+zagranica	im	inozemstvo
+inostranec	im	stranac
+opozdniti se	gl	zakasniti
+avtomagistralj	im	autocesta
+odjezd	im	polazak
+prihod	im	dolazak
+razklad	im	vozni red, raspored
+kasa	im	blagajna
+palivo	im	gorivo
+zaplatiti	gl	platiti
+nočevati	gl	noćiti, prenoćiti
+odpočinok	im	odmor
+oddyh	im	odmor
+krajina	im	krajolik; zemlja
+jezero	im	jezero
+ostrov	im	otok
+brěg	im	obala, breg
+dolina	im	dolina
+holm	im	brežuljak
+vodopad	im	slap
+pustynja	im	pustinja
+pristanišče	im	luka
+postojka	im	stanica
+šator	im	šator
+rěšiti put	izraz	odlučiti put
+pas	im	pojas; putovnica (govorno)
+zabyti pasport	izraz	zaboraviti putovnicu
+avtostrada	im	autocesta
+trasa	im	trasa
+lift	im	dizalo
+stupenišče	im	stubište
+avtomobil	im	automobil
+voz	im	kola, vozilo
+dojezd	im	dolazak (vozilom)
+benzinovy	pr	benzinski
+krěslo	im	sjedalo, naslonjač
+konduktor	im	kondukter
+morsky	pr	morski
+pribrěžje	im	priobalje
+vala	im	val
+tunel	im	tunel
+pilot	im	pilot
+morjak	im	mornar
+kolo	im	kotač; bicikl
+polnoč	im	ponoć
+tělo	im	tijelo
+lice	im	lice
+usta	im	usta
+jezyk (tělo)	izraz	jezik (u ustima)
+grlo	im	grlo
+šija	im	vrat, šija
+rame	im	rame
+prst	im	prst
+hrebet	im	leđa, hrbat
+život	im	trbuh; život
+želudok	im	želudac
+kolěno	im	koljeno
+stopa	im	stopalo
+koža	im	koža
+krov	im	krv (lokalizam: HR *krov* je krov kuće!)
+kost	im	kost
+mozg	im	mozak
+vlas	im	vlas, kosa
+grud	im	prsa
+lakot	im	lakat
+lěkar (specialist)	izraz	liječnik specijalist
+zubny lěkar	izraz	zubar
+pacient	im	pacijent
+bolěznj	im	bolest
+boljny	pr	bolestan
+zdravy	pr	zdrav
+zdravje	im	zdravlje
+grip	im	gripa
+glavobolj	im	glavobolja
+temperatura (tělo)	izraz	temperatura (povišena)
+kašelj	im	kašalj
+bolj	im	bol
+bolěti	gl	boljeti
+muskul	im	mišić
+rana	im	rana
+lěk	im	lijek
+tabletka	im	tableta
+recept	im	recept
+klinika	im	klinika
+skora pomoč	izraz	hitna pomoć
+kašljati	gl	kašljati
+lomiti	gl	lomiti
+lěčiti	gl	liječiti
+izlěčiti se	gl	izliječiti se
+dyhati	gl	disati
+trěba	pril	treba
+se	zam	se (povratna zamjenica)
+sebe	zam	sebe
+guba	im	usna
+ležati	gl	ležati
+lože	im	ležaj
+pomoč	im	pomoć
+pomogti	gl	pomoći
+slaby	pr	slab
+silny	pr	jak, snažan
+težky	pr	težak
+legky	pr	lagan, lak
+zapestje	im	zapešće
+bojati se	gl	bojati se
+alergija	im	alergija
+stres	im	stres
+son	im	san
+spanje	im	spavanje
+teploměr	im	toplomjer
+aptekar	im	ljekarnik
+sestra (medicinska)	izraz	medicinska sestra
+operacija	im	operacija
+injekcija	im	injekcija
+lěčiljnja	im	lječilište, bolnica
+odčuvati	gl	osjećati
+čuvstvo	im	osjećaj
+lěčenje	im	liječenje
+vitamin	im	vitamin
+dieta	im	dijeta
+gimnastika	im	gimnastika, vježbanje
+glad	im	glad
+žedža	im	žeđ
+gladny	pr	gladan
+pot	im	znoj
+oko (bolno)	izraz	bolno oko
+uho (bolno)	izraz	bolno uho
+pilulka	im	pilula
+vena	im	vena
+žila	im	žila
+kyhati	gl	kihati
+zěvati	gl	zijevati
+solza	im	suza
+dentist	im	zubar
+svoj	zam	svoj
+večši	pr	veći
+menši	pr	manji
+lučši	pr	bolji
+gorši	pr	gori
+največši	pr	najveći
+najlučši	pr	najbolji
+najgorši	pr	najgori
+bolje	pril	više, bolje
+menje	pril	manje
+čem	vez	nego (od)
+tako … kako	izraz	tako … kao
+ktory	zam	koji
+veliky grad	izraz	velegrad
+stolica	im	glavni grad
+poseljenje	im	naselje
+priroda	im	priroda
+krajevid	im	krajolik
+polje	im	polje
+luka	im	livada (lokalizam: HR *luka* je pristanište!)
+gaj	im	gaj
+niva	im	njiva
+poljana	im	poljana
+jama	im	jama; špilja
+skala	im	stijena
+kamenj	im	kamen
+pěsok	im	pijesak
+potok	im	potok
+izvor	im	izvor
+močar	im	močvara
+listje	im	lišće
+list	im	list
+korenj	im	korijen
+cvětati	gl	cvjetati
+zvěr	im	zvijer
+životina	im	životinja
+krava	im	krava
+ovca	im	ovca
+svinja	im	svinja
+kokoška	im	kokoš
+ptica	im	ptica
+zajec	im	zec
+volk	im	vuk
+medvěd	im	medvjed
+lisica	im	lisica
+muha	im	muha
+pčela	im	pčela
+žaba	im	žaba
+vozduh	im	zrak (lokalizam: drugi Slaveni *vozduh / vzduch*)
+zanečiščenje	im	onečišćenje
+ruh	im	promet, kretanje
+šum	im	buka, šum
+tihy	pr	tih
+šumny	pr	bučan
+živy	pr	živ; živahan
+diky	pr	divlji
+čisty vozduh	izraz	čist zrak
+starodavny	pr	drevan
+sovrěmenny	pr	suvremen
+tipičny	pr	tipičan
+krasa	im	ljepota
+krasivy	pr	lijep, krasan
+ogromny	pr	ogroman
+obširny	pr	opsežan
+vuzky	pr	uzak
+gluboky	pr	dubok
+ravnina	im	ravnica
+okrug	im	okrug
+vsekde	pril	svugdje
+někde	pril	negdje
+nikogdy	pril	nikad
+sravniti	gl	usporediti
+sravnjenje	im	usporedba
+žitelj	im	stanovnik
+obyvatelj	im	stanovnik
+prirodny park	izraz	park prirode
+ohraniti	gl	zaštititi, očuvati
+obsrědina	im	okoliš
+odpady	im	otpad
+smeti	im	smeće
+zemjedělstvo	im	poljoprivreda
+livada	im	livada
+zmija	im	zmija
+gad	im	gmaz; zmija
+orel	im	orao
+koza	im	koza
+duga	im	duga
+planeta	im	planet
+grib	im	gljiva
+dub	im	hrast (lokalizam: HR *dub* samo u imenima)
+sosna	im	bor
+brěza	im	breza
+pšenica	im	pšenica
+plot	im	ograda, plot
+rybnik	im	ribnjak
+než	vez	nego
+prědmet	im	predmet
+stvar	im	stvar
+moda	im	moda
+trgovy	pr	trgovački
+klobuk	im	šešir
+odděl	im	odjel
+oděž	im	odjeća
+oblěčenje	im	odjeća
+košulja	im	košulja
+teniska	im	majica
+svetr	im	džemper
+nogavice	im	hlače (lokalizam: HR *nogavice* su samo dio hlača)
+džinsy	im	traperice
+spodnica	im	suknja
+oblačiti	gl	odijevati
+pulover	im	pulover
+obuvka	im	cipela
+kostjum	im	odijelo; kostim
+kravata	im	kravata
+obuv	im	obuća
+škarpetka	im	čarapa
+sandala	im	sandala
+bluza	im	bluza
+šapka	im	kapa
+šal	im	šal
+okuljary	im	naočale
+rukavica	im	rukavica
+remenj	im	remen
+kěšenj	im	džep
+guzik	im	gumb
+razměr	im	veličina
+izvod	im	primjerak
+zakaznik	im	kupac, mušterija
+rabat	im	popust, rabat
+prodaž	im	prodaja
+karta (platežna)	izraz	platna kartica
+kvitancija	im	račun, priznanica
+nositi	gl	nositi
+oblěkati	gl	oblačiti
+oblěkti	gl	obući
+veličina	im	veličina
+podhoditi	gl	pristajati
+izbirati	gl	birati
+izbrati	gl	izabrati
+vratiti	gl	vratiti
+těsny	pr	tijesan
+široky	pr	širok
+modny	pr	moderan
+elegantny	pr	elegantan
+udobny	pr	udoban
+bavolna	im	pamuk
+volna	im	vuna
+koža (material)	izraz	koža (materijal)
+světly	pr	svijetao
+mračny	pr	mračan
+pestry	pr	šarolik
+dragy (cěna)	izraz	skup
+mnogy	pr	mnogi
+portmone	im	novčanik
+mošna	im	novčarka, kesa
+braslet	im	narukvica
+ogrlica	im	ogrlica
+naušnica	im	naušnica
+zrcalo	im	zrcalo, ogledalo
+red	im	red
+kosmetika	im	kozmetika
+parfum	im	parfem
+dar	im	dar
+dariti	gl	darivati
+igračka	im	igračka
+gotovina	im	gotovina
+prstenj	im	prsten
+časovnik	im	sat
+torba (ručna)	izraz	ručna torba
+podarok	im	poklon
+pakovati	gl	pakirati, zamotati
+paket	im	paket
+dostava	im	dostava
+podloga	im	podloga
+šalik	im	šalić
+naručka	im	narukvica
+monisto	im	đerdan, ogrlica
+knopka	im	gumb, dugme
+vrěča	im	vreća
+měšek	im	vrećica
+bluzka	im	bluzica
+pižama	im	pidžama
+suknja	im	suknja
+kolorovati	gl	bojiti
+okolorovati	gl	obojiti
+mečta	im	san, sanjarija
+mečtati	gl	sanjariti
+želanje	im	želja
+želati	gl	željeti
+sovět	im	savjet
+sovětovati	gl	savjetovati
+prědložiti	gl	predložiti
+prědloženje	im	prijedlog
+voobražati sobě	gl	zamišljati
+poželati	gl	poželjeti
+by	čest	bi (kondicional)
+da by	vez	da bi, kako bi
+sniti	gl	sanjati (u snu)
+loterija	im	lutrija
+bogaty	pr	bogat
+bědny	pr	siromašan, bijedan
+bogatstvo	im	bogatstvo
+tratiti	gl	trošiti, tratiti
+poščediti	gl	uštedjeti, poštedjeti
+dati zajem	izraz	posuditi (nekome)
+zajeti	gl	posuditi (od nekoga)
+svět	im	svijet
+motylj	im	leptir
+jahta	im	jahta
+razkoš	im	raskoš, luksuz
+svoboda	im	sloboda
+šans	im	šansa
+možnost	im	mogućnost
+izbor	im	izbor
+rěšenje	im	rješenje; odluka
+probovati (se)	izraz	pokušati
+prěstati	gl	prestati
+prodolžati	gl	nastavljati
+povinno se	izraz	trebalo bi
+lučše	pril	bolje
+čoln	im	čamac
+istinno	pril	uistinu
+absolutno	pril	apsolutno
+isto	pril	sigurno
+věrojetno	pril	vjerojatno
+inače	pril	inače
+obače	vez	međutim
+daže	čest	čak
+problem	im	problem
+ideja	im	ideja
+hrabrost	im	hrabrost
+trpělivost	im	strpljivost
+istina	im	istina
+budžet	im	proračun
+ščedry	pr	darežljiv, velikodušan
+seběčny	pr	sebičan
+ostražny	pr	oprezan
+možny	pr	moguć
+nemožny	pr	nemoguć
+idealny	pr	idealan
+sovršeny	pr	savršen
+važny	pr	važan
+potrěbny	pr	potreban
+sumněnje	im	sumnja
+slučajnost	im	slučajnost
+dobrovoljec	im	dobrovoljac
+darovati	gl	darovati
+dom u mora	izraz	kuća uz more
+mir	im	mir; svijet
+ščestje (mečta)	izraz	sreća (iz snova)
+dobrota	im	dobrota
+domovina	im	domovina
+pokoj	im	mir, spokoj; soba
+žiti spokojno	izraz	živjeti mirno
+mudry	pr	mudar
+glupy	pr	glup
+čestny	pr	pošten, častan
+lěnivy	pr	lijen
+pracovity	pr	marljiv
+mněnje	im	mišljenje
+bogatost	im	bogatstvo
+udača	im	sreća, uspjeh
+ščestny	pr	sretan
+žalostny	pr	žalostan
+izigrati	gl	dobiti (igru)
+dobyvati	gl	osvajati, dobivati
+meta	im	meta, cilj
+zlato	im	zlato
+iměti naděju	izraz	imati nadu
+srěbro	im	srebro
+slava	im	slava
+znamenity	pr	znamenit, slavan
+spokojstvo	im	spokoj
+laska	im	ljubaznost, nježnost
+diamant	im	dijamant
+pogrěška	im	pogreška
+žaliti	gl	žaliti
+rěšati	gl	odlučivati
+kariera	im	karijera
+pensija	im	mirovina
+mladost	im	mladost
+starost	im	starost
+rada	im	savjet
+jestli	vez	ako, kad bi (uvjet)
+pametati	gl	pamtiti, sjećati se
+nezabytny	pr	nezaboravan
+povratok	im	povratak
+vozvračati	gl	vraćati
+proščati se	gl	opraštati se
+proščanje	im	oproštaj
+tuga	im	tuga, čežnja
+žedati	gl	žudjeti
+otečstvo	im	domovina, otadžbina
+družba	im	prijateljstvo, druženje
+ljuba	im	ljubljena, draga
+radostny	pr	radostan
+smutny (prošlost)	izraz	tužan (o prošlosti)
+emocija	im	emocija
+konec (puta)	izraz	kraj puta
+početok	im	početak
+progres	im	napredak
+uravenj	im	razina
+svědočstvo	im	svjedodžba, potvrda
+uspěh	im	uspjeh
+glava (knigi)	izraz	poglavlje
+etap	im	etapa
+slědujuči god	izraz	sljedeće godine
+začetok	im	početak
+za god	izraz	za godinu dana
+navěky	pril	zauvijek, navijeke
+opet	pril	opet
+věriti	gl	vjerovati
+děliti se	gl	dijeliti (s nekim)
+čuvati	gl	čuvati
+blagodariti	gl	zahvaljivati
+blagodare	prij	zahvaljujući
+pomimo	prij	unatoč, mimo
+iz-za	prij	zbog
+zato	vez	zato
+poka	vez	dok; dok ne
+odkogda	vez	otkad
+čim	vez	čim
+vsekto	zam	svatko
+něktory	zam	neki
+několiko	pril	nekoliko
+iny	pr	drugi, inačiji
+věrny	pr	vjeran
+blagodarny	pr	zahvalan
+vdečnost	im	zahvalnost
+sudba	im	sudbina
+mudrost	im	mudrost
+album	im	album
+dostignuti	gl	dostići, postići
+doseženje	im	postignuće
+blagodarnost	im	zahvalnost
+razumlivost	im	razumljivost
+razumlivy	pr	razumljiv
+strategija	im	strategija
+razuměnje	im	razumijevanje
+slovnik	im	rječnik
+slovo	im	riječ (lokalizam: HR *slovo* je slovo abecede!)
+izraz	im	izraz
+rěčenje	im	rečenica, izreka
+gramatika	im	gramatika
+izgovor	im	izgovor
+pravopis	im	pravopis
+kirilica	im	ćirilica
+latinica	im	latinica
+transliteracija	im	transliteracija
+narěčje	im	narječje
+susědny	pr	susjedni
+dopis	im	dopis, pismo
+obči	pr	opći, zajednički
+medžunarodny	pr	međunarodni
+komunikacija	im	komunikacija
+razgovor	im	razgovor
+razgovarjati	gl	razgovarati
+objasniti	gl	objasniti
+povtoriti	gl	ponoviti
+pomalo	pril	polako, pomalo
+jasno	pril	jasno
+final	im	finale, kraj
+godišnica	im	godišnjica
+učilišče	im	učilište, škola
+dětinstvo	im	djetinjstvo
+strěsti se	gl	sresti se
+zabyvati	gl	zaboravljati
+vnuče	im	unuče
+poblagodariti	gl	zahvaliti
+matčina	im	domovina
+govor	im	govor
+usměh	im	osmijeh
+směh	im	smijeh
+objetje	im	zagrljaj
+pocělunok	im	poljubac
+poneže	vez	jer, budući da
+zatože	vez	jer
