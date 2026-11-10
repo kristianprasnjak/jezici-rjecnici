@@ -1,6 +1,6 @@
 # Izvještaj provjere — es
 
-Riječi: **1385** · greške: **0** · upozorenja: **0**
+Riječi: **1386** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
@@ -14,7 +14,7 @@ Riječi: **1385** · greške: **0** · upozorenja: **0**
 | L5 | Food & Quantities | 60 | 66 | ✓ |
 | L6 | City & Directions | 60 | 61 | ✓ |
 | L7 | Hobbies & Sport | 60 | 60 | ✓ |
-| L8 | Routine & Time | 60 | 60 | ✓ |
+| L8 | Routine & Time | 60 | 61 | ✓ |
 | L9 | Weather, Months & Plans | 65 | 67 | ✓ |
 | L10 | Recent Events | 60 | 59 | ✓ |
 | L11 | Trains & Trips | 65 | 65 | ✓ |
@@ -27,7 +27,7 @@ Riječi: **1385** · greške: **0** · upozorenja: **0**
 | L18 | Work & Careers | 80 | 76 | ✓ |
 | L19 | Wishes & Advice | 80 | 78 | ✓ |
 | L20 | Memories & the Future | 80 | 76 | ✓ |
-| **ukupno** | | **1386** | **1385** | |
+| **ukupno** | | **1386** | **1386** | |
 
 ## Po vrstama
 
@@ -35,7 +35,7 @@ Riječi: **1385** · greške: **0** · upozorenja: **0**
 |---|---:|
 | imenica | 694 |
 | izraz | 203 |
-| glagol | 184 |
+| glagol | 185 |
 | pridjev | 152 |
 | prilog | 48 |
 | broj | 35 |
@@ -51,4 +51,4 @@ Riječi: **1385** · greške: **0** · upozorenja: **0**
 |---|---|---:|
 | imenica | rod, mnozina | 694 / 694 |
 | pridjev | zenski, mnozina_pr | 152 / 152 |
-| glagol | gl_skupina, particip, prezent, preterit | 184 / 184 |
+| glagol | gl_skupina, particip, prezent, preterit | 185 / 185 |

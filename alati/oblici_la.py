@@ -52,6 +52,48 @@ PERF = ("ī istī it imus istis ērunt eram erās erat erāmus erātis erant er�
 INF = {"1": "āre", "2": "ēre", "4": "īre", "3": "ere", "3io": "ere"}
 INF_DEP = {"1": "ārī", "2": "ērī", "4": "īrī", "3": "ī", "3io": "ī"}
 
+# zamjenice i nepravilni glagoli: puni oblici (rječnik ih navodi samo lemom)
+ZAMJENICE = {
+    "ego": "ego mē mihi mihī meī",
+    "tū": "tū tē tibi tibī tuī",
+    "nōs": "nōs nostrum nostrī nōbīs",
+    "vōs": "vōs vestrum vestrī vōbīs",
+    "sē": "sē sēsē suī sibi sibī",
+    "is": "is ea id eius eī eum eam eō eā iī eae eōrum eārum eīs iīs eōs eās",
+    "hic": "hic haec hoc huius huic hunc hanc hōc hāc hī hae hōrum hārum hīs hōs hās",
+    "ille": "ille illa illud illīus illī illum illam illō illā illae illōrum illārum illīs illōs illās",
+    "iste": "iste ista istud istīus istī istum istam istō istā istae istōrum istārum istīs istōs istās",
+    "ipse": "ipse ipsa ipsum ipsīus ipsī ipsam ipsō ipsā ipsae ipsōrum ipsārum ipsīs ipsōs ipsās",
+    "īdem": "īdem eadem idem eiusdem eīdem eundem eandem eōdem eādem iīdem eaedem eōrundem eārundem eīsdem "
+            "eōsdem eāsdem",
+    "quī": "quī quae quod cuius cui quem quam quō quā quōrum quārum quibus quōs quās",
+    "quis": "quis quid cuius cui quem quō quibus",
+    "nēmō": "nēmō nēminis nēminī nēminem",
+}
+POSVOJNE = {"meus": "me", "tuus": "tu", "suus": "su", "noster": "nostr", "vester": "vestr"}
+NEPRAVILNI = {
+    "sum": "sum es est sumus estis sunt eram erās erat erāmus erātis erant erō eris erit erimus eritis erunt "
+           "sim sīs sit sīmus sītis sint essem essēs esset essēmus essētis essent esse este",
+    "possum": "possum potes potest possumus potestis possunt poteram poterās poterat poterāmus poterātis poterant "
+              "poterō poteris poterit poterimus poteritis poterunt possim possīs possit possīmus possītis possint "
+              "possem possēs posset possēmus possētis possent posse",
+    "eō": "eō īs it īmus ītis eunt ībam ībās ībat ībāmus ībātis ībant ībō ībis ībit ībimus ībitis ībunt eam eās "
+          "eat eāmus eātis eant īrem īrēs īret īrēmus īrētis īrent ī īte īre iēns euntis euntem eunte euntēs "
+          "euntium euntibus itum itūrus iī īvī iit iērunt īsse iisse",
+    "ferō": "ferō fers fert ferimus fertis ferunt ferēbam ferēbās ferēbat ferēbāmus ferēbātis ferēbant feram ferēs "
+            "feret ferēmus ferētis ferent fer ferte ferre ferrem ferrēs ferret ferrēmus ferrētis ferrent fertur "
+            "feruntur ferrī ferēns ferentis",
+    "volō": "volō vīs vult volumus vultis volunt volēbam volēbās volēbat volēbāmus volēbātis volēbant volam volēs "
+            "volet volēmus volētis volent velim velīs velit velīmus velītis velint vellem vellēs vellet vellēmus "
+            "vellētis vellent velle volēns",
+    "nōlō": "nōlō nōlumus nōlunt nōlēbam nōlēbat nōlēbant nōlam nōlēs nōlet nōlī nōlīte nōlle nōllem nōllet",
+    "mālō": "mālō māvīs māvult mālumus māvultis mālunt mālēbam mālam mālle māllem",
+    "dō": "dō dās dat damus datis dant dabam dabās dabat dabāmus dabātis dabant dabō dabis dabit dabimus dabitis "
+          "dabunt dem dēs det dēmus dētis dent darem darēs daret darēmus darētis darent dare dā date datur "
+          "dantur darī dāns dantis",
+    "fīō": "fīō fīs fit fīmus fītis fīunt fīēbam fīēbat fiam fierī fieret fierent",
+}
+
 
 def nfc(s):
     return unicodedata.normalize("NFC", s)
@@ -82,7 +124,10 @@ def pridjev(lema, dekl, obl):
     out = {lema}
     dijelovi = [d.strip() for d in obl.replace("gen.", "").split(",") if d.strip()]
     if dekl == "1-2" and len(dijelovi) >= 2:
-        out |= pridjev12(dijelovi[1][:-1])
+        osn = dijelovi[1][:-1]
+        out |= pridjev12(osn)
+        out |= pridjev12(lema + "rim" if lema.endswith("er") else osn + "issim")      # pulcherrimus, longissimus
+        out |= {osn + "ior", osn + "ius"} | {osn + "iōr" + n for n in N3 if n not in ("ium", "ia", "im")}
     elif dekl == "3":
         if lema.endswith("ior"):                         # komparativ: melior, meliōris
             osn = lema[:-2] + "ōr"
@@ -93,6 +138,10 @@ def pridjev(lema, dekl, obl):
         elif len(dijelovi) >= 2 and dijelovi[1].endswith("e"):
             osn = dijelovi[1][:-1]                       # fortis, forte
             out |= {osn + n for n in N3} | set(dijelovi)
+        if not lema.endswith("ior") and len(dijelovi) >= 2:
+            osn = (dijelovi[1][:-2] if dijelovi[1].endswith("is") and dijelovi[1] != lema else dijelovi[1][:-1])
+            out |= pridjev12(lema + "rim" if lema.endswith("er") else osn + "issim")      # fortissimus, ācerrimus
+            out |= {osn + "ior", osn + "ius"} | {osn + "iōr" + n for n in N3 if n not in ("ium", "ia", "im")}
     return out
 
 
@@ -134,4 +183,17 @@ def oblici(red):
         out = glagol(lema, red.get("konjugacija", ""), nfc(red.get("glavni_oblici", "").lower()))
     else:
         out = {lema}
+    for dio in re.split(r",\s*", lema):                   # „hic, haec, hoc“, „quī, quae, quod“
+        dio = dio.strip()
+        if dio in ZAMJENICE:
+            out |= set(ZAMJENICE[dio].split())
+        if dio in POSVOJNE:
+            out |= pridjev12(POSVOJNE[dio]) | ({"mī"} if dio == "meus" else set())
+    if vrsta == "gl" and red.get("konjugacija") == "nepr":
+        for osnova, oblici_ in NEPRAVILNI.items():       # i složenice: redeō, afferō, abeō
+            if lema == osnova or (lema.endswith(osnova) and osnova in ("eō", "ferō")):
+                pref = lema[: len(lema) - len(osnova)]
+                out |= {pref + o for o in oblici_.split()}
+    if lema in NEPRAVILNI:
+        out |= set(NEPRAVILNI[lema].split())
     return {o for o in out if o}

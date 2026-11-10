@@ -1,13 +1,13 @@
 # Izvještaj provjere — en
 
-Riječi: **1504** · greške: **0** · upozorenja: **0**
+Riječi: **1505** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
 | Razina | Tema | Koncept | Ima | |
 |---|---|---:|---:|---|
 | L0 | Sounds & Familiar Words | 36 | 36 | ✓ |
-| L1 | Greetings & Countries | 55 | 58 | ✓ |
+| L1 | Greetings & Countries | 55 | 59 | ✓ |
 | L2 | The Flat & Colours | 65 | 67 | ✓ |
 | L3 | Everyday Verbs & the Week | 65 | 63 | ✓ |
 | L4 | Family & Age | 65 | 70 | ✓ |
@@ -27,7 +27,7 @@ Riječi: **1504** · greške: **0** · upozorenja: **0**
 | L18 | Childhood & School | 80 | 80 | ✓ |
 | L19 | Wishes & Advice | 80 | 79 | ✓ |
 | L20 | Memories & the Future | 80 | 76 | ✓ |
-| **ukupno** | | **1501** | **1504** | |
+| **ukupno** | | **1501** | **1505** | |
 
 ## Po vrstama
 
@@ -42,7 +42,7 @@ Riječi: **1504** · greške: **0** · upozorenja: **0**
 | broj | 39 |
 | prijedlog | 23 |
 | veznik | 9 |
-| čestica | 2 |
+| čestica | 3 |
 | član | 2 |
 
 ## Faza B — oblici

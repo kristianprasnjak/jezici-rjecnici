@@ -38,6 +38,7 @@
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "med", "en": "honey", "vrsta": "im", "rod": "m"}
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "vino", "en": "wine", "vrsta": "im", "rod": "n"}
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "pivo", "en": "beer", "vrsta": "im", "rod": "n"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "isv": "doktor", "en": "doctor", "vrsta": "im", "rod": "m.ž"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "dobry denj!", "en": "good day!", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "dobro jutro!", "en": "good morning!", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "dobry večer!", "en": "good evening!", "vrsta": "izraz"}
@@ -890,6 +891,8 @@
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "morjak", "en": "sailor", "vrsta": "im", "rod": "m.ž"}
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "kolo", "en": "wheel; bicycle", "vrsta": "im", "rod": "n"}
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "polnoč", "en": "midnight", "vrsta": "im", "rod": "f"}
+{"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "odhoditi", "en": "to depart; to leave", "vrsta": "gl", "vid": "ipf", "prezent": "odhodim · odhodi"}
+{"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "prihoditi", "en": "to arrive; to come", "vrsta": "gl", "vid": "ipf", "prezent": "prihodim · prihodi"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "tělo", "en": "body", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "lice", "en": "face", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "usta", "en": "mouth", "vrsta": "im", "rod": "n"}

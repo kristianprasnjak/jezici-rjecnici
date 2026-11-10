@@ -1,12 +1,12 @@
 # Izvještaj provjere — isv
 
-Riječi: **1359** · greške: **0** · upozorenja: **0**
+Riječi: **1362** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
 | Razina | Tema | Koncept | Ima | |
 |---|---|---:|---:|---|
-| L0 | Sounds & Familiar Words | 40 | 40 | ✓ |
+| L0 | Sounds & Familiar Words | 40 | 41 | ✓ |
 | L1 | Greetings & Countries | 60 | 59 | ✓ |
 | L2 | The Train & Colours | 70 | 72 | ✓ |
 | L3 | Everyday Verbs & the Week | 70 | 68 | ✓ |
@@ -17,20 +17,20 @@ Riječi: **1359** · greške: **0** · upozorenja: **0**
 | L8 | Past Time & Events | 80 | 79 | ✓ |
 | L9 | Plans, Weather & Seasons | 90 | 89 | ✓ |
 | L10 | Friends, Professions & Eating Out | 80 | 80 | ✓ |
-| L11 | Transport, Trips & Hotels | 90 | 93 | ✓ |
+| L11 | Transport, Trips & Hotels | 90 | 95 | ✓ |
 | L12 | The Body & the Doctor | 90 | 89 | ✓ |
 | L13 | Cities & Nature | 90 | 95 | ✓ |
 | L14 | Shopping & Clothes | 90 | 90 | ✓ |
 | L15 | Wishes & Advice | 90 | 99 | ✓ |
 | L16 | Memories & the Future | 90 | 94 | ✓ |
-| **ukupno** | | **1340** | **1359** | |
+| **ukupno** | | **1340** | **1362** | |
 
 ## Po vrstama
 
 | Vrsta | Broj |
 |---|---:|
-| imenica | 752 |
-| glagol | 184 |
+| imenica | 753 |
+| glagol | 186 |
 | pridjev | 154 |
 | izraz | 90 |
 | prilog | 75 |
@@ -44,5 +44,5 @@ Riječi: **1359** · greške: **0** · upozorenja: **0**
 
 | Vrsta | Stupci | Popunjeno |
 |---|---|---:|
-| imenica | rod | 752 / 752 |
-| glagol | vid, prezent | 184 / 184 |
+| imenica | rod | 753 / 753 |
+| glagol | vid, prezent | 186 / 186 |

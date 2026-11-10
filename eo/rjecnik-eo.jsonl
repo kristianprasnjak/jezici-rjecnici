@@ -93,6 +93,7 @@
 {"razina": 1, "tema": "Greetings & Countries", "eo": "gastiganto", "en": "host", "vrsta": "im"}
 {"razina": 1, "tema": "Greetings & Countries", "eo": "paroli", "en": "to speak", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 1, "tema": "Greetings & Countries", "eo": "nomiĝi", "en": "to be called", "vrsta": "gl", "prelaznost": "ntr"}
+{"razina": 1, "tema": "Greetings & Countries", "eo": "veni", "en": "to come", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 2, "tema": "The Room & Colours", "eo": "ĉambro", "en": "room", "vrsta": "im"}
 {"razina": 2, "tema": "The Room & Colours", "eo": "domo", "en": "house", "vrsta": "im"}
 {"razina": 2, "tema": "The Room & Colours", "eo": "loĝejo", "en": "flat; home", "vrsta": "im"}
@@ -183,7 +184,6 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "kanti", "en": "to sing", "vrsta": "gl", "prelaznost": "tr,ntr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "danci", "en": "to dance", "vrsta": "gl", "prelaznost": "tr,ntr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "iri", "en": "to go", "vrsta": "gl", "prelaznost": "ntr"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "veni", "en": "to come", "vrsta": "gl", "prelaznost": "ntr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "legi", "en": "to read", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "skribi", "en": "to write", "vrsta": "gl", "prelaznost": "tr"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "eo": "vidi", "en": "to see", "vrsta": "gl", "prelaznost": "tr"}

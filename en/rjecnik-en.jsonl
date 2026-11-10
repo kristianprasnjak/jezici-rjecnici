@@ -92,6 +92,7 @@
 {"razina": 1, "tema": "Greetings & Countries", "en": "to", "hr": "u, prema, do", "vrsta": "prij"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "in", "hr": "u", "vrsta": "prij"}
 {"razina": 1, "tema": "Greetings & Countries", "en": "at", "hr": "u, na (mjesto, vrijeme)", "vrsta": "prij"}
+{"razina": 1, "tema": "Greetings & Countries", "en": "not", "hr": "ne (niječnica: I'm not, don't)", "vrsta": "čest"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "flat", "hr": "stan", "vrsta": "im", "mnozina": "flats"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "house", "hr": "kuća", "vrsta": "im", "mnozina": "houses"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "room", "hr": "soba", "vrsta": "im", "mnozina": "rooms"}

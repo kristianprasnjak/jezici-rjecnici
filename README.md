@@ -10,12 +10,12 @@ sada su samo latinični jezici; ruski, kineski, japanski i arapski dolaze 2027.
 |---|---|---|---|---|
 | `fr/` | francuski | L0–L20 | 1358 | 1358 / 1358 |
 | `it/` | talijanski | L0–L20 | 1363 | 1363 / 1363 |
-| `es/` | španjolski (Španjolska) | L0–L20 | 1385 | 1385 / 1385 |
+| `es/` | španjolski (Španjolska) | L0–L20 | 1386 | 1386 / 1386 |
 | `pt/` | portugalski (brazilski) | L0–L20 | 1391 | 1391 / 1391 |
-| `en/` | engleski (britanski) | L0–L20 | 1504 | u rječniku (`en \| hr`) |
+| `en/` | engleski (britanski) | L0–L20 | 1505 | u rječniku (`en \| hr`) |
 | `eo/` | esperanto | L0–L18 | 1435 | 1435 / 1435 |
 | `la/` | latinski (klasični, makroni) | L0–L20 | 1245 | 1245 / 1245 |
-| `isv/` | interslavenski (školski standard tečaja) | L0–L16 | 1359 | 1359 / 1359 |
+| `isv/` | interslavenski (školski standard tečaja) | L0–L16 | 1362 | 1362 / 1362 |
 
 Brojke daje `provjeri.py` (zaglavlje `XX/IZVJESTAJ.md`); nakon dodavanja ili brisanja riječi ažurirati i ovu tablicu.
 
@@ -226,6 +226,21 @@ je potreban: *kupiti, kupovati*), pridjevi u muškom rodu; više značenja odvoj
 prema hrvatskom kratko u zagradi (*le magasin* → „trgovina (ne magazin!)“); standardni hrvatski (VODIC C4.8).
 
 Stanje (10.11.2026.): `fr`, `it`, `es`, `pt`, `isv`, `eo` i `la → hr` **potpuno** (isv s oznakama „lokalizam“ gdje HR riječ zavodi); `en` ima hrvatski od faze A.
+
+## Nosive rečenice (C2)
+
+`python3 alati/provjeri-nosive.py XX [put/do/croland/jezici-plan] [--sve]`
+
+Čita nosivu svake razine iz kralježnice (odj. 7) i iz popisa lekcija (odj. 3). Greška: nosive se razlikuju ili
+postoje samo u jednom dokumentu; riječ nije u rječniku (ni u zamrznutoj frazi) ili je u rječniku na višoj razini.
+Pravilni oblici se prihvaćaju preko `alati/rijeci.py` (romanski glagoli: nastavak + infinitiv iz rječnika; en:
+sažeci i *-s / -ed / -ing*; isv: padežni i glagolski nastavci; eo: rastavljanje; la: `oblici_la.py`). To je
+heuristika: `--sve` ispisuje svaku riječ prihvaćenu preko pravilnog oblika (*pasaba ← pasar*) za ručni pregled.
+Imena likova iz popisa lekcija se prihvaćaju; riječ s velikim slovom usred rečenice koje nema u rječniku ispisuje se
+kao vlastito ime. Nepravilni oblici idu u redak kralježnice „Ručno provjereno (nosive): *oblik* (razlog)“.
+
+Stanje (10.11.2026.): svih 8 jezika 0 grešaka (nađeno i ispravljeno: en *not*, es *pasar*, eo *veni*, isv *doktor*,
+*odhoditi*, *prihoditi*, la *habitō*).
 
 ## Blobbyjev glas (`blobby-glas-XX.md` u `croland/jezici-plan/XX/`)
 

@@ -340,6 +340,8 @@ noventa	broj	devedeset
 cuarenta	broj	četrdeset
 cincuenta	broj	pedeset
 medio	pr	pola, polovičan
+el hambre (f)	im	glad (*tener hambre* = biti gladan; ženski rod, ali *el*)
+la sed	im	žeđ (*tener sed* = biti žedan)
 la calle	im	ulica
 la avenida	im	avenija
 el barrio	im	četvrt, kvart
@@ -521,6 +523,7 @@ solo	pr	sam; jedini
 casi	pril	gotovo
 el reloj	im	sat (ručni, zidni)
 rápido	pr	brz
+pasar	gl	proći; provesti (vrijeme); dogoditi se
 el tiempo	im	vrijeme (meteorološko i trajanje)
 hace calor	izraz	vruće je
 hace frío	izraz	hladno je
@@ -1382,5 +1385,3 @@ el porvenir	im	budućnost
 cumplir	gl	ispuniti; navršiti (godine)
 el adiós	im	zbogom, oproštaj
 la gratitud	im	zahvalnost
-el hambre (f)	im	glad (*tener hambre* = biti gladan; ženski rod, ali *el*)
-la sed	im	žeđ (*tener sed* = biti žedan)

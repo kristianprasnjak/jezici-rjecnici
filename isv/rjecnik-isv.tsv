@@ -39,6 +39,7 @@ L0	Sounds & Familiar Words	solj	salt	im	f
 L0	Sounds & Familiar Words	med	honey	im	m		
 L0	Sounds & Familiar Words	vino	wine	im	n		
 L0	Sounds & Familiar Words	pivo	beer	im	n		
+L0	Sounds & Familiar Words	doktor	doctor	im	m.ž		
 L1	Greetings & Countries	dobry denj!	good day!	izraz			
 L1	Greetings & Countries	dobro jutro!	good morning!	izraz			
 L1	Greetings & Countries	dobry večer!	good evening!	izraz			
@@ -891,6 +892,8 @@ L11	Transport, Trips & Hotels	pilot	pilot	im	m.ž
 L11	Transport, Trips & Hotels	morjak	sailor	im	m.ž		
 L11	Transport, Trips & Hotels	kolo	wheel; bicycle	im	n		
 L11	Transport, Trips & Hotels	polnoč	midnight	im	f		
+L11	Transport, Trips & Hotels	odhoditi	to depart; to leave	gl		ipf	odhodim · odhodi
+L11	Transport, Trips & Hotels	prihoditi	to arrive; to come	gl		ipf	prihodim · prihodi
 L12	The Body & the Doctor	tělo	body	im	n		
 L12	The Body & the Doctor	lice	face	im	n		
 L12	The Body & the Doctor	usta	mouth	im	n		

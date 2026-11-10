@@ -522,6 +522,7 @@
 {"razina": 8, "tema": "Routine & Time", "es": "casi", "en": "almost", "vrsta": "pril"}
 {"razina": 8, "tema": "Routine & Time", "es": "el reloj", "en": "watch; clock", "vrsta": "im", "rod": "m", "mnozina": "los relojes"}
 {"razina": 8, "tema": "Routine & Time", "es": "rápido", "en": "fast; quick", "vrsta": "pr", "zenski": "rápida", "mnozina_pr": "rápidos / rápidas"}
+{"razina": 8, "tema": "Routine & Time", "es": "pasar", "en": "to pass; to spend (time); to happen", "vrsta": "gl", "gl_skupina": "1", "particip": "pasado", "prezent": "paso · pasas · pasa · pasamos · pasáis · pasan", "preterit": "pasé · pasó"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "el tiempo", "en": "weather; time", "vrsta": "im", "rod": "m", "mnozina": "los tiempos"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "hace calor", "en": "it's hot", "vrsta": "izraz"}
 {"razina": 9, "tema": "Weather, Months & Plans", "es": "hace frío", "en": "it's cold", "vrsta": "izraz"}

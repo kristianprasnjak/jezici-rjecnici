@@ -39,6 +39,7 @@ solj	im	sol
 med	im	med
 vino	im	vino
 pivo	im	pivo
+doktor	im	liječnik, doktor
 dobry denj!	izraz	dobar dan!
 dobro jutro!	izraz	dobro jutro!
 dobry večer!	izraz	dobra večer!
@@ -891,6 +892,8 @@ pilot	im	pilot
 morjak	im	mornar
 kolo	im	kotač; bicikl
 polnoč	im	ponoć
+odhoditi	gl	odlaziti, polaziti
+prihoditi	gl	dolaziti, stizati
 tělo	im	tijelo
 lice	im	lice
 usta	im	usta

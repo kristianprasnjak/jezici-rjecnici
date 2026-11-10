@@ -7,9 +7,9 @@ Riječi: **1435** · greške: **0** · upozorenja: **0**
 | Razina | Tema | Koncept | Ima | |
 |---|---|---:|---:|---|
 | L0 | Sounds & Familiar Words | 40 | 40 | ✓ |
-| L1 | Greetings & Countries | 55 | 55 | ✓ |
+| L1 | Greetings & Countries | 55 | 56 | ✓ |
 | L2 | The Room & Colours | 75 | 77 | ✓ |
-| L3 | Everyday Verbs & the Week | 65 | 66 | ✓ |
+| L3 | Everyday Verbs & the Week | 65 | 65 | ✓ |
 | L4 | Family & People | 70 | 71 | ✓ |
 | L5 | Food & Quantities | 65 | 69 | ✓ |
 | L6 | City & Directions | 75 | 75 | ✓ |
