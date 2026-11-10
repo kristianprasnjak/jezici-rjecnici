@@ -155,6 +155,7 @@
 {"razina": 2, "tema": "The Flat & Colours", "en": "eleven", "hr": "jedanaest", "vrsta": "broj"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "twelve", "hr": "dvanaest", "vrsta": "broj"}
 {"razina": 2, "tema": "The Flat & Colours", "en": "twenty", "hr": "dvadeset", "vrsta": "broj"}
+{"razina": 2, "tema": "The Flat & Colours", "en": "zero", "hr": "nula", "vrsta": "broj"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "work", "hr": "raditi", "vrsta": "gl", "preterit": "worked", "particip": "worked", "ing": "working"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "live", "hr": "živjeti; stanovati", "vrsta": "gl", "preterit": "lived", "particip": "lived", "ing": "living"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "speak", "hr": "govoriti", "vrsta": "gl", "preterit": "spoke", "particip": "spoken", "ing": "speaking"}
@@ -219,6 +220,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "very", "hr": "vrlo", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "wash", "hr": "prati", "vrsta": "gl", "preterit": "washed", "particip": "washed", "ing": "washing"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "en": "come home", "hr": "doći kući", "vrsta": "izraz"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "en": "so", "hr": "pa, dakle; tako", "vrsta": "vez"}
 {"razina": 4, "tema": "Family & Age", "en": "mother", "hr": "majka", "vrsta": "im", "mnozina": "mothers"}
 {"razina": 4, "tema": "Family & Age", "en": "mum", "hr": "mama", "vrsta": "im", "mnozina": "mums"}
 {"razina": 4, "tema": "Family & Age", "en": "father", "hr": "otac", "vrsta": "im", "mnozina": "fathers"}
@@ -277,13 +279,18 @@
 {"razina": 4, "tema": "Family & Age", "en": "eighty", "hr": "osamdeset", "vrsta": "broj"}
 {"razina": 4, "tema": "Family & Age", "en": "ninety", "hr": "devedeset", "vrsta": "broj"}
 {"razina": 4, "tema": "Family & Age", "en": "hundred", "hr": "sto", "vrsta": "broj"}
-{"razina": 4, "tema": "Family & Age", "en": "thirteen", "hr": "trinaest", "vrsta": "broj"}
-{"razina": 4, "tema": "Family & Age", "en": "fifteen", "hr": "petnaest", "vrsta": "broj"}
 {"razina": 4, "tema": "Family & Age", "en": "how old are you?", "hr": "koliko imaš godina?", "vrsta": "izraz"}
 {"razina": 4, "tema": "Family & Age", "en": "surname", "hr": "prezime", "vrsta": "im", "mnozina": "surnames"}
 {"razina": 4, "tema": "Family & Age", "en": "only child", "hr": "jedinac, jedinica", "vrsta": "izraz"}
 {"razina": 4, "tema": "Family & Age", "en": "grandchildren", "hr": "unuci", "vrsta": "im", "mnozina": "grandchildren"}
 {"razina": 4, "tema": "Family & Age", "en": "elderly", "hr": "star, postariji", "vrsta": "pr", "komparativ": "more elderly", "superlativ": "most elderly"}
+{"razina": 4, "tema": "Family & Age", "en": "thirteen", "hr": "trinaest", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "en": "fourteen", "hr": "četrnaest", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "en": "fifteen", "hr": "petnaest", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "en": "sixteen", "hr": "šesnaest", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "en": "seventeen", "hr": "sedamnaest", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "en": "eighteen", "hr": "osamnaest", "vrsta": "broj"}
+{"razina": 4, "tema": "Family & Age", "en": "nineteen", "hr": "devetnaest", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "en": "market", "hr": "tržnica", "vrsta": "im", "mnozina": "markets"}
 {"razina": 5, "tema": "Food & Quantities", "en": "bread", "hr": "kruh", "vrsta": "im", "mnozina": "—"}
 {"razina": 5, "tema": "Food & Quantities", "en": "cheese", "hr": "sir", "vrsta": "im", "mnozina": "cheeses"}
@@ -858,6 +865,7 @@
 {"razina": 12, "tema": "Clothes & Shops", "en": "pretty", "hr": "lijep, zgodan; prilično", "vrsta": "pr", "komparativ": "prettier", "superlativ": "prettiest"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "department store", "hr": "robna kuća", "vrsta": "im", "mnozina": "department stores"}
 {"razina": 12, "tema": "Clothes & Shops", "en": "customer service", "hr": "služba za korisnike", "vrsta": "im", "mnozina": "customer services"}
+{"razina": 12, "tema": "Clothes & Shops", "en": "as … as", "hr": "jednako … kao", "vrsta": "izraz"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "body", "hr": "tijelo", "vrsta": "im", "mnozina": "bodies"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "head", "hr": "glava", "vrsta": "im", "mnozina": "heads"}
 {"razina": 13, "tema": "The Body & the Doctor", "en": "face", "hr": "lice", "vrsta": "im", "mnozina": "faces"}
@@ -1225,7 +1233,6 @@
 {"razina": 17, "tema": "Town, Village & Nature", "en": "the worst", "hr": "najgori", "vrsta": "izraz"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "the most", "hr": "najviše; naj-", "vrsta": "izraz"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "the least", "hr": "najmanje", "vrsta": "izraz"}
-{"razina": 17, "tema": "Town, Village & Nature", "en": "as … as", "hr": "jednako … kao", "vrsta": "izraz"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "if", "hr": "ako", "vrsta": "vez"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "unless", "hr": "osim ako", "vrsta": "vez"}
 {"razina": 17, "tema": "Town, Village & Nature", "en": "peaceful", "hr": "miran", "vrsta": "pr", "komparativ": "more peaceful", "superlativ": "most peaceful"}
@@ -1462,7 +1469,6 @@
 {"razina": 20, "tema": "Memories & the Future", "en": "thanks to", "hr": "zahvaljujući", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "en": "despite", "hr": "unatoč", "vrsta": "prij"}
 {"razina": 20, "tema": "Memories & the Future", "en": "because of", "hr": "zbog", "vrsta": "izraz"}
-{"razina": 20, "tema": "Memories & the Future", "en": "so", "hr": "pa, dakle; tako", "vrsta": "vez"}
 {"razina": 20, "tema": "Memories & the Future", "en": "as soon as", "hr": "čim", "vrsta": "izraz"}
 {"razina": 20, "tema": "Memories & the Future", "en": "everyone", "hr": "svi", "vrsta": "zam"}
 {"razina": 20, "tema": "Memories & the Future", "en": "someone", "hr": "netko", "vrsta": "zam"}

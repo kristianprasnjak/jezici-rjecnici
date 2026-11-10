@@ -156,6 +156,7 @@ L2	The Flat & Colours	ten	deset	broj
 L2	The Flat & Colours	eleven	jedanaest	broj						
 L2	The Flat & Colours	twelve	dvanaest	broj						
 L2	The Flat & Colours	twenty	dvadeset	broj						
+L2	The Flat & Colours	zero	nula	broj						
 L3	Everyday Verbs & the Week	work	raditi	gl				worked	worked	working
 L3	Everyday Verbs & the Week	live	živjeti; stanovati	gl				lived	lived	living
 L3	Everyday Verbs & the Week	speak	govoriti	gl				spoke	spoken	speaking
@@ -220,6 +221,7 @@ L3	Everyday Verbs & the Week	with	s, sa	prij
 L3	Everyday Verbs & the Week	very	vrlo	pril						
 L3	Everyday Verbs & the Week	wash	prati	gl				washed	washed	washing
 L3	Everyday Verbs & the Week	come home	doći kući	izraz						
+L3	Everyday Verbs & the Week	so	pa, dakle; tako	vez						
 L4	Family & Age	mother	majka	im	mothers					
 L4	Family & Age	mum	mama	im	mums					
 L4	Family & Age	father	otac	im	fathers					
@@ -278,13 +280,18 @@ L4	Family & Age	seventy	sedamdeset	broj
 L4	Family & Age	eighty	osamdeset	broj						
 L4	Family & Age	ninety	devedeset	broj						
 L4	Family & Age	hundred	sto	broj						
-L4	Family & Age	thirteen	trinaest	broj						
-L4	Family & Age	fifteen	petnaest	broj						
 L4	Family & Age	how old are you?	koliko imaš godina?	izraz						
 L4	Family & Age	surname	prezime	im	surnames					
 L4	Family & Age	only child	jedinac, jedinica	izraz						
 L4	Family & Age	grandchildren	unuci	im	grandchildren					
 L4	Family & Age	elderly	star, postariji	pr		more elderly	most elderly			
+L4	Family & Age	thirteen	trinaest	broj						
+L4	Family & Age	fourteen	četrnaest	broj						
+L4	Family & Age	fifteen	petnaest	broj						
+L4	Family & Age	sixteen	šesnaest	broj						
+L4	Family & Age	seventeen	sedamnaest	broj						
+L4	Family & Age	eighteen	osamnaest	broj						
+L4	Family & Age	nineteen	devetnaest	broj						
 L5	Food & Quantities	market	tržnica	im	markets					
 L5	Food & Quantities	bread	kruh	im	—					
 L5	Food & Quantities	cheese	sir	im	cheeses					
@@ -859,6 +866,7 @@ L12	Clothes & Shops	refund	povrat novca	im	refunds
 L12	Clothes & Shops	pretty	lijep, zgodan; prilično	pr		prettier	prettiest			
 L12	Clothes & Shops	department store	robna kuća	im	department stores					
 L12	Clothes & Shops	customer service	služba za korisnike	im	customer services					
+L12	Clothes & Shops	as … as	jednako … kao	izraz						
 L13	The Body & the Doctor	body	tijelo	im	bodies					
 L13	The Body & the Doctor	head	glava	im	heads					
 L13	The Body & the Doctor	face	lice	im	faces					
@@ -1226,7 +1234,6 @@ L17	Town, Village & Nature	the best	najbolji	izraz
 L17	Town, Village & Nature	the worst	najgori	izraz						
 L17	Town, Village & Nature	the most	najviše; naj-	izraz						
 L17	Town, Village & Nature	the least	najmanje	izraz						
-L17	Town, Village & Nature	as … as	jednako … kao	izraz						
 L17	Town, Village & Nature	if	ako	vez						
 L17	Town, Village & Nature	unless	osim ako	vez						
 L17	Town, Village & Nature	peaceful	miran	pr		more peaceful	most peaceful			
@@ -1463,7 +1470,6 @@ L20	Memories & the Future	keep	zadržati; čuvati	gl				kept	kept	keeping
 L20	Memories & the Future	thanks to	zahvaljujući	izraz						
 L20	Memories & the Future	despite	unatoč	prij						
 L20	Memories & the Future	because of	zbog	izraz						
-L20	Memories & the Future	so	pa, dakle; tako	vez						
 L20	Memories & the Future	as soon as	čim	izraz						
 L20	Memories & the Future	everyone	svi	zam						
 L20	Memories & the Future	someone	netko	zam						
