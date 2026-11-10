@@ -126,6 +126,17 @@ L2	Family & House	nunc	now	pril
 L2	Family & House	semper	always	pril						
 L2	Family & House	saepe	often	pril						
 L2	Family & House	cārus	dear	pr			1-2	cārus, cāra, cārum		
+L2	Family & House	duodecim	twelve	broj						
+L2	Family & House	ūnus	one	broj						
+L2	Family & House	duo	two	broj						
+L2	Family & House	trēs	three	broj						
+L2	Family & House	quattuor	four	broj						
+L2	Family & House	quīnque	five	broj						
+L2	Family & House	sex	six	broj						
+L2	Family & House	septem	seven	broj						
+L2	Family & House	octō	eight	broj						
+L2	Family & House	novem	nine	broj						
+L2	Family & House	decem	ten	broj						
 L3	The Street & the Market	angiportus	alley	im	m	angiportūs	4			
 L3	The Street & the Market	mercātus	market	im	m	mercātūs	4			
 L3	The Street & the Market	taberna	shop; inn	im	f	tabernae	1			
@@ -405,7 +416,6 @@ L7	Stories & Gods	pius	dutiful	pr			1-2	pius, pia, pium
 L7	Stories & Gods	sacer	sacred	pr			1-2	sacer, sacra, sacrum		
 L7	Stories & Gods	Apollō	Apollo	im	m	Apollinis	3			
 L7	Stories & Gods	Diāna	Diana	im	f	Diānae	1			
-L7	Stories & Gods	precor	to pray	gl					1	precārī, precātus sum
 L7	Stories & Gods	iterum atque iterum	again and again	izraz						
 L7	Stories & Gods	inter	between; among	prij						
 L8	Travel & Roads	iter	journey; route	im	n	itineris	3			
@@ -423,7 +433,6 @@ L8	Travel & Roads	possum	can; to be able	gl					nepr	posse, potuī
 L8	Travel & Roads	dēbeō	must; to owe	gl					2	dēbēre, dēbuī, dēbitum
 L8	Travel & Roads	properō	to hurry	gl					1	properāre, properāvī, properātum
 L8	Travel & Roads	cōnstituō	to decide	gl					3	cōnstituere, cōnstituī, cōnstitūtum
-L8	Travel & Roads	proficīscor	to set out	gl					3	proficīscī, profectus sum
 L8	Travel & Roads	perveniō	to arrive	gl					4	pervenīre, pervēnī, perventum
 L8	Travel & Roads	maneō	to stay	gl					2	manēre, mānsī, mānsum
 L8	Travel & Roads	crās	tomorrow	pril						
@@ -468,6 +477,7 @@ L8	Travel & Roads	trāns	across	prij
 L8	Travel & Roads	circum	around	prij						
 L8	Travel & Roads	mūlus	mule	im	m	mūlī	2			
 L8	Travel & Roads	hospitium	lodging; hospitality	im	n	hospitiī	2			
+L8	Travel & Roads	sī	if	vez						
 L9	Events & Deeds	fuī	I was; I have been	gl					nepr	—
 L9	Events & Deeds	potuī	I could; I have been able	gl					nepr	—
 L9	Events & Deeds	iī	I went; I have gone	gl					nepr	—
@@ -567,16 +577,6 @@ L10	The City of Rome	vēr	spring	im	n	vēris	3
 L10	The City of Rome	autumnus	autumn	im	m	autumnī	2			
 L10	The City of Rome	hodiē	today	pril						
 L10	The City of Rome	quotannīs	every year	pril						
-L10	The City of Rome	ūnus	one	broj						
-L10	The City of Rome	duo	two	broj						
-L10	The City of Rome	trēs	three	broj						
-L10	The City of Rome	quattuor	four	broj						
-L10	The City of Rome	quīnque	five	broj						
-L10	The City of Rome	sex	six	broj						
-L10	The City of Rome	septem	seven	broj						
-L10	The City of Rome	octō	eight	broj						
-L10	The City of Rome	novem	nine	broj						
-L10	The City of Rome	decem	ten	broj						
 L10	The City of Rome	vīgintī	twenty	broj						
 L10	The City of Rome	centum	hundred	broj						
 L10	The City of Rome	mīlle	thousand	broj						
@@ -588,13 +588,11 @@ L10	The City of Rome	Īdūs	the Ides	im	f	Īduum	4
 L10	The City of Rome	Nōnae	the Nones	im	f	Nōnārum	1			
 L10	The City of Rome	nātus	born; aged	pr			1-2	nātus, nāta, nātum		
 L10	The City of Rome	spectō	to watch	gl					1	spectāre, spectāvī, spectātum
-L10	The City of Rome	admīror	to admire	gl					1	admīrārī, admīrātus sum
 L10	The City of Rome	habitō	to live; to dwell	gl					1	habitāre, habitāvī, habitātum
 L10	The City of Rome	Rōmānus	Roman	pr			1-2	Rōmānus, Rōmāna, Rōmānum		
 L10	The City of Rome	pūblicus	public	pr			1-2	pūblicus, pūblica, pūblicum		
 L10	The City of Rome	prīvātus	private	pr			1-2	prīvātus, prīvāta, prīvātum		
 L10	The City of Rome	celeber	crowded; famous	pr			3	celeber, celebris, celebre		
-L10	The City of Rome	mīror	to wonder	gl					1	mīrārī, mīrātus sum
 L10	The City of Rome	quam	how; than	pril						
 L10	The City of Rome	mīliārium aureum	the Golden Milestone	izraz						
 L10	The City of Rome	Circus Maximus	the Circus Maximus	izraz						
@@ -689,11 +687,7 @@ L12	Friends & Feelings	crēdō	to believe; to trust	gl					3	crēdere, crēdidī
 L12	Friends & Feelings	spērō	to hope	gl					1	spērāre, spērāvī, spērātum
 L12	Friends & Feelings	dēspērō	to despair	gl					1	dēspērāre, dēspērāvī, dēspērātum
 L12	Friends & Feelings	metuō	to fear	gl					3	metuere, metuī
-L12	Friends & Feelings	īrāscor	to be angry	gl					3	īrāscī, īrātus sum
-L12	Friends & Feelings	cōnsōlor	to comfort	gl					1	cōnsōlārī, cōnsōlātus sum
 L12	Friends & Feelings	salūtō	to greet	gl					1	salūtāre, salūtāvī, salūtātum
-L12	Friends & Feelings	ōsculor	to kiss	gl					1	ōsculārī, ōsculātus sum
-L12	Friends & Feelings	amplector	to embrace	gl					3	amplectī, amplexus sum
 L12	Friends & Feelings	dīligō	to love; to value	gl					3	dīligere, dīlēxī, dīlēctum
 L12	Friends & Feelings	fīdus	faithful	pr			1-2	fīdus, fīda, fīdum		
 L12	Friends & Feelings	fidēlis	loyal	pr			3	fidēlis, fidēle		
@@ -779,7 +773,6 @@ L13	Buildings & Leisure	dīligentius	more carefully	pril
 L13	Buildings & Leisure	optimē	very well; best	pril						
 L13	Buildings & Leisure	quam celerrimē	as fast as possible	izraz						
 L13	Buildings & Leisure	cubō	to lie down	gl					1	cubāre, cubuī, cubitum
-L13	Buildings & Leisure	convīvor	to feast	gl					1	convīvārī, convīvātus sum
 L13	Buildings & Leisure	convīvium	banquet	im	n	convīviī	2			
 L13	Buildings & Leisure	scaena	stage	im	f	scaenae	1			
 L13	Buildings & Leisure	mīmus	mime; actor	im	m	mīmī	2			
@@ -830,7 +823,6 @@ L14	Time & Seasons	ningit	it snows	gl					3	ningere, ninxit
 L14	Time & Seasons	pluit	it rains	gl					3	pluere, pluit
 L14	Time & Seasons	lūcet	it is light	gl					2	lūcēre, lūxit
 L14	Time & Seasons	advesperāscit	evening comes	gl					3	advesperāscere, advesperāvit
-L14	Time & Seasons	orior	to rise	gl					4	orīrī, ortus sum
 L14	Time & Seasons	occidō	to fall; to set	gl					3	occidere, occidī, occāsum
 L14	Time & Seasons	mūtō	to change	gl					1	mūtāre, mūtāvī, mūtātum
 L14	Time & Seasons	redūcō	to bring back	gl					3	redūcere, redūxī, reductum
@@ -918,6 +910,16 @@ L15	Work & Trade	pāscuum	pasture	im	n	pāscuī	2
 L15	Work & Trade	vīnārius	wine merchant	im	m	vīnāriī	2			
 L15	Work & Trade	ūtilitās	usefulness	im	f	ūtilitātis	3			
 L15	Work & Trade	lūxuria	luxury	im	f	lūxuriae	1			
+L15	Work & Trade	precor	to pray	gl					1	precārī, precātus sum
+L15	Work & Trade	proficīscor	to set out	gl					3	proficīscī, profectus sum
+L15	Work & Trade	admīror	to admire	gl					1	admīrārī, admīrātus sum
+L15	Work & Trade	mīror	to wonder	gl					1	mīrārī, mīrātus sum
+L15	Work & Trade	īrāscor	to be angry	gl					3	īrāscī, īrātus sum
+L15	Work & Trade	cōnsōlor	to comfort	gl					1	cōnsōlārī, cōnsōlātus sum
+L15	Work & Trade	ōsculor	to kiss	gl					1	ōsculārī, ōsculātus sum
+L15	Work & Trade	amplector	to embrace	gl					3	amplectī, amplexus sum
+L15	Work & Trade	convīvor	to feast	gl					1	convīvārī, convīvātus sum
+L15	Work & Trade	orior	to rise	gl					4	orīrī, ortus sum
 L16	War & Peace	bellum	war	im	n	bellī	2			
 L16	War & Peace	pāx Rōmāna	the Roman peace	izraz						
 L16	War & Peace	exercitus	army	im	m	exercitūs	4			
@@ -1056,7 +1058,6 @@ L17	Speaking & Thinking	rogō	to ask	gl					1	rogāre, rogāvī, rogātum
 L18	Plans & Wishes	ut	so that; as	vez						
 L18	Plans & Wishes	nē	so that not; lest	vez						
 L18	Plans & Wishes	cum	when; since; although	vez						
-L18	Plans & Wishes	sī	if	vez						
 L18	Plans & Wishes	sīn	but if	vez						
 L18	Plans & Wishes	quamquam	although	vez						
 L18	Plans & Wishes	etsī	even if	vez						

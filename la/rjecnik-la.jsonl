@@ -125,6 +125,17 @@
 {"razina": 2, "tema": "Family & House", "la": "semper", "en": "always", "vrsta": "pril"}
 {"razina": 2, "tema": "Family & House", "la": "saepe", "en": "often", "vrsta": "pril"}
 {"razina": 2, "tema": "Family & House", "la": "cārus", "en": "dear", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "cārus, cāra, cārum"}
+{"razina": 2, "tema": "Family & House", "la": "duodecim", "en": "twelve", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "ūnus", "en": "one", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "duo", "en": "two", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "trēs", "en": "three", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "quattuor", "en": "four", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "quīnque", "en": "five", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "sex", "en": "six", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "septem", "en": "seven", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "octō", "en": "eight", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "novem", "en": "nine", "vrsta": "broj"}
+{"razina": 2, "tema": "Family & House", "la": "decem", "en": "ten", "vrsta": "broj"}
 {"razina": 3, "tema": "The Street & the Market", "la": "angiportus", "en": "alley", "vrsta": "im", "rod": "m", "genitiv": "angiportūs", "deklinacija": "4"}
 {"razina": 3, "tema": "The Street & the Market", "la": "mercātus", "en": "market", "vrsta": "im", "rod": "m", "genitiv": "mercātūs", "deklinacija": "4"}
 {"razina": 3, "tema": "The Street & the Market", "la": "taberna", "en": "shop; inn", "vrsta": "im", "rod": "f", "genitiv": "tabernae", "deklinacija": "1"}
@@ -404,7 +415,6 @@
 {"razina": 7, "tema": "Stories & Gods", "la": "sacer", "en": "sacred", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "sacer, sacra, sacrum"}
 {"razina": 7, "tema": "Stories & Gods", "la": "Apollō", "en": "Apollo", "vrsta": "im", "rod": "m", "genitiv": "Apollinis", "deklinacija": "3"}
 {"razina": 7, "tema": "Stories & Gods", "la": "Diāna", "en": "Diana", "vrsta": "im", "rod": "f", "genitiv": "Diānae", "deklinacija": "1"}
-{"razina": 7, "tema": "Stories & Gods", "la": "precor", "en": "to pray", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "precārī, precātus sum"}
 {"razina": 7, "tema": "Stories & Gods", "la": "iterum atque iterum", "en": "again and again", "vrsta": "izraz"}
 {"razina": 7, "tema": "Stories & Gods", "la": "inter", "en": "between; among", "vrsta": "prij"}
 {"razina": 8, "tema": "Travel & Roads", "la": "iter", "en": "journey; route", "vrsta": "im", "rod": "n", "genitiv": "itineris", "deklinacija": "3"}
@@ -422,7 +432,6 @@
 {"razina": 8, "tema": "Travel & Roads", "la": "dēbeō", "en": "must; to owe", "vrsta": "gl", "konjugacija": "2", "glavni_oblici": "dēbēre, dēbuī, dēbitum"}
 {"razina": 8, "tema": "Travel & Roads", "la": "properō", "en": "to hurry", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "properāre, properāvī, properātum"}
 {"razina": 8, "tema": "Travel & Roads", "la": "cōnstituō", "en": "to decide", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "cōnstituere, cōnstituī, cōnstitūtum"}
-{"razina": 8, "tema": "Travel & Roads", "la": "proficīscor", "en": "to set out", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "proficīscī, profectus sum"}
 {"razina": 8, "tema": "Travel & Roads", "la": "perveniō", "en": "to arrive", "vrsta": "gl", "konjugacija": "4", "glavni_oblici": "pervenīre, pervēnī, perventum"}
 {"razina": 8, "tema": "Travel & Roads", "la": "maneō", "en": "to stay", "vrsta": "gl", "konjugacija": "2", "glavni_oblici": "manēre, mānsī, mānsum"}
 {"razina": 8, "tema": "Travel & Roads", "la": "crās", "en": "tomorrow", "vrsta": "pril"}
@@ -467,6 +476,7 @@
 {"razina": 8, "tema": "Travel & Roads", "la": "circum", "en": "around", "vrsta": "prij"}
 {"razina": 8, "tema": "Travel & Roads", "la": "mūlus", "en": "mule", "vrsta": "im", "rod": "m", "genitiv": "mūlī", "deklinacija": "2"}
 {"razina": 8, "tema": "Travel & Roads", "la": "hospitium", "en": "lodging; hospitality", "vrsta": "im", "rod": "n", "genitiv": "hospitiī", "deklinacija": "2"}
+{"razina": 8, "tema": "Travel & Roads", "la": "sī", "en": "if", "vrsta": "vez"}
 {"razina": 9, "tema": "Events & Deeds", "la": "fuī", "en": "I was; I have been", "vrsta": "gl", "konjugacija": "nepr", "glavni_oblici": "—"}
 {"razina": 9, "tema": "Events & Deeds", "la": "potuī", "en": "I could; I have been able", "vrsta": "gl", "konjugacija": "nepr", "glavni_oblici": "—"}
 {"razina": 9, "tema": "Events & Deeds", "la": "iī", "en": "I went; I have gone", "vrsta": "gl", "konjugacija": "nepr", "glavni_oblici": "—"}
@@ -566,16 +576,6 @@
 {"razina": 10, "tema": "The City of Rome", "la": "autumnus", "en": "autumn", "vrsta": "im", "rod": "m", "genitiv": "autumnī", "deklinacija": "2"}
 {"razina": 10, "tema": "The City of Rome", "la": "hodiē", "en": "today", "vrsta": "pril"}
 {"razina": 10, "tema": "The City of Rome", "la": "quotannīs", "en": "every year", "vrsta": "pril"}
-{"razina": 10, "tema": "The City of Rome", "la": "ūnus", "en": "one", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "duo", "en": "two", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "trēs", "en": "three", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "quattuor", "en": "four", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "quīnque", "en": "five", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "sex", "en": "six", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "septem", "en": "seven", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "octō", "en": "eight", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "novem", "en": "nine", "vrsta": "broj"}
-{"razina": 10, "tema": "The City of Rome", "la": "decem", "en": "ten", "vrsta": "broj"}
 {"razina": 10, "tema": "The City of Rome", "la": "vīgintī", "en": "twenty", "vrsta": "broj"}
 {"razina": 10, "tema": "The City of Rome", "la": "centum", "en": "hundred", "vrsta": "broj"}
 {"razina": 10, "tema": "The City of Rome", "la": "mīlle", "en": "thousand", "vrsta": "broj"}
@@ -587,13 +587,11 @@
 {"razina": 10, "tema": "The City of Rome", "la": "Nōnae", "en": "the Nones", "vrsta": "im", "rod": "f", "genitiv": "Nōnārum", "deklinacija": "1"}
 {"razina": 10, "tema": "The City of Rome", "la": "nātus", "en": "born; aged", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "nātus, nāta, nātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "spectō", "en": "to watch", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "spectāre, spectāvī, spectātum"}
-{"razina": 10, "tema": "The City of Rome", "la": "admīror", "en": "to admire", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "admīrārī, admīrātus sum"}
 {"razina": 10, "tema": "The City of Rome", "la": "habitō", "en": "to live; to dwell", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "habitāre, habitāvī, habitātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "Rōmānus", "en": "Roman", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "Rōmānus, Rōmāna, Rōmānum"}
 {"razina": 10, "tema": "The City of Rome", "la": "pūblicus", "en": "public", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "pūblicus, pūblica, pūblicum"}
 {"razina": 10, "tema": "The City of Rome", "la": "prīvātus", "en": "private", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "prīvātus, prīvāta, prīvātum"}
 {"razina": 10, "tema": "The City of Rome", "la": "celeber", "en": "crowded; famous", "vrsta": "pr", "deklinacija": "3", "oblici_pr": "celeber, celebris, celebre"}
-{"razina": 10, "tema": "The City of Rome", "la": "mīror", "en": "to wonder", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "mīrārī, mīrātus sum"}
 {"razina": 10, "tema": "The City of Rome", "la": "quam", "en": "how; than", "vrsta": "pril"}
 {"razina": 10, "tema": "The City of Rome", "la": "mīliārium aureum", "en": "the Golden Milestone", "vrsta": "izraz"}
 {"razina": 10, "tema": "The City of Rome", "la": "Circus Maximus", "en": "the Circus Maximus", "vrsta": "izraz"}
@@ -688,11 +686,7 @@
 {"razina": 12, "tema": "Friends & Feelings", "la": "spērō", "en": "to hope", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "spērāre, spērāvī, spērātum"}
 {"razina": 12, "tema": "Friends & Feelings", "la": "dēspērō", "en": "to despair", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "dēspērāre, dēspērāvī, dēspērātum"}
 {"razina": 12, "tema": "Friends & Feelings", "la": "metuō", "en": "to fear", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "metuere, metuī"}
-{"razina": 12, "tema": "Friends & Feelings", "la": "īrāscor", "en": "to be angry", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "īrāscī, īrātus sum"}
-{"razina": 12, "tema": "Friends & Feelings", "la": "cōnsōlor", "en": "to comfort", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "cōnsōlārī, cōnsōlātus sum"}
 {"razina": 12, "tema": "Friends & Feelings", "la": "salūtō", "en": "to greet", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "salūtāre, salūtāvī, salūtātum"}
-{"razina": 12, "tema": "Friends & Feelings", "la": "ōsculor", "en": "to kiss", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "ōsculārī, ōsculātus sum"}
-{"razina": 12, "tema": "Friends & Feelings", "la": "amplector", "en": "to embrace", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "amplectī, amplexus sum"}
 {"razina": 12, "tema": "Friends & Feelings", "la": "dīligō", "en": "to love; to value", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "dīligere, dīlēxī, dīlēctum"}
 {"razina": 12, "tema": "Friends & Feelings", "la": "fīdus", "en": "faithful", "vrsta": "pr", "deklinacija": "1-2", "oblici_pr": "fīdus, fīda, fīdum"}
 {"razina": 12, "tema": "Friends & Feelings", "la": "fidēlis", "en": "loyal", "vrsta": "pr", "deklinacija": "3", "oblici_pr": "fidēlis, fidēle"}
@@ -778,7 +772,6 @@
 {"razina": 13, "tema": "Buildings & Leisure", "la": "optimē", "en": "very well; best", "vrsta": "pril"}
 {"razina": 13, "tema": "Buildings & Leisure", "la": "quam celerrimē", "en": "as fast as possible", "vrsta": "izraz"}
 {"razina": 13, "tema": "Buildings & Leisure", "la": "cubō", "en": "to lie down", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "cubāre, cubuī, cubitum"}
-{"razina": 13, "tema": "Buildings & Leisure", "la": "convīvor", "en": "to feast", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "convīvārī, convīvātus sum"}
 {"razina": 13, "tema": "Buildings & Leisure", "la": "convīvium", "en": "banquet", "vrsta": "im", "rod": "n", "genitiv": "convīviī", "deklinacija": "2"}
 {"razina": 13, "tema": "Buildings & Leisure", "la": "scaena", "en": "stage", "vrsta": "im", "rod": "f", "genitiv": "scaenae", "deklinacija": "1"}
 {"razina": 13, "tema": "Buildings & Leisure", "la": "mīmus", "en": "mime; actor", "vrsta": "im", "rod": "m", "genitiv": "mīmī", "deklinacija": "2"}
@@ -829,7 +822,6 @@
 {"razina": 14, "tema": "Time & Seasons", "la": "pluit", "en": "it rains", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "pluere, pluit"}
 {"razina": 14, "tema": "Time & Seasons", "la": "lūcet", "en": "it is light", "vrsta": "gl", "konjugacija": "2", "glavni_oblici": "lūcēre, lūxit"}
 {"razina": 14, "tema": "Time & Seasons", "la": "advesperāscit", "en": "evening comes", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "advesperāscere, advesperāvit"}
-{"razina": 14, "tema": "Time & Seasons", "la": "orior", "en": "to rise", "vrsta": "gl", "konjugacija": "4", "glavni_oblici": "orīrī, ortus sum"}
 {"razina": 14, "tema": "Time & Seasons", "la": "occidō", "en": "to fall; to set", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "occidere, occidī, occāsum"}
 {"razina": 14, "tema": "Time & Seasons", "la": "mūtō", "en": "to change", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "mūtāre, mūtāvī, mūtātum"}
 {"razina": 14, "tema": "Time & Seasons", "la": "redūcō", "en": "to bring back", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "redūcere, redūxī, reductum"}
@@ -917,6 +909,16 @@
 {"razina": 15, "tema": "Work & Trade", "la": "vīnārius", "en": "wine merchant", "vrsta": "im", "rod": "m", "genitiv": "vīnāriī", "deklinacija": "2"}
 {"razina": 15, "tema": "Work & Trade", "la": "ūtilitās", "en": "usefulness", "vrsta": "im", "rod": "f", "genitiv": "ūtilitātis", "deklinacija": "3"}
 {"razina": 15, "tema": "Work & Trade", "la": "lūxuria", "en": "luxury", "vrsta": "im", "rod": "f", "genitiv": "lūxuriae", "deklinacija": "1"}
+{"razina": 15, "tema": "Work & Trade", "la": "precor", "en": "to pray", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "precārī, precātus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "proficīscor", "en": "to set out", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "proficīscī, profectus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "admīror", "en": "to admire", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "admīrārī, admīrātus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "mīror", "en": "to wonder", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "mīrārī, mīrātus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "īrāscor", "en": "to be angry", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "īrāscī, īrātus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "cōnsōlor", "en": "to comfort", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "cōnsōlārī, cōnsōlātus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "ōsculor", "en": "to kiss", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "ōsculārī, ōsculātus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "amplector", "en": "to embrace", "vrsta": "gl", "konjugacija": "3", "glavni_oblici": "amplectī, amplexus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "convīvor", "en": "to feast", "vrsta": "gl", "konjugacija": "1", "glavni_oblici": "convīvārī, convīvātus sum"}
+{"razina": 15, "tema": "Work & Trade", "la": "orior", "en": "to rise", "vrsta": "gl", "konjugacija": "4", "glavni_oblici": "orīrī, ortus sum"}
 {"razina": 16, "tema": "War & Peace", "la": "bellum", "en": "war", "vrsta": "im", "rod": "n", "genitiv": "bellī", "deklinacija": "2"}
 {"razina": 16, "tema": "War & Peace", "la": "pāx Rōmāna", "en": "the Roman peace", "vrsta": "izraz"}
 {"razina": 16, "tema": "War & Peace", "la": "exercitus", "en": "army", "vrsta": "im", "rod": "m", "genitiv": "exercitūs", "deklinacija": "4"}
@@ -1055,7 +1057,6 @@
 {"razina": 18, "tema": "Plans & Wishes", "la": "ut", "en": "so that; as", "vrsta": "vez"}
 {"razina": 18, "tema": "Plans & Wishes", "la": "nē", "en": "so that not; lest", "vrsta": "vez"}
 {"razina": 18, "tema": "Plans & Wishes", "la": "cum", "en": "when; since; although", "vrsta": "vez"}
-{"razina": 18, "tema": "Plans & Wishes", "la": "sī", "en": "if", "vrsta": "vez"}
 {"razina": 18, "tema": "Plans & Wishes", "la": "sīn", "en": "but if", "vrsta": "vez"}
 {"razina": 18, "tema": "Plans & Wishes", "la": "quamquam", "en": "although", "vrsta": "vez"}
 {"razina": 18, "tema": "Plans & Wishes", "la": "etsī", "en": "even if", "vrsta": "vez"}
