@@ -85,6 +85,19 @@ L1	Greetings, Countries & Numbers 0–20	cinque	five	broj
 L1	Greetings, Countries & Numbers 0–20	dieci	ten	broj								
 L1	Greetings, Countries & Numbers 0–20	venti	twenty	broj								
 L1	Greetings, Countries & Numbers 0–20	la città	town; city	im	f	le città						
+L1	Greetings, Countries & Numbers 0–20	sei	six	broj								
+L1	Greetings, Countries & Numbers 0–20	sette	seven	broj								
+L1	Greetings, Countries & Numbers 0–20	otto	eight	broj								
+L1	Greetings, Countries & Numbers 0–20	nove	nine	broj								
+L1	Greetings, Countries & Numbers 0–20	quattordici	fourteen	broj								
+L1	Greetings, Countries & Numbers 0–20	undici	eleven	broj								
+L1	Greetings, Countries & Numbers 0–20	dodici	twelve	broj								
+L1	Greetings, Countries & Numbers 0–20	tredici	thirteen	broj								
+L1	Greetings, Countries & Numbers 0–20	quindici	fifteen	broj								
+L1	Greetings, Countries & Numbers 0–20	sedici	sixteen	broj								
+L1	Greetings, Countries & Numbers 0–20	diciassette	seventeen	broj								
+L1	Greetings, Countries & Numbers 0–20	diciotto	eighteen	broj								
+L1	Greetings, Countries & Numbers 0–20	diciannove	nineteen	broj								
 L2	The Flat & Colours	l'appartamento (m)	flat	im	m	gli appartamenti						
 L2	The Flat & Colours	la casa	house; home	im	f	le case						
 L2	The Flat & Colours	la stanza	room	im	f	le stanze						
@@ -193,6 +206,7 @@ L3	Everyday Verbs & the Week	quale	which	zam
 L3	Everyday Verbs & the Week	l'italiano (m)	Italian (language)	im	m	—						
 L3	Everyday Verbs & the Week	il lavoro	work; job	im	m	i lavori						
 L3	Everyday Verbs & the Week	anche	also; too	pril								
+L3	Everyday Verbs & the Week	o	or	vez								
 L4	Family, Age & Numbers to 100	la madre	mother	im	f	le madri						
 L4	Family, Age & Numbers to 100	la mamma	mum	im	f	le mamme						
 L4	Family, Age & Numbers to 100	il padre	father	im	m	i padri						
@@ -236,19 +250,14 @@ L4	Family, Age & Numbers to 100	gentile	kind	pr			gentile	gentili / gentili
 L4	Family, Age & Numbers to 100	simpatico	nice; likeable	pr			simpatica	simpatici / simpatiche				
 L4	Family, Age & Numbers to 100	bello	beautiful; handsome	pr			bella	belli / belle				
 L4	Family, Age & Numbers to 100	con	with	prij								
-L4	Family, Age & Numbers to 100	undici	eleven	broj								
-L4	Family, Age & Numbers to 100	dodici	twelve	broj								
-L4	Family, Age & Numbers to 100	tredici	thirteen	broj								
-L4	Family, Age & Numbers to 100	quindici	fifteen	broj								
-L4	Family, Age & Numbers to 100	sedici	sixteen	broj								
-L4	Family, Age & Numbers to 100	diciassette	seventeen	broj								
-L4	Family, Age & Numbers to 100	diciotto	eighteen	broj								
-L4	Family, Age & Numbers to 100	diciannove	nineteen	broj								
 L4	Family, Age & Numbers to 100	trenta	thirty	broj								
 L4	Family, Age & Numbers to 100	quaranta	forty	broj								
 L4	Family, Age & Numbers to 100	cinquanta	fifty	broj								
 L4	Family, Age & Numbers to 100	sessanta	sixty	broj								
 L4	Family, Age & Numbers to 100	cento	hundred	broj								
+L4	Family, Age & Numbers to 100	settanta	seventy	broj								
+L4	Family, Age & Numbers to 100	ottanta	eighty	broj								
+L4	Family, Age & Numbers to 100	novanta	ninety	broj								
 L5	Food & Quantities	il mercato	market	im	m	i mercati						
 L5	Food & Quantities	il pane	bread	im	m	i pani						
 L5	Food & Quantities	il formaggio	cheese	im	m	i formaggi						
@@ -310,6 +319,8 @@ L5	Food & Quantities	quanto	how much	pril
 L5	Food & Quantities	il sacchetto	bag (shopping)	im	m	i sacchetti						
 L5	Food & Quantities	la verdura	vegetables	im	f	le verdure						
 L5	Food & Quantities	la frutta	fruit	im	f	—						
+L5	Food & Quantities	bere	to drink	gl					2	avere	bevuto	bevo · bevi · beve · beviamo · bevete · bevono
+L5	Food & Quantities	questo	this	zam								
 L6	City & Directions	la via	street	im	f	le vie						
 L6	City & Directions	la strada	road; street	im	f	le strade						
 L6	City & Directions	il quartiere	neighbourhood	im	m	i quartieri						
@@ -551,6 +562,7 @@ L9	Weather, Months & Plans	pronto	hello (phone); ready	izraz
 L9	Weather, Months & Plans	caldo	hot; warm	pr			calda	caldi / calde				
 L9	Weather, Months & Plans	freddo	cold	pr			fredda	freddi / fredde				
 L9	Weather, Months & Plans	nuvoloso	cloudy	pr			nuvolosa	nuvolosi / nuvolose				
+L9	Weather, Months & Plans	sapere	to know (a fact); to know how to	gl					2	avere	saputo	so · sai · sa · sappiamo · sapete · sanno
 L10	Weekend & Past Time	ieri	yesterday	pril								
 L10	Weekend & Past Time	l'altro ieri	the day before yesterday	pril								
 L10	Weekend & Past Time	scorso	last	pr			scorsa	scorsi / scorse				
@@ -577,7 +589,6 @@ L10	Weekend & Past Time	chiudere	to close	gl					2	avere	chiuso	chiudo · chiudi
 L10	Weekend & Past Time	mettere	to put	gl					2	avere	messo	metto · metti · mette · mettiamo · mettete · mettono
 L10	Weekend & Past Time	rispondere	to answer	gl					2	avere	risposto	rispondo · rispondi · risponde · rispondiamo · rispondete · rispondono
 L10	Weekend & Past Time	chiedere	to ask	gl					2	avere	chiesto	chiedo · chiedi · chiede · chiediamo · chiedete · chiedono
-L10	Weekend & Past Time	bere	to drink	gl					2	avere	bevuto	bevo · bevi · beve · beviamo · bevete · bevono
 L10	Weekend & Past Time	dire	to say	gl					3	avere	detto	dico · dici · dice · diciamo · dite · dicono
 L10	Weekend & Past Time	la festa	party	im	f	le feste						
 L10	Weekend & Past Time	il giornale	newspaper	im	m	i giornali						
@@ -674,6 +685,7 @@ L11	Trains & Trips	l'ovest (m)	west	im	m	—
 L11	Trains & Trips	il confine	border	im	m	i confini						
 L11	Trains & Trips	la cartolina	postcard	im	f	le cartoline						
 L11	Trains & Trips	il chilometro	kilometre	im	m	i chilometri						
+L11	Trains & Trips	conoscere	to know (a person, a place)	gl					2	avere	conosciuto	conosco · conosci · conosce · conosciamo · conoscete · conoscono
 L12	Clothes & Shops	i vestiti	clothes	im	m	i vestiti						
 L12	Clothes & Shops	la camicia	shirt	im	f	le camicie						
 L12	Clothes & Shops	la maglietta	T-shirt	im	f	le magliette						
@@ -734,7 +746,6 @@ L12	Clothes & Shops	la lana	wool	im	f	—
 L12	Clothes & Shops	la pelle	leather; skin	im	f	le pelli						
 L12	Clothes & Shops	chiaro	light	pr			chiara	chiari / chiare				
 L12	Clothes & Shops	scuro	dark	pr			scura	scuri / scure				
-L12	Clothes & Shops	questo	this	zam								
 L12	Clothes & Shops	quello	that	zam								
 L12	Clothes & Shops	lo, la, li, le (pronome)	him; her; it; them	zam								
 L12	Clothes & Shops	più	more	pril								

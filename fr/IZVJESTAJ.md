@@ -1,6 +1,6 @@
 # Izvještaj provjere — fr
 
-Riječi: **1347** · greške: **0** · upozorenja: **0**
+Riječi: **1355** · greške: **0** · upozorenja: **0**
 
 ## Po razinama
 
@@ -9,7 +9,7 @@ Riječi: **1347** · greške: **0** · upozorenja: **0**
 | L0 | Sounds & Familiar Words | 36 | 36 | ✓ |
 | L1 | Greetings & Countries | 50 | 50 | ✓ |
 | L2 | The Flat & Colours | 55 | 55 | ✓ |
-| L3 | Everyday Verbs, the Week & Numbers 0–69 | 55 | 58 | ✓ |
+| L3 | Everyday Verbs, the Week & Numbers 0–69 | 65 | 66 | ✓ |
 | L4 | Family & Age | 55 | 55 | ✓ |
 | L5 | Food, Drinks & Numbers 70–100 | 60 | 59 | ✓ |
 | L6 | City & Directions | 60 | 59 | ✓ |
@@ -27,7 +27,7 @@ Riječi: **1347** · greške: **0** · upozorenja: **0**
 | L18 | Work & Careers | 80 | 79 | ✓ |
 | L19 | Wishes & Advice | 80 | 78 | ✓ |
 | L20 | Memories & the Future | 80 | 77 | ✓ |
-| **ukupno** | | **1361** | **1347** | |
+| **ukupno** | | **1371** | **1355** | |
 
 ## Po vrstama
 
@@ -39,9 +39,9 @@ Riječi: **1347** · greške: **0** · upozorenja: **0**
 | pridjev | 141 |
 | prilog | 56 |
 | zamjenica | 40 |
-| broj | 30 |
+| broj | 37 |
 | prijedlog | 28 |
-| veznik | 12 |
+| veznik | 13 |
 | čestica | 6 |
 | član | 6 |
 

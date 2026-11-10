@@ -84,6 +84,19 @@
 {"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "dieci", "en": "ten", "vrsta": "broj"}
 {"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "venti", "en": "twenty", "vrsta": "broj"}
 {"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "la città", "en": "town; city", "vrsta": "im", "rod": "f", "mnozina": "le città"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "sei", "en": "six", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "sette", "en": "seven", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "otto", "en": "eight", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "nove", "en": "nine", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "quattordici", "en": "fourteen", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "undici", "en": "eleven", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "dodici", "en": "twelve", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "tredici", "en": "thirteen", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "quindici", "en": "fifteen", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "sedici", "en": "sixteen", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "diciassette", "en": "seventeen", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "diciotto", "en": "eighteen", "vrsta": "broj"}
+{"razina": 1, "tema": "Greetings, Countries & Numbers 0–20", "it": "diciannove", "en": "nineteen", "vrsta": "broj"}
 {"razina": 2, "tema": "The Flat & Colours", "it": "l'appartamento (m)", "en": "flat", "vrsta": "im", "rod": "m", "mnozina": "gli appartamenti"}
 {"razina": 2, "tema": "The Flat & Colours", "it": "la casa", "en": "house; home", "vrsta": "im", "rod": "f", "mnozina": "le case"}
 {"razina": 2, "tema": "The Flat & Colours", "it": "la stanza", "en": "room", "vrsta": "im", "rod": "f", "mnozina": "le stanze"}
@@ -192,6 +205,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "l'italiano (m)", "en": "Italian (language)", "vrsta": "im", "rod": "m", "mnozina": "—"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "il lavoro", "en": "work; job", "vrsta": "im", "rod": "m", "mnozina": "i lavori"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "it": "anche", "en": "also; too", "vrsta": "pril"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "it": "o", "en": "or", "vrsta": "vez"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "la madre", "en": "mother", "vrsta": "im", "rod": "f", "mnozina": "le madri"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "la mamma", "en": "mum", "vrsta": "im", "rod": "f", "mnozina": "le mamme"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "il padre", "en": "father", "vrsta": "im", "rod": "m", "mnozina": "i padri"}
@@ -235,19 +249,14 @@
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "simpatico", "en": "nice; likeable", "vrsta": "pr", "zenski": "simpatica", "mnozina_pr": "simpatici / simpatiche"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "bello", "en": "beautiful; handsome", "vrsta": "pr", "zenski": "bella", "mnozina_pr": "belli / belle"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "con", "en": "with", "vrsta": "prij"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "undici", "en": "eleven", "vrsta": "broj"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "dodici", "en": "twelve", "vrsta": "broj"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "tredici", "en": "thirteen", "vrsta": "broj"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "quindici", "en": "fifteen", "vrsta": "broj"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "sedici", "en": "sixteen", "vrsta": "broj"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "diciassette", "en": "seventeen", "vrsta": "broj"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "diciotto", "en": "eighteen", "vrsta": "broj"}
-{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "diciannove", "en": "nineteen", "vrsta": "broj"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "trenta", "en": "thirty", "vrsta": "broj"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "quaranta", "en": "forty", "vrsta": "broj"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "cinquanta", "en": "fifty", "vrsta": "broj"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "sessanta", "en": "sixty", "vrsta": "broj"}
 {"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "cento", "en": "hundred", "vrsta": "broj"}
+{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "settanta", "en": "seventy", "vrsta": "broj"}
+{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "ottanta", "en": "eighty", "vrsta": "broj"}
+{"razina": 4, "tema": "Family, Age & Numbers to 100", "it": "novanta", "en": "ninety", "vrsta": "broj"}
 {"razina": 5, "tema": "Food & Quantities", "it": "il mercato", "en": "market", "vrsta": "im", "rod": "m", "mnozina": "i mercati"}
 {"razina": 5, "tema": "Food & Quantities", "it": "il pane", "en": "bread", "vrsta": "im", "rod": "m", "mnozina": "i pani"}
 {"razina": 5, "tema": "Food & Quantities", "it": "il formaggio", "en": "cheese", "vrsta": "im", "rod": "m", "mnozina": "i formaggi"}
@@ -309,6 +318,8 @@
 {"razina": 5, "tema": "Food & Quantities", "it": "il sacchetto", "en": "bag (shopping)", "vrsta": "im", "rod": "m", "mnozina": "i sacchetti"}
 {"razina": 5, "tema": "Food & Quantities", "it": "la verdura", "en": "vegetables", "vrsta": "im", "rod": "f", "mnozina": "le verdure"}
 {"razina": 5, "tema": "Food & Quantities", "it": "la frutta", "en": "fruit", "vrsta": "im", "rod": "f", "mnozina": "—"}
+{"razina": 5, "tema": "Food & Quantities", "it": "bere", "en": "to drink", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "bevuto", "prezent": "bevo · bevi · beve · beviamo · bevete · bevono"}
+{"razina": 5, "tema": "Food & Quantities", "it": "questo", "en": "this", "vrsta": "zam"}
 {"razina": 6, "tema": "City & Directions", "it": "la via", "en": "street", "vrsta": "im", "rod": "f", "mnozina": "le vie"}
 {"razina": 6, "tema": "City & Directions", "it": "la strada", "en": "road; street", "vrsta": "im", "rod": "f", "mnozina": "le strade"}
 {"razina": 6, "tema": "City & Directions", "it": "il quartiere", "en": "neighbourhood", "vrsta": "im", "rod": "m", "mnozina": "i quartieri"}
@@ -550,6 +561,7 @@
 {"razina": 9, "tema": "Weather, Months & Plans", "it": "caldo", "en": "hot; warm", "vrsta": "pr", "zenski": "calda", "mnozina_pr": "caldi / calde"}
 {"razina": 9, "tema": "Weather, Months & Plans", "it": "freddo", "en": "cold", "vrsta": "pr", "zenski": "fredda", "mnozina_pr": "freddi / fredde"}
 {"razina": 9, "tema": "Weather, Months & Plans", "it": "nuvoloso", "en": "cloudy", "vrsta": "pr", "zenski": "nuvolosa", "mnozina_pr": "nuvolosi / nuvolose"}
+{"razina": 9, "tema": "Weather, Months & Plans", "it": "sapere", "en": "to know (a fact); to know how to", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "saputo", "prezent": "so · sai · sa · sappiamo · sapete · sanno"}
 {"razina": 10, "tema": "Weekend & Past Time", "it": "ieri", "en": "yesterday", "vrsta": "pril"}
 {"razina": 10, "tema": "Weekend & Past Time", "it": "l'altro ieri", "en": "the day before yesterday", "vrsta": "pril"}
 {"razina": 10, "tema": "Weekend & Past Time", "it": "scorso", "en": "last", "vrsta": "pr", "zenski": "scorsa", "mnozina_pr": "scorsi / scorse"}
@@ -576,7 +588,6 @@
 {"razina": 10, "tema": "Weekend & Past Time", "it": "mettere", "en": "to put", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "messo", "prezent": "metto · metti · mette · mettiamo · mettete · mettono"}
 {"razina": 10, "tema": "Weekend & Past Time", "it": "rispondere", "en": "to answer", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "risposto", "prezent": "rispondo · rispondi · risponde · rispondiamo · rispondete · rispondono"}
 {"razina": 10, "tema": "Weekend & Past Time", "it": "chiedere", "en": "to ask", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "chiesto", "prezent": "chiedo · chiedi · chiede · chiediamo · chiedete · chiedono"}
-{"razina": 10, "tema": "Weekend & Past Time", "it": "bere", "en": "to drink", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "bevuto", "prezent": "bevo · bevi · beve · beviamo · bevete · bevono"}
 {"razina": 10, "tema": "Weekend & Past Time", "it": "dire", "en": "to say", "vrsta": "gl", "gl_skupina": "3", "pomocni": "avere", "particip": "detto", "prezent": "dico · dici · dice · diciamo · dite · dicono"}
 {"razina": 10, "tema": "Weekend & Past Time", "it": "la festa", "en": "party", "vrsta": "im", "rod": "f", "mnozina": "le feste"}
 {"razina": 10, "tema": "Weekend & Past Time", "it": "il giornale", "en": "newspaper", "vrsta": "im", "rod": "m", "mnozina": "i giornali"}
@@ -673,6 +684,7 @@
 {"razina": 11, "tema": "Trains & Trips", "it": "il confine", "en": "border", "vrsta": "im", "rod": "m", "mnozina": "i confini"}
 {"razina": 11, "tema": "Trains & Trips", "it": "la cartolina", "en": "postcard", "vrsta": "im", "rod": "f", "mnozina": "le cartoline"}
 {"razina": 11, "tema": "Trains & Trips", "it": "il chilometro", "en": "kilometre", "vrsta": "im", "rod": "m", "mnozina": "i chilometri"}
+{"razina": 11, "tema": "Trains & Trips", "it": "conoscere", "en": "to know (a person, a place)", "vrsta": "gl", "gl_skupina": "2", "pomocni": "avere", "particip": "conosciuto", "prezent": "conosco · conosci · conosce · conosciamo · conoscete · conoscono"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "i vestiti", "en": "clothes", "vrsta": "im", "rod": "m", "mnozina": "i vestiti"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "la camicia", "en": "shirt", "vrsta": "im", "rod": "f", "mnozina": "le camicie"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "la maglietta", "en": "T-shirt", "vrsta": "im", "rod": "f", "mnozina": "le magliette"}
@@ -733,7 +745,6 @@
 {"razina": 12, "tema": "Clothes & Shops", "it": "la pelle", "en": "leather; skin", "vrsta": "im", "rod": "f", "mnozina": "le pelli"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "chiaro", "en": "light", "vrsta": "pr", "zenski": "chiara", "mnozina_pr": "chiari / chiare"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "scuro", "en": "dark", "vrsta": "pr", "zenski": "scura", "mnozina_pr": "scuri / scure"}
-{"razina": 12, "tema": "Clothes & Shops", "it": "questo", "en": "this", "vrsta": "zam"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "quello", "en": "that", "vrsta": "zam"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "lo, la, li, le (pronome)", "en": "him; her; it; them", "vrsta": "zam"}
 {"razina": 12, "tema": "Clothes & Shops", "it": "più", "en": "more", "vrsta": "pril"}
