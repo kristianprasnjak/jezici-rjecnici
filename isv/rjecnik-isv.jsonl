@@ -14,7 +14,7 @@
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "nos", "en": "nose", "vrsta": "im", "rod": "m"}
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "uho", "en": "ear", "vrsta": "im", "rod": "n"}
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "zub", "en": "tooth", "vrsta": "im", "rod": "m"}
-{"razina": 0, "tema": "Sounds & Familiar Words", "isv": "sŕdce", "en": "heart", "vrsta": "im", "rod": "n"}
+{"razina": 0, "tema": "Sounds & Familiar Words", "isv": "srdce", "en": "heart", "vrsta": "im", "rod": "n"}
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "denj", "en": "day", "vrsta": "im", "rod": "m"}
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "noč", "en": "night", "vrsta": "im", "rod": "f"}
 {"razina": 0, "tema": "Sounds & Familiar Words", "isv": "nebo", "en": "sky", "vrsta": "im", "rod": "n"}
@@ -44,7 +44,7 @@
 {"razina": 1, "tema": "Greetings & Countries", "isv": "dobra noč!", "en": "good night!", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "do viděnja!", "en": "goodbye!", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "hvala!", "en": "thank you!", "vrsta": "izraz"}
-{"razina": 1, "tema": "Greetings & Countries", "isv": "prošu", "en": "please; you are welcome", "vrsta": "izraz"}
+{"razina": 1, "tema": "Greetings & Countries", "isv": "prosim", "en": "please; you are welcome", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "izvinite", "en": "sorry; excuse me", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "dobrodošli!", "en": "welcome!", "vrsta": "izraz"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "da", "en": "yes", "vrsta": "čest"}
@@ -57,7 +57,7 @@
 {"razina": 1, "tema": "Greetings & Countries", "isv": "i", "en": "and", "vrsta": "vez"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "a", "en": "and; but", "vrsta": "vez"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "nazyvati se", "en": "to be called", "vrsta": "gl", "vid": "ipf", "prezent": "nazyvam se · nazyva se"}
-{"razina": 1, "tema": "Greetings & Countries", "isv": "imę", "en": "name", "vrsta": "im", "rod": "n"}
+{"razina": 1, "tema": "Greetings & Countries", "isv": "ime", "en": "name", "vrsta": "im", "rod": "n"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "prězime", "en": "surname", "vrsta": "im", "rod": "n"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "byti", "en": "to be", "vrsta": "gl", "vid": "ipf", "prezent": "jesm · jest"}
 {"razina": 1, "tema": "Greetings & Countries", "isv": "ja", "en": "I", "vrsta": "zam"}
@@ -104,7 +104,7 @@
 {"razina": 2, "tema": "The Train & Colours", "isv": "bilet", "en": "ticket", "vrsta": "im", "rod": "m"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "město", "en": "place; seat", "vrsta": "im", "rod": "n"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "okno", "en": "window", "vrsta": "im", "rod": "n"}
-{"razina": 2, "tema": "The Train & Colours", "isv": "dvėri", "en": "door", "vrsta": "im", "rod": "f"}
+{"razina": 2, "tema": "The Train & Colours", "isv": "dveri", "en": "door", "vrsta": "im", "rod": "f"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "stol", "en": "table", "vrsta": "im", "rod": "m"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "stul", "en": "chair", "vrsta": "im", "rod": "m"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "kniga", "en": "book", "vrsta": "im", "rod": "f"}
@@ -120,7 +120,7 @@
 {"razina": 2, "tema": "The Train & Colours", "isv": "kolor", "en": "colour", "vrsta": "im", "rod": "m"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "běly", "en": "white", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "črny", "en": "black", "vrsta": "pr"}
-{"razina": 2, "tema": "The Train & Colours", "isv": "čŕveny", "en": "red", "vrsta": "pr"}
+{"razina": 2, "tema": "The Train & Colours", "isv": "črveny", "en": "red", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "modry", "en": "blue", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "zeleny", "en": "green", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "žolty", "en": "yellow", "vrsta": "pr"}
@@ -138,7 +138,7 @@
 {"razina": 2, "tema": "The Train & Colours", "isv": "brzy", "en": "fast", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "spokojny", "en": "calm; quiet", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "čisty", "en": "clean", "vrsta": "pr"}
-{"razina": 2, "tema": "The Train & Colours", "isv": "mŕzky", "en": "ugly", "vrsta": "pr"}
+{"razina": 2, "tema": "The Train & Colours", "isv": "mrzky", "en": "ugly", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "dolgy", "en": "long", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "kratky", "en": "short", "vrsta": "pr"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "to", "en": "that; this (thing)", "vrsta": "zam"}
@@ -166,7 +166,7 @@
 {"razina": 2, "tema": "The Train & Colours", "isv": "mnogo", "en": "many; much", "vrsta": "pril"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "malo", "en": "little; few", "vrsta": "pril"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "sědališče", "en": "seat", "vrsta": "im", "rod": "n"}
-{"razina": 2, "tema": "The Train & Colours", "isv": "čęsto", "en": "often", "vrsta": "pril"}
+{"razina": 2, "tema": "The Train & Colours", "isv": "često", "en": "often", "vrsta": "pril"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "vsegda", "en": "always", "vrsta": "pril"}
 {"razina": 2, "tema": "The Train & Colours", "isv": "nikogda", "en": "never", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "dělati", "en": "to do; to work", "vrsta": "gl", "vid": "ipf", "prezent": "dělam · děla"}
@@ -197,7 +197,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "telefonovati", "en": "to phone", "vrsta": "gl", "vid": "ipf", "prezent": "telefonujem · telefonuje"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "čekati", "en": "to wait", "vrsta": "gl", "vid": "ipf", "prezent": "čekam · čeka"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "dati", "en": "to give", "vrsta": "gl", "vid": "pf", "prezent": "dam · da"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "vzęti", "en": "to take", "vrsta": "gl", "vid": "pf", "prezent": "vozmem · vozme"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "vzeti", "en": "to take", "vrsta": "gl", "vid": "pf", "prezent": "vozmem · vozme"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "otvoriti", "en": "to open", "vrsta": "gl", "vid": "pf", "prezent": "otvorim · otvori"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "zakryti", "en": "to close", "vrsta": "gl", "vid": "pf", "prezent": "zakryjem · zakryje"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "počinati", "en": "to begin", "vrsta": "gl", "vid": "ipf", "prezent": "počinam · počina"}
@@ -207,7 +207,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "vtorok", "en": "Tuesday", "vrsta": "im", "rod": "m"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "srěda", "en": "Wednesday", "vrsta": "im", "rod": "f"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "četvrtok", "en": "Thursday", "vrsta": "im", "rod": "m"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "pętok", "en": "Friday", "vrsta": "im", "rod": "m"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "petok", "en": "Friday", "vrsta": "im", "rod": "m"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "subota", "en": "Saturday", "vrsta": "im", "rod": "f"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "vikend", "en": "weekend", "vrsta": "im", "rod": "m"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "jutro", "en": "morning", "vrsta": "im", "rod": "n"}
@@ -218,7 +218,7 @@
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "včera", "en": "yesterday", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "kogda", "en": "when", "vrsta": "pril"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "začto", "en": "why", "vrsta": "pril"}
-{"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "råbota", "en": "work; job", "vrsta": "im", "rod": "f"}
+{"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "rabota", "en": "work; job", "vrsta": "im", "rod": "f"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "škola", "en": "school", "vrsta": "im", "rod": "f"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "kancelarija", "en": "office", "vrsta": "im", "rod": "f"}
 {"razina": 3, "tema": "Everyday Verbs & the Week", "isv": "universitet", "en": "university", "vrsta": "im", "rod": "m"}
@@ -241,7 +241,7 @@
 {"razina": 4, "tema": "Family & People", "isv": "mama", "en": "mum", "vrsta": "im", "rod": "f"}
 {"razina": 4, "tema": "Family & People", "isv": "tata", "en": "dad", "vrsta": "im", "rod": "m.ž"}
 {"razina": 4, "tema": "Family & People", "isv": "děti", "en": "children", "vrsta": "im", "rod": "f"}
-{"razina": 4, "tema": "Family & People", "isv": "dětę", "en": "child", "vrsta": "im", "rod": "n"}
+{"razina": 4, "tema": "Family & People", "isv": "děte", "en": "child", "vrsta": "im", "rod": "n"}
 {"razina": 4, "tema": "Family & People", "isv": "děd", "en": "grandfather", "vrsta": "im", "rod": "m.ž"}
 {"razina": 4, "tema": "Family & People", "isv": "baba", "en": "grandmother", "vrsta": "im", "rod": "f"}
 {"razina": 4, "tema": "Family & People", "isv": "vnuk", "en": "grandson", "vrsta": "im", "rod": "m.ž"}
@@ -256,9 +256,8 @@
 {"razina": 4, "tema": "Family & People", "isv": "děvčina", "en": "girl; young woman", "vrsta": "im", "rod": "f"}
 {"razina": 4, "tema": "Family & People", "isv": "člověk", "en": "person; human", "vrsta": "im", "rod": "m.ž"}
 {"razina": 4, "tema": "Family & People", "isv": "ljudi", "en": "people", "vrsta": "im", "rod": "f"}
-{"razina": 4, "tema": "Family & People", "isv": "děte", "en": "child", "vrsta": "im", "rod": "n"}
 {"razina": 4, "tema": "Family & People", "isv": "děvče", "en": "girl", "vrsta": "im", "rod": "n"}
-{"razina": 4, "tema": "Family & People", "isv": "mlådenec", "en": "young man", "vrsta": "im", "rod": "m.ž"}
+{"razina": 4, "tema": "Family & People", "isv": "mladenec", "en": "young man", "vrsta": "im", "rod": "m.ž"}
 {"razina": 4, "tema": "Family & People", "isv": "děva", "en": "maiden; girl", "vrsta": "im", "rod": "f"}
 {"razina": 4, "tema": "Family & People", "isv": "suprug", "en": "spouse (m)", "vrsta": "im", "rod": "m.ž"}
 {"razina": 4, "tema": "Family & People", "isv": "supruga", "en": "spouse (f)", "vrsta": "im", "rod": "f"}
@@ -279,14 +278,13 @@
 {"razina": 4, "tema": "Family & People", "isv": "vysoky", "en": "tall; high", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "nizky", "en": "short; low", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "dobry člověk", "en": "good person", "vrsta": "izraz"}
-{"razina": 4, "tema": "Family & People", "isv": "veselý", "en": "cheerful", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & People", "isv": "vesely", "en": "cheerful", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "umny", "en": "clever", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "směšny", "en": "funny", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "dragy", "en": "dear", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "ščestlivy", "en": "happy", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "smutny", "en": "sad", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "ljubov", "en": "love", "vrsta": "im", "rod": "f"}
-{"razina": 4, "tema": "Family & People", "isv": "svoj", "en": "one's own", "vrsta": "zam"}
 {"razina": 4, "tema": "Family & People", "isv": "jejin", "en": "her (possessive)", "vrsta": "zam"}
 {"razina": 4, "tema": "Family & People", "isv": "čij", "en": "whose", "vrsta": "zam"}
 {"razina": 4, "tema": "Family & People", "isv": "ljubimec", "en": "pet; favourite", "vrsta": "im", "rod": "m.ž"}
@@ -306,6 +304,13 @@
 {"razina": 4, "tema": "Family & People", "isv": "ljubimy", "en": "beloved; favourite", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "starši", "en": "older", "vrsta": "pr"}
 {"razina": 4, "tema": "Family & People", "isv": "mladši", "en": "younger", "vrsta": "pr"}
+{"razina": 4, "tema": "Family & People", "isv": "mene", "en": "me", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & People", "isv": "tebe", "en": "you", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & People", "isv": "ju", "en": "her", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & People", "isv": "jego (obj.)", "en": "him", "vrsta": "izraz"}
+{"razina": 4, "tema": "Family & People", "isv": "nas", "en": "us", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & People", "isv": "vas", "en": "you (pl.)", "vrsta": "zam"}
+{"razina": 4, "tema": "Family & People", "isv": "jih (obj.)", "en": "them", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "trg (prodaja)", "en": "market", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "jabloko", "en": "apple", "vrsta": "im", "rod": "n"}
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "gruša", "en": "pear", "vrsta": "im", "rod": "f"}
@@ -379,7 +384,7 @@
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "ješče něčto?", "en": "anything else?", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "hotěti by", "en": "would like", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "polovina", "en": "half", "vrsta": "im", "rod": "f"}
-{"razina": 5, "tema": "Food, Numbers & Age", "isv": "četvŕt", "en": "quarter", "vrsta": "im", "rod": "m"}
+{"razina": 5, "tema": "Food, Numbers & Age", "isv": "četvrt", "en": "quarter", "vrsta": "im", "rod": "m"}
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "mnogo (+ gen.)", "en": "a lot of", "vrsta": "izraz"}
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "dovoljno", "en": "enough", "vrsta": "pril"}
 {"razina": 5, "tema": "Food, Numbers & Age", "isv": "zanadto", "en": "too much", "vrsta": "pril"}
@@ -437,7 +442,7 @@
 {"razina": 6, "tema": "City & Directions", "isv": "prohoditi se", "en": "to take a walk", "vrsta": "gl", "vid": "ipf", "prezent": "prohodim se · prohodi se"}
 {"razina": 6, "tema": "City & Directions", "isv": "pěši", "en": "on foot", "vrsta": "pril"}
 {"razina": 6, "tema": "City & Directions", "isv": "vozilo", "en": "vehicle", "vrsta": "im", "rod": "n"}
-{"razina": 6, "tema": "City & Directions", "isv": "zablųditi", "en": "to get lost", "vrsta": "gl", "vid": "pf", "prezent": "zablųdim · zablųdi"}
+{"razina": 6, "tema": "City & Directions", "isv": "zabluditi", "en": "to get lost", "vrsta": "gl", "vid": "pf", "prezent": "zabludim · zabludi"}
 {"razina": 6, "tema": "City & Directions", "isv": "pokazati", "en": "to show", "vrsta": "gl", "vid": "pf", "prezent": "pokažem · pokaže"}
 {"razina": 6, "tema": "City & Directions", "isv": "pytati", "en": "to ask", "vrsta": "gl", "vid": "ipf", "prezent": "pytam · pyta"}
 {"razina": 6, "tema": "City & Directions", "isv": "odgovoriti", "en": "to answer", "vrsta": "gl", "vid": "pf", "prezent": "odgovorim · odgovori"}
@@ -458,13 +463,14 @@
 {"razina": 6, "tema": "City & Directions", "isv": "okolina", "en": "surroundings", "vrsta": "im", "rod": "f"}
 {"razina": 6, "tema": "City & Directions", "isv": "plan", "en": "plan; map", "vrsta": "im", "rod": "m"}
 {"razina": 6, "tema": "City & Directions", "isv": "fontana", "en": "fountain", "vrsta": "im", "rod": "f"}
-{"razina": 6, "tema": "City & Directions", "isv": "pamętnik", "en": "monument", "vrsta": "im", "rod": "m"}
+{"razina": 6, "tema": "City & Directions", "isv": "pametnik", "en": "monument", "vrsta": "im", "rod": "m"}
 {"razina": 6, "tema": "City & Directions", "isv": "dvor", "en": "courtyard", "vrsta": "im", "rod": "m"}
 {"razina": 6, "tema": "City & Directions", "isv": "vrata", "en": "gate", "vrsta": "im", "rod": "n"}
 {"razina": 6, "tema": "City & Directions", "isv": "izhod", "en": "exit", "vrsta": "im", "rod": "m"}
 {"razina": 6, "tema": "City & Directions", "isv": "vhod", "en": "entrance", "vrsta": "im", "rod": "m"}
 {"razina": 6, "tema": "City & Directions", "isv": "bulvar", "en": "boulevard", "vrsta": "im", "rod": "m"}
 {"razina": 6, "tema": "City & Directions", "isv": "sad", "en": "garden; orchard", "vrsta": "im", "rod": "m"}
+{"razina": 6, "tema": "City & Directions", "isv": "jehati", "en": "to go (by vehicle)", "vrsta": "gl", "vid": "ipf", "prezent": "jedem · jede"}
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "svobodny čas", "en": "free time", "vrsta": "izraz"}
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "hobi", "en": "hobby", "vrsta": "im", "rod": "m"}
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "podobati se", "en": "to please (to like)", "vrsta": "gl", "vid": "ipf", "prezent": "podobam se · podoba se"}
@@ -511,7 +517,6 @@
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "nudny", "en": "boring", "vrsta": "pr"}
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "zabavny", "en": "fun", "vrsta": "pr"}
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "ljubimy (hobi)", "en": "favourite (hobby)", "vrsta": "izraz"}
-{"razina": 7, "tema": "Hobbies & Sport", "isv": "vesely", "en": "cheerful", "vrsta": "pr"}
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "utomljeny", "en": "tired", "vrsta": "pr"}
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "vkupě", "en": "together", "vrsta": "pril"}
 {"razina": 7, "tema": "Hobbies & Sport", "isv": "sam (sebe)", "en": "by oneself", "vrsta": "izraz"}
@@ -586,7 +591,7 @@
 {"razina": 8, "tema": "Past Time & Events", "isv": "gazeta", "en": "newspaper", "vrsta": "im", "rod": "f"}
 {"razina": 8, "tema": "Past Time & Events", "isv": "poslanje", "en": "message", "vrsta": "im", "rod": "n"}
 {"razina": 8, "tema": "Past Time & Events", "isv": "historija", "en": "history; story", "vrsta": "im", "rod": "f"}
-{"razina": 8, "tema": "Past Time & Events", "isv": "pamęt", "en": "memory", "vrsta": "im", "rod": "f"}
+{"razina": 8, "tema": "Past Time & Events", "isv": "pamet", "en": "memory", "vrsta": "im", "rod": "f"}
 {"razina": 8, "tema": "Past Time & Events", "isv": "fotografija", "en": "photograph", "vrsta": "im", "rod": "f"}
 {"razina": 8, "tema": "Past Time & Events", "isv": "gost (prošly)", "en": "former guest", "vrsta": "izraz"}
 {"razina": 8, "tema": "Past Time & Events", "isv": "čas (prošly)", "en": "the past", "vrsta": "izraz"}
@@ -622,17 +627,16 @@
 {"razina": 8, "tema": "Past Time & Events", "isv": "smutok", "en": "sadness", "vrsta": "im", "rod": "m"}
 {"razina": 8, "tema": "Past Time & Events", "isv": "neočekyvany", "en": "unexpected", "vrsta": "pr"}
 {"razina": 8, "tema": "Past Time & Events", "isv": "ves denj", "en": "all day", "vrsta": "izraz"}
-{"razina": 8, "tema": "Past Time & Events", "isv": "noćny", "en": "nightly; night", "vrsta": "pr"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "zaplanovati", "en": "to plan (pf.)", "vrsta": "gl", "vid": "pf", "prezent": "zaplanujem · zaplanuje"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "planovati", "en": "to plan", "vrsta": "gl", "vid": "ipf", "prezent": "planujem · planuje"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "buduči", "en": "future (adj.)", "vrsta": "pr"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "budučnost", "en": "future", "vrsta": "im", "rod": "f"}
-{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "budu", "en": "I will (future auxiliary)", "vrsta": "izraz"}
+{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "budem", "en": "I will (future auxiliary; school standard -m)", "vrsta": "izraz"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "musěti", "en": "must; to have to", "vrsta": "gl", "vid": "ipf", "prezent": "musim · musi"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "ako", "en": "if", "vrsta": "vez"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "pogoda", "en": "weather", "vrsta": "im", "rod": "f"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "prognoza", "en": "forecast", "vrsta": "im", "rod": "f"}
-{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "dožďlivy", "en": "rainy", "vrsta": "pr"}
+{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "doždlivy", "en": "rainy", "vrsta": "pr"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "solnečny", "en": "sunny", "vrsta": "pr"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "oblačny", "en": "cloudy", "vrsta": "pr"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "větr", "en": "wind", "vrsta": "im", "rod": "m"}
@@ -642,8 +646,8 @@
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "grom", "en": "thunder", "vrsta": "im", "rod": "m"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "molnja", "en": "lightning", "vrsta": "im", "rod": "f"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "mgla", "en": "fog", "vrsta": "im", "rod": "f"}
-{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "lėd", "en": "ice", "vrsta": "im", "rod": "m"}
-{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "mråz", "en": "frost", "vrsta": "im", "rod": "m"}
+{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "led", "en": "ice", "vrsta": "im", "rod": "m"}
+{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "mraz", "en": "frost", "vrsta": "im", "rod": "m"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "teply", "en": "warm", "vrsta": "pr"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "žarky", "en": "hot", "vrsta": "pr"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "hladny", "en": "cold", "vrsta": "pr"}
@@ -694,7 +698,7 @@
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "plašč", "en": "cloak; raincoat", "vrsta": "im", "rod": "m"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "vid (pf./ipf.)", "en": "aspect", "vrsta": "izraz"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "dokončiti", "en": "to complete", "vrsta": "gl", "vid": "pf", "prezent": "dokončim · dokonči"}
-{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "začęti", "en": "to begin (pf.)", "vrsta": "gl", "vid": "pf", "prezent": "začnem · začne"}
+{"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "začeti", "en": "to begin (pf.)", "vrsta": "gl", "vid": "pf", "prezent": "začnem · začne"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "prigotoviti", "en": "to prepare", "vrsta": "gl", "vid": "pf", "prezent": "prigotovim · prigotovi"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "spakovati", "en": "to pack", "vrsta": "gl", "vid": "pf", "prezent": "spakujem · spakuje"}
 {"razina": 9, "tema": "Plans, Weather & Seasons", "isv": "odložiti", "en": "to postpone", "vrsta": "gl", "vid": "pf", "prezent": "odložim · odloži"}
@@ -719,7 +723,7 @@
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "družka", "en": "friend (f)", "vrsta": "im", "rod": "f"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "instrumental", "en": "instrumental case", "vrsta": "im", "rod": "m"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "profesija", "en": "profession", "vrsta": "im", "rod": "f"}
-{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "råbotnik", "en": "worker", "vrsta": "im", "rod": "m.ž"}
+{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "rabotnik", "en": "worker", "vrsta": "im", "rod": "m.ž"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "učitelj", "en": "teacher", "vrsta": "im", "rod": "m.ž"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "učiteljka", "en": "teacher (f)", "vrsta": "im", "rod": "f"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "učenik", "en": "pupil", "vrsta": "im", "rod": "m.ž"}
@@ -782,13 +786,6 @@
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "točno", "en": "exactly; on time", "vrsta": "pril"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "s kym?", "en": "with whom?", "vrsta": "izraz"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "čim", "en": "with what", "vrsta": "zam"}
-{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "mene", "en": "me", "vrsta": "zam"}
-{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "tebe", "en": "you", "vrsta": "zam"}
-{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "jego (obj.)", "en": "him", "vrsta": "izraz"}
-{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "ju", "en": "her", "vrsta": "zam"}
-{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "nas", "en": "us", "vrsta": "zam"}
-{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "vas", "en": "you (pl.)", "vrsta": "zam"}
-{"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "jih (obj.)", "en": "them", "vrsta": "izraz"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "sobstvenik", "en": "owner", "vrsta": "im", "rod": "m.ž"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "kolektiv", "en": "team (work)", "vrsta": "im", "rod": "m"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "pomočnik", "en": "assistant", "vrsta": "im", "rod": "m.ž"}
@@ -799,7 +796,6 @@
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "čaj (večerja)", "en": "tea", "vrsta": "izraz"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "biskvit", "en": "biscuit", "vrsta": "im", "rod": "m"}
 {"razina": 10, "tema": "Friends, Professions & Eating Out", "isv": "voda (mineralna)", "en": "mineral water", "vrsta": "izraz"}
-{"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "jehati", "en": "to go (by vehicle)", "vrsta": "gl", "vid": "ipf", "prezent": "jedem · jede"}
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "prěsědati", "en": "to change (trains)", "vrsta": "gl", "vid": "ipf", "prezent": "prěsědam · prěsěda"}
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "idti pěši", "en": "to walk", "vrsta": "izraz"}
 {"razina": 11, "tema": "Transport, Trips & Hotels", "isv": "letěti", "en": "to fly", "vrsta": "gl", "vid": "ipf", "prezent": "letim · leti"}
@@ -896,13 +892,13 @@
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "lice", "en": "face", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "usta", "en": "mouth", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "jezyk (tělo)", "en": "tongue", "vrsta": "izraz"}
-{"razina": 12, "tema": "The Body & the Doctor", "isv": "gŕlo", "en": "throat", "vrsta": "im", "rod": "n"}
+{"razina": 12, "tema": "The Body & the Doctor", "isv": "grlo", "en": "throat", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "šija", "en": "neck", "vrsta": "im", "rod": "f"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "rame", "en": "shoulder", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "prst", "en": "finger", "vrsta": "im", "rod": "m"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "hrebet", "en": "back; spine", "vrsta": "im", "rod": "m"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "život", "en": "belly; life", "vrsta": "im", "rod": "m"}
-{"razina": 12, "tema": "The Body & the Doctor", "isv": "želųdok", "en": "stomach", "vrsta": "im", "rod": "m"}
+{"razina": 12, "tema": "The Body & the Doctor", "isv": "želudok", "en": "stomach", "vrsta": "im", "rod": "m"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "kolěno", "en": "knee", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "stopa", "en": "foot", "vrsta": "im", "rod": "f"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "koža", "en": "skin", "vrsta": "im", "rod": "f"}
@@ -947,7 +943,7 @@
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "pomogti", "en": "to help (pf.)", "vrsta": "gl", "vid": "pf", "prezent": "pomožem · pomože"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "slaby", "en": "weak", "vrsta": "pr"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "silny", "en": "strong", "vrsta": "pr"}
-{"razina": 12, "tema": "The Body & the Doctor", "isv": "tęžky", "en": "heavy; difficult", "vrsta": "pr"}
+{"razina": 12, "tema": "The Body & the Doctor", "isv": "težky", "en": "heavy; difficult", "vrsta": "pr"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "legky", "en": "light; easy", "vrsta": "pr"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "zapestje", "en": "wrist", "vrsta": "im", "rod": "n"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "bojati se", "en": "to be afraid", "vrsta": "gl", "vid": "ipf", "prezent": "bojim se · boji se"}
@@ -980,6 +976,7 @@
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "zěvati", "en": "to yawn", "vrsta": "gl", "vid": "ipf", "prezent": "zěvam · zěva"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "solza", "en": "tear", "vrsta": "im", "rod": "f"}
 {"razina": 12, "tema": "The Body & the Doctor", "isv": "dentist", "en": "dentist", "vrsta": "im", "rod": "m.ž"}
+{"razina": 12, "tema": "The Body & the Doctor", "isv": "svoj", "en": "one's own", "vrsta": "zam"}
 {"razina": 13, "tema": "Cities & Nature", "isv": "večši", "en": "bigger", "vrsta": "pr"}
 {"razina": 13, "tema": "Cities & Nature", "isv": "menši", "en": "smaller", "vrsta": "pr"}
 {"razina": 13, "tema": "Cities & Nature", "isv": "lučši", "en": "better", "vrsta": "pr"}
@@ -1074,6 +1071,7 @@
 {"razina": 13, "tema": "Cities & Nature", "isv": "pšenica", "en": "wheat", "vrsta": "im", "rod": "f"}
 {"razina": 13, "tema": "Cities & Nature", "isv": "plot", "en": "fence", "vrsta": "im", "rod": "m"}
 {"razina": 13, "tema": "Cities & Nature", "isv": "rybnik", "en": "pond", "vrsta": "im", "rod": "m"}
+{"razina": 13, "tema": "Cities & Nature", "isv": "než", "en": "than", "vrsta": "vez"}
 {"razina": 14, "tema": "Shopping & Clothes", "isv": "prědmet", "en": "object; item", "vrsta": "im", "rod": "m"}
 {"razina": 14, "tema": "Shopping & Clothes", "isv": "stvar", "en": "thing", "vrsta": "im", "rod": "f"}
 {"razina": 14, "tema": "Shopping & Clothes", "isv": "moda", "en": "fashion", "vrsta": "im", "rod": "f"}
@@ -1184,7 +1182,7 @@
 {"razina": 15, "tema": "Wishes & Advice", "isv": "tratiti", "en": "to spend; to waste", "vrsta": "gl", "vid": "ipf", "prezent": "tratim · trati"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "poščediti", "en": "to save; to spare", "vrsta": "gl", "vid": "pf", "prezent": "poščedim · poščedi"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "dati zajem", "en": "to lend", "vrsta": "izraz"}
-{"razina": 15, "tema": "Wishes & Advice", "isv": "zajęti", "en": "to borrow", "vrsta": "gl", "vid": "pf", "prezent": "zajmem · zajme"}
+{"razina": 15, "tema": "Wishes & Advice", "isv": "zajeti", "en": "to borrow", "vrsta": "gl", "vid": "pf", "prezent": "zajmem · zajme"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "svět", "en": "world", "vrsta": "im", "rod": "m"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "motylj", "en": "butterfly", "vrsta": "im", "rod": "m.ž"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "jahta", "en": "yacht", "vrsta": "im", "rod": "f"}
@@ -1194,7 +1192,7 @@
 {"razina": 15, "tema": "Wishes & Advice", "isv": "možnost", "en": "possibility", "vrsta": "im", "rod": "f"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "izbor", "en": "choice", "vrsta": "im", "rod": "m"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "rěšenje", "en": "decision; solution", "vrsta": "im", "rod": "n"}
-{"razina": 15, "tema": "Wishes & Advice", "isv": "probovati (sę)", "en": "to try", "vrsta": "izraz"}
+{"razina": 15, "tema": "Wishes & Advice", "isv": "probovati (se)", "en": "to try", "vrsta": "izraz"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "prěstati", "en": "to stop", "vrsta": "gl", "vid": "pf", "prezent": "prěstanem · prěstane"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "prodolžati", "en": "to continue", "vrsta": "gl", "vid": "ipf", "prezent": "prodolžam · prodolža"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "povinno se", "en": "one should", "vrsta": "izraz"}
@@ -1262,7 +1260,7 @@
 {"razina": 15, "tema": "Wishes & Advice", "isv": "mladost", "en": "youth", "vrsta": "im", "rod": "f"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "starost", "en": "old age", "vrsta": "im", "rod": "f"}
 {"razina": 15, "tema": "Wishes & Advice", "isv": "rada", "en": "advice", "vrsta": "im", "rod": "f"}
-{"razina": 16, "tema": "Memories & the Future", "isv": "pamet", "en": "memory", "vrsta": "im", "rod": "f"}
+{"razina": 15, "tema": "Wishes & Advice", "isv": "jestli", "en": "if (conditional)", "vrsta": "vez"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "pametati", "en": "to remember", "vrsta": "gl", "vid": "ipf", "prezent": "pametam · pameta"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "nezabytny", "en": "unforgettable", "vrsta": "pr"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "povratok", "en": "return", "vrsta": "im", "rod": "m"}
@@ -1278,7 +1276,7 @@
 {"razina": 16, "tema": "Memories & the Future", "isv": "smutny (prošlost)", "en": "sad (past)", "vrsta": "izraz"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "emocija", "en": "emotion", "vrsta": "im", "rod": "f"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "konec (puta)", "en": "end of the road", "vrsta": "izraz"}
-{"razina": 16, "tema": "Memories & the Future", "isv": "počętok", "en": "beginning", "vrsta": "im", "rod": "m"}
+{"razina": 16, "tema": "Memories & the Future", "isv": "početok", "en": "beginning", "vrsta": "im", "rod": "m"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "progres", "en": "progress", "vrsta": "im", "rod": "m"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "uravenj", "en": "level", "vrsta": "im", "rod": "m,f"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "svědočstvo", "en": "certificate", "vrsta": "im", "rod": "n"}
@@ -1289,7 +1287,7 @@
 {"razina": 16, "tema": "Memories & the Future", "isv": "začetok", "en": "start", "vrsta": "im", "rod": "m"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "za god", "en": "in a year", "vrsta": "izraz"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "navěky", "en": "forever", "vrsta": "pril"}
-{"razina": 16, "tema": "Memories & the Future", "isv": "opęt", "en": "again", "vrsta": "pril"}
+{"razina": 16, "tema": "Memories & the Future", "isv": "opet", "en": "again", "vrsta": "pril"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "věriti", "en": "to believe", "vrsta": "gl", "vid": "ipf", "prezent": "věrim · věri"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "děliti se", "en": "to share", "vrsta": "gl", "vid": "ipf", "prezent": "dělim se · děli se"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "čuvati", "en": "to keep; to guard", "vrsta": "gl", "vid": "ipf", "prezent": "čuvam · čuva"}
@@ -1341,7 +1339,6 @@
 {"razina": 16, "tema": "Memories & the Future", "isv": "pomalo", "en": "slowly", "vrsta": "pril"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "jasno", "en": "clearly", "vrsta": "pril"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "final", "en": "final; end", "vrsta": "im", "rod": "m"}
-{"razina": 16, "tema": "Memories & the Future", "isv": "početok", "en": "beginning", "vrsta": "im", "rod": "m"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "godišnica", "en": "anniversary", "vrsta": "im", "rod": "f"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "učilišče", "en": "school; college", "vrsta": "im", "rod": "n"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "dětinstvo", "en": "childhood", "vrsta": "im", "rod": "n"}
@@ -1355,3 +1352,5 @@
 {"razina": 16, "tema": "Memories & the Future", "isv": "směh", "en": "laughter", "vrsta": "im", "rod": "m"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "objetje", "en": "hug", "vrsta": "im", "rod": "n"}
 {"razina": 16, "tema": "Memories & the Future", "isv": "pocělunok", "en": "kiss", "vrsta": "im", "rod": "m"}
+{"razina": 16, "tema": "Memories & the Future", "isv": "poneže", "en": "because; since", "vrsta": "vez"}
+{"razina": 16, "tema": "Memories & the Future", "isv": "zatože", "en": "because", "vrsta": "vez"}

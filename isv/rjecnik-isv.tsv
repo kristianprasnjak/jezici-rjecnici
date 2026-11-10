@@ -15,7 +15,7 @@ L0	Sounds & Familiar Words	oko	eye	im	n
 L0	Sounds & Familiar Words	nos	nose	im	m		
 L0	Sounds & Familiar Words	uho	ear	im	n		
 L0	Sounds & Familiar Words	zub	tooth	im	m		
-L0	Sounds & Familiar Words	sŕdce	heart	im	n		
+L0	Sounds & Familiar Words	srdce	heart	im	n		
 L0	Sounds & Familiar Words	denj	day	im	m		
 L0	Sounds & Familiar Words	noč	night	im	f		
 L0	Sounds & Familiar Words	nebo	sky	im	n		
@@ -45,7 +45,7 @@ L1	Greetings & Countries	dobry večer!	good evening!	izraz
 L1	Greetings & Countries	dobra noč!	good night!	izraz			
 L1	Greetings & Countries	do viděnja!	goodbye!	izraz			
 L1	Greetings & Countries	hvala!	thank you!	izraz			
-L1	Greetings & Countries	prošu	please; you are welcome	izraz			
+L1	Greetings & Countries	prosim	please; you are welcome	izraz			
 L1	Greetings & Countries	izvinite	sorry; excuse me	izraz			
 L1	Greetings & Countries	dobrodošli!	welcome!	izraz			
 L1	Greetings & Countries	da	yes	čest			
@@ -58,7 +58,7 @@ L1	Greetings & Countries	velmi	very	pril
 L1	Greetings & Countries	i	and	vez			
 L1	Greetings & Countries	a	and; but	vez			
 L1	Greetings & Countries	nazyvati se	to be called	gl		ipf	nazyvam se · nazyva se
-L1	Greetings & Countries	imę	name	im	n		
+L1	Greetings & Countries	ime	name	im	n		
 L1	Greetings & Countries	prězime	surname	im	n		
 L1	Greetings & Countries	byti	to be	gl		ipf	jesm · jest
 L1	Greetings & Countries	ja	I	zam			
@@ -105,7 +105,7 @@ L2	The Train & Colours	kolěja	track; rail	im	f
 L2	The Train & Colours	bilet	ticket	im	m		
 L2	The Train & Colours	město	place; seat	im	n		
 L2	The Train & Colours	okno	window	im	n		
-L2	The Train & Colours	dvėri	door	im	f		
+L2	The Train & Colours	dveri	door	im	f		
 L2	The Train & Colours	stol	table	im	m		
 L2	The Train & Colours	stul	chair	im	m		
 L2	The Train & Colours	kniga	book	im	f		
@@ -121,7 +121,7 @@ L2	The Train & Colours	putnik	passenger; traveller	im	m.ž
 L2	The Train & Colours	kolor	colour	im	m		
 L2	The Train & Colours	běly	white	pr			
 L2	The Train & Colours	črny	black	pr			
-L2	The Train & Colours	čŕveny	red	pr			
+L2	The Train & Colours	črveny	red	pr			
 L2	The Train & Colours	modry	blue	pr			
 L2	The Train & Colours	zeleny	green	pr			
 L2	The Train & Colours	žolty	yellow	pr			
@@ -139,7 +139,7 @@ L2	The Train & Colours	lěpy	beautiful	pr
 L2	The Train & Colours	brzy	fast	pr			
 L2	The Train & Colours	spokojny	calm; quiet	pr			
 L2	The Train & Colours	čisty	clean	pr			
-L2	The Train & Colours	mŕzky	ugly	pr			
+L2	The Train & Colours	mrzky	ugly	pr			
 L2	The Train & Colours	dolgy	long	pr			
 L2	The Train & Colours	kratky	short	pr			
 L2	The Train & Colours	to	that; this (thing)	zam			
@@ -167,7 +167,7 @@ L2	The Train & Colours	sejčas	now	pril
 L2	The Train & Colours	mnogo	many; much	pril			
 L2	The Train & Colours	malo	little; few	pril			
 L2	The Train & Colours	sědališče	seat	im	n		
-L2	The Train & Colours	čęsto	often	pril			
+L2	The Train & Colours	često	often	pril			
 L2	The Train & Colours	vsegda	always	pril			
 L2	The Train & Colours	nikogda	never	pril			
 L3	Everyday Verbs & the Week	dělati	to do; to work	gl		ipf	dělam · děla
@@ -198,7 +198,7 @@ L3	Everyday Verbs & the Week	mysliti	to think	gl		ipf	myslim · mysli
 L3	Everyday Verbs & the Week	telefonovati	to phone	gl		ipf	telefonujem · telefonuje
 L3	Everyday Verbs & the Week	čekati	to wait	gl		ipf	čekam · čeka
 L3	Everyday Verbs & the Week	dati	to give	gl		pf	dam · da
-L3	Everyday Verbs & the Week	vzęti	to take	gl		pf	vozmem · vozme
+L3	Everyday Verbs & the Week	vzeti	to take	gl		pf	vozmem · vozme
 L3	Everyday Verbs & the Week	otvoriti	to open	gl		pf	otvorim · otvori
 L3	Everyday Verbs & the Week	zakryti	to close	gl		pf	zakryjem · zakryje
 L3	Everyday Verbs & the Week	počinati	to begin	gl		ipf	počinam · počina
@@ -208,7 +208,7 @@ L3	Everyday Verbs & the Week	ponedělok	Monday	im	m
 L3	Everyday Verbs & the Week	vtorok	Tuesday	im	m		
 L3	Everyday Verbs & the Week	srěda	Wednesday	im	f		
 L3	Everyday Verbs & the Week	četvrtok	Thursday	im	m		
-L3	Everyday Verbs & the Week	pętok	Friday	im	m		
+L3	Everyday Verbs & the Week	petok	Friday	im	m		
 L3	Everyday Verbs & the Week	subota	Saturday	im	f		
 L3	Everyday Verbs & the Week	vikend	weekend	im	m		
 L3	Everyday Verbs & the Week	jutro	morning	im	n		
@@ -219,7 +219,7 @@ L3	Everyday Verbs & the Week	zautra	tomorrow	pril
 L3	Everyday Verbs & the Week	včera	yesterday	pril			
 L3	Everyday Verbs & the Week	kogda	when	pril			
 L3	Everyday Verbs & the Week	začto	why	pril			
-L3	Everyday Verbs & the Week	råbota	work; job	im	f		
+L3	Everyday Verbs & the Week	rabota	work; job	im	f		
 L3	Everyday Verbs & the Week	škola	school	im	f		
 L3	Everyday Verbs & the Week	kancelarija	office	im	f		
 L3	Everyday Verbs & the Week	universitet	university	im	m		
@@ -242,7 +242,7 @@ L4	Family & People	roditelj	parent	im	m.ž
 L4	Family & People	mama	mum	im	f		
 L4	Family & People	tata	dad	im	m.ž		
 L4	Family & People	děti	children	im	f		
-L4	Family & People	dětę	child	im	n		
+L4	Family & People	děte	child	im	n		
 L4	Family & People	děd	grandfather	im	m.ž		
 L4	Family & People	baba	grandmother	im	f		
 L4	Family & People	vnuk	grandson	im	m.ž		
@@ -257,9 +257,8 @@ L4	Family & People	osoba	person	im	f
 L4	Family & People	děvčina	girl; young woman	im	f		
 L4	Family & People	člověk	person; human	im	m.ž		
 L4	Family & People	ljudi	people	im	f		
-L4	Family & People	děte	child	im	n		
 L4	Family & People	děvče	girl	im	n		
-L4	Family & People	mlådenec	young man	im	m.ž		
+L4	Family & People	mladenec	young man	im	m.ž		
 L4	Family & People	děva	maiden; girl	im	f		
 L4	Family & People	suprug	spouse (m)	im	m.ž		
 L4	Family & People	supruga	spouse (f)	im	f		
@@ -280,14 +279,13 @@ L4	Family & People	svobodny	free; single	pr
 L4	Family & People	vysoky	tall; high	pr			
 L4	Family & People	nizky	short; low	pr			
 L4	Family & People	dobry člověk	good person	izraz			
-L4	Family & People	veselý	cheerful	pr			
+L4	Family & People	vesely	cheerful	pr			
 L4	Family & People	umny	clever	pr			
 L4	Family & People	směšny	funny	pr			
 L4	Family & People	dragy	dear	pr			
 L4	Family & People	ščestlivy	happy	pr			
 L4	Family & People	smutny	sad	pr			
 L4	Family & People	ljubov	love	im	f		
-L4	Family & People	svoj	one's own	zam			
 L4	Family & People	jejin	her (possessive)	zam			
 L4	Family & People	čij	whose	zam			
 L4	Family & People	ljubimec	pet; favourite	im	m.ž		
@@ -307,6 +305,13 @@ L4	Family & People	posětiti	to visit	gl		pf	posětim · posěti
 L4	Family & People	ljubimy	beloved; favourite	pr			
 L4	Family & People	starši	older	pr			
 L4	Family & People	mladši	younger	pr			
+L4	Family & People	mene	me	zam			
+L4	Family & People	tebe	you	zam			
+L4	Family & People	ju	her	zam			
+L4	Family & People	jego (obj.)	him	izraz			
+L4	Family & People	nas	us	zam			
+L4	Family & People	vas	you (pl.)	zam			
+L4	Family & People	jih (obj.)	them	izraz			
 L5	Food, Numbers & Age	trg (prodaja)	market	izraz			
 L5	Food, Numbers & Age	jabloko	apple	im	n		
 L5	Food, Numbers & Age	gruša	pear	im	f		
@@ -380,7 +385,7 @@ L5	Food, Numbers & Age	koš	basket	im	m
 L5	Food, Numbers & Age	ješče něčto?	anything else?	izraz			
 L5	Food, Numbers & Age	hotěti by	would like	izraz			
 L5	Food, Numbers & Age	polovina	half	im	f		
-L5	Food, Numbers & Age	četvŕt	quarter	im	m		
+L5	Food, Numbers & Age	četvrt	quarter	im	m		
 L5	Food, Numbers & Age	mnogo (+ gen.)	a lot of	izraz			
 L5	Food, Numbers & Age	dovoljno	enough	pril			
 L5	Food, Numbers & Age	zanadto	too much	pril			
@@ -438,7 +443,7 @@ L6	City & Directions	najdti	to find	gl		pf	najdem · najde
 L6	City & Directions	prohoditi se	to take a walk	gl		ipf	prohodim se · prohodi se
 L6	City & Directions	pěši	on foot	pril			
 L6	City & Directions	vozilo	vehicle	im	n		
-L6	City & Directions	zablųditi	to get lost	gl		pf	zablųdim · zablųdi
+L6	City & Directions	zabluditi	to get lost	gl		pf	zabludim · zabludi
 L6	City & Directions	pokazati	to show	gl		pf	pokažem · pokaže
 L6	City & Directions	pytati	to ask	gl		ipf	pytam · pyta
 L6	City & Directions	odgovoriti	to answer	gl		pf	odgovorim · odgovori
@@ -459,13 +464,14 @@ L6	City & Directions	selo	village	im	n
 L6	City & Directions	okolina	surroundings	im	f		
 L6	City & Directions	plan	plan; map	im	m		
 L6	City & Directions	fontana	fountain	im	f		
-L6	City & Directions	pamętnik	monument	im	m		
+L6	City & Directions	pametnik	monument	im	m		
 L6	City & Directions	dvor	courtyard	im	m		
 L6	City & Directions	vrata	gate	im	n		
 L6	City & Directions	izhod	exit	im	m		
 L6	City & Directions	vhod	entrance	im	m		
 L6	City & Directions	bulvar	boulevard	im	m		
 L6	City & Directions	sad	garden; orchard	im	m		
+L6	City & Directions	jehati	to go (by vehicle)	gl		ipf	jedem · jede
 L7	Hobbies & Sport	svobodny čas	free time	izraz			
 L7	Hobbies & Sport	hobi	hobby	im	m		
 L7	Hobbies & Sport	podobati se	to please (to like)	gl		ipf	podobam se · podoba se
@@ -512,7 +518,6 @@ L7	Hobbies & Sport	interesny	interesting	pr
 L7	Hobbies & Sport	nudny	boring	pr			
 L7	Hobbies & Sport	zabavny	fun	pr			
 L7	Hobbies & Sport	ljubimy (hobi)	favourite (hobby)	izraz			
-L7	Hobbies & Sport	vesely	cheerful	pr			
 L7	Hobbies & Sport	utomljeny	tired	pr			
 L7	Hobbies & Sport	vkupě	together	pril			
 L7	Hobbies & Sport	sam (sebe)	by oneself	izraz			
@@ -587,7 +592,7 @@ L8	Past Time & Events	novina	piece of news	im	f
 L8	Past Time & Events	gazeta	newspaper	im	f		
 L8	Past Time & Events	poslanje	message	im	n		
 L8	Past Time & Events	historija	history; story	im	f		
-L8	Past Time & Events	pamęt	memory	im	f		
+L8	Past Time & Events	pamet	memory	im	f		
 L8	Past Time & Events	fotografija	photograph	im	f		
 L8	Past Time & Events	gost (prošly)	former guest	izraz			
 L8	Past Time & Events	čas (prošly)	the past	izraz			
@@ -623,17 +628,16 @@ L8	Past Time & Events	strašny	terrible	pr
 L8	Past Time & Events	smutok	sadness	im	m		
 L8	Past Time & Events	neočekyvany	unexpected	pr			
 L8	Past Time & Events	ves denj	all day	izraz			
-L8	Past Time & Events	noćny	nightly; night	pr			
 L9	Plans, Weather & Seasons	zaplanovati	to plan (pf.)	gl		pf	zaplanujem · zaplanuje
 L9	Plans, Weather & Seasons	planovati	to plan	gl		ipf	planujem · planuje
 L9	Plans, Weather & Seasons	buduči	future (adj.)	pr			
 L9	Plans, Weather & Seasons	budučnost	future	im	f		
-L9	Plans, Weather & Seasons	budu	I will (future auxiliary)	izraz			
+L9	Plans, Weather & Seasons	budem	I will (future auxiliary; school standard -m)	izraz			
 L9	Plans, Weather & Seasons	musěti	must; to have to	gl		ipf	musim · musi
 L9	Plans, Weather & Seasons	ako	if	vez			
 L9	Plans, Weather & Seasons	pogoda	weather	im	f		
 L9	Plans, Weather & Seasons	prognoza	forecast	im	f		
-L9	Plans, Weather & Seasons	dožďlivy	rainy	pr			
+L9	Plans, Weather & Seasons	doždlivy	rainy	pr			
 L9	Plans, Weather & Seasons	solnečny	sunny	pr			
 L9	Plans, Weather & Seasons	oblačny	cloudy	pr			
 L9	Plans, Weather & Seasons	větr	wind	im	m		
@@ -643,8 +647,8 @@ L9	Plans, Weather & Seasons	burja	storm	im	f
 L9	Plans, Weather & Seasons	grom	thunder	im	m		
 L9	Plans, Weather & Seasons	molnja	lightning	im	f		
 L9	Plans, Weather & Seasons	mgla	fog	im	f		
-L9	Plans, Weather & Seasons	lėd	ice	im	m		
-L9	Plans, Weather & Seasons	mråz	frost	im	m		
+L9	Plans, Weather & Seasons	led	ice	im	m		
+L9	Plans, Weather & Seasons	mraz	frost	im	m		
 L9	Plans, Weather & Seasons	teply	warm	pr			
 L9	Plans, Weather & Seasons	žarky	hot	pr			
 L9	Plans, Weather & Seasons	hladny	cold	pr			
@@ -695,7 +699,7 @@ L9	Plans, Weather & Seasons	doždnik	umbrella	im	m
 L9	Plans, Weather & Seasons	plašč	cloak; raincoat	im	m		
 L9	Plans, Weather & Seasons	vid (pf./ipf.)	aspect	izraz			
 L9	Plans, Weather & Seasons	dokončiti	to complete	gl		pf	dokončim · dokonči
-L9	Plans, Weather & Seasons	začęti	to begin (pf.)	gl		pf	začnem · začne
+L9	Plans, Weather & Seasons	začeti	to begin (pf.)	gl		pf	začnem · začne
 L9	Plans, Weather & Seasons	prigotoviti	to prepare	gl		pf	prigotovim · prigotovi
 L9	Plans, Weather & Seasons	spakovati	to pack	gl		pf	spakujem · spakuje
 L9	Plans, Weather & Seasons	odložiti	to postpone	gl		pf	odložim · odloži
@@ -720,7 +724,7 @@ L10	Friends, Professions & Eating Out	grupa	group	im	f
 L10	Friends, Professions & Eating Out	družka	friend (f)	im	f		
 L10	Friends, Professions & Eating Out	instrumental	instrumental case	im	m		
 L10	Friends, Professions & Eating Out	profesija	profession	im	f		
-L10	Friends, Professions & Eating Out	råbotnik	worker	im	m.ž		
+L10	Friends, Professions & Eating Out	rabotnik	worker	im	m.ž		
 L10	Friends, Professions & Eating Out	učitelj	teacher	im	m.ž		
 L10	Friends, Professions & Eating Out	učiteljka	teacher (f)	im	f		
 L10	Friends, Professions & Eating Out	učenik	pupil	im	m.ž		
@@ -783,13 +787,6 @@ L10	Friends, Professions & Eating Out	časovy	hourly; time (adj.)	pr
 L10	Friends, Professions & Eating Out	točno	exactly; on time	pril			
 L10	Friends, Professions & Eating Out	s kym?	with whom?	izraz			
 L10	Friends, Professions & Eating Out	čim	with what	zam			
-L10	Friends, Professions & Eating Out	mene	me	zam			
-L10	Friends, Professions & Eating Out	tebe	you	zam			
-L10	Friends, Professions & Eating Out	jego (obj.)	him	izraz			
-L10	Friends, Professions & Eating Out	ju	her	zam			
-L10	Friends, Professions & Eating Out	nas	us	zam			
-L10	Friends, Professions & Eating Out	vas	you (pl.)	zam			
-L10	Friends, Professions & Eating Out	jih (obj.)	them	izraz			
 L10	Friends, Professions & Eating Out	sobstvenik	owner	im	m.ž		
 L10	Friends, Professions & Eating Out	kolektiv	team (work)	im	m		
 L10	Friends, Professions & Eating Out	pomočnik	assistant	im	m.ž		
@@ -800,7 +797,6 @@ L10	Friends, Professions & Eating Out	pekti	to bake; to roast	gl		ipf	pečem · 
 L10	Friends, Professions & Eating Out	čaj (večerja)	tea	izraz			
 L10	Friends, Professions & Eating Out	biskvit	biscuit	im	m		
 L10	Friends, Professions & Eating Out	voda (mineralna)	mineral water	izraz			
-L11	Transport, Trips & Hotels	jehati	to go (by vehicle)	gl		ipf	jedem · jede
 L11	Transport, Trips & Hotels	prěsědati	to change (trains)	gl		ipf	prěsědam · prěsěda
 L11	Transport, Trips & Hotels	idti pěši	to walk	izraz			
 L11	Transport, Trips & Hotels	letěti	to fly	gl		ipf	letim · leti
@@ -897,13 +893,13 @@ L12	The Body & the Doctor	tělo	body	im	n
 L12	The Body & the Doctor	lice	face	im	n		
 L12	The Body & the Doctor	usta	mouth	im	n		
 L12	The Body & the Doctor	jezyk (tělo)	tongue	izraz			
-L12	The Body & the Doctor	gŕlo	throat	im	n		
+L12	The Body & the Doctor	grlo	throat	im	n		
 L12	The Body & the Doctor	šija	neck	im	f		
 L12	The Body & the Doctor	rame	shoulder	im	n		
 L12	The Body & the Doctor	prst	finger	im	m		
 L12	The Body & the Doctor	hrebet	back; spine	im	m		
 L12	The Body & the Doctor	život	belly; life	im	m		
-L12	The Body & the Doctor	želųdok	stomach	im	m		
+L12	The Body & the Doctor	želudok	stomach	im	m		
 L12	The Body & the Doctor	kolěno	knee	im	n		
 L12	The Body & the Doctor	stopa	foot	im	f		
 L12	The Body & the Doctor	koža	skin	im	f		
@@ -948,7 +944,7 @@ L12	The Body & the Doctor	pomoč	help	im	f
 L12	The Body & the Doctor	pomogti	to help (pf.)	gl		pf	pomožem · pomože
 L12	The Body & the Doctor	slaby	weak	pr			
 L12	The Body & the Doctor	silny	strong	pr			
-L12	The Body & the Doctor	tęžky	heavy; difficult	pr			
+L12	The Body & the Doctor	težky	heavy; difficult	pr			
 L12	The Body & the Doctor	legky	light; easy	pr			
 L12	The Body & the Doctor	zapestje	wrist	im	n		
 L12	The Body & the Doctor	bojati se	to be afraid	gl		ipf	bojim se · boji se
@@ -981,6 +977,7 @@ L12	The Body & the Doctor	kyhati	to sneeze	gl		ipf	kyham · kyha
 L12	The Body & the Doctor	zěvati	to yawn	gl		ipf	zěvam · zěva
 L12	The Body & the Doctor	solza	tear	im	f		
 L12	The Body & the Doctor	dentist	dentist	im	m.ž		
+L12	The Body & the Doctor	svoj	one's own	zam			
 L13	Cities & Nature	večši	bigger	pr			
 L13	Cities & Nature	menši	smaller	pr			
 L13	Cities & Nature	lučši	better	pr			
@@ -1075,6 +1072,7 @@ L13	Cities & Nature	brěza	birch	im	f
 L13	Cities & Nature	pšenica	wheat	im	f		
 L13	Cities & Nature	plot	fence	im	m		
 L13	Cities & Nature	rybnik	pond	im	m		
+L13	Cities & Nature	než	than	vez			
 L14	Shopping & Clothes	prědmet	object; item	im	m		
 L14	Shopping & Clothes	stvar	thing	im	f		
 L14	Shopping & Clothes	moda	fashion	im	f		
@@ -1185,7 +1183,7 @@ L15	Wishes & Advice	bogatstvo	wealth	im	n
 L15	Wishes & Advice	tratiti	to spend; to waste	gl		ipf	tratim · trati
 L15	Wishes & Advice	poščediti	to save; to spare	gl		pf	poščedim · poščedi
 L15	Wishes & Advice	dati zajem	to lend	izraz			
-L15	Wishes & Advice	zajęti	to borrow	gl		pf	zajmem · zajme
+L15	Wishes & Advice	zajeti	to borrow	gl		pf	zajmem · zajme
 L15	Wishes & Advice	svět	world	im	m		
 L15	Wishes & Advice	motylj	butterfly	im	m.ž		
 L15	Wishes & Advice	jahta	yacht	im	f		
@@ -1195,7 +1193,7 @@ L15	Wishes & Advice	šans	chance	im	m
 L15	Wishes & Advice	možnost	possibility	im	f		
 L15	Wishes & Advice	izbor	choice	im	m		
 L15	Wishes & Advice	rěšenje	decision; solution	im	n		
-L15	Wishes & Advice	probovati (sę)	to try	izraz			
+L15	Wishes & Advice	probovati (se)	to try	izraz			
 L15	Wishes & Advice	prěstati	to stop	gl		pf	prěstanem · prěstane
 L15	Wishes & Advice	prodolžati	to continue	gl		ipf	prodolžam · prodolža
 L15	Wishes & Advice	povinno se	one should	izraz			
@@ -1263,7 +1261,7 @@ L15	Wishes & Advice	pensija	pension	im	f
 L15	Wishes & Advice	mladost	youth	im	f		
 L15	Wishes & Advice	starost	old age	im	f		
 L15	Wishes & Advice	rada	advice	im	f		
-L16	Memories & the Future	pamet	memory	im	f		
+L15	Wishes & Advice	jestli	if (conditional)	vez			
 L16	Memories & the Future	pametati	to remember	gl		ipf	pametam · pameta
 L16	Memories & the Future	nezabytny	unforgettable	pr			
 L16	Memories & the Future	povratok	return	im	m		
@@ -1279,7 +1277,7 @@ L16	Memories & the Future	radostny	joyful	pr
 L16	Memories & the Future	smutny (prošlost)	sad (past)	izraz			
 L16	Memories & the Future	emocija	emotion	im	f		
 L16	Memories & the Future	konec (puta)	end of the road	izraz			
-L16	Memories & the Future	počętok	beginning	im	m		
+L16	Memories & the Future	početok	beginning	im	m		
 L16	Memories & the Future	progres	progress	im	m		
 L16	Memories & the Future	uravenj	level	im	m,f		
 L16	Memories & the Future	svědočstvo	certificate	im	n		
@@ -1290,7 +1288,7 @@ L16	Memories & the Future	slědujuči god	next year	izraz
 L16	Memories & the Future	začetok	start	im	m		
 L16	Memories & the Future	za god	in a year	izraz			
 L16	Memories & the Future	navěky	forever	pril			
-L16	Memories & the Future	opęt	again	pril			
+L16	Memories & the Future	opet	again	pril			
 L16	Memories & the Future	věriti	to believe	gl		ipf	věrim · věri
 L16	Memories & the Future	děliti se	to share	gl		ipf	dělim se · děli se
 L16	Memories & the Future	čuvati	to keep; to guard	gl		ipf	čuvam · čuva
@@ -1342,7 +1340,6 @@ L16	Memories & the Future	povtoriti	to repeat	gl		pf	povtorim · povtori
 L16	Memories & the Future	pomalo	slowly	pril			
 L16	Memories & the Future	jasno	clearly	pril			
 L16	Memories & the Future	final	final; end	im	m		
-L16	Memories & the Future	početok	beginning	im	m		
 L16	Memories & the Future	godišnica	anniversary	im	f		
 L16	Memories & the Future	učilišče	school; college	im	n		
 L16	Memories & the Future	dětinstvo	childhood	im	n		
@@ -1356,3 +1353,5 @@ L16	Memories & the Future	usměh	smile	im	m
 L16	Memories & the Future	směh	laughter	im	m		
 L16	Memories & the Future	objetje	hug	im	n		
 L16	Memories & the Future	pocělunok	kiss	im	m		
+L16	Memories & the Future	poneže	because; since	vez			
+L16	Memories & the Future	zatože	because	vez			

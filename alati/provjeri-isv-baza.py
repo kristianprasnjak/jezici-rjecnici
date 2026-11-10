@@ -18,7 +18,8 @@ TR = str.maketrans({'ė': 'e', 'ȯ': 'o', 'ę': 'e', 'ų': 'u', 'å': 'a', 'ŕ':
                     'ť': 't', 'ď': 'd', 'ś': 's', 'ź': 'z', 'ć': 'č', 'đ': 'dž', 'ò': 'o', 'è': 'e',
                     'ľ': 'l', 'ů': 'u', 'ý': 'y'})
 OBLICI = {'jesm', 'jesi', 'jest', 'jesmo', 'jeste', 'sut', 'kako jesi?', 'byl', 'budu',
-          'prěd dvoma dnjami', 'koliko je časa?', 's kym?'}
+          'prěd dvoma dnjami', 'koliko je časa?', 's kym?',
+          'budem', 'prosim'}  # ISV1: 1. lice na -m (prosim = molim)
 KORIJEN = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
