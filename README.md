@@ -6,16 +6,18 @@ lokalnim folderom Crolanda). Kad tečaj ide u gradnju, gotov rječnik se preuzme
 Razine i teme slijede koncepte iz `croland/jezici-koncept/<jezik>.md` (odj. 4). Prema odluci G7
 sada su samo latinični jezici; ruski, kineski, japanski i arapski dolaze 2027.
 
-| Mapa | Jezik | Razine |
-|---|---|---|
-| `fr/` | francuski | L0–L20 |
-| `it/` | talijanski | L0–L20 |
-| `es/` | španjolski (Španjolska) | L0–L20 |
-| `pt/` | portugalski (brazilski) | L0–L20 |
-| `en/` | engleski (britanski) | L0–L20 |
-| `eo/` | esperanto | L0–L18 |
-| `la/` | latinski (klasični, makroni) | L0–L20 |
-| `isv/` | interslavenski (školski standard tečaja) | L0–L16 |
+| Mapa | Jezik | Razine | Riječi (10.11.2026.) | Hrvatski prijevod |
+|---|---|---|---|---|
+| `fr/` | francuski | L0–L20 | 1358 | 1358 / 1358 |
+| `it/` | talijanski | L0–L20 | 1363 | 1363 / 1363 |
+| `es/` | španjolski (Španjolska) | L0–L20 | 1385 | 1385 / 1385 |
+| `pt/` | portugalski (brazilski) | L0–L20 | 1391 | 1391 / 1391 |
+| `en/` | engleski (britanski) | L0–L20 | 1504 | u rječniku (`en \| hr`) |
+| `eo/` | esperanto | L0–L18 | 1435 | 1435 / 1435 |
+| `la/` | latinski (klasični, makroni) | L0–L20 | 1245 | 1245 / 1245 |
+| `isv/` | interslavenski (školski standard tečaja) | L0–L16 | 1359 | 1359 / 1359 |
+
+Brojke daje `provjeri.py` (zaglavlje `XX/IZVJESTAJ.md`); nakon dodavanja ili brisanja riječi ažurirati i ovu tablicu.
 
 Njemački rječnik je u Crolandu (`deutsch/rjecnik/`).
 
@@ -232,3 +234,9 @@ Stanje (10.11.2026.): `fr`, `it`, `es`, `pt`, `isv`, `eo` i `la → hr` **potpun
 U tim datotekama *kurziv* je uvijek i samo ciljni jezik. Skripta provjerava da polaznik svaku Blobbyjevu riječ
 ciljnog jezika već zna: rječnik na razini ≤ tekuće ili zamrznuta fraza (odj. 6 kralježnice) s „Od“ ≤ tekuće.
 Oblici koje rječnik ne navodi (futur, kondicional…) prihvaćaju se u retku „Ručno provjereno: *oblik*“.
+Pravilni oblici se prihvaćaju bez ručnog popisa za isv (pridjevi), eo (rastavljanje na korijen, afikse i nastavak) i
+la: `alati/oblici_la.py` iz genitiva, oblika pridjeva i glavnih oblika gradi sklonidbu i aktivne / pasivne oblike
+(*Valeriam*, *vocat*, *vēnimus*, *portantur*) s makronima, pa latinska riječ bez makrona gdje ih rječnik ima
+ostaje upozorenje. Nepravilni glagoli (*sum, possum, eō, ferō, volō*) i zamjenice ne generiraju se.
+
+Stanje (10.11.2026.): glas napisan za svih 8 jezika, svi daju 0 upozorenja.
