@@ -222,4 +222,4 @@ Pravila prijevoda: imenice u nominativu jednine (množinske riječi u množini),
 je potreban: *kupiti, kupovati*), pridjevi u muškom rodu; više značenja odvojeno „; “; lažni prijatelji i razlike
 prema hrvatskom kratko u zagradi (*le magasin* → „trgovina (ne magazin!)“); standardni hrvatski (VODIC C4.8).
 
-Stanje: `fr → hr` L0–L12 (750 / 1356).
+Stanje: `fr → hr` **potpuno** (1356 / 1356, 10.11.2026.).
